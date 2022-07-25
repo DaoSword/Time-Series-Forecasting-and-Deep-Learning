@@ -25,8 +25,14 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 - [Autoformer: Decomposition Transformers with Auto-Correlation for Long-Term Series Forecasting](https://arxiv.org/abs/2106.13008)
   
-  - Author: Haixu Wu, et al.
+  - Author: Haixu Wu, et al. 
   - [[Code](https://github.com/thuml/Autoformer)]
+
+- [HIST: A Graph-based Framework for Stock Trend Forecasting via Mining Concept-Oriented Shared Information](https://arxiv.org/abs/2110.13716)
+  
+  - Author: Wentao Xu, et al.
+  
+  - [[Code](https://github.com/wentao-xu/hist)]
 
 ### 2019
 
@@ -35,6 +41,14 @@ List of research papers focus on time series forecasting and deep learning, as w
   * Author: Boris N. Oreshkin, et al.
   
   * [[Code](https://github.com/ElementAI/N-BEATS)]
+
+### 2017
+
+* [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+  
+  * Author: Ashish Vaswani, et al.
+  
+  * [[code](https://github.com/huggingface/transformers)]
 
 ## Competitions
 
