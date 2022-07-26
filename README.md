@@ -39,7 +39,7 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   * 17 Jun 2021, Minhao Liu, et al. 
   
-  * [[Code]([https://github.com/cure-lab/SCINet)]
+  * [[Code](https://github.com/cure-lab/SCINet)]
 
 ### 2019
 
@@ -55,7 +55,7 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   * 12 Jun 2017, Ashish Vaswani, et al.
   
-  * [[code](https://github.com/huggingface/transformers)]
+  * [[Code](https://github.com/huggingface/transformers)]
 
 ## Competitions
 
