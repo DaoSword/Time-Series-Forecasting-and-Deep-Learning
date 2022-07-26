@@ -15,30 +15,37 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 * [Formal Algorithms for Transformers](https://arxiv.org/abs/2207.09238)
   
-  * Author: Mary Phuong, Marcus Hutter
+  * 19 Jul 2022, Mary Phuong, Marcus Hutter
 - [Less Is More: Fast Multivariate Time Series Forecasting with
   Light Sampling-oriented MLP Structures](https://arxiv.org/abs/2207.01186)
   
-  - Author: Tianping Zhang, et al.
+  - 4 Jul 2022, Tianping Zhang, et al.
 
 ### 2021
 
-- [Autoformer: Decomposition Transformers with Auto-Correlation for Long-Term Series Forecasting](https://arxiv.org/abs/2106.13008)
+* [HIST: A Graph-based Framework for Stock Trend Forecasting via Mining Concept-Oriented Shared Information](https://arxiv.org/abs/2110.13716)
   
-  - Author: Haixu Wu, et al. 
-  - [[Code](https://github.com/thuml/Autoformer)]
+  * 26 Oct 2021, Wentao Xu, et al.
+  
+  * [[Code](https://github.com/wentao-xu/hist)]
 
-- [HIST: A Graph-based Framework for Stock Trend Forecasting via Mining Concept-Oriented Shared Information](https://arxiv.org/abs/2110.13716)
+* [Autoformer: Decomposition Transformers with Auto-Correlation for Long-Term Series Forecasting](https://arxiv.org/abs/2106.13008)
   
-  - Author: Wentao Xu, et al.
+  * 24 Jun 2021, Haixu Wu, et al.
   
-  - [[Code](https://github.com/wentao-xu/hist)]
+  * [[Code](https://github.com/thuml/Autoformer)]
+
+* [Time Series is a Special Sequence: Forecasting with Sample Convolution and Interaction](https://arxiv.org/abs/2106.09305)
+  
+  * 17 Jun 2021, Minhao Liu, et al. 
+  
+  * [[Code]([https://github.com/cure-lab/SCINet)]
 
 ### 2019
 
 * [N-BEATS: Neural basis expansion analysis for interpretable time series forecasting](https://arxiv.org/abs/1905.10437)
   
-  * Author: Boris N. Oreshkin, et al.
+  * 24 May 2019, Boris N. Oreshkin, et al.
   
   * [[Code](https://github.com/ElementAI/N-BEATS)]
 
@@ -46,7 +53,7 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 * [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
   
-  * Author: Ashish Vaswani, et al.
+  * 12 Jun 2017, Ashish Vaswani, et al.
   
   * [[code](https://github.com/huggingface/transformers)]
 
