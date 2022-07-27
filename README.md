@@ -21,6 +21,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   - 4 Jul 2022, Tianping Zhang, et al.
 
+- [FEDformer: Frequency Enhanced Decomposed Transformer for Long-term Series Forecasting](https://arxiv.org/abs/2201.12740)
+  
+  - 30 Jan 2022, Tian Zhou, et al.
+  
+  - [[Code](https://github.com/MAZiqing/FEDformer)]
+
 ### 2021
 
 * [HIST: A Graph-based Framework for Stock Trend Forecasting via Mining Concept-Oriented Shared Information](https://arxiv.org/abs/2110.13716)
