@@ -49,6 +49,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ### 2019
 
+* [Time2Vec: Learning a Vector Representation of Time](https://arxiv.org/abs/1907.05321)
+  
+  * 11 Jul 2019, Seyed Mehran Kazemi, et al.
+  
+  * [[Code](https://github.com/ojus1/Time2Vec-PyTorch)]
+
 * [N-BEATS: Neural basis expansion analysis for interpretable time series forecasting](https://arxiv.org/abs/1905.10437)
   
   * 24 May 2019, Boris N. Oreshkin, et al.
