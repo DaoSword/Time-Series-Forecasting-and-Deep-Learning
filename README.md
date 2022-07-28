@@ -21,6 +21,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   - 4 Jul 2022, Tianping Zhang, et al.
 
+- [Are Transformers Effective for Time Series Forecasting?](https://arxiv.org/abs/2205.13504)
+  
+  - 26 May 2022, Ailing Zeng, et al.
+  
+  - [[Code](https://github.com/cure-lab/DLinear)]
+
 - [Transformers in Time Series: A Survey](https://arxiv.org/abs/2202.07125)
   
   - 15 Feb 2022, Qingsong Wen, et al.
