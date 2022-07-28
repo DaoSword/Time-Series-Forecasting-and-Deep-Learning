@@ -21,6 +21,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   - 4 Jul 2022, Tianping Zhang, et al.
 
+- [Transformers in Time Series: A Survey](https://arxiv.org/abs/2202.07125)
+  
+  - 15 Feb 2022, Qingsong Wen, et al.
+  
+  - [[Code](https://github.com/qingsongedu/time-series-transformers-review)]
+
 - [FEDformer: Frequency Enhanced Decomposed Transformer for Long-term Series Forecasting](https://arxiv.org/abs/2201.12740)
   
   - 30 Jan 2022, Tian Zhou, et al.
