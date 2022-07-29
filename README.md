@@ -107,3 +107,9 @@ List of research papers focus on time series forecasting and deep learning, as w
   * `NeuralForecast` is a Python library for time series forecasting with deep learning models. 
   
   * [[Github](https://github.com/Nixtla/neuralforecast)]
+
+* [Kats](https://facebookresearch.github.io/Kats/)
+  
+  * `Kats` is a toolkit to analyze time series data, a lightweight, easy-to-use, and generalizable framework to perform time series analysis.
+  
+  * [[Github](https://github.com/facebookresearch/kats)]
