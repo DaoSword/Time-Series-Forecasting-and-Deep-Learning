@@ -8,6 +8,7 @@ List of research papers focus on time series forecasting and deep learning, as w
 - [Competitions](#Competitions)
 - [Courses](#Courses)
 - [Blogs](#Blogs)
+- [Libraries](#Libraries)
 
 ## Papers
 
@@ -92,3 +93,11 @@ List of research papers focus on time series forecasting and deep learning, as w
 ## Blogs
 
 - [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
+
+## Libraries
+
+* [Darts](https://unit8co.github.io/darts/)
+  
+  * **Darts** is a Python library for easy manipulation and forecasting of time series.
+  
+  * [[Github](https://github.com/unit8co/darts)]
