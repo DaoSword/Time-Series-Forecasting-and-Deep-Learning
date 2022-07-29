@@ -113,3 +113,9 @@ List of research papers focus on time series forecasting and deep learning, as w
   * `Kats` is a toolkit to analyze time series data, a lightweight, easy-to-use, and generalizable framework to perform time series analysis.
   
   * [[Github](https://github.com/facebookresearch/kats)]
+
+* [PyTorch Forecasting](https://pytorch-forecasting.readthedocs.io/en/stable/)
+  
+  * `PyTorch Forecasting` is a PyTorch-based package for forecasting time series with state-of-the-art network architectures.
+  
+  * [[Github](https://github.com/jdb78/pytorch-forecasting)]
