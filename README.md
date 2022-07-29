@@ -98,6 +98,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 * [Darts](https://unit8co.github.io/darts/)
   
-  * **Darts** is a Python library for easy manipulation and forecasting of time series.
+  * `Darts` is a Python library for easy manipulation and forecasting of time series.
   
   * [[Github](https://github.com/unit8co/darts)]
+
+* [NeuralForecast](https://nixtla.github.io/neuralforecast/)
+  
+  * `NeuralForecast` is a Python library for time series forecasting with deep learning models. 
+  
+  * [[Github](https://github.com/Nixtla/neuralforecast)]
