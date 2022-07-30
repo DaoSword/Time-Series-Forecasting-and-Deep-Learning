@@ -119,3 +119,9 @@ List of research papers focus on time series forecasting and deep learning, as w
   * `PyTorch Forecasting` is a PyTorch-based package for forecasting time series with state-of-the-art network architectures.
   
   * [[Github](https://github.com/jdb78/pytorch-forecasting)]
+
+* [Prophet](https://facebook.github.io/prophet/)
+  
+  * `Prophet` is a forecasting procedure implemented in R and Python. It is fast and provides completely automated forecasts that can be tuned by hand by data scientists and analysts.
+  
+  * [[Github](https://github.com/facebook/prophet)]
