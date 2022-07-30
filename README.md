@@ -82,6 +82,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   * [[Code](https://github.com/huggingface/transformers)]
 
+* [DeepAR: Probabilistic Forecasting with Autoregressive Recurrent Networks](https://arxiv.org/abs/1704.04110)
+  
+  * 13 Apr 2017, David Salinas, et al.
+  
+  * [[Code](https://github.com/jdb78/pytorch-forecasting)]
+
 ## Competitions
 
 - [Ubiquant Market Prediction](https://www.kaggle.com/competitions/ubiquant-market-prediction)
