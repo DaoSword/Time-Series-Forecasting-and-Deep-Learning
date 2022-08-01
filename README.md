@@ -76,6 +76,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ### 2017
 
+* [Graph Attention Networks](https://arxiv.org/abs/1710.10903)
+  
+  * 30 Oct 2017, Petar Veličković, et al.
+  
+  * [[Code](https://github.com/PetarV-/GAT)]
+
 * [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
   
   * 12 Jun 2017, Ashish Vaswani, et al.
