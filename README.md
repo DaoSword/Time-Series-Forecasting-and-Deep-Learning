@@ -54,6 +54,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   * [[Code](https://github.com/thuml/Autoformer)]
 
+* [TS2Vec: Towards Universal Representation of Time Series](https://arxiv.org/abs/2106.10466)
+  
+  * 19 Jun 2021, Zhihan Yue, et al.
+  
+  * [[Code](https://github.com/yuezhihan/ts2vec)]
+
 * [Time Series is a Special Sequence: Forecasting with Sample Convolution and Interaction](https://arxiv.org/abs/2106.09305)
   
   * 17 Jun 2021, Minhao Liu, et al. 
