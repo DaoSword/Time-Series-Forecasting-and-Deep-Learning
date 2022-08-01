@@ -131,3 +131,9 @@ List of research papers focus on time series forecasting and deep learning, as w
   * `Prophet` is a forecasting procedure implemented in R and Python. It is fast and provides completely automated forecasts that can be tuned by hand by data scientists and analysts.
   
   * [[Github](https://github.com/facebook/prophet)]
+
+* AutoTS
+  
+  * `AutoTS` is a time series package for Python designed for rapidly deploying high-accuracy forecasts at scale.
+  
+  * [[Github](https://github.com/winedarksea/AutoTS)]
