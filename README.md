@@ -10,6 +10,7 @@ List of research papers focus on time series forecasting and deep learning, as w
 - [Blogs](#Blogs)
 - [Libraries](#Libraries)
 - [Datasets](#Datasets)
+- [Books](#Books)
 
 ## Papers
 
@@ -165,3 +166,13 @@ List of research papers focus on time series forecasting and deep learning, as w
   * The `Electricity Transformer Dataset` is collected to support the further investigation on the long sequence forecasting problem.
   
   * [[Github](https://github.com/zhouhaoyi/ETDataset)]
+
+## Books
+
+* Forecasting: Principles and Practice (3rd ed)
+  
+  * *Rob J Hyndman and George Athanasopoulos, 2021*
+  
+  * This textbook is intended to provide a comprehensive introduction to forecasting methods and to present enough information about each method for readers to be able to use them sensibly.
+  
+  * [[Website](https://otexts.com/fpp3/)]
