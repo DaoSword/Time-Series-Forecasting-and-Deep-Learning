@@ -9,6 +9,7 @@ List of research papers focus on time series forecasting and deep learning, as w
 - [Courses](#Courses)
 - [Blogs](#Blogs)
 - [Libraries](#Libraries)
+- [Datasets](#Datasets)
 
 ## Papers
 
@@ -156,3 +157,11 @@ List of research papers focus on time series forecasting and deep learning, as w
   * `Merlion` is a Python library for time series intelligence. It provides an end-to-end machine learning framework that includes loading and transforming data, building and training models, post-processing model outputs, and evaluating model performance.
   
   * [[Github](https://github.com/salesforce/Merlion)]
+
+## Datasets
+
+* Electricity Transformer Dataset (ETDataset)
+  
+  * The `Electricity Transformer Dataset` is collected to support the further investigation on the long sequence forecasting problem.
+  
+  * [[Github](https://github.com/zhouhaoyi/ETDataset)]
