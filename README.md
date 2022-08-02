@@ -150,3 +150,9 @@ List of research papers focus on time series forecasting and deep learning, as w
   * `AutoTS` is a time series package for Python designed for rapidly deploying high-accuracy forecasts at scale.
   
   * [[Github](https://github.com/winedarksea/AutoTS)]
+
+* Merlion
+  
+  * `Merlion` is a Python library for time series intelligence. It provides an end-to-end machine learning framework that includes loading and transforming data, building and training models, post-processing model outputs, and evaluating model performance.
+  
+  * [[Github](https://github.com/salesforce/Merlion)]
