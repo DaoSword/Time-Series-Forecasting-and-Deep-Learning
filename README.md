@@ -110,6 +110,7 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ## Blogs
 
+- [The Annotated Transformer](http://nlp.seas.harvard.edu/annotated-transformer/)
 - [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
 
 ## Libraries
