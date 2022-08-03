@@ -88,7 +88,19 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   * [[Code](https://github.com/zhouhaoyi/Informer2020)]
 
+* [A Transformer-based Framework for Multivariate Time Series Representation Learning](https://arxiv.org/abs/2010.02803)
+  
+  * 6 Oct 2020, George Zerveas, et al.
+  
+  * [[Code](https://github.com/gzerveas/mvts_transformer)]
+
 ### 2019
+
+* [Temporal Fusion Transformers for Interpretable Multi-horizon Time Series Forecasting](https://arxiv.org/abs/1912.09363)
+  
+  * 19 Dec 2019, Bryan Lim, et al.
+  
+  * [[Code](https://github.com/mattsherar/Temporal_Fusion_Transform)]
 
 * [Time2Vec: Learning a Vector Representation of Time](https://arxiv.org/abs/1907.05321)
   
