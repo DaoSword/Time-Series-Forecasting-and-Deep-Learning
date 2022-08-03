@@ -209,6 +209,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   * [[Github](https://github.com/microsoft/qlib)]
 
+* [Flow Forecast](https://flow-forecast.atlassian.net/wiki/spaces/FF/overview)
+  
+  * `Flow Forecast` is a deep learning PyTorch library for time series forecasting, classification, and anomaly detection.
+  
+  * [[Github](https://github.com/AIStream-Peelout/flow-forecast)]
+
 ## Datasets
 
 * Electricity Transformer Dataset (ETDataset)
