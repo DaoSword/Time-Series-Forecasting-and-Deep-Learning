@@ -50,6 +50,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   * [[Code](https://github.com/wentao-xu/hist)]
 
+* [Pyraformer: Low-Complexity Pyramidal Attention for Long-Range Time Series Modeling and Forecasting](https://openreview.net/forum?id=0EXmFzUn5I)
+  
+  * 29 Sept 2021, Shizhan Liu, et al.
+  
+  * [[Code](https://github.com/alipay/Pyraformer)]
+
 * [Autoformer: Decomposition Transformers with Auto-Correlation for Long-Term Series Forecasting](https://arxiv.org/abs/2106.13008)
   
   * 24 Jun 2021, Haixu Wu, et al.
@@ -74,6 +80,14 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   * [[Code](https://github.com/cchallu/nbeatsx)]
 
+### 2020
+
+* [Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting](https://arxiv.org/abs/2012.07436)
+  
+  * 14 Dec 2020, Haoyi Zhou, et al.
+  
+  * [[Code](https://github.com/zhouhaoyi/Informer2020)]
+
 ### 2019
 
 * [Time2Vec: Learning a Vector Representation of Time](https://arxiv.org/abs/1907.05321)
@@ -81,6 +95,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   * 11 Jul 2019, Seyed Mehran Kazemi, et al.
   
   * [[Code](https://github.com/ojus1/Time2Vec-PyTorch)]
+
+* [Enhancing the Locality and Breaking the Memory Bottleneck of Transformer on Time Series Forecasting](https://arxiv.org/abs/1907.00235)
+  
+  * 29 Jun 2019, Shiyang Li, et al.
+  
+  * [[Code](https://github.com/mlpotter/Transformer_Time_Series)]
 
 * [N-BEATS: Neural basis expansion analysis for interpretable time series forecasting](https://arxiv.org/abs/1905.10437)
   
