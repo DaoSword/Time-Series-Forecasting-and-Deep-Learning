@@ -159,6 +159,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   * [[Github](https://github.com/salesforce/Merlion)]
 
+* PyTorchTS
+  
+  * `PyTorchTS` is a [PyTorch](https://github.com/pytorch/pytorch) Probabilistic Time Series forecasting framework which provides state of the art PyTorch time series models by utilizing [GluonTS](https://github.com/awslabs/gluon-ts) as its back-end API and for loading, transforming and back-testing time series data sets.
+  
+  * [[Github](https://github.com/zalandoresearch/pytorch-ts)]
+
 ## Datasets
 
 * Electricity Transformer Dataset (ETDataset)
