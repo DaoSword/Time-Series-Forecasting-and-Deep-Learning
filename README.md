@@ -68,6 +68,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   * [[Code](https://github.com/cure-lab/SCINet)]
 
+* [Neural basis expansion analysis with exogenous variables: Forecasting electricity prices with NBEATSx](https://arxiv.org/abs/2104.05522)
+  
+  * 12 Apr 2021, Kin G. Olivares, et al.
+  
+  * [[Code](https://github.com/cchallu/nbeatsx)]
+
 ### 2019
 
 * [Time2Vec: Learning a Vector Representation of Time](https://arxiv.org/abs/1907.05321)
