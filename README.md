@@ -221,6 +221,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   * [[Github](https://github.com/AIStream-Peelout/flow-forecast)]
 
+* [pyts](https://pyts.readthedocs.io/en/stable/)
+  
+  * `pyts` is a Python package dedicated to time series classification. It aims to make time series classification easily accessible by providing preprocessing and utility tools, and implementations of several time series classification algorithms.
+  
+  * [[Github](https://github.com/johannfaouzi/pyts)]
+
 ## Datasets
 
 * Electricity Transformer Dataset (ETDataset)
