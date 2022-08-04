@@ -102,6 +102,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   * [[Code](https://github.com/mattsherar/Temporal_Fusion_Transform)]
 
+* [High-Dimensional Multivariate Forecasting with Low-Rank Gaussian Copula Processes](https://arxiv.org/abs/1910.03002)
+  
+  * 7 Oct 2019, David Salinas, et al.
+  
+  * [[Code](https://github.com/awslabs/gluon-ts/tree/dev/src/gluonts/mx/model/gpvar)]
+
 * [Time2Vec: Learning a Vector Representation of Time](https://arxiv.org/abs/1907.05321)
   
   * 11 Jul 2019, Seyed Mehran Kazemi, et al.
