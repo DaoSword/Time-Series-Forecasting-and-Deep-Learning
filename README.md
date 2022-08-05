@@ -235,6 +235,14 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ## Datasets
 
+* [Monash Time Series Forecasting Repository](https://forecastingdata.org/)
+  
+  * The first repository containing datasets of related time series for global forecasting
+  
+  * [[Dataset](https://zenodo.org/communities/forecasting)]
+  
+  * [[Github](https://github.com/rakshitha123/TSForecasting)]
+
 * Electricity Transformer Dataset (ETDataset)
   
   * The `Electricity Transformer Dataset` is collected to support the further investigation on the long sequence forecasting problem.
