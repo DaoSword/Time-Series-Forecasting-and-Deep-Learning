@@ -249,6 +249,14 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   * [[Github](https://github.com/zhouhaoyi/ETDataset)]
 
+* [Open Source Asset Pricing](https://www.openassetpricing.com/)
+  
+  * [[Data](https://www.openassetpricing.com/data/)]
+  
+  * [[Github](https://github.com/OpenSourceAP/CrossSection/)]
+  
+  * [[Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3604626)]
+
 ## Books
 
 * Forecasting: Principles and Practice (3rd ed)
