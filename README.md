@@ -227,6 +227,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   * [[Github](https://github.com/johannfaouzi/pyts)]
 
+* [Greykite](https://linkedin.github.io/greykite/)
+  
+  * The `Greykite` library provides flexible, intuitive and fast forecasts through its flagship algorithm, Silverkite.
+  
+  * [[Github](https://github.com/linkedin/greykite)]
+
 ## Datasets
 
 * Electricity Transformer Dataset (ETDataset)
