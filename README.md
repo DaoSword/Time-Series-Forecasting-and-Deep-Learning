@@ -80,6 +80,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   * [[Code](https://github.com/cchallu/nbeatsx)]
 
+* [Do We Really Need Deep Learning Models for Time Series Forecasting?](https://arxiv.org/abs/2101.02118)
+  
+  * 6 Jan 2021, Shereen Elsayed, et al.
+  
+  * [[Code](https://github.com/Daniela-Shereen/GBRT-for-TSF)]
+
 ### 2020
 
 * [Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting](https://arxiv.org/abs/2012.07436)
