@@ -80,6 +80,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   * [[Code](https://github.com/cchallu/nbeatsx)]
 
+* [Perceiver: General Perception with Iterative Attention](https://arxiv.org/abs/2103.03206)
+  
+  * 4 Mar 2021, Andrew Jaegle, et al.
+  
+  * [[Official Code](https://github.com/deepmind/deepmind-research/tree/master/perceiver)] [[Community Code](https://github.com/lucidrains/perceiver-pytorch)]
+
 * [Do We Really Need Deep Learning Models for Time Series Forecasting?](https://arxiv.org/abs/2101.02118)
   
   * 6 Jan 2021, Shereen Elsayed, et al.
