@@ -271,6 +271,8 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 * [UEA & UCR Time Series Classification Repository](https://www.timeseriesclassification.com/)
   
+  * This website is an ongoing project to develop a comprehensive repository for research into time series classification.
+  
   * [[Data](https://www.timeseriesclassification.com/dataset.php)]
 
 ## Books
