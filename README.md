@@ -269,6 +269,10 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   * [[Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3604626)]
 
+* [UEA & UCR Time Series Classification Repository](https://www.timeseriesclassification.com/)
+  
+  * [[Data](https://www.timeseriesclassification.com/dataset.php)]
+
 ## Books
 
 * Forecasting: Principles and Practice (3rd ed)
