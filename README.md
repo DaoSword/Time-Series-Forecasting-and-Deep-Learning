@@ -253,6 +253,10 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   * `PyOD` is a comprehensive and scalable Python library for outlier detection (anomaly detection)
 
+* [Beibo](https://github.com/ssantoshp/Beibo)
+  
+  * `Beibo` is a Python library that uses several AI prediction models to predict stocks returns over a defined period of time.
+
 ## Datasets
 
 * [Monash Time Series Forecasting Repository](https://forecastingdata.org/)
