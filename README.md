@@ -245,6 +245,10 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   * [[Github](https://github.com/linkedin/greykite)]
 
+* [Python Outlier Detection (PyOD)](https://github.com/yzhao062/pyod)
+  
+  * `PyOD` is a comprehensive and scalable Python library for outlier detection (anomaly detection)
+
 ## Datasets
 
 * [Monash Time Series Forecasting Repository](https://forecastingdata.org/)
