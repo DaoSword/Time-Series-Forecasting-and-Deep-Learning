@@ -106,6 +106,10 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   * [[Code](https://github.com/gzerveas/mvts_transformer)]
 
+* [Deep Learning for Anomaly Detection: A Review](https://arxiv.org/abs/2007.02500)
+  
+  * 6 Jul 2020, Guansong Pang, et al.
+
 ### 2019
 
 * [Temporal Fusion Transformers for Interpretable Multi-horizon Time Series Forecasting](https://arxiv.org/abs/1912.09363)
