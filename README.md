@@ -257,6 +257,10 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   * `Beibo` is a Python library that uses several AI prediction models to predict stocks returns over a defined period of time.
 
+* [sequitur](https://github.com/shobrook/sequitur)
+  
+  * `sequitur` is a library that lets you create and train an autoencoder for sequential data in just two lines of code.
+
 ## Datasets
 
 * [Monash Time Series Forecasting Repository](https://forecastingdata.org/)
