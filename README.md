@@ -207,6 +207,10 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   * [[Github](https://github.com/facebook/prophet)]
 
+* [tsfresh](https://github.com/blue-yonder/tsfresh)
+  
+  * The package provides systematic time-series feature extraction by combining established algorithms from statistics, time-series analysis, signal processing, and nonlinear dynamics with a robust feature selection algorithm.
+
 * AutoTS
   
   * `AutoTS` is a time series package for Python designed for rapidly deploying high-accuracy forecasts at scale.
