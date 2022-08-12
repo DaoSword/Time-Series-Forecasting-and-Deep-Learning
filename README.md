@@ -177,35 +177,29 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ## Libraries
 
+* [sktime](https://www.sktime.org/en/stable/)
+  
+  * `sktime` is a library for time series analysis in Python. It provides a unified interface for multiple time series learning tasks.
+
 * [Darts](https://unit8co.github.io/darts/)
   
   * `Darts` is a Python library for easy manipulation and forecasting of time series.
-  
-  * [[Github](https://github.com/unit8co/darts)]
 
 * [NeuralForecast](https://nixtla.github.io/neuralforecast/)
   
   * `NeuralForecast` is a Python library for time series forecasting with deep learning models. 
-  
-  * [[Github](https://github.com/Nixtla/neuralforecast)]
 
 * [Kats](https://facebookresearch.github.io/Kats/)
   
   * `Kats` is a toolkit to analyze time series data, a lightweight, easy-to-use, and generalizable framework to perform time series analysis.
-  
-  * [[Github](https://github.com/facebookresearch/kats)]
 
 * [PyTorch Forecasting](https://pytorch-forecasting.readthedocs.io/en/stable/)
   
   * `PyTorch Forecasting` is a PyTorch-based package for forecasting time series with state-of-the-art network architectures.
-  
-  * [[Github](https://github.com/jdb78/pytorch-forecasting)]
 
 * [Prophet](https://facebook.github.io/prophet/)
   
   * `Prophet` is a forecasting procedure implemented in R and Python. It is fast and provides completely automated forecasts that can be tuned by hand by data scientists and analysts.
-  
-  * [[Github](https://github.com/facebook/prophet)]
 
 * [tsfresh](https://github.com/blue-yonder/tsfresh)
   
