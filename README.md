@@ -197,55 +197,45 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   * `PyTorch Forecasting` is a PyTorch-based package for forecasting time series with state-of-the-art network architectures.
 
+* [GluonTS](https://ts.gluon.ai/stable/)
+  
+  * `GluonTS` is a Python package for probabilistic time series modeling, focusing on deep learning based models.
+
 * [Prophet](https://facebook.github.io/prophet/)
   
   * `Prophet` is a forecasting procedure implemented in R and Python. It is fast and provides completely automated forecasts that can be tuned by hand by data scientists and analysts.
 
 * [tsfresh](https://github.com/blue-yonder/tsfresh)
   
-  * The package provides systematic time-series feature extraction by combining established algorithms from statistics, time-series analysis, signal processing, and nonlinear dynamics with a robust feature selection algorithm.
+  * `tsfresh` provides systematic time-series feature extraction by combining established algorithms from statistics, time-series analysis, signal processing, and nonlinear dynamics with a robust feature selection algorithm.
 
-* AutoTS
+* [AutoTS](https://github.com/winedarksea/AutoTS)
   
   * `AutoTS` is a time series package for Python designed for rapidly deploying high-accuracy forecasts at scale.
-  
-  * [[Github](https://github.com/winedarksea/AutoTS)]
 
-* Merlion
+* [Merlion](https://github.com/salesforce/Merlion)
   
   * `Merlion` is a Python library for time series intelligence. It provides an end-to-end machine learning framework that includes loading and transforming data, building and training models, post-processing model outputs, and evaluating model performance.
-  
-  * [[Github](https://github.com/salesforce/Merlion)]
 
-* PyTorchTS
+* [PyTorchTS](https://github.com/zalandoresearch/pytorch-ts)
   
   * `PyTorchTS` is a [PyTorch](https://github.com/pytorch/pytorch) Probabilistic Time Series forecasting framework which provides state of the art PyTorch time series models by utilizing [GluonTS](https://github.com/awslabs/gluon-ts) as its back-end API and for loading, transforming and back-testing time series data sets.
-  
-  * [[Github](https://github.com/zalandoresearch/pytorch-ts)]
 
-* [Qlib](https://qlib.readthedocs.io/en/latest/)
+* [Qlib](https://github.com/microsoft/qlib)
   
   * `Qlib` is an AI-oriented quantitative investment platform, which aims to realize the potential, empower the research, and create the value of AI technologies in quantitative investment.
-  
-  * [[Github](https://github.com/microsoft/qlib)]
 
 * [Flow Forecast](https://flow-forecast.atlassian.net/wiki/spaces/FF/overview)
   
   * `Flow Forecast` is a deep learning PyTorch library for time series forecasting, classification, and anomaly detection.
-  
-  * [[Github](https://github.com/AIStream-Peelout/flow-forecast)]
 
 * [pyts](https://pyts.readthedocs.io/en/stable/)
   
-  * `pyts` is a Python package dedicated to time series classification. It aims to make time series classification easily accessible by providing preprocessing and utility tools, and implementations of several time series classification algorithms.
-  
-  * [[Github](https://github.com/johannfaouzi/pyts)]
+  * `pyts` is a Python package dedicated to time series classification.
 
 * [Greykite](https://linkedin.github.io/greykite/)
   
   * The `Greykite` library provides flexible, intuitive and fast forecasts through its flagship algorithm, Silverkite.
-  
-  * [[Github](https://github.com/linkedin/greykite)]
 
 * [Python Outlier Detection (PyOD)](https://github.com/yzhao062/pyod)
   
