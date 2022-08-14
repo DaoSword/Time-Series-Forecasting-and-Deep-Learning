@@ -197,6 +197,10 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   * `PyTorch Forecasting` is a PyTorch-based package for forecasting time series with state-of-the-art network architectures.
 
+* [tsai](https://github.com/timeseriesAI/tsai)
+  
+  * `tsai` is an open-source deep learning package built on top of Pytorch & fastai focused on state-of-the-art techniques for time series tasks like classification, regression, forecasting, imputation...
+
 * [GluonTS](https://ts.gluon.ai/stable/)
   
   * `GluonTS` is a Python package for probabilistic time series modeling, focusing on deep learning based models.
