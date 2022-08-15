@@ -245,6 +245,10 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   * The `Greykite` library provides flexible, intuitive and fast forecasts through its flagship algorithm, Silverkite.
 
+* [arch](https://github.com/bashtage/arch)
+  
+  * Autoregressive Conditional Heteroskedasticity (ARCH) and other tools for financial econometrics, written in Python (with Cython and/or Numba used to improve performance)
+
 * [Python Outlier Detection (PyOD)](https://github.com/yzhao062/pyod)
   
   * `PyOD` is a comprehensive and scalable Python library for outlier detection (anomaly detection)
