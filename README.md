@@ -209,6 +209,10 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   * `Prophet` is a forecasting procedure implemented in R and Python. It is fast and provides completely automated forecasts that can be tuned by hand by data scientists and analysts.
 
+* [NeuralProphet](https://neuralprophet.com/html/index.html)
+  
+  * A Neural Network based Time-Series model, inspired by [Facebook Prophet](https://github.com/facebook/prophet) and [AR-Net](https://github.com/ourownstory/AR-Net), built on PyTorch.
+
 * [tsfresh](https://github.com/blue-yonder/tsfresh)
   
   * `tsfresh` provides systematic time-series feature extraction by combining established algorithms from statistics, time-series analysis, signal processing, and nonlinear dynamics with a robust feature selection algorithm.
