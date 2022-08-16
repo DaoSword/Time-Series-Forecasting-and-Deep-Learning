@@ -110,6 +110,10 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   * 6 Jul 2020, Guansong Pang, et al.
 
+* [Time Series Data Augmentation for Deep Learning: A Survey](https://arxiv.org/abs/2002.12478)
+  
+  * 27 Feb 2020, Qingsong Wen, et al.
+
 ### 2019
 
 * [Temporal Fusion Transformers for Interpretable Multi-horizon Time Series Forecasting](https://arxiv.org/abs/1912.09363)
