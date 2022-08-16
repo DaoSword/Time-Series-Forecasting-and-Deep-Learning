@@ -11,6 +11,7 @@ List of research papers focus on time series forecasting and deep learning, as w
 - [Libraries](#Libraries)
 - [Datasets](#Datasets)
 - [Books](#Books)
+- [Tutorials](#Tutorials)
 
 ## Papers
 
@@ -310,3 +311,9 @@ List of research papers focus on time series forecasting and deep learning, as w
   * This textbook is intended to provide a comprehensive introduction to forecasting methods and to present enough information about each method for readers to be able to use them sensibly.
   
   * [[Website](https://otexts.com/fpp3/)]
+
+## Tutorials
+
+* [Deep Learning and Machine Learning for Stock Predictions](https://github.com/LastAncientOne/Deep-Learning-Machine-Learning-Stock)
+  
+  * This is for learning, studying, researching, and analyzing stock in deep learning (DL) and machine learning (ML).
