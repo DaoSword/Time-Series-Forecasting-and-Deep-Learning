@@ -249,6 +249,10 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   * Autoregressive Conditional Heteroskedasticity (ARCH) and other tools for financial econometrics, written in Python (with Cython and/or Numba used to improve performance)
 
+* [Cesium](https://cesium-ml.org/)
+  
+  * `Cesium` is an end-to-end machine learning platform for time-series, from calculation of features to model-building to predictions.
+
 * [Python Outlier Detection (PyOD)](https://github.com/yzhao062/pyod)
   
   * `PyOD` is a comprehensive and scalable Python library for outlier detection (anomaly detection)
