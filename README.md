@@ -138,7 +138,7 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   * 29 Jun 2019, Shiyang Li, et al.
   
-  * [[Code](https://github.com/mlpotter/Transformer_Time_Series)]
+  * [[Code](https://github.com/mlpotter/Transformer_Time_Series)] [[Community Code](https://github.com/ghsama/ConvTransformerTimeSeries)]
 
 * [N-BEATS: Neural basis expansion analysis for interpretable time series forecasting](https://arxiv.org/abs/1905.10437)
   
