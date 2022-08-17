@@ -11,6 +11,7 @@ List of research papers focus on time series forecasting and deep learning, as w
 - [Libraries](#Libraries)
 - [Datasets](#Datasets)
 - [Books](#Books)
+- [Repositories](#Repositories)
 - [Tutorials](#Tutorials)
 
 ## Papers
@@ -273,44 +274,26 @@ List of research papers focus on time series forecasting and deep learning, as w
 ## Datasets
 
 * [Monash Time Series Forecasting Repository](https://forecastingdata.org/)
-  
-  * The first repository containing datasets of related time series for global forecasting
-  
-  * [[Dataset](https://zenodo.org/communities/forecasting)]
-  
-  * [[Github](https://github.com/rakshitha123/TSForecasting)]
 
-* Electricity Transformer Dataset (ETDataset)
-  
-  * The `Electricity Transformer Dataset` is collected to support the further investigation on the long sequence forecasting problem.
-  
-  * [[Github](https://github.com/zhouhaoyi/ETDataset)]
+* [Electricity Transformer Dataset (ETDataset)](https://github.com/zhouhaoyi/ETDataset)
 
 * [Open Source Asset Pricing](https://www.openassetpricing.com/)
-  
-  * [[Data](https://www.openassetpricing.com/data/)]
-  
-  * [[Github](https://github.com/OpenSourceAP/CrossSection/)]
-  
-  * [[Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3604626)]
 
 * [UCR Time Series Classification Archive](https://www.cs.ucr.edu/~eamonn/time_series_data_2018/)
 
 * [UEA & UCR Time Series Classification Repository](https://www.timeseriesclassification.com/)
-  
-  * This website is an ongoing project to develop a comprehensive repository for research into time series classification.
-  
-  * [[Data](https://www.timeseriesclassification.com/dataset.php)]
 
 ## Books
 
-* Forecasting: Principles and Practice (3rd ed)
+* [Forecasting: Principles and Practice (3rd ed)](https://otexts.com/fpp3/)
   
   * *Rob J Hyndman and George Athanasopoulos, 2021*
   
   * This textbook is intended to provide a comprehensive introduction to forecasting methods and to present enough information about each method for readers to be able to use them sensibly.
-  
-  * [[Website](https://otexts.com/fpp3/)]
+
+## Repositories
+
+* [awesome_time_series_in_python](https://github.com/MaxBenChrist/awesome_time_series_in_python)
 
 ## Tutorials
 
