@@ -239,6 +239,10 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   * `Qlib` is an AI-oriented quantitative investment platform, which aims to realize the potential, empower the research, and create the value of AI technologies in quantitative investment.
 
+* [RQAlpha](https://github.com/ricequant/rqalpha)
+  
+  * A extendable, replaceable Python algorithmic backtest & trading framework supporting multiple securities.
+
 * [Flow Forecast](https://flow-forecast.atlassian.net/wiki/spaces/FF/overview)
   
   * `Flow Forecast` is a deep learning PyTorch library for time series forecasting, classification, and anomaly detection.
