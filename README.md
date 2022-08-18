@@ -304,3 +304,7 @@ List of research papers focus on time series forecasting and deep learning, as w
 * [Deep Learning and Machine Learning for Stock Predictions](https://github.com/LastAncientOne/Deep-Learning-Machine-Learning-Stock)
   
   * This is for learning, studying, researching, and analyzing stock in deep learning (DL) and machine learning (ML).
+
+* [Stock-Prediction-Models](https://github.com/huseinzol05/Stock-Prediction-Models)
+  
+  * Gathers machine learning and deep learning models for Stock forecasting, included trading bots and simulations.
