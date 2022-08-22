@@ -38,6 +38,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   - [[Code](https://github.com/qingsongedu/time-series-transformers-review)]
 
+- [TACTiS: Transformer-Attentional Copulas for Time Series](https://arxiv.org/abs/2202.03528)
+  
+  - 7 Feb 2022, Alexandre Drouin, et al.
+  
+  - [[Code](https://github.com/ServiceNow/tactis)]
+
 - [FEDformer: Frequency Enhanced Decomposed Transformer for Long-term Series Forecasting](https://arxiv.org/abs/2201.12740)
   
   - 30 Jan 2022, Tian Zhou, et al.
