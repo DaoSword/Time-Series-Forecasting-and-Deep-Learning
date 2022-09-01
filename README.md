@@ -154,6 +154,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   * [[Code](https://github.com/ElementAI/N-BEATS)]
 
+### 2018
+
+* [Universal features of price formation in financial markets: perspectives from Deep Learning](https://arxiv.org/abs/1803.06917)
+  
+  * 19 Mar 2018, Justin Sirignano, Rama Cont
+
 ### 2017
 
 * [Graph Attention Networks](https://arxiv.org/abs/1710.10903)
