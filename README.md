@@ -5,9 +5,9 @@ List of research papers focus on time series forecasting and deep learning, as w
 ## Table of Contents
 
 - [Papers](#Papers)
+- [Blogs](#Blogs)
 - [Competitions](#Competitions)
 - [Courses](#Courses)
-- [Blogs](#Blogs)
 - [Libraries](#Libraries)
 - [Datasets](#Datasets)
 - [Books](#Books)
@@ -179,6 +179,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   * 13 Apr 2017, David Salinas, et al.
   
   * [[Code](https://github.com/jdb78/pytorch-forecasting)]
+- [CS25: Transformers United](https://web.stanford.edu/class/cs25/)
+
+## Blogs
+
+- [The Annotated Transformer](http://nlp.seas.harvard.edu/annotated-transformer/)
+- [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
 
 ## Competitions
 
@@ -187,11 +193,6 @@ List of research papers focus on time series forecasting and deep learning, as w
 ## Courses
 
 - [CS25: Transformers United](https://web.stanford.edu/class/cs25/)
-
-## Blogs
-
-- [The Annotated Transformer](http://nlp.seas.harvard.edu/annotated-transformer/)
-- [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
 
 ## Libraries
 
@@ -286,6 +287,10 @@ List of research papers focus on time series forecasting and deep learning, as w
 * [sequitur](https://github.com/shobrook/sequitur)
   
   * `sequitur` is a library that lets you create and train an autoencoder for sequential data in just two lines of code.
+
+* [PyDMD: Python Dynamic Mode Decomposition](https://github.com/mathLab/PyDMD)
+  
+  * `PyDMD` is a Python package that uses Dynamic Mode Decomposition for a data-driven model simplification based on spatiotemporal coherent structures.
 
 ## Datasets
 
