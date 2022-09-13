@@ -64,6 +64,10 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   * [[Code](https://github.com/alipay/Pyraformer)]
 
+* [Machine learning in the Chinese stock market](https://www.sciencedirect.com/science/article/pii/S0304405X21003743?via%3Dihu)
+  
+  * 27 Aug 2021, Markus Leippold, et al.
+
 * [Autoformer: Decomposition Transformers with Auto-Correlation for Long-Term Series Forecasting](https://arxiv.org/abs/2106.13008)
   
   * 24 Jun 2021, Haixu Wu, et al.
