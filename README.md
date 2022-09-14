@@ -158,6 +158,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   * [[Code](https://github.com/ElementAI/N-BEATS)]
 
+* [Unsupervised Scalable Representation Learning for Multivariate Time Series](https://arxiv.org/abs/1901.10738)
+  
+  * 30 Jan 2019, Jean-Yves Franceschi, et al.
+  
+  * [[Official Code](https://github.com/White-Link/UnsupervisedScalableRepresentationLearningTimeSeries)]
+
 ### 2018
 
 * [Universal features of price formation in financial markets: perspectives from Deep Learning](https://arxiv.org/abs/1803.06917)
