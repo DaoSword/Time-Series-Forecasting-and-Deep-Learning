@@ -86,6 +86,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   * [[Code](https://github.com/cure-lab/SCINet)]
 
+* [Unsupervised Representation Learning for Time Series with Temporal Neighborhood Coding](https://arxiv.org/abs/2106.00750)
+  
+  * 1 Jun 2021, Sana Tonekaboni, et al.
+  
+  * [[Official Code](https://github.com/sanatonek/TNC_representation_learning)]
+
 * [Neural basis expansion analysis with exogenous variables: Forecasting electricity prices with NBEATSx](https://arxiv.org/abs/2104.05522)
   
   * 12 Apr 2021, Kin G. Olivares, et al.
