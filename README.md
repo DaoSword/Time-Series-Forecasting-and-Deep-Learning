@@ -68,6 +68,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   * 27 Aug 2021, Markus Leippold, et al.
 
+* [Time-Series Representation Learning via Temporal and Contextual Contrasting](https://arxiv.org/abs/2106.14112)
+  
+  * 26 Jun 2021, Emadeldeen Eldele, et al.
+  
+  * [[Official Code](https://github.com/emadeldeen24/TS-TCC)]
+
 * [Autoformer: Decomposition Transformers with Auto-Correlation for Long-Term Series Forecasting](https://arxiv.org/abs/2106.13008)
   
   * 24 Jun 2021, Haixu Wu, et al.
