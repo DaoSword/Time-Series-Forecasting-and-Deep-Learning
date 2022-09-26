@@ -18,6 +18,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ### 2022
 
+* [Expressing Multivariate Time Series as Graphs with Time Series Attention Transformer](https://arxiv.org/abs/2208.09300)
+  
+  * 19 Aug 2022, William T. Ng, et al.
+  
+  * [[Official Code](https://github.com/radiantresearch/tsat)]
+
 * [Formal Algorithms for Transformers](https://arxiv.org/abs/2207.09238)
   
   * 19 Jul 2022, Mary Phuong, Marcus Hutter
