@@ -24,6 +24,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   * [[Official Code](https://github.com/radiantresearch/tsat)]
 
+* [Spatial-Temporal Identity: A Simple yet Effective Baseline for Multivariate Time Series Forecasting](https://arxiv.org/abs/2208.05233)
+  
+  * 10 Aug 2022, Zezhi Shao, et al.
+  
+  * [[Official Code](https://github.com/zezhishao/stid)]
+
 * [Formal Algorithms for Transformers](https://arxiv.org/abs/2207.09238)
   
   * 19 Jul 2022, Mary Phuong, Marcus Hutter
