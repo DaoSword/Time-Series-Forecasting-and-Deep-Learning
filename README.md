@@ -356,6 +356,10 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   - This curated list contains python packages for time series analysis.
 
+- [DL4Stock](https://github.com/jwwthu/DL4Stock)
+  
+  - This is the repository for the collection of deep learning in stock market prediction.
+
 ## Tutorials
 
 * [Deep Learning and Machine Learning for Stock Predictions](https://github.com/LastAncientOne/Deep-Learning-Machine-Learning-Stock)
