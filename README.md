@@ -38,6 +38,10 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   - 4 Jul 2022, Tianping Zhang, et al.
 
+- [Non-stationary Transformers: Rethinking the Stationarity in Time Series Forecasting](https://arxiv.org/abs/2205.14415)
+  
+  - 28 May 2022, Yong Liu, et al.
+
 - [Are Transformers Effective for Time Series Forecasting?](https://arxiv.org/abs/2205.13504)
   
   - 26 May 2022, Ailing Zeng, et al.
