@@ -234,29 +234,33 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ## Libraries
 
+* [Darts](https://unit8co.github.io/darts/)
+  
+  - `Darts` is a Python library for easy manipulation and forecasting of time series.
+
+* [Kats](https://facebookresearch.github.io/Kats/)
+  
+  - `Kats` is a toolkit to analyze time series data, a lightweight, easy-to-use, and generalizable framework to perform time series analysis.
+
+* [NeuralForecast](https://nixtla.github.io/neuralforecast/)
+  
+  - `NeuralForecast` is a Python library for time series forecasting with deep learning models.
+
+* [PyTorch Forecasting](https://pytorch-forecasting.readthedocs.io/en/stable/)
+  
+  - `PyTorch Forecasting` is a PyTorch-based package for forecasting time series with state-of-the-art network architectures.
+
 * [sktime](https://www.sktime.org/en/stable/)
   
   * `sktime` is a library for time series analysis in Python. It provides a unified interface for multiple time series learning tasks.
 
-* [Darts](https://unit8co.github.io/darts/)
-  
-  * `Darts` is a Python library for easy manipulation and forecasting of time series.
-
-* [NeuralForecast](https://nixtla.github.io/neuralforecast/)
-  
-  * `NeuralForecast` is a Python library for time series forecasting with deep learning models. 
-
-* [Kats](https://facebookresearch.github.io/Kats/)
-  
-  * `Kats` is a toolkit to analyze time series data, a lightweight, easy-to-use, and generalizable framework to perform time series analysis.
-
-* [PyTorch Forecasting](https://pytorch-forecasting.readthedocs.io/en/stable/)
-  
-  * `PyTorch Forecasting` is a PyTorch-based package for forecasting time series with state-of-the-art network architectures.
-
 * [tsai](https://github.com/timeseriesAI/tsai)
   
   * `tsai` is an open-source deep learning package built on top of Pytorch & fastai focused on state-of-the-art techniques for time series tasks like classification, regression, forecasting, imputation...
+
+* [tspiral](https://github.com/cerlymarco/tspiral)
+  
+  * A python package for time series forecasting with scikit-learn estimators.
 
 * [GluonTS](https://ts.gluon.ai/stable/)
   
