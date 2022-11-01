@@ -18,6 +18,10 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ### 2022
 
+* [Retrieval Based Time Series Forecasting](https://arxiv.org/abs/2209.13525)
+  
+  * 27 Sep 2022, Baoyu Jing, et al.
+
 * [Expressing Multivariate Time Series as Graphs with Time Series Attention Transformer](https://arxiv.org/abs/2208.09300)
   
   * 19 Aug 2022, William T. Ng, et al.
