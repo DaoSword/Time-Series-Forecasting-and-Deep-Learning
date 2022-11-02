@@ -18,6 +18,10 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ### 2022
 
+* [TILDE-Q: A Transformation Invariant Loss Function for Time-Series Forecasting](https://arxiv.org/abs/2210.15050)
+  
+  * 26 Oct 2022, Hyunwook Lee, et al.
+
 * [Retrieval Based Time Series Forecasting](https://arxiv.org/abs/2209.13525)
   
   * 27 Sep 2022, Baoyu Jing, et al.
