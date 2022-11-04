@@ -242,6 +242,10 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ## Libraries
 
+* [BasicTS](https://github.com/zezhishao/BasicTS/tree/master)
+  
+  * `BasicTS` (**Basic** **T**ime **S**eries) is a PyTorch-based benchmark and toolbox for **time series forecasting** (TSF).
+
 * [Darts](https://unit8co.github.io/darts/)
   
   - `Darts` is a Python library for easy manipulation and forecasting of time series.
