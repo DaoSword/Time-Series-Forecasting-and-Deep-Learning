@@ -258,6 +258,10 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   - `NeuralForecast` is a Python library for time series forecasting with deep learning models.
 
+* [PaddleTS](https://github.com/PaddlePaddle/PaddleTS)
+  
+  * PaddlePaddle-based Time Series Modeling in Python.
+
 * [PyTorch Forecasting](https://pytorch-forecasting.readthedocs.io/en/stable/)
   
   - `PyTorch Forecasting` is a PyTorch-based package for forecasting time series with state-of-the-art network architectures.
