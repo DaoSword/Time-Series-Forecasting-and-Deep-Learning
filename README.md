@@ -68,6 +68,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   - [[Code](https://github.com/ServiceNow/tactis)]
 
+- [CoST: Contrastive Learning of Disentangled Seasonal-Trend Representations for Time Series Forecasting](https://arxiv.org/abs/2202.01575)
+  
+  - 3 Feb 2022, Gerald Woo, et al.
+  
+  - [[Official Code](https://github.com/salesforce/CoST)]
+
 - [FEDformer: Frequency Enhanced Decomposed Transformer for Long-term Series Forecasting](https://arxiv.org/abs/2201.12740)
   
   - 30 Jan 2022, Tian Zhou, et al.
