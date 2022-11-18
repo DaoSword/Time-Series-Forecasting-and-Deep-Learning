@@ -46,6 +46,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   - 4 Jul 2022, Tianping Zhang, et al.
 
+- [Self-Supervised Contrastive Pre-Training For Time Series via Time-Frequency Consistency](https://arxiv.org/abs/2206.08496)
+  
+  - 17 Jun 2022, Xiang Zhang, et al.
+  
+  - [[Official Code](https://github.com/mims-harvard/tfc-pretraining)]
+
 - [Non-stationary Transformers: Rethinking the Stationarity in Time Series Forecasting](https://arxiv.org/abs/2205.14415)
   
   - 28 May 2022, Yong Liu, et al.
