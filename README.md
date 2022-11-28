@@ -52,9 +52,10 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   - [[Official Code](https://github.com/mims-harvard/tfc-pretraining)]
 
-- [Non-stationary Transformers: Rethinking the Stationarity in Time Series Forecasting](https://arxiv.org/abs/2205.14415)
+- [Non-stationary Transformers: Exploring the Stationarity in Time Series Forecasting](https://arxiv.org/abs/2205.14415)
   
   - 28 May 2022, Yong Liu, et al.
+  * [[Official Code](https://github.com/thuml/Nonstationary_Transformers)]
 
 - [Are Transformers Effective for Time Series Forecasting?](https://arxiv.org/abs/2205.13504)
   
