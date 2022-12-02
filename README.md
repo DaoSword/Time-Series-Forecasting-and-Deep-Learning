@@ -18,6 +18,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ### 2022
 
+* [Learning Latent Seasonal-Trend Representations for Time Series Forecasting](https://nips.cc/Conferences/2022/Schedule?showEvent=55179)
+  
+  * 29 Nov 2022, Zhiyuan Wang, et al.
+  
+  * [[Official Code](https://github.com/zhycs/LaST)]
+
 * [TILDE-Q: A Transformation Invariant Loss Function for Time-Series Forecasting](https://arxiv.org/abs/2210.15050)
   
   * 26 Oct 2022, Hyunwook Lee, et al.
