@@ -67,19 +67,25 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   - 26 May 2022, Ailing Zeng, et al.
   
-  - [[Code](https://github.com/cure-lab/DLinear)]
+  - [[Official Code](https://github.com/cure-lab/DLinear)]
+
+- [FiLM: Frequency improved Legendre Memory Model for Long-term Time Series Forecasting](https://arxiv.org/abs/2205.08897)
+  
+  - 18 May 2022, Tian Zhou, et al.
+  
+  - [[Official Code](https://github.com/tianzhou2011/FiLM/)]
 
 - [Transformers in Time Series: A Survey](https://arxiv.org/abs/2202.07125)
   
   - 15 Feb 2022, Qingsong Wen, et al.
   
-  - [[Code](https://github.com/qingsongedu/time-series-transformers-review)]
+  - [[Official Code](https://github.com/qingsongedu/time-series-transformers-review)]
 
 - [TACTiS: Transformer-Attentional Copulas for Time Series](https://arxiv.org/abs/2202.03528)
   
   - 7 Feb 2022, Alexandre Drouin, et al.
   
-  - [[Code](https://github.com/ServiceNow/tactis)]
+  - [[Official Code](https://github.com/ServiceNow/tactis)]
 
 - [CoST: Contrastive Learning of Disentangled Seasonal-Trend Representations for Time Series Forecasting](https://arxiv.org/abs/2202.01575)
   
