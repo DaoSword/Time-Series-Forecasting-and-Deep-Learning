@@ -24,6 +24,10 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   * [[Official Code](https://github.com/zhycs/LaST)]
 
+* [Multivariate Time-Series Forecasting with Temporal Polynomial Graph Neural Networks](https://openreview.net/forum?id=pMumil2EJh)
+  
+  * 1 Nov 2022, Yijing Liu, et al.
+
 * [TILDE-Q: A Transformation Invariant Loss Function for Time-Series Forecasting](https://arxiv.org/abs/2210.15050)
   
   * 26 Oct 2022, Hyunwook Lee, et al.
@@ -97,7 +101,7 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   - 30 Jan 2022, Tian Zhou, et al.
   
-  - [[Code](https://github.com/MAZiqing/FEDformer)]
+  - [[Official Code](https://github.com/MAZiqing/FEDformer)]
 
 ### 2021
 
@@ -105,7 +109,7 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   * 26 Oct 2021, Wentao Xu, et al.
   
-  * [[Code](https://github.com/wentao-xu/hist)]
+  * [[Official Code](https://github.com/wentao-xu/hist)]
 
 * [Pyraformer: Low-Complexity Pyramidal Attention for Long-Range Time Series Modeling and Forecasting](https://openreview.net/forum?id=0EXmFzUn5I)
   
