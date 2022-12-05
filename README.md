@@ -28,6 +28,10 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   * 1 Nov 2022, Yijing Liu, et al.
 
+* [Time-Conditioned Dances with Simplicial Complexes: Zigzag Filtration Curve based Supra-Hodge Convolution Networks for Time-series Forecasting](https://openreview.net/forum?id=2Ln-TWxVtf)
+  
+  * 1 Nov 2022, Yuzhou Chen, et al.
+
 * [TILDE-Q: A Transformation Invariant Loss Function for Time-Series Forecasting](https://arxiv.org/abs/2210.15050)
   
   * 26 Oct 2022, Hyunwook Lee, et al.
