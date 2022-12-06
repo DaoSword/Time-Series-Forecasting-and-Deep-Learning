@@ -36,6 +36,10 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   * 26 Oct 2022, Hyunwook Lee, et al.
 
+* [WaveBound: Dynamic Error Bounds for Stable Time Series Forecasting](https://arxiv.org/abs/2210.14303)
+  
+  * 25 Oct 2022, Youngin Cho, et al.
+
 * [Retrieval Based Time Series Forecasting](https://arxiv.org/abs/2209.13525)
   
   * 27 Sep 2022, Baoyu Jing, et al.
