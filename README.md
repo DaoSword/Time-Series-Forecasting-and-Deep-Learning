@@ -24,6 +24,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   * [[Official Code](https://github.com/zhycs/LaST)]
 
+* [A Time Series is Worth 64 Words: Long-term Forecasting with Transformers](https://arxiv.org/abs/2211.14730)
+  
+  * 27 Nov 2022, Yuqi Nie, et al.
+  
+  * [[Official Code](https://github.com/yuqinie98/PatchTST)]
+
 * [Multivariate Time-Series Forecasting with Temporal Polynomial Graph Neural Networks](https://openreview.net/forum?id=pMumil2EJh)
   
   * 1 Nov 2022, Yijing Liu, et al.
@@ -35,11 +41,11 @@ List of research papers focus on time series forecasting and deep learning, as w
 * [TILDE-Q: A Transformation Invariant Loss Function for Time-Series Forecasting](https://arxiv.org/abs/2210.15050)
   
   * 26 Oct 2022, Hyunwook Lee, et al.
-
-* [WaveBound: Dynamic Error Bounds for Stable Time Series Forecasting](https://arxiv.org/abs/2210.14303)
+- [WaveBound: Dynamic Error Bounds for Stable Time Series Forecasting](https://arxiv.org/abs/2210.14303)
   
-  * 25 Oct 2022, Youngin Cho, et al.
-
+  - 25 Oct 2022, Youngin Cho, et al.
+  
+  - [[Official Code](https://github.com/choyi0521/WaveBound)]
 * [Retrieval Based Time Series Forecasting](https://arxiv.org/abs/2209.13525)
   
   * 27 Sep 2022, Baoyu Jing, et al.
@@ -70,6 +76,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   - [[Official Code](https://github.com/mims-harvard/tfc-pretraining)]
 
+- [Scaleformer: Iterative Multi-scale Refining Transformers for Time Series Forecasting](https://arxiv.org/abs/2206.04038)
+  
+  - 8 Jun 2022, Amin Shabani, et al.
+  
+  - [[Official Code](https://github.com/Scaleformer/Scaleformer)]
+
 - [Non-stationary Transformers: Exploring the Stationarity in Time Series Forecasting](https://arxiv.org/abs/2205.14415)
   
   - 28 May 2022, Yong Liu, et al.
@@ -86,6 +98,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 18 May 2022, Tian Zhou, et al.
   
   - [[Official Code](https://github.com/tianzhou2011/FiLM/)]
+
+- [Preformer: Predictive Transformer with Multi-Scale Segment-wise Correlations for Long-Term Time Series Forecasting](https://arxiv.org/abs/2202.11356)
+  
+  - 23 Feb 2022, Dazhao Du, et al.
+  
+  - [[Code](https://github.com/ddz16/Preformer)]
 
 - [Transformers in Time Series: A Survey](https://arxiv.org/abs/2202.07125)
   
@@ -105,11 +123,23 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   - [[Official Code](https://github.com/salesforce/CoST)]
 
+- [ETSformer: Exponential Smoothing Transformers for Time-series Forecasting](https://arxiv.org/abs/2202.01381)
+  
+  - 3 Feb 2022, Gerald Woo, et al.
+  
+  - [[Official Code](https://github.com/salesforce/ETSformer)]
+
 - [FEDformer: Frequency Enhanced Decomposed Transformer for Long-term Series Forecasting](https://arxiv.org/abs/2201.12740)
   
   - 30 Jan 2022, Tian Zhou, et al.
   
   - [[Official Code](https://github.com/MAZiqing/FEDformer)]
+
+- [N-HiTS: Neural Hierarchical Interpolation for Time Series Forecasting](https://arxiv.org/abs/2201.12886)
+  
+  - 30 Jan 2022, Cristian Challu, et al.
+  
+  - [[Official Code](https://github.com/cchallu/n-hits)]
 
 ### 2021
 
