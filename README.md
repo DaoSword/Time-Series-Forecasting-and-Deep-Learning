@@ -18,6 +18,24 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ### 2022
 
+* [A K-variate Time Series Is Worth K Words: Evolution of the Vanilla Transformer Architecture for Long-term Multivariate Time Series Forecasting](https://arxiv.org/abs/2212.02789)
+  
+  * 6 Dec 2022, Zanwei Zhou, et al.
+  
+  * [[Official Code](https://github.com/Zanue/MTSF_TVT)]
+
+* [FECAM: Frequency Enhanced Channel Attention Mechanism for Time Series Forecasting](https://arxiv.org/abs/2212.01209)
+  
+  * 2 Dec 2022, Maowei Jiang, et al.
+  
+  * [[Official Code](https://github.com/zero-coder/fecam)]
+
+* [MHCCL: Masked Hierarchical Cluster-wise Contrastive Learning for Multivariate Time Series](https://arxiv.org/abs/2212.01209)
+  
+  * 2 Dec 2022, Qianwen Meng, et al.
+  
+  * [[Official Code](https://github.com/mqwfrog/mhccl)]
+
 * [Learning Latent Seasonal-Trend Representations for Time Series Forecasting](https://nips.cc/Conferences/2022/Schedule?showEvent=55179)
   
   * 29 Nov 2022, Zhiyuan Wang, et al.
