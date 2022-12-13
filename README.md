@@ -18,6 +18,13 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ### 2022
 
+- Area2Area Forecasting: Looser Constraints, Better Predictions (Manuscript submitted to journal Information Sciences)
+  
+  - [[Official Code](https://github.com/OrigamiSL/A2A)]
+
+- GBT: Two-stage Transformer Framework for Non-stationary Time Series Forecasting (Manuscript submitted to Information Sciences)
+  
+  - [[Official Code](https://github.com/OrigamiSL/GBT)]
 * [A K-variate Time Series Is Worth K Words: Evolution of the Vanilla Transformer Architecture for Long-term Multivariate Time Series Forecasting](https://arxiv.org/abs/2212.02789)
   
   * 6 Dec 2022, Zanwei Zhou, et al.
@@ -68,6 +75,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   * 27 Sep 2022, Baoyu Jing, et al.
 
+* [FDNet: Focal Decomposed Network for Efficient, Robust and Practical Time Series Forecasting](https://openreview.net/forum?id=WXjBX7uz7lO)
+  
+  * 22 Sep 2022, Li Shen, et al.
+  
+  * [[Official Code](https://github.com/OrigamiSL/FDNet)]
+
 * [Expressing Multivariate Time Series as Graphs with Time Series Attention Transformer](https://arxiv.org/abs/2208.09300)
   
   * 19 Aug 2022, William T. Ng, et al.
@@ -79,6 +92,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   * 10 Aug 2022, Zezhi Shao, et al.
   
   * [[Official Code](https://github.com/zezhishao/stid)]
+
+* [Respecting Time Series Properties Makes Deep Time Series Forecasting Perfect](https://arxiv.org/abs/2207.10941)
+  
+  * 22 Jul 2022, Li Shen, et al.
+  
+  * [[Official Code](https://github.com/OrigamiSL/RTNet2022)]
 
 * [Formal Algorithms for Transformers](https://arxiv.org/abs/2207.09238)
   
@@ -172,6 +191,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   * 29 Sept 2021, Shizhan Liu, et al.
   
   * [[Code](https://github.com/alipay/Pyraformer)]
+
+* [TCCT: Tightly-Coupled Convolutional Transformer on Time Series Forecasting](https://arxiv.org/abs/2108.12784)
+  
+  * 29 Aug 2021, Li Shen, Yangzhu Wang
+  
+  * [[Official Code](https://github.com/OrigamiSL/TCCT2021-Neurocomputing-)]
 
 * [Machine learning in the Chinese stock market](https://www.sciencedirect.com/science/article/pii/S0304405X21003743?via%3Dihu)
   
