@@ -344,6 +344,8 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ## Competitions
 
+- [JPX Tokyo Stock Exchange Prediction](https://www.kaggle.com/competitions/jpx-tokyo-stock-exchange-prediction)
+
 - [Ubiquant Market Prediction](https://www.kaggle.com/competitions/ubiquant-market-prediction)
 
 ## Courses
@@ -352,6 +354,9 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ## Libraries
 
+- [AutoTS](https://github.com/winedarksea/AutoTS)
+  
+  - `AutoTS` is a time series package for Python designed for rapidly deploying high-accuracy forecasts at scale.
 * [BasicTS](https://github.com/zezhishao/BasicTS/tree/master)
   
   * `BasicTS` (**Basic** **T**ime **S**eries) is a PyTorch-based benchmark and toolbox for **time series forecasting** (TSF).
@@ -359,6 +364,10 @@ List of research papers focus on time series forecasting and deep learning, as w
 * [Darts](https://unit8co.github.io/darts/)
   
   - `Darts` is a Python library for easy manipulation and forecasting of time series.
+
+* [GluonTS](https://ts.gluon.ai/stable/)
+  
+  - `GluonTS` is a Python package for probabilistic time series modeling, focusing on deep learning based models.
 
 * [Kats](https://facebookresearch.github.io/Kats/)
   
@@ -368,9 +377,17 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   - `NeuralForecast` is a Python library for time series forecasting with deep learning models.
 
+* [NeuralProphet](https://neuralprophet.com/html/index.html)
+  
+  - A Neural Network based Time-Series model, inspired by [Facebook Prophet](https://github.com/facebook/prophet) and [AR-Net](https://github.com/ourownstory/AR-Net), built on PyTorch.
+
 * [PaddleTS](https://github.com/PaddlePaddle/PaddleTS)
   
   * PaddlePaddle-based Time Series Modeling in Python.
+
+* [Prophet](https://facebook.github.io/prophet/)
+  
+  - `Prophet` is a forecasting procedure implemented in R and Python. It is fast and provides completely automated forecasts that can be tuned by hand by data scientists and analysts.
 
 * [PyTorch Forecasting](https://pytorch-forecasting.readthedocs.io/en/stable/)
   
@@ -384,29 +401,13 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   * `tsai` is an open-source deep learning package built on top of Pytorch & fastai focused on state-of-the-art techniques for time series tasks like classification, regression, forecasting, imputation...
 
+* [tsfresh](https://github.com/blue-yonder/tsfresh)
+  
+  - `tsfresh` provides systematic time-series feature extraction by combining established algorithms from statistics, time-series analysis, signal processing, and nonlinear dynamics with a robust feature selection algorithm.
+
 * [tspiral](https://github.com/cerlymarco/tspiral)
   
   * A python package for time series forecasting with scikit-learn estimators.
-
-* [GluonTS](https://ts.gluon.ai/stable/)
-  
-  * `GluonTS` is a Python package for probabilistic time series modeling, focusing on deep learning based models.
-
-* [Prophet](https://facebook.github.io/prophet/)
-  
-  * `Prophet` is a forecasting procedure implemented in R and Python. It is fast and provides completely automated forecasts that can be tuned by hand by data scientists and analysts.
-
-* [NeuralProphet](https://neuralprophet.com/html/index.html)
-  
-  * A Neural Network based Time-Series model, inspired by [Facebook Prophet](https://github.com/facebook/prophet) and [AR-Net](https://github.com/ourownstory/AR-Net), built on PyTorch.
-
-* [tsfresh](https://github.com/blue-yonder/tsfresh)
-  
-  * `tsfresh` provides systematic time-series feature extraction by combining established algorithms from statistics, time-series analysis, signal processing, and nonlinear dynamics with a robust feature selection algorithm.
-
-* [AutoTS](https://github.com/winedarksea/AutoTS)
-  
-  * `AutoTS` is a time series package for Python designed for rapidly deploying high-accuracy forecasts at scale.
 
 * [Merlion](https://github.com/salesforce/Merlion)
   
