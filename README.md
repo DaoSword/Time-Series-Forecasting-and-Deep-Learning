@@ -354,6 +354,10 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ## Libraries
 
+- [arch](https://github.com/bashtage/arch)
+  
+  - Autoregressive Conditional Heteroskedasticity (ARCH) and other tools for financial econometrics, written in Python (with Cython and/or Numba used to improve performance)
+
 - [AutoTS](https://github.com/winedarksea/AutoTS)
   
   - `AutoTS` is a time series package for Python designed for rapidly deploying high-accuracy forecasts at scale.
@@ -361,17 +365,41 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   * `BasicTS` (**Basic** **T**ime **S**eries) is a PyTorch-based benchmark and toolbox for **time series forecasting** (TSF).
 
+* [Beibo](https://github.com/ssantoshp/Beibo)
+  
+  - `Beibo` is a Python library that uses several AI prediction models to predict stocks returns over a defined period of time.
+
+* [Cesium](https://cesium-ml.org/)
+  
+  - `Cesium` is an end-to-end machine learning platform for time-series, from calculation of features to model-building to predictions.
+
 * [Darts](https://unit8co.github.io/darts/)
   
   - `Darts` is a Python library for easy manipulation and forecasting of time series.
+
+* [Flow Forecast](https://flow-forecast.atlassian.net/wiki/spaces/FF/overview)
+  
+  - `Flow Forecast` is a deep learning PyTorch library for time series forecasting, classification, and anomaly detection.
 
 * [GluonTS](https://ts.gluon.ai/stable/)
   
   - `GluonTS` is a Python package for probabilistic time series modeling, focusing on deep learning based models.
 
+* [Greykite](https://linkedin.github.io/greykite/)
+  
+  - The `Greykite` library provides flexible, intuitive and fast forecasts through its flagship algorithm, Silverkite.
+
+* [HyperTS](https://github.com/DataCanvasIO/HyperTS)
+  
+  * A Full-Pipeline Automated Time Series (AutoTS) Analysis Toolkit.
+
 * [Kats](https://facebookresearch.github.io/Kats/)
   
   - `Kats` is a toolkit to analyze time series data, a lightweight, easy-to-use, and generalizable framework to perform time series analysis.
+
+* [Merlion](https://github.com/salesforce/Merlion)
+  
+  - `Merlion` is a Python library for time series intelligence. It provides an end-to-end machine learning framework that includes loading and transforming data, building and training models, post-processing model outputs, and evaluating model performance.
 
 * [NeuralForecast](https://nixtla.github.io/neuralforecast/)
   
@@ -389,9 +417,37 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   - `Prophet` is a forecasting procedure implemented in R and Python. It is fast and provides completely automated forecasts that can be tuned by hand by data scientists and analysts.
 
+* [PyDMD: Python Dynamic Mode Decomposition](https://github.com/mathLab/PyDMD)
+  
+  - `PyDMD` is a Python package that uses Dynamic Mode Decomposition for a data-driven model simplification based on spatiotemporal coherent structures.
+
+* [Python Outlier Detection (PyOD)](https://github.com/yzhao062/pyod)
+  
+  - `PyOD` is a comprehensive and scalable Python library for outlier detection (anomaly detection)
+
 * [PyTorch Forecasting](https://pytorch-forecasting.readthedocs.io/en/stable/)
   
   - `PyTorch Forecasting` is a PyTorch-based package for forecasting time series with state-of-the-art network architectures.
+
+* [PyTorchTS](https://github.com/zalandoresearch/pytorch-ts)
+  
+  - `PyTorchTS` is a [PyTorch](https://github.com/pytorch/pytorch) Probabilistic Time Series forecasting framework which provides state of the art PyTorch time series models by utilizing [GluonTS](https://github.com/awslabs/gluon-ts) as its back-end API and for loading, transforming and back-testing time series data sets.
+
+* [pyts](https://pyts.readthedocs.io/en/stable/)
+  
+  - `pyts` is a Python package dedicated to time series classification.
+
+* [Qlib](https://github.com/microsoft/qlib)
+  
+  - `Qlib` is an AI-oriented quantitative investment platform, which aims to realize the potential, empower the research, and create the value of AI technologies in quantitative investment.
+
+* [RQAlpha](https://github.com/ricequant/rqalpha)
+  
+  - A extendable, replaceable Python algorithmic backtest & trading framework supporting multiple securities.
+
+* [sequitur](https://github.com/shobrook/sequitur)
+  
+  - `sequitur` is a library that lets you create and train an autoencoder for sequential data in just two lines of code.
 
 * [sktime](https://www.sktime.org/en/stable/)
   
@@ -408,58 +464,6 @@ List of research papers focus on time series forecasting and deep learning, as w
 * [tspiral](https://github.com/cerlymarco/tspiral)
   
   * A python package for time series forecasting with scikit-learn estimators.
-
-* [Merlion](https://github.com/salesforce/Merlion)
-  
-  * `Merlion` is a Python library for time series intelligence. It provides an end-to-end machine learning framework that includes loading and transforming data, building and training models, post-processing model outputs, and evaluating model performance.
-
-* [PyTorchTS](https://github.com/zalandoresearch/pytorch-ts)
-  
-  * `PyTorchTS` is a [PyTorch](https://github.com/pytorch/pytorch) Probabilistic Time Series forecasting framework which provides state of the art PyTorch time series models by utilizing [GluonTS](https://github.com/awslabs/gluon-ts) as its back-end API and for loading, transforming and back-testing time series data sets.
-
-* [Qlib](https://github.com/microsoft/qlib)
-  
-  * `Qlib` is an AI-oriented quantitative investment platform, which aims to realize the potential, empower the research, and create the value of AI technologies in quantitative investment.
-
-* [RQAlpha](https://github.com/ricequant/rqalpha)
-  
-  * A extendable, replaceable Python algorithmic backtest & trading framework supporting multiple securities.
-
-* [Flow Forecast](https://flow-forecast.atlassian.net/wiki/spaces/FF/overview)
-  
-  * `Flow Forecast` is a deep learning PyTorch library for time series forecasting, classification, and anomaly detection.
-
-* [pyts](https://pyts.readthedocs.io/en/stable/)
-  
-  * `pyts` is a Python package dedicated to time series classification.
-
-* [Greykite](https://linkedin.github.io/greykite/)
-  
-  * The `Greykite` library provides flexible, intuitive and fast forecasts through its flagship algorithm, Silverkite.
-
-* [arch](https://github.com/bashtage/arch)
-  
-  * Autoregressive Conditional Heteroskedasticity (ARCH) and other tools for financial econometrics, written in Python (with Cython and/or Numba used to improve performance)
-
-* [Cesium](https://cesium-ml.org/)
-  
-  * `Cesium` is an end-to-end machine learning platform for time-series, from calculation of features to model-building to predictions.
-
-* [Python Outlier Detection (PyOD)](https://github.com/yzhao062/pyod)
-  
-  * `PyOD` is a comprehensive and scalable Python library for outlier detection (anomaly detection)
-
-* [Beibo](https://github.com/ssantoshp/Beibo)
-  
-  * `Beibo` is a Python library that uses several AI prediction models to predict stocks returns over a defined period of time.
-
-* [sequitur](https://github.com/shobrook/sequitur)
-  
-  * `sequitur` is a library that lets you create and train an autoencoder for sequential data in just two lines of code.
-
-* [PyDMD: Python Dynamic Mode Decomposition](https://github.com/mathLab/PyDMD)
-  
-  * `PyDMD` is a Python package that uses Dynamic Mode Decomposition for a data-driven model simplification based on spatiotemporal coherent structures.
 
 ## Datasets
 
