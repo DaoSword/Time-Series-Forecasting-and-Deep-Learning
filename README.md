@@ -24,6 +24,24 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ### 2022
 
+- [Contextually Enhanced ES-dRNN with Dynamic Attention for Short-Term Load Forecasting](https://arxiv.org/abs/2212.09030)
+  
+  - 18 Dec 2022, Slawek Smyl, et al.
+  
+  - [[Official Code](https://github.com/slaweks17/es-adrnn-with-context)]
+
+- [First De-Trend then Attend: Rethinking Attention for Time-Series Forecasting](https://arxiv.org/abs/2212.08151)
+  
+  - 15 Dec 2022, Xiyuan Zhang, et al.
+  
+  - [[Code](https://github.com/xiyuanzh/gluonts/tree/tdformer/src/gluonts/nursery/TDformer)]
+
+- [Put Attention to Temporal Saliency Patterns of Multi-Horizon Time Series](https://arxiv.org/abs/2212.07771)
+  
+  - 15 Dec 2022, Nghia Duong-Trung, et al.
+  
+  - [[Official Code](https://github.com/duongtrung/time-series-temporal-saliency-patterns)]
+
 - Area2Area Forecasting: Looser Constraints, Better Predictions (Manuscript submitted to journal Information Sciences)
   
   - [[Official Code](https://github.com/OrigamiSL/A2A)]
