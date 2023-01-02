@@ -1,10 +1,10 @@
 # Time Series Forecasting and Deep Learning
 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/DaoSword/Time-Series-Forecasting-and-Deep-Learning?style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/DaoSword/Time-Series-Forecasting-and-Deep-Learning?style=for-the-badge)
-![GitHub closed issues](https://img.shields.io/github/issues-closed/DaoSword/Time-Series-Forecasting-and-Deep-Learning?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/DaoSword/Time-Series-Forecasting-and-Deep-Learning?style=for-the-badge)
-![GitHub Repo stars](https://img.shields.io/github/stars/DaoSword/Time-Series-Forecasting-and-Deep-Learning?style=for-the-badge)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/DaoSword/Time-Series-Forecasting-and-Deep-Learning?style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/DaoSword/Time-Series-Forecasting-and-Deep-Learning?style=flat-square)
+![GitHub closed issues](https://img.shields.io/github/issues-closed/DaoSword/Time-Series-Forecasting-and-Deep-Learning?style=flat-square)
+![GitHub forks](https://img.shields.io/github/forks/DaoSword/Time-Series-Forecasting-and-Deep-Learning?style=flat-square)
+![GitHub Repo stars](https://img.shields.io/github/stars/DaoSword/Time-Series-Forecasting-and-Deep-Learning?style=flat-square)
 
 List of research papers focus on time series forecasting and deep learning, as well as other resources like competitions, datasets, courses, blogs, code, etc.
 
