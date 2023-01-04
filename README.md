@@ -368,9 +368,11 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ## Competitions
 
-- [JPX Tokyo Stock Exchange Prediction](https://www.kaggle.com/competitions/jpx-tokyo-stock-exchange-prediction)
+- [GoDaddy - Microbusiness Density Forecasting | Kaggle](https://www.kaggle.com/competitions/godaddy-microbusiness-density-forecasting/)
 
-- [Ubiquant Market Prediction](https://www.kaggle.com/competitions/ubiquant-market-prediction)
+- [JPX Tokyo Stock Exchange Prediction | Kaggle](https://www.kaggle.com/competitions/jpx-tokyo-stock-exchange-prediction)
+
+- [Ubiquant Market Prediction | Kaggle](https://www.kaggle.com/competitions/ubiquant-market-prediction)
 
 ## Courses
 
