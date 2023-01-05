@@ -479,6 +479,10 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   * `sktime` is a library for time series analysis in Python. It provides a unified interface for multiple time series learning tasks.
 
+* [TODS](https://github.com/datamllab/tods)
+  
+  * `TODS` is a full-stack automated machine learning system for outlier detection on multivariate time-series data.
+
 * [tsai](https://github.com/timeseriesAI/tsai)
   
   * `tsai` is an open-source deep learning package built on top of Pytorch & fastai focused on state-of-the-art techniques for time series tasks like classification, regression, forecasting, imputation...
