@@ -403,6 +403,10 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   - `Darts` is a Python library for easy manipulation and forecasting of time series.
 
+* [DeepOD](https://github.com/xuhongzuo/DeepOD)
+  
+  * `DeepOD` is an open-source python framework for deep learning-based anomaly detection on multivariate data.
+
 * [Flow Forecast](https://flow-forecast.atlassian.net/wiki/spaces/FF/overview)
   
   - `Flow Forecast` is a deep learning PyTorch library for time series forecasting, classification, and anomaly detection.
