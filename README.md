@@ -55,6 +55,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   * [[Official Code](https://github.com/Zanue/MTSF_TVT)]
 
+* [Learning of Cluster-based Feature Importance for Electronic Health Record Time-series](https://proceedings.mlr.press/v162/aguiar22a.html)
+  
+  * 06 Dec 2022, Henrique Aguiar, et al.
+  
+  * [[Official Code](https://github.com/hrna-ox/camelot-icml)]
+
 * [FECAM: Frequency Enhanced Channel Attention Mechanism for Time Series Forecasting](https://arxiv.org/abs/2212.01209)
   
   * 2 Dec 2022, Maowei Jiang, et al.
@@ -131,11 +137,23 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   - 4 Jul 2022, Tianping Zhang, et al.
 
+- [Utilizing Expert Features for Contrastive Learning of Time-Series Representations](https://arxiv.org/abs/2206.11517)
+  
+  - 23 Jun 2022, Manuel Nonnenmacher, et al.
+  
+  - [[Official Code](https://github.com/boschresearch/expclr)]
+
 - [Self-Supervised Contrastive Pre-Training For Time Series via Time-Frequency Consistency](https://arxiv.org/abs/2206.08496)
   
   - 17 Jun 2022, Xiang Zhang, et al.
   
   - [[Official Code](https://github.com/mims-harvard/tfc-pretraining)]
+
+- [Closed-Form Diffeomorphic Transformations for Time Series Alignment](https://arxiv.org/abs/2206.08107)
+  
+  - 16 Jun 2022, Iñigo Martinez, et al.
+  
+  - [[Official Code](https://github.com/imartinezl/difw)]
 
 - [Scaleformer: Iterative Multi-scale Refining Transformers for Time Series Forecasting](https://arxiv.org/abs/2206.04038)
   
@@ -165,6 +183,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 23 Feb 2022, Dazhao Du, et al.
   
   - [[Code](https://github.com/ddz16/Preformer)]
+
+- [Adaptive Conformal Predictions for Time Series](https://arxiv.org/abs/2202.07282)
+  
+  - 15 Feb 2022, Margaux Zaffran, et al.
+  
+  - [[Official Code](https://github.com/mzaffran/adaptiveconformalpredictionstimeseries)]
 
 - [Transformers in Time Series: A Survey](https://arxiv.org/abs/2202.07125)
   
@@ -204,6 +228,17 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ### 2021
 
+- [Modeling Irregular Time Series with Continuous Recurrent Units](https://arxiv.org/abs/2111.11344)
+  
+  - 22 Nov 2021, Mona Schirmer, et al.
+  
+  - [[Official Code](https://github.com/boschresearch/continuous-recurrent-units)]
+
+- [Reconstructing Nonlinear Dynamical Systems from Multi-Modal Time Series](https://arxiv.org/abs/2111.02922)
+  
+  - 4 Nov 2021, Daniel Kramer, et al.
+  
+  - [[Official Code](https://github.com/durstewitzlab/mmplrnn)]
 * [HIST: A Graph-based Framework for Stock Trend Forecasting via Mining Concept-Oriented Shared Information](https://arxiv.org/abs/2110.13716)
   
   * 26 Oct 2021, Wentao Xu, et al.
@@ -267,6 +302,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   * 4 Mar 2021, Andrew Jaegle, et al.
   
   * [[Official Code](https://github.com/deepmind/deepmind-research/tree/master/perceiver)] [[Community Code](https://github.com/lucidrains/perceiver-pytorch)]
+
+* [Domain Adaptation for Time Series Forecasting via Attention Sharing](https://arxiv.org/abs/2102.06828)
+  
+  * 13 Feb 2021, Xiaoyong Jin, et al.
+  
+  * [[Official Code](https://github.com/DMIRLAB-Group/SASA)]
 
 * [Do We Really Need Deep Learning Models for Time Series Forecasting?](https://arxiv.org/abs/2101.02118)
   
