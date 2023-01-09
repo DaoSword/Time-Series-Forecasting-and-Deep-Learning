@@ -55,6 +55,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   * [[Official Code](https://github.com/Zanue/MTSF_TVT)]
 
+* [DSTAGNN: Dynamic Spatial-Temporal Aware Graph Neural Network for Traffic Flow Forecasting](https://proceedings.mlr.press/v162/lan22a.html)
+  
+  * 6 Dec 2022, Shiyong Lan, et al.
+  
+  * [[Official Code](https://github.com/SYLan2019/DSTAGNN)]
+
 * [Learning of Cluster-based Feature Importance for Electronic Health Record Time-series](https://proceedings.mlr.press/v162/aguiar22a.html)
   
   * 06 Dec 2022, Henrique Aguiar, et al.
@@ -132,6 +138,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 * [Formal Algorithms for Transformers](https://arxiv.org/abs/2207.09238)
   
   * 19 Jul 2022, Mary Phuong, Marcus Hutter
+
+* [Volatility Based Kernels and Moving Average Means for Accurate Forecasting with Gaussian Processes](https://arxiv.org/abs/2207.06544)
+  
+  - 13 Jul 2022, Gregory Benton, et al.
+  
+  - [[Official Code](https://github.com/g-benton/Volt)]
 - [Less Is More: Fast Multivariate Time Series Forecasting with
   Light Sampling-oriented MLP Structures](https://arxiv.org/abs/2207.01186)
   
@@ -177,6 +189,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 18 May 2022, Tian Zhou, et al.
   
   - [[Official Code](https://github.com/tianzhou2011/FiLM/)]
+
+- [EXIT: Extrapolation and Interpolation-based Neural Controlled Differential Equations for Time-series Classification and Forecasting](https://dl.acm.org/doi/abs/10.1145/3485447.3512030)
+  
+  - 25 April 2022, Sheo Yon Jhin, et al.
+  
+  - [[Official Code](https://github.com/sheoyon-jhin/EXIT)]
 
 - [Preformer: Predictive Transformer with Multi-Scale Segment-wise Correlations for Long-Term Time Series Forecasting](https://arxiv.org/abs/2202.11356)
   
@@ -250,6 +268,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   * 29 Sept 2021, Shizhan Liu, et al.
   
   * [[Code](https://github.com/alipay/Pyraformer)]
+
+* [CAMul: Calibrated and Accurate Multi-view Time-Series Forecasting](https://arxiv.org/abs/2109.07438)
+  
+  * 15 Sep 2021, Harshavardhan Kamarthi, et al.
+  
+  * [[Official Code](https://github.com/adityalab/camul)]
 
 * [TCCT: Tightly-Coupled Convolutional Transformer on Time Series Forecasting](https://arxiv.org/abs/2108.12784)
   
