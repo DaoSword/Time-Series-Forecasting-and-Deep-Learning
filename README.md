@@ -196,6 +196,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   - [[Official Code](https://github.com/sheoyon-jhin/EXIT)]
 
+- [RETE: Retrieval-Enhanced Temporal Event Forecasting on Unified Query Product Evolutionary Graph](https://dl.acm.org/doi/abs/10.1145/3485447.3511974)
+  
+  - 25 April 2022, Ruijie Wang, et al.
+  
+  - [[Official Code](https://github.com/DiMarzioBian/RETE_TheWebConf)]
+
 - [Preformer: Predictive Transformer with Multi-Scale Segment-wise Correlations for Long-Term Time Series Forecasting](https://arxiv.org/abs/2202.11356)
   
   - 23 Feb 2022, Dazhao Du, et al.
@@ -207,6 +213,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 15 Feb 2022, Margaux Zaffran, et al.
   
   - [[Official Code](https://github.com/mzaffran/adaptiveconformalpredictionstimeseries)]
+
+- [ST-GSP: Spatial-Temporal Global Semantic Representation Learning for Urban Flow Prediction](https://dl.acm.org/doi/10.1145/3488560.3498444)
+  
+  - 15 Feb 2022, Liang Zhao, et al.
+  
+  - [[Official Code](https://github.com/k51/STGSP)]
 
 - [Transformers in Time Series: A Survey](https://arxiv.org/abs/2202.07125)
   
@@ -246,6 +258,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ### 2021
 
+- [TLogic: Temporal Logical Rules for Explainable Link Forecasting on Temporal Knowledge Graphs](https://arxiv.org/abs/2112.08025)
+  
+  - 15 Dec 2021, Yushan Liu, et al.
+  
+  - [[Official Code](https://github.com/liu-yushan/tlogic)]
+
 - [Modeling Irregular Time Series with Continuous Recurrent Units](https://arxiv.org/abs/2111.11344)
   
   - 22 Nov 2021, Mona Schirmer, et al.
@@ -274,6 +292,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   * 15 Sep 2021, Harshavardhan Kamarthi, et al.
   
   * [[Official Code](https://github.com/adityalab/camul)]
+
+* [Spatio-Temporal Recurrent Networks for Event-Based Optical Flow Estimation](https://arxiv.org/abs/2109.04871)
+  
+  * 10 Sep 2021, Ziluo Ding, et al.
+  
+  * [[Official Code](https://github.com/ruizhao26/ste-flownet)]
 
 * [TCCT: Tightly-Coupled Convolutional Transformer on Time Series Forecasting](https://arxiv.org/abs/2108.12784)
   
@@ -338,6 +362,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   * 6 Jan 2021, Shereen Elsayed, et al.
   
   * [[Code](https://github.com/Daniela-Shereen/GBRT-for-TSF)]
+
+* [Conditional Local Convolution for Spatio-temporal Meteorological Forecasting](https://arxiv.org/abs/2101.01000)
+  
+  * 4 Jan 2021, Haitao Lin, et al.
+  
+  * [[Official Code](https://github.com/BIRD-TAO/CLCRN)]
 
 ### 2020
 
