@@ -79,6 +79,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   * [[Official Code](https://github.com/mqwfrog/mhccl)]
 
+* [AirFormer: Predicting Nationwide Air Quality in China with Transformers](https://arxiv.org/abs/2211.15979)
+  
+  * 29 Nov 2022, Yuxuan Liang, et al.
+  
+  * [[Official Code](https://github.com/yoshall/airformer)]
+
 * [Learning Latent Seasonal-Trend Representations for Time Series Forecasting](https://nips.cc/Conferences/2022/Schedule?showEvent=55179)
   
   * 29 Nov 2022, Zhiyuan Wang, et al.
@@ -287,6 +293,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   * [[Official Code](https://github.com/wentao-xu/hist)]
 
+* [Yformer: U-Net Inspired Transformer Architecture for Far Horizon Time Series Forecasting](https://arxiv.org/abs/2110.08255)
+  
+  * 13 Oct 2021, Kiran Madhusudhanan, et al.
+  
+  * [[Official Code](https://github.com/18kiran12/Yformer-Time-Series-Forecasting)]
+
 * [Pyraformer: Low-Complexity Pyramidal Attention for Long-Range Time Series Modeling and Forecasting](https://openreview.net/forum?id=0EXmFzUn5I)
   
   * 29 Sept 2021, Shizhan Liu, et al.
@@ -351,6 +363,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   * [[Official Code](https://github.com/sanatonek/TNC_representation_learning)]
 
+* [Z-GCNETs: Time Zigzags at Graph Convolutional Networks for Time Series Forecasting](https://arxiv.org/abs/2105.04100)
+  
+  * 10 May 2021, Yuzhou Chen, et al.
+  
+  * [[Official Code](https://github.com/Z-GCNETs/Z-GCNETs)]
+
 * [Neural basis expansion analysis with exogenous variables: Forecasting electricity prices with NBEATSx](https://arxiv.org/abs/2104.05522)
   
   * 12 Apr 2021, Kin G. Olivares, et al.
@@ -380,6 +398,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   * 31 Jan 2021, Longyuan Li, et al.
   
   * [[Official Code](https://github.com/longyuanli/VSMHN)]
+
+* [Long Horizon Forecasting With Temporal Point Processes](https://arxiv.org/abs/2101.02815)
+  
+  * 8 Jan 2021, Prathamesh Deshpande, et al.
+  
+  * [[Official Code](https://github.com/pratham16cse/DualTPP)]
 
 * [Do We Really Need Deep Learning Models for Time Series Forecasting?](https://arxiv.org/abs/2101.02118)
   
@@ -452,6 +476,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   * 24 May 2019, Boris N. Oreshkin, et al.
   
   * [[Code](https://github.com/ElementAI/N-BEATS)]
+
+* [Time-Series Event Prediction with Evolutionary State Graph](https://arxiv.org/abs/1905.05006)
+  
+  * 10 May 2019, Wenjie Hu, et al.
+  
+  * [[Official Code](https://github.com/VachelHU/EvoNet)]
 
 * [Unsupervised Scalable Representation Learning for Multivariate Time Series](https://arxiv.org/abs/1901.10738)
   
