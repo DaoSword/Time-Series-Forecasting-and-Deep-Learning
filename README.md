@@ -202,6 +202,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   - [[Official Code](https://github.com/DiMarzioBian/RETE_TheWebConf)]
 
+- [DEPTS: Deep Expansion Learning for Periodic Time Series Forecasting](https://arxiv.org/abs/2203.07681)
+  
+  - 15 Mar 2022, Wei Fan, et al.
+  
+  - [[Official Code](https://github.com/weifantt/depts)]
+
 - [Preformer: Predictive Transformer with Multi-Scale Segment-wise Correlations for Long-Term Time Series Forecasting](https://arxiv.org/abs/2202.11356)
   
   - 23 Feb 2022, Dazhao Du, et al.
@@ -287,6 +293,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   * [[Code](https://github.com/alipay/Pyraformer)]
 
+* [Reversible Instance Normalization for Accurate Time-Series Forecasting against Distribution Shift](https://openreview.net/forum?id=cGDAkQo1C0p)
+  
+  * 29 Sept 2021, Taesung Kim, et al.
+  
+  * [[Official Code](https://github.com/ts-kim/RevIN)]
+
 * [CAMul: Calibrated and Accurate Multi-view Time-Series Forecasting](https://arxiv.org/abs/2109.07438)
   
   * 15 Sep 2021, Harshavardhan Kamarthi, et al.
@@ -351,11 +363,23 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   * [[Official Code](https://github.com/deepmind/deepmind-research/tree/master/perceiver)] [[Community Code](https://github.com/lucidrains/perceiver-pytorch)]
 
+* [Dynamic Gaussian Mixture based Deep Generative Model For Robust Forecasting on Sparse Multivariate Time Series](https://arxiv.org/abs/2103.02164)
+  
+  * 3 Mar 2021, Yinjun Wu, et al.
+  
+  * [[Official Code](https://github.com/thuwuyinjun/DGM2)]
+
 * [Domain Adaptation for Time Series Forecasting via Attention Sharing](https://arxiv.org/abs/2102.06828)
   
   * 13 Feb 2021, Xiaoyong Jin, et al.
   
   * [[Official Code](https://github.com/DMIRLAB-Group/SASA)]
+
+* [Synergetic Learning of Heterogeneous Temporal Sequences for Multi-Horizon Probabilistic Forecasting](https://arxiv.org/abs/2102.00431)
+  
+  * 31 Jan 2021, Longyuan Li, et al.
+  
+  * [[Official Code](https://github.com/longyuanli/VSMHN)]
 
 * [Do We Really Need Deep Learning Models for Time Series Forecasting?](https://arxiv.org/abs/2101.02118)
   
@@ -382,6 +406,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   * 6 Oct 2020, George Zerveas, et al.
   
   * [[Code](https://github.com/gzerveas/mvts_transformer)]
+
+* [Deep Switching Auto-Regressive Factorization:Application to Time Series Forecasting](https://arxiv.org/abs/2009.05135)
+  
+  * 10 Sep 2020, Amirreza Farnoosh, et al.
+  
+  * [[Official Code](https://github.com/ostadabbas/DSARF)]
 
 * [Deep Learning for Anomaly Detection: A Review](https://arxiv.org/abs/2007.02500)
   
