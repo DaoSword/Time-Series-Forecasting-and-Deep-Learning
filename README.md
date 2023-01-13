@@ -22,6 +22,20 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ## Papers
 
+### 2023
+
+- [Generative Time Series Forecasting with Diffusion, Denoise, and Disentanglement](https://arxiv.org/abs/2301.03028)
+  
+  - 8 Jan 2023, Yan Li, et al.
+  
+  - [[Official Code](https://github.com/PaddlePaddle/PaddleSpatial/tree/main/research/D3VAE)]
+
+- [Towards Long-Term Time-Series Forecasting: Feature, Pattern, and Distribution](https://arxiv.org/abs/2301.02068)
+  
+  - 5 Jan 2023, Yan Li, et al.
+  
+  - [[Official Code](https://github.com/PaddlePaddle/PaddleSpatial/tree/main/research/Conformer)]
+
 ### 2022
 
 - [Contextually Enhanced ES-dRNN with Dynamic Attention for Short-Term Load Forecasting](https://arxiv.org/abs/2212.09030)
