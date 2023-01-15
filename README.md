@@ -24,6 +24,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ### 2023
 
+- PrimeNet : Pre-Training for Irregular Multivariate Time Series
+  
+  - [AAAI 2023](https://aaai.org/Conferences/AAAI-23/), Ranak Roy Chowdhury, et al.
+  
+  - [[Official Code](https://github.com/ranakroychowdhury/PrimeNet)]
+
 - [Generative Time Series Forecasting with Diffusion, Denoise, and Disentanglement](https://arxiv.org/abs/2301.03028)
   
   - 8 Jan 2023, Yan Li, et al.
