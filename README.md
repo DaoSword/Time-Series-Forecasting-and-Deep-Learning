@@ -626,6 +626,10 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   - `PyDMD` is a Python package that uses Dynamic Mode Decomposition for a data-driven model simplification based on spatiotemporal coherent structures.
 
+* [PyPOTS](https://github.com/WenjieDu/PyPOTS)
+  
+  * A Python Toolbox for Data Mining on Partially-Observed Time Series.
+
 * [Python Outlier Detection (PyOD)](https://github.com/yzhao062/pyod)
   
   - `PyOD` is a comprehensive and scalable Python library for outlier detection (anomaly detection)
