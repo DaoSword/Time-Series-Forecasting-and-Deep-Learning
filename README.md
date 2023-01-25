@@ -666,6 +666,10 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   * `TODS` is a full-stack automated machine learning system for outlier detection on multivariate time-series data.
 
+* [transdim](https://github.com/xinychen/transdim)
+  
+  * Machine learning for transportation data imputation and prediction.
+
 * [tsai](https://github.com/timeseriesAI/tsai)
   
   * `tsai` is an open-source deep learning package built on top of Pytorch & fastai focused on state-of-the-art techniques for time series tasks like classification, regression, forecasting, imputation...
