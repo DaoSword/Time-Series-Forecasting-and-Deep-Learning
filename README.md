@@ -622,6 +622,10 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   - `Prophet` is a forecasting procedure implemented in R and Python. It is fast and provides completely automated forecasts that can be tuned by hand by data scientists and analysts.
 
+* [PyDaddy](https://github.com/tee-lab/PyDaddy)
+  
+  * A Python package to discover stochastic differential equations from time series data.
+
 * [PyDMD: Python Dynamic Mode Decomposition](https://github.com/mathLab/PyDMD)
   
   - `PyDMD` is a Python package that uses Dynamic Mode Decomposition for a data-driven model simplification based on spatiotemporal coherent structures.
