@@ -341,6 +341,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   * [[Official Code](https://github.com/ts-kim/RevIN)]
 
+* [DeepAID: Interpreting and Improving Deep Learning-based Anomaly Detection in Security Applications](https://arxiv.org/abs/2109.11495)
+  
+  * 23 Sep 2021, Dongqi Han, et al.
+  
+  * [[Official Code](https://github.com/dongtsi/deepaid)]
+
 * [CAMul: Calibrated and Accurate Multi-view Time-Series Forecasting](https://arxiv.org/abs/2109.07438)
   
   * 15 Sep 2021, Harshavardhan Kamarthi, et al.
@@ -404,6 +410,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   * 12 Apr 2021, Kin G. Olivares, et al.
   
   * [[Code](https://github.com/cchallu/nbeatsx)]
+
+* [FluxEV: A Fast and Effective Unsupervised Framework for Time-Series Anomaly Detection](https://dl.acm.org/doi/10.1145/3437963.3441823)
+  
+  * 8 March 2021, Jia Li, et al.
+  
+  * [[Official Code](https://github.com/jlidw/FluxEV)]
 
 * [Perceiver: General Perception with Iterative Attention](https://arxiv.org/abs/2103.03206)
   
@@ -482,6 +494,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   * 19 Dec 2019, Bryan Lim, et al.
   
   * [[Code](https://github.com/mattsherar/Temporal_Fusion_Transform)]
+
+* [Time-Series Aware Precision and Recall for Anomaly Detection: Considering Variety of Detection Result and Addressing Ambiguous Labeling](https://dl.acm.org/doi/abs/10.1145/3357384.3358118)
+  
+  * 3 Nov 2019, Won-Seok Hwang, et al.
+  
+  * [[Official Code](https://github.com/saurf4ng/eTaPR)]
 
 * [High-Dimensional Multivariate Forecasting with Low-Rank Gaussian Copula Processes](https://arxiv.org/abs/1910.03002)
   
