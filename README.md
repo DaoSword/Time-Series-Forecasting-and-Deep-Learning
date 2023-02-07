@@ -369,6 +369,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   * 27 Aug 2021, Markus Leippold, et al.
 
+* [Practical Approach to Asynchronous Multivariate Time Series Anomaly Detection and Localization](https://dl.acm.org/doi/10.1145/3447548.3467174)
+  
+  * 14 Aug 2021, Ahmed Abdulaal, et al.
+  
+  * [[Official Code](https://github.com/eBay/RANSynCoders)]
+
 * [Time-Series Representation Learning via Temporal and Contextual Contrasting](https://arxiv.org/abs/2106.14112)
   
   * 26 Jun 2021, Emadeldeen Eldele, et al.
