@@ -726,9 +726,10 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ## Datasets
 
-* [Monash Time Series Forecasting Repository](https://forecastingdata.org/)
+- [ADRepository: Real-world anomaly detection datasets](https://github.com/GuansongPang/ADRepository-Anomaly-detection-datasets)
 
-* [Electricity Transformer Dataset (ETDataset)](https://github.com/zhouhaoyi/ETDataset)
+- [Electricity Transformer Dataset (ETDataset)](https://github.com/zhouhaoyi/ETDataset)
+* [Monash Time Series Forecasting Repository](https://forecastingdata.org/)
 
 * [Open Source Asset Pricing](https://www.openassetpricing.com/)
 
