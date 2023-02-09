@@ -712,6 +712,10 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   * `tsai` is an open-source deep learning package built on top of Pytorch & fastai focused on state-of-the-art techniques for time series tasks like classification, regression, forecasting, imputation...
 
+* [tsam](https://github.com/FZJ-IEK3-VSA/tsam)
+  
+  * `tsam` is a python package which uses different machine learning algorithms for the aggregation of time series.
+
 * [tsfresh](https://github.com/blue-yonder/tsfresh)
   
   - `tsfresh` provides systematic time-series feature extraction by combining established algorithms from statistics, time-series analysis, signal processing, and nonlinear dynamics with a robust feature selection algorithm.
