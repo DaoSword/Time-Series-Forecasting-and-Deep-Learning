@@ -317,6 +317,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 4 Nov 2021, Daniel Kramer, et al.
   
   - [[Official Code](https://github.com/durstewitzlab/mmplrnn)]
+
+- [ClaSP - Time Series Segmentation](https://dl.acm.org/doi/abs/10.1145/3459637.3482240)
+  
+  - 30 Oct 2021, Patrick Schäfer, et al.
+  
+  - [[Official Code](https://github.com/ermshaua/time-series-segmentation-benchmark)]
 * [HIST: A Graph-based Framework for Stock Trend Forecasting via Mining Concept-Oriented Shared Information](https://arxiv.org/abs/2110.13716)
   
   * 26 Oct 2021, Wentao Xu, et al.
@@ -329,15 +335,21 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   * [[Official Code](https://github.com/18kiran12/Yformer-Time-Series-Forecasting)]
 
+* [CALDA: Improving Multi-Source Time Series Domain Adaptation with Contrastive Adversarial Learning](https://arxiv.org/abs/2109.14778)
+  
+  * 30 Sep 2021, Garrett Wilson, et al.
+  
+  * [[Official Code](https://github.com/floft/calda)]
+
 * [Pyraformer: Low-Complexity Pyramidal Attention for Long-Range Time Series Modeling and Forecasting](https://openreview.net/forum?id=0EXmFzUn5I)
   
-  * 29 Sept 2021, Shizhan Liu, et al.
+  * 29 Sep 2021, Shizhan Liu, et al.
   
   * [[Code](https://github.com/alipay/Pyraformer)]
 
 * [Reversible Instance Normalization for Accurate Time-Series Forecasting against Distribution Shift](https://openreview.net/forum?id=cGDAkQo1C0p)
   
-  * 29 Sept 2021, Taesung Kim, et al.
+  * 29 Sep 2021, Taesung Kim, et al.
   
   * [[Official Code](https://github.com/ts-kim/RevIN)]
 
@@ -398,6 +410,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   * 17 Jun 2021, Minhao Liu, et al. 
   
   * [[Code](https://github.com/cure-lab/SCINet)]
+
+* [Voice2Series: Reprogramming Acoustic Models for Time Series Classification](https://arxiv.org/abs/2106.09296)
+  
+  * 17 Jun 2021, Chao-Han Huck Yang, et al.
+  
+  * [[Official Code](https://github.com/huckiyang/Voice2Series-Reprogramming)]
 
 * [Unsupervised Representation Learning for Time Series with Temporal Neighborhood Coding](https://arxiv.org/abs/2106.00750)
   
