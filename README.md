@@ -48,6 +48,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ### 2022
 
+- [End-to-End Modeling Hierarchical Time Series Using Autoregressive Transformer and Conditional Normalizing Flow based Reconciliation](https://arxiv.org/abs/2212.13706)
+  
+  - 28 Dec 2022, Shiyu Wang, et al.
+  
+  - [[Official Code](https://github.com/philipperemy/n-beats)]
+
 - [Contextually Enhanced ES-dRNN with Dynamic Attention for Short-Term Load Forecasting](https://arxiv.org/abs/2212.09030)
   
   - 18 Dec 2022, Slawek Smyl, et al.
