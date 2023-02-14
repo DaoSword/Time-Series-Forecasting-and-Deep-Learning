@@ -740,6 +740,10 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   * `tsam` is a python package which uses different machine learning algorithms for the aggregation of time series.
 
+* [tsaug](https://github.com/arundo/tsaug)
+  
+  * `tsaug` is a Python package for time series augmentation.
+
 * [tsfresh](https://github.com/blue-yonder/tsfresh)
   
   - `tsfresh` provides systematic time-series feature extraction by combining established algorithms from statistics, time-series analysis, signal processing, and nonlinear dynamics with a robust feature selection algorithm.
