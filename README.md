@@ -54,6 +54,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   - [[Official Code](https://github.com/philipperemy/n-beats)]
 
+- [Dynamic Sparse Network for Time Series Classification: Learning What to "see"](https://arxiv.org/abs/2212.09840)
+  
+  - 19 Dec 2022, Qiao Xiao, et al.
+  
+  - [[Official Code](https://github.com/qiaoxiao7282/dsn)]
+
 - [Contextually Enhanced ES-dRNN with Dynamic Attention for Short-Term Load Forecasting](https://arxiv.org/abs/2212.09030)
   
   - 18 Dec 2022, Slawek Smyl, et al.
