@@ -475,6 +475,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   * [[Official Code](https://github.com/longyuanli/VSMHN)]
 
+* [Adjusting for Autocorrelated Errors in Neural Networks for Time Series](https://arxiv.org/abs/2101.12578)
+  
+  * 28 Jan 2021, Fan-Keng Sun, et al.
+  
+  * [[Official Code](https://github.com/Daikon-Sun/AdjustAutocorrelation)]
+
 * [Long Horizon Forecasting With Temporal Point Processes](https://arxiv.org/abs/2101.02815)
   
   * 8 Jan 2021, Prathamesh Deshpande, et al.
