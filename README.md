@@ -24,6 +24,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ### 2023
 
+- [Crossformer: Transformer Utilizing Cross-Dimension Dependency for Multivariate Time Series Forecasting](https://openreview.net/forum?id=vSVLM2j9eie)
+  
+  - 2 Feb 2023, Yunhao Zhang, Junchi Yan
+  
+  - [[Official Code](https://github.com/Thinklab-SJTU/Crossformer)]
+
 - [SimMTM: A Simple Pre-Training Framework for Masked Time-Series Modeling](https://arxiv.org/abs/2302.00861)
   
   - 2 Feb 2023, Jiaxiang Dong, et al.
