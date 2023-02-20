@@ -24,6 +24,10 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ### 2023
 
+- [MTS-Mixers: Multivariate Time Series Forecasting via Factorized Temporal and Channel Mixing](https://arxiv.org/abs/2302.04501)
+  
+  - 9 Feb 2023, Zhe Li, et al.
+
 - [Crossformer: Transformer Utilizing Cross-Dimension Dependency for Multivariate Time Series Forecasting](https://openreview.net/forum?id=vSVLM2j9eie)
   
   - 2 Feb 2023, Yunhao Zhang, Junchi Yan
