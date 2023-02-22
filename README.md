@@ -143,6 +143,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   * [[Official Code](https://github.com/yuqinie98/PatchTST)]
 
+* [A Comprehensive Survey of Regression Based Loss Functions for Time Series Forecasting](https://arxiv.org/abs/2211.02989)
+  
+  * 5 Nov 2022, Aryan Jadon, et al.
+  
+  * [[Official Code](https://github.com/aryan-jadon/regression-loss-functions-in-time-series-forecasting-tensorflow)]
+
 * [Multivariate Time-Series Forecasting with Temporal Polynomial Graph Neural Networks](https://openreview.net/forum?id=pMumil2EJh)
   
   * 1 Nov 2022, Yijing Liu, et al.
