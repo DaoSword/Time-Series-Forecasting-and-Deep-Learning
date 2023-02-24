@@ -797,6 +797,8 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 * [Open Source Asset Pricing](https://www.openassetpricing.com/)
 
+* [Subseasonal Climate Forecasting - Microsoft Research](https://www.microsoft.com/en-us/research/project/subseasonal-climate-forecasting/)
+
 * [UCR Time Series Classification Archive](https://www.cs.ucr.edu/~eamonn/time_series_data_2018/)
 
 * [UEA & UCR Time Series Classification Repository](https://www.timeseriesclassification.com/)
