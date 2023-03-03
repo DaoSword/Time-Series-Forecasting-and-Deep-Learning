@@ -766,6 +766,10 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   * `TFTS` (TensorFlow Time Series) is an easy-to-use python package for time series, supporting the classical and SOTA deep learning methods in TensorFlow or Keras.
 
+* [Time Series Library (TSlib)](https://github.com/thuml/Time-Series-Library)
+  
+  * `TSlib` is an open-source library for deep learning researchers, especially deep time series analysis.
+
 * [TODS](https://github.com/datamllab/tods)
   
   * `TODS` is a full-stack automated machine learning system for outlier detection on multivariate time-series data.
