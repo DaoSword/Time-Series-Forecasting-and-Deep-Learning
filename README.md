@@ -165,6 +165,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 25 Oct 2022, Youngin Cho, et al.
   
   - [[Official Code](https://github.com/choyi0521/WaveBound)]
+
+- [TimesNet: Temporal 2D-Variation Modeling for General Time Series Analysis](https://arxiv.org/abs/2210.02186)
+  
+  - 05 Oct 2022, Haixu Wu, et al.
+  
+  - [[Official Code](https://github.com/thuml/timesnet)]
 * [Retrieval Based Time Series Forecasting](https://arxiv.org/abs/2209.13525)
   
   * 27 Sep 2022, Baoyu Jing, et al.
