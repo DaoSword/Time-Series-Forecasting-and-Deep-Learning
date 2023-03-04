@@ -26,17 +26,17 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 - [MTS-Mixers: Multivariate Time Series Forecasting via Factorized Temporal and Channel Mixing](https://arxiv.org/abs/2302.04501)
   
-  - 9 Feb 2023, Zhe Li, et al.
+  - 09 Feb 2023, Zhe Li, et al.
 
 - [Crossformer: Transformer Utilizing Cross-Dimension Dependency for Multivariate Time Series Forecasting](https://openreview.net/forum?id=vSVLM2j9eie)
   
-  - 2 Feb 2023, Yunhao Zhang, Junchi Yan
+  - 02 Feb 2023, Yunhao Zhang, Junchi Yan
   
   - [[Official Code](https://github.com/Thinklab-SJTU/Crossformer)]
 
 - [SimMTM: A Simple Pre-Training Framework for Masked Time-Series Modeling](https://arxiv.org/abs/2302.00861)
   
-  - 2 Feb 2023, Jiaxiang Dong, et al.
+  - 02 Feb 2023, Jiaxiang Dong, et al.
 
 - PrimeNet : Pre-Training for Irregular Multivariate Time Series
   
@@ -44,15 +44,19 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   - [[Official Code](https://github.com/ranakroychowdhury/PrimeNet)]
 
+- [Learning Informative Representation for Fairness-aware Multivariate Time-series Forecasting: A Group-based Perspective](https://arxiv.org/abs/2301.11535)
+  
+  - 27 Jan 2023, Hui He, et al.
+
 - [Generative Time Series Forecasting with Diffusion, Denoise, and Disentanglement](https://arxiv.org/abs/2301.03028)
   
-  - 8 Jan 2023, Yan Li, et al.
+  - 08 Jan 2023, Yan Li, et al.
   
   - [[Official Code](https://github.com/PaddlePaddle/PaddleSpatial/tree/main/research/D3VAE)]
 
 - [Towards Long-Term Time-Series Forecasting: Feature, Pattern, and Distribution](https://arxiv.org/abs/2301.02068)
   
-  - 5 Jan 2023, Yan Li, et al.
+  - 05 Jan 2023, Yan Li, et al.
   
   - [[Official Code](https://github.com/PaddlePaddle/PaddleSpatial/tree/main/research/Conformer)]
 
