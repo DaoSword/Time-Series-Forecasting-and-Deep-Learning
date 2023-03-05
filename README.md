@@ -194,6 +194,8 @@ List of research papers focus on time series forecasting and deep learning, as w
 * [Pre-training Enhanced Spatial-temporal Graph Neural Network for Multivariate Time Series Forecasting](https://dl.acm.org/doi/10.1145/3534678.3539396)
   
   * 14 Aug 2022, Zezhi Shao, et al.
+  
+  * [[Official Code]](https://github.com/zezhishao/STEP)
 
 * [Spatial-Temporal Identity: A Simple yet Effective Baseline for Multivariate Time Series Forecasting](https://arxiv.org/abs/2208.05233)
   
