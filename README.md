@@ -241,6 +241,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   - [[Official Code](https://github.com/imartinezl/difw)]
 
+- [Contrastive Learning for Unsupervised Domain Adaptation of Time Series](https://arxiv.org/abs/2206.06243)
+  
+  - 13 Jun 2022, Yilmazcan Ozyurt, et al.
+  
+  - [[Official Code](https://github.com/oezyurty/cluda)]
+
 - [Scaleformer: Iterative Multi-scale Refining Transformers for Time Series Forecasting](https://arxiv.org/abs/2206.04038)
   
   - 8 Jun 2022, Amin Shabani, et al.
