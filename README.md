@@ -34,6 +34,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   - [[Official Code](https://github.com/Thinklab-SJTU/Crossformer)]
 
+- [MICN: Multi-scale Local and Global Context Modeling for Long-term Series Forecasting](https://openreview.net/forum?id=zt53IDUR1U)
+  
+  - 02 Feb 2023, Huiqiang Wang, et al.
+  
+  - [[Official Code](https://github.com/wanghq21/MICN)]
+
 - [SimMTM: A Simple Pre-Training Framework for Masked Time-Series Modeling](https://arxiv.org/abs/2302.00861)
   
   - 02 Feb 2023, Jiaxiang Dong, et al.
