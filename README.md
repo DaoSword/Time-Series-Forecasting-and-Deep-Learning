@@ -587,15 +587,21 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 * [Time-Series Aware Precision and Recall for Anomaly Detection: Considering Variety of Detection Result and Addressing Ambiguous Labeling](https://dl.acm.org/doi/abs/10.1145/3357384.3358118)
   
-  * 3 Nov 2019, Won-Seok Hwang, et al.
+  * 03 Nov 2019, Won-Seok Hwang, et al.
   
   * [[Official Code](https://github.com/saurf4ng/eTaPR)]
 
 * [High-Dimensional Multivariate Forecasting with Low-Rank Gaussian Copula Processes](https://arxiv.org/abs/1910.03002)
   
-  * 7 Oct 2019, David Salinas, et al.
+  * 07 Oct 2019, David Salinas, et al.
   
   * [[Code](https://github.com/awslabs/gluon-ts/tree/dev/src/gluonts/mx/model/gpvar)]
+
+* [InceptionTime: Finding AlexNet for Time Series Classification](https://arxiv.org/abs/1909.04939)
+  
+  * 11 Sep 2019, Hassan Ismail Fawaz, et al.
+  
+  * [[Official Code](https://github.com/hfawaz/InceptionTime)]
 
 * [Time2Vec: Learning a Vector Representation of Time](https://arxiv.org/abs/1907.05321)
   
