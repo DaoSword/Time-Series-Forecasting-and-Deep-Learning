@@ -635,6 +635,11 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ### 2018
 
+- [Deep learning for time series classification: a review](https://arxiv.org/abs/1809.04356)
+  
+  - 12 Sep 2018, Hassan Ismail Fawaz, et al.
+  
+  - [[Official Code](https://github.com/hfawaz/dl-4-tsc)]
 * [Universal features of price formation in financial markets: perspectives from Deep Learning](https://arxiv.org/abs/1803.06917)
   
   * 19 Mar 2018, Justin Sirignano, Rama Cont
