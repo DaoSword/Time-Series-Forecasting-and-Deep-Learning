@@ -288,6 +288,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   - [[Official Code](https://github.com/DiMarzioBian/RETE_TheWebConf)]
 
+- [ADATIME: A Benchmarking Suite for Domain Adaptation on Time Series Data](https://arxiv.org/abs/2203.08321)
+  
+  - 15 Mar 2022, Mohamed Ragab, et al.
+  
+  - [[Official Code](https://github.com/emadeldeen24/AdaTime)]
+
 - [DEPTS: Deep Expansion Learning for Periodic Time Series Forecasting](https://arxiv.org/abs/2203.07681)
   
   - 15 Mar 2022, Wei Fan, et al.
