@@ -639,6 +639,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   * [[Official Code](https://github.com/White-Link/UnsupervisedScalableRepresentationLearningTimeSeries)]
 
+* [Causal Discovery with Attention-Based Convolutional Neural Networks](https://www.mdpi.com/2504-4990/1/1/19)
+  
+  * 07 Jan 2019, Meike Nauta, et al.
+  
+  * [[Official Code](https://github.com/M-Nauta/TCDF)]
+
 ### 2018
 
 - [Deep learning for time series classification: a review](https://arxiv.org/abs/1809.04356)
