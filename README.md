@@ -880,6 +880,10 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   - This is the repository for the collection of deep learning in stock market prediction.
 
+- [pytorch-transformer-ts](https://github.com/kashif/pytorch-transformer-ts)
+  
+  - Repository of Transformer based PyTorch Time Series Models.
+
 - [Transformers for Time Series](https://github.com/maxjcohen/transformer)
   
   - Implementation of Transformer model (originally from [Attention is All You Need](https://arxiv.org/abs/1706.03762)) applied to Time Series (Powered by [PyTorch](https://pytorch.org/)).
