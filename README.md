@@ -583,6 +583,10 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   * 27 Feb 2020, Qingsong Wen, et al.
 
+* [Deep Transformer Models for Time Series Forecasting: The Influenza Prevalence Case](https://arxiv.org/abs/2001.08317)
+  
+  * 23 Jan 2020, Neo Wu, et al.
+
 ### 2019
 
 * [Temporal Fusion Transformers for Interpretable Multi-horizon Time Series Forecasting](https://arxiv.org/abs/1912.09363)
