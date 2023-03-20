@@ -176,6 +176,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   - [[Official Code](https://github.com/choyi0521/WaveBound)]
 
+- [Koopman Neural Forecaster for Time Series with Temporal Distribution Shifts](https://arxiv.org/abs/2210.03675)
+  
+  - 07 Oct 2022, Rui Wang, et al.
+  
+  - [[Official Code](https://github.com/google-research/google-research/tree/master/KNF)]
+
 - [TimesNet: Temporal 2D-Variation Modeling for General Time Series Analysis](https://arxiv.org/abs/2210.02186)
   
   - 05 Oct 2022, Haixu Wu, et al.
