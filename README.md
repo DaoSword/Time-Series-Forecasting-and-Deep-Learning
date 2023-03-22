@@ -24,6 +24,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ### 2023
 
+- [Dish-TS: A General Paradigm for Alleviating Distribution Shift in Time Series Forecasting](https://arxiv.org/abs/2302.14829)
+  
+  - 22 Feb 2023, Wei Fan, et al.
+  
+  - [[Official Code](https://github.com/weifantt/dish-ts)]
+
 - [MTS-Mixers: Multivariate Time Series Forecasting via Factorized Temporal and Channel Mixing](https://arxiv.org/abs/2302.04501)
   
   - 09 Feb 2023, Zhe Li, et al.
