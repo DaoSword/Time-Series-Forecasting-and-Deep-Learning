@@ -24,6 +24,10 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ### 2023
 
+- [Time Series Forecasting with Transformer Models and Application to Asset Management](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4375798)
+  
+  - 07 Mar 2023, Edmond Lezmi and Jiali Xu.
+
 - [Dish-TS: A General Paradigm for Alleviating Distribution Shift in Time Series Forecasting](https://arxiv.org/abs/2302.14829)
   
   - 22 Feb 2023, Wei Fan, et al.
