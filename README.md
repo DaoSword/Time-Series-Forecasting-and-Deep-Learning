@@ -30,6 +30,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   - [[Official Code](https://github.com/weifantt/dish-ts)]
 
+- [Improved Online Conformal Prediction via Strongly Adaptive Online Learning](https://arxiv.org/abs/2302.07869)
+  
+  - 15 Feb 2023, Aadyot Bhatnagar, et al.
+  
+  - [[Official Code](https://github.com/salesforce/online_conformal)]
+
 - [MTS-Mixers: Multivariate Time Series Forecasting via Factorized Temporal and Channel Mixing](https://arxiv.org/abs/2302.04501)
   
   - 09 Feb 2023, Zhe Li, et al.
