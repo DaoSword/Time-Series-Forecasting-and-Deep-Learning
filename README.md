@@ -659,6 +659,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   * [[Official Code](https://github.com/VachelHU/EvoNet)]
 
+* [Deep Adaptive Input Normalization for Time Series Forecasting](https://arxiv.org/abs/1902.07892)
+  
+  * 21 Feb 2019, Nikolaos Passalis, et al.
+  
+  * [[Official Code](https://github.com/passalis/dain)]
+
 * [Unsupervised Scalable Representation Learning for Multivariate Time Series](https://arxiv.org/abs/1901.10738)
   
   * 30 Jan 2019, Jean-Yves Franceschi, et al.
