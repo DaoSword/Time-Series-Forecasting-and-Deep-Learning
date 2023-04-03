@@ -795,6 +795,10 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   - `Prophet` is a forecasting procedure implemented in R and Python. It is fast and provides completely automated forecasts that can be tuned by hand by data scientists and analysts.
 
+* [Puncc](https://github.com/deel-ai/puncc)
+  
+  * `Puncc` is a python library for predictive uncertainty quantification using conformal prediction.
+
 * [PyDaddy](https://github.com/tee-lab/PyDaddy)
   
   * A Python package to discover stochastic differential equations from time series data.
