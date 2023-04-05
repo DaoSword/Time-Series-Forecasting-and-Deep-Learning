@@ -629,6 +629,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   * [[Code](https://github.com/awslabs/gluon-ts/tree/dev/src/gluonts/mx/model/gpvar)]
 
+* [Shape and Time Distortion Loss for Training Deep Time Series Forecasting Models](https://arxiv.org/abs/1909.09020)
+  
+  * 19 Sep 2019, Vincent Le Guen, et al.
+  
+  * [[Official Code](https://github.com/vincent-leguen/DILATE)]
+
 * [InceptionTime: Finding AlexNet for Time Series Classification](https://arxiv.org/abs/1909.04939)
   
   * 11 Sep 2019, Hassan Ismail Fawaz, et al.
