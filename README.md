@@ -685,6 +685,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ### 2018
 
+- [RobustSTL: A Robust Seasonal-Trend Decomposition Algorithm for Long Time Series](https://arxiv.org/abs/1812.01767)
+  
+  - 05 Dec 2018, Qingsong Wen, et al.
+  
+  - [[Code](https://github.com/LeeDoYup/RobustSTL)]
+
 - [Deep learning for time series classification: a review](https://arxiv.org/abs/1809.04356)
   
   - 12 Sep 2018, Hassan Ismail Fawaz, et al.
