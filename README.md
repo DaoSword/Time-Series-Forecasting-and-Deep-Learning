@@ -44,6 +44,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   - 09 Feb 2023, Zhe Li, et al.
 
+- [Domain Adaptation for Time Series Under Feature and Label Shifts](https://arxiv.org/abs/2302.03133)
+  
+  - 06 Feb 2023, Huan He, et al.
+  
+  - [[Official Code](https://github.com/mims-harvard/raincoat)]
+
 - [Crossformer: Transformer Utilizing Cross-Dimension Dependency for Multivariate Time Series Forecasting](https://openreview.net/forum?id=vSVLM2j9eie)
   
   - 02 Feb 2023, Yunhao Zhang, Junchi Yan
