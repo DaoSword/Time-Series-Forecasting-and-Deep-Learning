@@ -24,6 +24,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ### 2023
 
+- [Handling Concept Drift in Global Time Series Forecasting](https://arxiv.org/abs/2304.01512)
+  
+  - 04 Apr 2023, Ziyi Liu, et al.
+  
+  - [[Official Code](https://github.com/Neal-Liu-Ziyi/Concept_Drift_Handling)]
+
 - [Time Series Forecasting with Transformer Models and Application to Asset Management](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4375798)
   
   - 07 Mar 2023, Edmond Lezmi and Jiali Xu.
