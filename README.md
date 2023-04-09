@@ -30,6 +30,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   - [[Official Code](https://github.com/Neal-Liu-Ziyi/Concept_Drift_Handling)]
 
+- [Late Meta-learning Fusion Using Representation Learning for Time Series Forecasting](https://arxiv.org/abs/2303.11000)
+  
+  - 20 Mar 2023, Terence L van Zyl.
+  
+  - [[Official Code](https://github.com/Pieter-Cawood/FFORMA-ESRNN)]
+
 - [Time Series Forecasting with Transformer Models and Application to Asset Management](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4375798)
   
   - 07 Mar 2023, Edmond Lezmi and Jiali Xu.
