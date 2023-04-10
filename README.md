@@ -30,6 +30,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   - [[Official Code](https://github.com/Neal-Liu-Ziyi/Concept_Drift_Handling)]
 
+- [UniTS: A Universal Time Series Analysis Framework with Self-supervised Representation Learning](https://arxiv.org/abs/2303.13804)
+  
+  - 24 Mar 2023, Zhiyu Liang, et al.
+  
+  - [[Official Code](https://github.com/LceOmlet/UniTS)]
+
 - [Late Meta-learning Fusion Using Representation Learning for Time Series Forecasting](https://arxiv.org/abs/2303.11000)
   
   - 20 Mar 2023, Terence L van Zyl.
