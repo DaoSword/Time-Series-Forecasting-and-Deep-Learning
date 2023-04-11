@@ -517,6 +517,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   * [[Code](https://github.com/yuezhihan/ts2vec)]
 
+* [ScoreGrad: Multivariate Probabilistic Time Series Forecasting with Continuous Energy-based Generative Models](https://arxiv.org/abs/2106.10121)
+  
+  * 18 Jun 2021, Tijin Yan, et al.
+  
+  * [[Official Code](https://github.com/yantijin/ScoreGradPred)]
+
 * [Time Series is a Special Sequence: Forecasting with Sample Convolution and Interaction](https://arxiv.org/abs/2106.09305)
   
   * 17 Jun 2021, Minhao Liu, et al. 
