@@ -726,6 +726,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 12 Sep 2018, Hassan Ismail Fawaz, et al.
   
   - [[Official Code](https://github.com/hfawaz/dl-4-tsc)]
+
+- [BRITS: Bidirectional Recurrent Imputation for Time Series](https://arxiv.org/abs/1805.10572)
+  
+  - 27 May 2018, Wei Cao, et al.
+  
+  - [[Official Code](https://github.com/caow13/BRITS)]
 * [Universal features of price formation in financial markets: perspectives from Deep Learning](https://arxiv.org/abs/1803.06917)
   
   * 19 Mar 2018, Justin Sirignano, Rama Cont
