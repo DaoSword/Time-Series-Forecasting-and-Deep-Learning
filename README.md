@@ -831,9 +831,9 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   - `NeuralForecast` is a Python library for time series forecasting with deep learning models.
 
-* [NeuralProphet](https://neuralprophet.com/html/index.html)
+* [NeuralProphet](https://github.com/ourownstory/neural_prophet)
   
-  - A Neural Network based Time-Series model, inspired by [Facebook Prophet](https://github.com/facebook/prophet) and [AR-Net](https://github.com/ourownstory/AR-Net), built on PyTorch.
+  - `NeuralProphet` is an easy to learn framework for interpretable time series forecasting. NeuralProphet is built on PyTorch and combines Neural Network and traditional time-series algorithms, inspired by [Facebook Prophet](https://github.com/facebook/prophet) and [AR-Net](https://github.com/ourownstory/AR-Net).
 
 * [PaddleTS](https://github.com/PaddlePaddle/PaddleTS)
   
