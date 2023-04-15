@@ -126,6 +126,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   - [[Official Code](https://github.com/slaweks17/es-adrnn-with-context)]
 
+- [Uniform Sequence Better: Time Interval Aware Data Augmentation for Sequential Recommendation](https://arxiv.org/abs/2212.08262)
+  
+  - 16 Dec 2022, Yizhou Dang, et al.
+  
+  - [[Official Code](https://github.com/kinggugu/ticoserec)]
+
 - [First De-Trend then Attend: Rethinking Attention for Time-Series Forecasting](https://arxiv.org/abs/2212.08151)
   
   - 15 Dec 2022, Xiyuan Zhang, et al.
