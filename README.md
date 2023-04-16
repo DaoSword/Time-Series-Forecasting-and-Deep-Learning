@@ -505,6 +505,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   * [[Official Code](https://github.com/eBay/RANSynCoders)]
 
+* [AdaRNN: Adaptive Learning and Forecasting of Time Series](https://arxiv.org/abs/2108.04443)
+  
+  * 10 Aug 2021, Yuntao Du, et al.
+  
+  * [[Official Code](https://github.com/jindongwang/transferlearning)]
+
 * [Time-Series Representation Learning via Temporal and Contextual Contrasting](https://arxiv.org/abs/2106.14112)
   
   * 26 Jun 2021, Emadeldeen Eldele, et al.
