@@ -281,6 +281,10 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   - 4 Jul 2022, Tianping Zhang, et al.
 
+- [CATN: Cross Attentive Tree-Aware Network for Multivariate Time Series Forecasting](https://ojs.aaai.org/index.php/AAAI/article/view/20320)
+  
+  - 28 Jun 2022, Hui He, et al.
+
 - [Utilizing Expert Features for Contrastive Learning of Time-Series Representations](https://arxiv.org/abs/2206.11517)
   
   - 23 Jun 2022, Manuel Nonnenmacher, et al.
