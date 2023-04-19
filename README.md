@@ -863,6 +863,10 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   * `Puncc` is a python library for predictive uncertainty quantification using conformal prediction.
 
+* [PyBATS](https://github.com/lavinei/pybats)
+  
+  * `PyBATS` is a package for Bayesian time series modeling and forecasting.
+
 * [PyDaddy](https://github.com/tee-lab/PyDaddy)
   
   * A Python package to discover stochastic differential equations from time series data.
