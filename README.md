@@ -243,6 +243,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   * [[Official Code](https://github.com/OrigamiSL/FDNet)]
 
+* [Out-of-Distribution Representation Learning for Time Series Classification](https://arxiv.org/abs/2209.07027)
+  
+  * 15 Sep 2022, Wang Lu, et al.
+  
+  * [[Official Code](https://github.com/microsoft/robustlearn/tree/main/diversify)]
+
 * [Expressing Multivariate Time Series as Graphs with Time Series Attention Transformer](https://arxiv.org/abs/2208.09300)
   
   * 19 Aug 2022, William T. Ng, et al.
