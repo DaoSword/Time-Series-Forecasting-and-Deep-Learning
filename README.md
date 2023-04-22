@@ -24,6 +24,10 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ### 2023
 
+- [Long-term Forecasting with TiDE: Time-series Dense Encoder](https://arxiv.org/abs/2304.08424)
+  
+  - 17 Apr 2023, Abhimanyu Das, et al.
+
 - [Handling Concept Drift in Global Time Series Forecasting](https://arxiv.org/abs/2304.01512)
   
   - 04 Apr 2023, Ziyi Liu, et al.
