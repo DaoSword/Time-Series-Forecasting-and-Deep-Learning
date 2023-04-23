@@ -579,9 +579,15 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   * [[Code](https://github.com/cchallu/nbeatsx)]
 
+* [Spectral Temporal Graph Neural Network for Multivariate Time-series Forecasting](https://arxiv.org/abs/2103.07719)
+  
+  * 13 Mar 2021, Defu Cao, et al.
+  
+  * [[Official Code](https://github.com/microsoft/StemGNN)]
+
 * [FluxEV: A Fast and Effective Unsupervised Framework for Time-Series Anomaly Detection](https://dl.acm.org/doi/10.1145/3437963.3441823)
   
-  * 8 March 2021, Jia Li, et al.
+  * 8 Mar 2021, Jia Li, et al.
   
   * [[Official Code](https://github.com/jlidw/FluxEV)]
 
