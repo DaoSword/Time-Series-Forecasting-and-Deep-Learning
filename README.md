@@ -647,6 +647,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   * [[Code](https://github.com/zhouhaoyi/Informer2020)]
 
+* [TimeSHAP: Explaining Recurrent Models through Sequence Perturbations](https://arxiv.org/abs/2012.00073)
+  
+  * 30 Nov 2020, João Bento, et al.
+  
+  * [[Official Code](https://github.com/feedzai/timeshap)]
+
 * [A Transformer-based Framework for Multivariate Time Series Representation Learning](https://arxiv.org/abs/2010.02803)
   
   * 6 Oct 2020, George Zerveas, et al.
