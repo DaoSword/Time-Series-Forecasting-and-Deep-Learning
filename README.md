@@ -56,6 +56,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   - [[Official Code](https://github.com/weifantt/dish-ts)]
 
+- [FormerTime: Hierarchical Multi-Scale Representations for Multivariate Time Series Classification](https://arxiv.org/abs/2302.09818)
+  
+  - 20 Feb 2023, Mingyue Cheng, et al.
+  
+  - [[Official Code](https://github.com/Mingyue-Cheng/FormerTime)]
+
 - [Improved Online Conformal Prediction via Strongly Adaptive Online Learning](https://arxiv.org/abs/2302.07869)
   
   - 15 Feb 2023, Aadyot Bhatnagar, et al.
