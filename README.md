@@ -68,6 +68,10 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   - [[Official Code](https://github.com/salesforce/online_conformal)]
 
+- [SLOTH: Structured Learning and Task-based Optimization for Time Series Forecasting on Hierarchies](https://arxiv.org/abs/2302.05650)
+  
+  - 11 Feb 2023, Fan Zhou, et al.
+
 - [MTS-Mixers: Multivariate Time Series Forecasting via Factorized Temporal and Channel Mixing](https://arxiv.org/abs/2302.04501)
   
   - 09 Feb 2023, Zhe Li, et al.
