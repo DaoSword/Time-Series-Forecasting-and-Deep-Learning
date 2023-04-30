@@ -977,6 +977,10 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   * A Python Toolbox to Ease Loading Open-Source Time-Series Datasets.
 
+* [tsfeatures](https://github.com/Nixtla/tsfeatures)
+  
+  * Calculates various features from time series data. Python implementation of the R package [*tsfeatures*](https://github.com/robjhyndman/tsfeatures).
+
 * [tsfresh](https://github.com/blue-yonder/tsfresh)
   
   - `tsfresh` provides systematic time-series feature extraction by combining established algorithms from statistics, time-series analysis, signal processing, and nonlinear dynamics with a robust feature selection algorithm.
