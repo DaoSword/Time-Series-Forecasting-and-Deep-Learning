@@ -695,6 +695,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   * [[Code](https://github.com/mattsherar/Temporal_Fusion_Transform)]
 
+* [DSANet: Dual Self-Attention Network for Multivariate Time Series Forecasting](https://dl.acm.org/doi/10.1145/3357384.3358132)
+  
+  * 03 Nov 2019, Siteng Huang, et al.
+  
+  * [[Official Code](https://github.com/bighuang624/DSANet)]
+
 * [Time-Series Aware Precision and Recall for Anomaly Detection: Considering Variety of Detection Result and Addressing Ambiguous Labeling](https://dl.acm.org/doi/abs/10.1145/3357384.3358118)
   
   * 03 Nov 2019, Won-Seok Hwang, et al.
