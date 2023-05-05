@@ -28,6 +28,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   - 17 Apr 2023, Abhimanyu Das, et al.
 
+- [The Capacity and Robustness Trade-off: Revisiting the Channel Independent Strategy for Multivariate Time Series Forecasting](https://arxiv.org/abs/2304.05206)
+  
+  - 11 Apr 2023, Lu Han, et al.
+  
+  - [[Official Code](https://github.com/hanlu-nju/channel_independent_mtsf)]
+
 - [Handling Concept Drift in Global Time Series Forecasting](https://arxiv.org/abs/2304.01512)
   
   - 04 Apr 2023, Ziyi Liu, et al.
