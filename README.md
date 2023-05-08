@@ -953,6 +953,10 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   - A extendable, replaceable Python algorithmic backtest & trading framework supporting multiple securities.
 
+* [Scalecast](https://github.com/mikekeith52/scalecast)
+  
+  * The pratictioner's forecasting library. Including automated model selection, model optimization, pipelines, visualization, and reporting.
+
 * [sequitur](https://github.com/shobrook/sequitur)
   
   - `sequitur` is a library that lets you create and train an autoencoder for sequential data in just two lines of code.
