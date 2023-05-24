@@ -24,6 +24,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ### 2023
 
+- [Learning Structured Components: Towards Modular and Interpretable Multivariate Time Series Forecasting](https://arxiv.org/abs/2305.13036)
+  
+  - 22 May 2023, Jinliang Deng, et al.
+  
+  - [[Official Code - SCNN](https://github.com/KDDtest/SCNN)]
+
 - [Diffusion Models for Time Series Applications: A Survey](https://arxiv.org/abs/2305.00624)
   
   - 01 May 2023, Lequan Lin, et al.
