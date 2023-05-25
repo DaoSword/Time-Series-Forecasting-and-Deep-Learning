@@ -279,6 +279,10 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   * [[Official Code](https://github.com/microsoft/robustlearn/tree/main/diversify)]
 
+* [Statistical, machine learning and deep learning forecasting methods: Comparisons and ways forward](https://www.tandfonline.com/doi/full/10.1080/01605682.2022.2118629)
+  
+  * 05 Sep 2022, Spyros Makridakis, et al.
+
 * [Expressing Multivariate Time Series as Graphs with Time Series Attention Transformer](https://arxiv.org/abs/2208.09300)
   
   * 19 Aug 2022, William T. Ng, et al.
