@@ -834,7 +834,10 @@ List of research papers focus on time series forecasting and deep learning, as w
 ## Blogs
 
 - [The Annotated Transformer](http://nlp.seas.harvard.edu/annotated-transformer/)
+
 - [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
+
+- [Time-Series Forecasting: Deep Learning vs Statistics — Who Wins?](https://towardsdatascience.com/time-series-forecasting-deep-learning-vs-statistics-who-wins-c568389d02df)
 
 ## Competitions
 
