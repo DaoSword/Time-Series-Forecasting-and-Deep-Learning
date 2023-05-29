@@ -974,6 +974,10 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   - `sequitur` is a library that lets you create and train an autoencoder for sequential data in just two lines of code.
 
+* [skforecast](https://github.com/JoaquinAmatRodrigo/skforecast/)
+  
+  * `Skforecast` is a Python library that eases using scikit-learn regressors as single and multi-step forecasters. It also works with any regressor compatible with the scikit-learn API (LightGBM, XGBoost, CatBoost, ...).
+
 * [sktime](https://www.sktime.org/en/stable/)
   
   * `sktime` is a library for time series analysis in Python. It provides a unified interface for multiple time series learning tasks.
