@@ -37,6 +37,8 @@ List of research papers focus on time series forecasting and deep learning, as w
 - [Long-term Forecasting with TiDE: Time-series Dense Encoder](https://arxiv.org/abs/2304.08424)
   
   - 17 Apr 2023, Abhimanyu Das, et al.
+  
+  - [[Unofficial Implementation - TiDE](https://github.com/lich99/TiDE)]
 
 - [The Capacity and Robustness Trade-off: Revisiting the Channel Independent Strategy for Multivariate Time Series Forecasting](https://arxiv.org/abs/2304.05206)
   
