@@ -653,6 +653,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   * [[Official Code](https://github.com/Daikon-Sun/AdjustAutocorrelation)]
 
+* [Autoregressive Denoising Diffusion Models for Multivariate Probabilistic Time Series Forecasting](https://arxiv.org/abs/2101.12072)
+  
+  * 28 Jan 2021, Kashif Rasul, et al.
+  
+  * [[Official Code - pytorch-ts](https://github.com/zalandoresearch/pytorch-ts)]
+
 * [Long Horizon Forecasting With Temporal Point Processes](https://arxiv.org/abs/2101.02815)
   
   * 8 Jan 2021, Prathamesh Deshpande, et al.
