@@ -1088,3 +1088,7 @@ List of research papers focus on time series forecasting and deep learning, as w
 * [Stock-Prediction-Models](https://github.com/huseinzol05/Stock-Prediction-Models)
   
   * Gathers machine learning and deep learning models for Stock forecasting, included trading bots and simulations.
+
+* [time-series-forecasting-with-python](https://github.com/jiwidi/time-series-forecasting-with-python)
+  
+  * A use-case focused tutorial for time series forecasting with python.
