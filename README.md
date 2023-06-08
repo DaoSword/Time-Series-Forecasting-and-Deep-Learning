@@ -707,6 +707,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   * 6 Jul 2020, Guansong Pang, et al.
 
+* [On Multivariate Singular Spectrum Analysis and its Variants](https://arxiv.org/abs/2006.13448)
+  
+  * 24 Jun 2020, Anish Agarwal, et al.
+  
+  * [[Official Code - mSSA](https://github.com/AbdullahO/mSSA)]
+
 * [Time Series Data Augmentation for Deep Learning: A Survey](https://arxiv.org/abs/2002.12478)
   
   * 27 Feb 2020, Qingsong Wen, et al.
