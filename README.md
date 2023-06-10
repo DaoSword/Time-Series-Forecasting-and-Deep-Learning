@@ -24,6 +24,10 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ### 2023
 
+- [An End-to-End Time Series Model for Simultaneous Imputation and Forecast](https://arxiv.org/abs/2306.00778)
+  
+  - 01 Jun 2023, Trang H. Tran, et al.
+
 - [Learning Structured Components: Towards Modular and Interpretable Multivariate Time Series Forecasting](https://arxiv.org/abs/2305.13036)
   
   - 22 May 2023, Jinliang Deng, et al.
