@@ -378,6 +378,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   - [[Official Code](https://github.com/tianzhou2011/FiLM/)]
 
+- [Efficient Automated Deep Learning for Time Series Forecasting](https://arxiv.org/abs/2205.05511)
+  
+  - 11 May 2022, Difan Deng, et al.
+  
+  - [[Official Code](https://github.com/automl/Auto-PyTorch)]
+
 - [EXIT: Extrapolation and Interpolation-based Neural Controlled Differential Equations for Time-series Classification and Forecasting](https://dl.acm.org/doi/abs/10.1145/3485447.3512030)
   
   - 25 April 2022, Sheo Yon Jhin, et al.
