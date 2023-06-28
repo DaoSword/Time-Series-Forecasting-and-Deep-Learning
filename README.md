@@ -24,6 +24,18 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ### 2023
 
+- [Precursor-of-Anomaly Detection for Irregular Time Series](https://arxiv.org/abs/2306.15489)
+  
+  - 27 Jun 2023, SheoYon Jhin, et al.
+  
+  - [[Official Code - PAD](https://github.com/sheoyon-jhin/PAD)]
+
+- [Anomaly Detection with Score Distribution Discrimination](https://arxiv.org/abs/2306.14403)
+  
+  - 26 Jun 2023, Minqi Jiang, et al.
+  
+  - [[Official Code](https://github.com/Minqi824/Overlap)] (Temporarily unavailable)
+
 - [An End-to-End Time Series Model for Simultaneous Imputation and Forecast](https://arxiv.org/abs/2306.00778)
   
   - 01 Jun 2023, Trang H. Tran, et al.
