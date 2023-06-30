@@ -36,6 +36,10 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   - [[Official Code](https://github.com/Minqi824/Overlap)] (Temporarily unavailable)
 
+- [Temporal Data Meets LLM -- Explainable Financial Time Series Forecasting](https://arxiv.org/abs/2306.11025)
+  
+  - 19 Jun 2023, Xinli Yu, et al.
+
 - [An End-to-End Time Series Model for Simultaneous Imputation and Forecast](https://arxiv.org/abs/2306.00778)
   
   - 01 Jun 2023, Trang H. Tran, et al.
