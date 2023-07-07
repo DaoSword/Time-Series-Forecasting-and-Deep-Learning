@@ -942,6 +942,10 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   - `Kats` is a toolkit to analyze time series data, a lightweight, easy-to-use, and generalizable framework to perform time series analysis.
 
+* [Luminaire](https://github.com/zillow/luminaire)
+  
+  * `Luminaire` is a python package that provides ML-driven solutions for monitoring time series data.
+
 * [Merlion](https://github.com/salesforce/Merlion)
   
   - `Merlion` is a Python library for time series intelligence. It provides an end-to-end machine learning framework that includes loading and transforming data, building and training models, post-processing model outputs, and evaluating model performance.
