@@ -34,7 +34,7 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   - 26 Jun 2023, Minqi Jiang, et al.
   
-  - [[Official Code](https://github.com/Minqi824/Overlap)] (Temporarily unavailable)
+  - [[Official Code - Overlap](https://github.com/Minqi824/Overlap)]
 
 - [Temporal Data Meets LLM -- Explainable Financial Time Series Forecasting](https://arxiv.org/abs/2306.11025)
   
@@ -1029,6 +1029,10 @@ List of research papers focus on time series forecasting and deep learning, as w
 * [TFTS](https://github.com/LongxingTan/Time-series-prediction)
   
   * `TFTS` (TensorFlow Time Series) is an easy-to-use python package for time series, supporting the classical and SOTA deep learning methods in TensorFlow or Keras.
+
+* [tft-torch](https://github.com/PlaytikaOSS/tft-torch)
+  
+  * `tft-torch` is a Python library that implements ["Temporal Fusion Transformers for Interpretable Multi-horizon Time Series Forecasting"](https://arxiv.org/abs/1912.09363) using pytorch framework.
 
 * [Time Series Library (TSlib)](https://github.com/thuml/Time-Series-Library)
   
