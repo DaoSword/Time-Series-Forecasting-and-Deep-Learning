@@ -24,6 +24,10 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ### 2023
 
+- [SageFormer: Series-Aware Graph-Enhanced Transformers for Multivariate Time Series Forecasting](https://arxiv.org/abs/2307.01616)
+  
+  - 04 Jul 2023, Zhenwei Zhang, et al.
+
 - [Precursor-of-Anomaly Detection for Irregular Time Series](https://arxiv.org/abs/2306.15489)
   
   - 27 Jun 2023, SheoYon Jhin, et al.
