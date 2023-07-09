@@ -28,6 +28,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   - 04 Jul 2023, Zhenwei Zhang, et al.
 
+- [ImDiffusion: Imputed Diffusion Models for Multivariate Time Series Anomaly Detection](https://arxiv.org/abs/2307.00754)
+  
+  - 03 Jul 2023, Yuhang Chen, et al.
+  
+  - [[Official Code - IMDiffusion](https://github.com/17000cyh/imdiffusion)]
+
 - [Precursor-of-Anomaly Detection for Irregular Time Series](https://arxiv.org/abs/2306.15489)
   
   - 27 Jun 2023, SheoYon Jhin, et al.
