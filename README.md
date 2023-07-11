@@ -168,6 +168,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   - [[Official Code](https://github.com/PaddlePaddle/PaddleSpatial/tree/main/research/Conformer)]
 
+- [Neural SDEs for Conditional Time Series Generation and the Signature-Wasserstein-1 metric](https://arxiv.org/abs/2301.01315)
+  
+  - 03 Jan 2023, Pere Díaz Lozano, et al.
+  
+  - [[Official Code](https://github.com/pere98diaz/neural-sdes-for-conditional-time-series-generation-and-the-signature-wasserstein-1-metric)]
+
 ### 2022
 
 - [End-to-End Modeling Hierarchical Time Series Using Autoregressive Transformer and Conditional Normalizing Flow based Reconciliation](https://arxiv.org/abs/2212.13706)
