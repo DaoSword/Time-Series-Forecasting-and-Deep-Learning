@@ -349,6 +349,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   * 19 Jul 2022, Mary Phuong, Marcus Hutter
 
+* [Learning Deep Time-index Models for Time Series Forecasting](https://arxiv.org/abs/2207.06046)
+  
+  * 13 Jul 2022, Gerald Woo, et al.
+  
+  * [[Official Code - DeepTime](https://github.com/salesforce/deeptime)]
+
 * [Volatility Based Kernels and Moving Average Means for Accurate Forecasting with Gaussian Processes](https://arxiv.org/abs/2207.06544)
   
   - 13 Jul 2022, Gregory Benton, et al.
