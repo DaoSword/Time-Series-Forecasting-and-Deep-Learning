@@ -219,6 +219,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 - GBT: Two-stage Transformer Framework for Non-stationary Time Series Forecasting (Manuscript submitted to Information Sciences)
   
   - [[Official Code](https://github.com/OrigamiSL/GBT)]
+
+- [Sequential Predictive Conformal Inference for Time Series](https://arxiv.org/abs/2212.03463)
+  
+  - 07 Dec 2022, Chen Xu, et al.
+  
+  - [[Official Code - SPCI-code](https://github.com/hamrel-cxu/SPCI-code)]
 * [A K-variate Time Series Is Worth K Words: Evolution of the Vanilla Transformer Architecture for Long-term Multivariate Time Series Forecasting](https://arxiv.org/abs/2212.02789)
   
   * 6 Dec 2022, Zanwei Zhou, et al.
