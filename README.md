@@ -739,6 +739,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   * [[Official Code](https://github.com/feedzai/timeshap)]
 
+* [Conformal prediction for time series](https://arxiv.org/abs/2010.09107)
+  
+  * 18 Oct 2020, Chen Xu, et al.
+  
+  * [[Official Code - EnbPI](https://github.com/hamrel-cxu/EnbPI)]
+
 * [A Transformer-based Framework for Multivariate Time Series Representation Learning](https://arxiv.org/abs/2010.02803)
   
   * 6 Oct 2020, George Zerveas, et al.
