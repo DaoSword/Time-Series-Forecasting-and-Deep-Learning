@@ -64,6 +64,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   - 01 May 2023, Lequan Lin, et al.
 
+- [Prototype-oriented unsupervised anomaly detection for multivariate time series](https://openreview.net/forum?id=3vO4lS6PuF)
+  
+  - 25 Apr 2023, Yuxin Li, et al.
+  
+  - [[Official Code - PUAD](https://github.com/BoChenGroup/PUAD)]
+
 - [Long-term Forecasting with TiDE: Time-series Dense Encoder](https://arxiv.org/abs/2304.08424)
   
   - 17 Apr 2023, Abhimanyu Das, et al.
