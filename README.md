@@ -411,6 +411,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   - [[Official Code](https://github.com/Scaleformer/Scaleformer)]
 
+- [SOM-CPC: Unsupervised Contrastive Learning with Self-Organizing Maps for Structured Representations of High-Rate Time Series](https://arxiv.org/abs/2205.15875)
+  
+  - 31 May 2022, Iris A.M. Huijben, et al.
+  
+  - [[Official Code - SOM-CPC](https://github.com/iamhuijben/som-cpc)]
+
 - [Non-stationary Transformers: Exploring the Stationarity in Time Series Forecasting](https://arxiv.org/abs/2205.14415)
   
   - 28 May 2022, Yong Liu, et al.
