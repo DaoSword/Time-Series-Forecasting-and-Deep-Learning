@@ -1080,6 +1080,10 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   * `tft-torch` is a Python library that implements ["Temporal Fusion Transformers for Interpretable Multi-horizon Time Series Forecasting"](https://arxiv.org/abs/1912.09363) using pytorch framework.
 
+* [Time Interpret (tint)](https://github.com/josephenguehard/time_interpret)
+  
+  * This library expands the [Captum library](https://captum.ai/) with a specific focus on time-series.
+
 * [Time Series Library (TSlib)](https://github.com/thuml/Time-Series-Library)
   
   * `TSlib` is an open-source library for deep learning researchers, especially deep time series analysis.
