@@ -168,6 +168,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   - 27 Jan 2023, Hui He, et al.
 
+- [Neural Continuous-Discrete State Space Models for Irregularly-Sampled Time Series](https://arxiv.org/abs/2301.11308)
+  
+  - 26 Jan 2023, Abdul Fatir Ansari, et al.
+  
+  - [[Official Code - NCDSSM](https://github.com/clear-nus/NCDSSM)]
+
 - [Generative Time Series Forecasting with Diffusion, Denoise, and Disentanglement](https://arxiv.org/abs/2301.03028)
   
   - 08 Jan 2023, Yan Li, et al.
