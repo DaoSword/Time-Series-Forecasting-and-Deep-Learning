@@ -24,6 +24,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ### 2023
 
+- [Sequential Monte Carlo Learning for Time Series Structure Discovery](https://arxiv.org/abs/2307.09607)
+  
+  - 13 Jul 2023, Feras A. Saad, et al.
+  
+  - [[Official Code - AutoGP.jl](https://github.com/probsys/AutoGP.jl)]
+
 - [SageFormer: Series-Aware Graph-Enhanced Transformers for Multivariate Time Series Forecasting](https://arxiv.org/abs/2307.01616)
   
   - 04 Jul 2023, Zhenwei Zhang, et al.
