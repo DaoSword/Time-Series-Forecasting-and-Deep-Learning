@@ -82,6 +82,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   - [[Official Code - PUAD](https://github.com/BoChenGroup/PUAD)]
 
+- [Sequential Multi-Dimensional Self-Supervised Learning for Clinical Time Series](https://openreview.net/forum?id=WhRLdsDTBD)
+  
+  - 25 Apr 2023, Aniruddh Raghu, et al.
+  
+  - [[Official Code - SMD-SSL](https://github.com/aniruddhraghu/smd-ssl)]
+
 - [Long-term Forecasting with TiDE: Time-series Dense Encoder](https://arxiv.org/abs/2304.08424)
   
   - 17 Apr 2023, Abhimanyu Das, et al.
