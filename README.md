@@ -957,6 +957,10 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   - Autoregressive Conditional Heteroskedasticity (ARCH) and other tools for financial econometrics, written in Python (with Cython and/or Numba used to improve performance)
 
+- [AutoGP.jl](https://github.com/probsys/AutoGP.jl)
+  
+  - A Julia package for learning the covariance structure of Gaussian process time series models.
+
 - [AutoTS](https://github.com/winedarksea/AutoTS)
   
   - `AutoTS` is a time series package for Python designed for rapidly deploying high-accuracy forecasts at scale.
