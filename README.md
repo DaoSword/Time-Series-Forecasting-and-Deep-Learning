@@ -257,13 +257,13 @@ List of research papers focus on time series forecasting and deep learning, as w
   - [[Official Code - SPCI-code](https://github.com/hamrel-cxu/SPCI-code)]
 * [A K-variate Time Series Is Worth K Words: Evolution of the Vanilla Transformer Architecture for Long-term Multivariate Time Series Forecasting](https://arxiv.org/abs/2212.02789)
   
-  * 6 Dec 2022, Zanwei Zhou, et al.
+  * 06 Dec 2022, Zanwei Zhou, et al.
   
   * [[Official Code](https://github.com/Zanue/MTSF_TVT)]
 
 * [DSTAGNN: Dynamic Spatial-Temporal Aware Graph Neural Network for Traffic Flow Forecasting](https://proceedings.mlr.press/v162/lan22a.html)
   
-  * 6 Dec 2022, Shiyong Lan, et al.
+  * 06 Dec 2022, Shiyong Lan, et al.
   
   * [[Official Code](https://github.com/SYLan2019/DSTAGNN)]
 
@@ -273,15 +273,21 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   * [[Official Code](https://github.com/hrna-ox/camelot-icml)]
 
+* [CoTMix: Contrastive Domain Adaptation for Time-Series via Temporal Mixup](https://arxiv.org/abs/2212.01555)
+  
+  * 03 Dec 2022, Emadeldeen Eldele, et al.
+  
+  * [[Official Code - CoTMix](https://github.com/emadeldeen24/cotmix)]
+
 * [FECAM: Frequency Enhanced Channel Attention Mechanism for Time Series Forecasting](https://arxiv.org/abs/2212.01209)
   
-  * 2 Dec 2022, Maowei Jiang, et al.
+  * 02 Dec 2022, Maowei Jiang, et al.
   
   * [[Official Code](https://github.com/zero-coder/fecam)]
 
 * [MHCCL: Masked Hierarchical Cluster-wise Contrastive Learning for Multivariate Time Series](https://arxiv.org/abs/2212.01209)
   
-  * 2 Dec 2022, Qianwen Meng, et al.
+  * 02 Dec 2022, Qianwen Meng, et al.
   
   * [[Official Code](https://github.com/mqwfrog/mhccl)]
 
@@ -305,17 +311,17 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 * [A Comprehensive Survey of Regression Based Loss Functions for Time Series Forecasting](https://arxiv.org/abs/2211.02989)
   
-  * 5 Nov 2022, Aryan Jadon, et al.
+  * 05 Nov 2022, Aryan Jadon, et al.
   
   * [[Official Code](https://github.com/aryan-jadon/regression-loss-functions-in-time-series-forecasting-tensorflow)]
 
 * [Multivariate Time-Series Forecasting with Temporal Polynomial Graph Neural Networks](https://openreview.net/forum?id=pMumil2EJh)
   
-  * 1 Nov 2022, Yijing Liu, et al.
+  * 01 Nov 2022, Yijing Liu, et al.
 
 * [Time-Conditioned Dances with Simplicial Complexes: Zigzag Filtration Curve based Supra-Hodge Convolution Networks for Time-series Forecasting](https://openreview.net/forum?id=2Ln-TWxVtf)
   
-  * 1 Nov 2022, Yuzhou Chen, et al.
+  * 01 Nov 2022, Yuzhou Chen, et al.
 
 * [TILDE-Q: A Transformation Invariant Loss Function for Time-Series Forecasting](https://arxiv.org/abs/2210.15050)
   
@@ -399,7 +405,7 @@ List of research papers focus on time series forecasting and deep learning, as w
 - [Less Is More: Fast Multivariate Time Series Forecasting with
   Light Sampling-oriented MLP Structures](https://arxiv.org/abs/2207.01186)
   
-  - 4 Jul 2022, Tianping Zhang, et al.
+  - 04 Jul 2022, Tianping Zhang, et al.
 
 - [CATN: Cross Attentive Tree-Aware Network for Multivariate Time Series Forecasting](https://ojs.aaai.org/index.php/AAAI/article/view/20320)
   
@@ -431,7 +437,7 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 - [Scaleformer: Iterative Multi-scale Refining Transformers for Time Series Forecasting](https://arxiv.org/abs/2206.04038)
   
-  - 8 Jun 2022, Amin Shabani, et al.
+  - 08 Jun 2022, Amin Shabani, et al.
   
   - [[Official Code](https://github.com/Scaleformer/Scaleformer)]
 
@@ -526,13 +532,13 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 - [CoST: Contrastive Learning of Disentangled Seasonal-Trend Representations for Time Series Forecasting](https://arxiv.org/abs/2202.01575)
   
-  - 3 Feb 2022, Gerald Woo, et al.
+  - 03 Feb 2022, Gerald Woo, et al.
   
   - [[Official Code](https://github.com/salesforce/CoST)]
 
 - [ETSformer: Exponential Smoothing Transformers for Time-series Forecasting](https://arxiv.org/abs/2202.01381)
   
-  - 3 Feb 2022, Gerald Woo, et al.
+  - 03 Feb 2022, Gerald Woo, et al.
   
   - [[Official Code](https://github.com/salesforce/ETSformer)]
 
@@ -564,7 +570,7 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 - [Reconstructing Nonlinear Dynamical Systems from Multi-Modal Time Series](https://arxiv.org/abs/2111.02922)
   
-  - 4 Nov 2021, Daniel Kramer, et al.
+  - 04 Nov 2021, Daniel Kramer, et al.
   
   - [[Official Code](https://github.com/durstewitzlab/mmplrnn)]
 
@@ -685,7 +691,7 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 * [Unsupervised Representation Learning for Time Series with Temporal Neighborhood Coding](https://arxiv.org/abs/2106.00750)
   
-  * 1 Jun 2021, Sana Tonekaboni, et al.
+  * 01 Jun 2021, Sana Tonekaboni, et al.
   
   * [[Official Code](https://github.com/sanatonek/TNC_representation_learning)]
 
@@ -709,19 +715,19 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 * [FluxEV: A Fast and Effective Unsupervised Framework for Time-Series Anomaly Detection](https://dl.acm.org/doi/10.1145/3437963.3441823)
   
-  * 8 Mar 2021, Jia Li, et al.
+  * 08 Mar 2021, Jia Li, et al.
   
   * [[Official Code](https://github.com/jlidw/FluxEV)]
 
 * [Perceiver: General Perception with Iterative Attention](https://arxiv.org/abs/2103.03206)
   
-  * 4 Mar 2021, Andrew Jaegle, et al.
+  * 04 Mar 2021, Andrew Jaegle, et al.
   
   * [[Official Code](https://github.com/deepmind/deepmind-research/tree/master/perceiver)] [[Community Code](https://github.com/lucidrains/perceiver-pytorch)]
 
 * [Dynamic Gaussian Mixture based Deep Generative Model For Robust Forecasting on Sparse Multivariate Time Series](https://arxiv.org/abs/2103.02164)
   
-  * 3 Mar 2021, Yinjun Wu, et al.
+  * 03 Mar 2021, Yinjun Wu, et al.
   
   * [[Official Code](https://github.com/thuwuyinjun/DGM2)]
 
@@ -751,19 +757,19 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 * [Long Horizon Forecasting With Temporal Point Processes](https://arxiv.org/abs/2101.02815)
   
-  * 8 Jan 2021, Prathamesh Deshpande, et al.
+  * 08 Jan 2021, Prathamesh Deshpande, et al.
   
   * [[Official Code](https://github.com/pratham16cse/DualTPP)]
 
 * [Do We Really Need Deep Learning Models for Time Series Forecasting?](https://arxiv.org/abs/2101.02118)
   
-  * 6 Jan 2021, Shereen Elsayed, et al.
+  * 06 Jan 2021, Shereen Elsayed, et al.
   
   * [[Code](https://github.com/Daniela-Shereen/GBRT-for-TSF)]
 
 * [Conditional Local Convolution for Spatio-temporal Meteorological Forecasting](https://arxiv.org/abs/2101.01000)
   
-  * 4 Jan 2021, Haitao Lin, et al.
+  * 04 Jan 2021, Haitao Lin, et al.
   
   * [[Official Code](https://github.com/BIRD-TAO/CLCRN)]
 
@@ -789,7 +795,7 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 * [A Transformer-based Framework for Multivariate Time Series Representation Learning](https://arxiv.org/abs/2010.02803)
   
-  * 6 Oct 2020, George Zerveas, et al.
+  * 06 Oct 2020, George Zerveas, et al.
   
   * [[Code](https://github.com/gzerveas/mvts_transformer)]
 
@@ -801,7 +807,7 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 * [Deep Learning for Anomaly Detection: A Review](https://arxiv.org/abs/2007.02500)
   
-  * 6 Jul 2020, Guansong Pang, et al.
+  * 06 Jul 2020, Guansong Pang, et al.
 
 * [On Multivariate Singular Spectrum Analysis and its Variants](https://arxiv.org/abs/2006.13448)
   
