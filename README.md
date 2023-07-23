@@ -76,6 +76,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   - 01 May 2023, Lequan Lin, et al.
 
+- [Context Consistency Regularization for Label Sparsity in Time Series](https://openreview.net/forum?id=EvGOdASdHi)
+  
+  - 25 Apr 2023, Yooju Shin, et al.
+  
+  - [[Official Code - CrossMatch](https://github.com/kaist-dmlab/CrossMatch)]
+
 - [Prototype-oriented unsupervised anomaly detection for multivariate time series](https://openreview.net/forum?id=3vO4lS6PuF)
   
   - 25 Apr 2023, Yuxin Li, et al.
