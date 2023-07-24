@@ -1156,6 +1156,10 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   * Calculates various features from time series data. Python implementation of the R package [*tsfeatures*](https://github.com/robjhyndman/tsfeatures).
 
+* [TSFEL](https://github.com/fraunhoferportugal/tsfel)
+  
+  * Time Series Feature Extraction Library (TSFEL for short) is a Python package for feature extraction on time series data.
+
 * [tsfresh](https://github.com/blue-yonder/tsfresh)
   
   - `tsfresh` provides systematic time-series feature extraction by combining established algorithms from statistics, time-series analysis, signal processing, and nonlinear dynamics with a robust feature selection algorithm.
