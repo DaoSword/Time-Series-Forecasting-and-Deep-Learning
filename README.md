@@ -30,6 +30,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   - [[Official Code - AutoGP.jl](https://github.com/probsys/AutoGP.jl)]
 
+- [A Survey on Graph Neural Networks for Time Series: Forecasting, Classification, Imputation, and Anomaly Detection](https://arxiv.org/abs/2307.03759)
+  
+  - 07 Jul 2023, Ming Jin, et al.
+  
+  - [[Official Code - Awesome-GNN4TS](https://github.com/kimmeen/awesome-gnn4ts)]
+
 - [SageFormer: Series-Aware Graph-Enhanced Transformers for Multivariate Time Series Forecasting](https://arxiv.org/abs/2307.01616)
   
   - 04 Jul 2023, Zhenwei Zhang, et al.
