@@ -1120,6 +1120,10 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   * `tft-torch` is a Python library that implements ["Temporal Fusion Transformers for Interpretable Multi-horizon Time Series Forecasting"](https://arxiv.org/abs/1912.09363) using pytorch framework.
 
+* [TimeEval](https://github.com/HPI-Information-Systems/TimeEval)
+  
+  * `TimeEval` is an evaluation tool for time series anomaly detection algorithms.
+
 * [Time Interpret (tint)](https://github.com/josephenguehard/time_interpret)
   
   * This library expands the [Captum library](https://captum.ai/) with a specific focus on time-series.
