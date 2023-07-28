@@ -24,6 +24,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ### 2023
 
+- [Look Ahead: Improving the Accuracy of Time-Series Forecasting by Previewing Future Time Features](https://dl.acm.org/doi/abs/10.1145/3539618.3592013)
+  
+  - 18 July 2023, Seonmin Kim, et al.
+  
+  - [[Official Code - Look Ahead](https://github.com/sunsunmin/Look_Ahead)]
+
 - [Sequential Monte Carlo Learning for Time Series Structure Discovery](https://arxiv.org/abs/2307.09607)
   
   - 13 Jul 2023, Feras A. Saad, et al.
