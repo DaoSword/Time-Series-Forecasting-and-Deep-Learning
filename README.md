@@ -24,6 +24,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ### 2023
 
+- [TransFusion: Generating Long, High Fidelity Time Series using Diffusion Models with Transformers](https://arxiv.org/abs/2307.12667)
+  
+  - 24 Jul 2023, Md Fahim Sikder, et al.
+  
+  - [[Official Code - TransFusion](https://github.com/fahim-sikder/TransFusion)]
+
 - [Look Ahead: Improving the Accuracy of Time-Series Forecasting by Previewing Future Time Features](https://dl.acm.org/doi/abs/10.1145/3539618.3592013)
   
   - 18 July 2023, Seonmin Kim, et al.
