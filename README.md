@@ -74,6 +74,10 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   - 19 Jun 2023, Xinli Yu, et al.
 
+- [TSMixer: Lightweight MLP-Mixer Model for Multivariate Time Series Forecasting](https://arxiv.org/abs/2306.09364)
+  
+  - 14 Jun 2023, Vijay Ekambaram, et al.
+
 - [An End-to-End Time Series Model for Simultaneous Imputation and Forecast](https://arxiv.org/abs/2306.00778)
   
   - 01 Jun 2023, Trang H. Tran, et al.
