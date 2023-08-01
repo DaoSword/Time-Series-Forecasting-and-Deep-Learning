@@ -627,7 +627,9 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 * [Anomaly Transformer: Time Series Anomaly Detection with Association Discrepancy](https://arxiv.org/abs/2110.02642)
   
-  * 6 Oct 2021, Jiehui Xu, et al.
+  * 06 Oct 2021, Jiehui Xu, et al.
+  
+  * [[Official Code - Anomaly-Transformer](https://github.com/thuml/Anomaly-Transformer)]
 
 * [CALDA: Improving Multi-Source Time Series Domain Adaptation with Contrastive Adversarial Learning](https://arxiv.org/abs/2109.14778)
   
