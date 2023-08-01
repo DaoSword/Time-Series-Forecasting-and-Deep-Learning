@@ -74,6 +74,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   - 19 Jun 2023, Xinli Yu, et al.
 
+- [DCdetector: Dual Attention Contrastive Representation Learning for Time Series Anomaly Detection](https://arxiv.org/abs/2306.10347)
+  
+  - 17 Jun 2023, Yiyuan Yang, et al.
+  
+  - [[Official Code - KDD2023-DCdetector](https://github.com/DAMO-DI-ML/KDD2023-DCdetector)]
+
 - [TSMixer: Lightweight MLP-Mixer Model for Multivariate Time Series Forecasting](https://arxiv.org/abs/2306.09364)
   
   - 14 Jun 2023, Vijay Ekambaram, et al.
