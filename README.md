@@ -84,6 +84,10 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   - 14 Jun 2023, Vijay Ekambaram, et al.
 
+- [Correlated Time Series Self-Supervised Representation Learning via Spatiotemporal Bootstrapping](https://arxiv.org/abs/2306.06994)
+  
+  - 12 Jun 2023, Luxuan Wang, et al.
+
 - [An End-to-End Time Series Model for Simultaneous Imputation and Forecast](https://arxiv.org/abs/2306.00778)
   
   - 01 Jun 2023, Trang H. Tran, et al.
