@@ -80,6 +80,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   - [[Official Code - KDD2023-DCdetector](https://github.com/DAMO-DI-ML/KDD2023-DCdetector)]
 
+- [Self-Supervised Learning for Time Series Analysis: Taxonomy, Progress, and Prospects](https://arxiv.org/abs/2306.10125)
+  
+  - 16 Jun 2023, Kexin Zhang, et al.
+  
+  - [[Official Code - Awesome-SSL4TS](https://github.com/qingsongedu/Awesome-SSL4TS)]
+
 - [TSMixer: Lightweight MLP-Mixer Model for Multivariate Time Series Forecasting](https://arxiv.org/abs/2306.09364)
   
   - 14 Jun 2023, Vijay Ekambaram, et al.
