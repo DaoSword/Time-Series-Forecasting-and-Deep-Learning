@@ -1128,6 +1128,10 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   - `PyTorchTS` is a [PyTorch](https://github.com/pytorch/pytorch) Probabilistic Time Series forecasting framework which provides state of the art PyTorch time series models by utilizing [GluonTS](https://github.com/awslabs/gluon-ts) as its back-end API and for loading, transforming and back-testing time series data sets.
 
+* [pytrendseries](https://github.com/rafa-rod/pytrendseries)
+  
+  * `pytrendseries` is a Python library for detection of trends in time series like: stock prices, monthly sales, daily temperature of a city and so on.
+
 * [pyts](https://pyts.readthedocs.io/en/stable/)
   
   - `pyts` is a Python package dedicated to time series classification.
