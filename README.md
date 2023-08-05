@@ -500,7 +500,7 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   - 26 May 2022, Ailing Zeng, et al.
   
-  - [[Official Code](https://github.com/cure-lab/DLinear)]
+  - [[Official Code - LTSF-Linear](https://github.com/cure-lab/LTSF-Linear)]
 
 - [FiLM: Frequency improved Legendre Memory Model for Long-term Time Series Forecasting](https://arxiv.org/abs/2205.08897)
   
