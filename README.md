@@ -24,6 +24,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ### 2023
 
+- [Unsupervised Representation Learning for Time Series: A Review](https://arxiv.org/abs/2308.01578)
+  
+  - 03 Aug 2023, Qianwen Meng, et al.
+  
+  - [[Official Code - ULTS](https://github.com/mqwfrog/ULTS)]
+
 - [TransFusion: Generating Long, High Fidelity Time Series using Diffusion Models with Transformers](https://arxiv.org/abs/2307.12667)
   
   - 24 Jul 2023, Md Fahim Sikder, et al.
