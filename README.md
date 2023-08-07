@@ -30,6 +30,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   - [[Official Code - ULTS](https://github.com/mqwfrog/ULTS)]
 
+- [Automatic Feature Engineering for Time Series Classification: Evaluation and Discussion](https://arxiv.org/abs/2308.01071)
+  
+  - 02 Aug 2023, Aurélien Renault, et al.
+  
+  - [[Official Code - Automatic-Feature-Engineering-for-TSC](https://github.com/aurelien-renault/Automatic-Feature-Engineering-for-TSC)]
+
 - [TransFusion: Generating Long, High Fidelity Time Series using Diffusion Models with Transformers](https://arxiv.org/abs/2307.12667)
   
   - 24 Jul 2023, Md Fahim Sikder, et al.
