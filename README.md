@@ -36,6 +36,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   - [[Official Code - Automatic-Feature-Engineering-for-TSC](https://github.com/aurelien-renault/Automatic-Feature-Engineering-for-TSC)]
 
+- [DeepTSF: Codeless machine learning operations for time series forecasting](https://arxiv.org/abs/2308.00709)
+  
+  - 28 Jul 2023, Sotiris Pelekis, et al.
+  
+  - [[Official Code - DeepTSF](https://github.com/I-NERGY/DeepTSF)]
+
 - [TransFusion: Generating Long, High Fidelity Time Series using Diffusion Models with Transformers](https://arxiv.org/abs/2307.12667)
   
   - 24 Jul 2023, Md Fahim Sikder, et al.
