@@ -36,6 +36,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   - [[Official Code - Automatic-Feature-Engineering-for-TSC](https://github.com/aurelien-renault/Automatic-Feature-Engineering-for-TSC)]
 
+- [Enhancing Representation Learning for Periodic Time Series with Floss: A Frequency Domain Regularization Approach](https://arxiv.org/abs/2308.01011)
+  
+  - 02 Aug 2023, Chunwei Yang, et al.
+  
+  - [[Official Code - Floss](https://github.com/agustdd/floss)]
+
 - [DeepTSF: Codeless machine learning operations for time series forecasting](https://arxiv.org/abs/2308.00709)
   
   - 28 Jul 2023, Sotiris Pelekis, et al.
