@@ -118,6 +118,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   - 12 Jun 2023, Luxuan Wang, et al.
 
+- [Feature Programming for Multivariate Time Series Prediction](https://arxiv.org/abs/2306.06252)
+  
+  - 09 Jun 2023, Alex Reneau, et al.
+  
+  - [[Official Code - FeatureProgramming](https://github.com/SirAlex900/FeatureProgramming)]
+
 - [An End-to-End Time Series Model for Simultaneous Imputation and Forecast](https://arxiv.org/abs/2306.00778)
   
   - 01 Jun 2023, Trang H. Tran, et al.
@@ -622,6 +628,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   - [[Official Code](https://github.com/cchallu/n-hits)]
 
+- [Reversible Instance Normalization for Accurate Time-Series Forecasting against Distribution Shift](https://openreview.net/forum?id=cGDAkQo1C0p)
+  
+  - 29 Sep 2022, Taesung Kim, et al.
+  
+  - [[Official Code](https://github.com/ts-kim/RevIN)]
+
 ### 2021
 
 - [TLogic: Temporal Logical Rules for Explainable Link Forecasting on Temporal Knowledge Graphs](https://arxiv.org/abs/2112.08025)
@@ -676,12 +688,6 @@ List of research papers focus on time series forecasting and deep learning, as w
   * 29 Sep 2021, Shizhan Liu, et al.
   
   * [[Code](https://github.com/alipay/Pyraformer)]
-
-* [Reversible Instance Normalization for Accurate Time-Series Forecasting against Distribution Shift](https://openreview.net/forum?id=cGDAkQo1C0p)
-  
-  * 29 Sep 2021, Taesung Kim, et al.
-  
-  * [[Official Code](https://github.com/ts-kim/RevIN)]
 
 * [DeepAID: Interpreting and Improving Deep Learning-based Anomaly Detection in Security Applications](https://arxiv.org/abs/2109.11495)
   
