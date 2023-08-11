@@ -642,6 +642,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   - [[Official Code](https://github.com/liu-yushan/tlogic)]
 
+- [NeuralProphet: Explainable Forecasting at Scale](https://arxiv.org/abs/2111.15397)
+  
+  - 29 Nov 2021, Oskar Triebe, et al.
+  
+  - [[Official Code - NeuralProphet](https://github.com/ourownstory/neural_prophet)]
+
 - [Modeling Irregular Time Series with Continuous Recurrent Units](https://arxiv.org/abs/2111.11344)
   
   - 22 Nov 2021, Mona Schirmer, et al.
