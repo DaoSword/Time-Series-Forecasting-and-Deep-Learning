@@ -636,6 +636,10 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ### 2021
 
+- [A Comparative Study of Detecting Anomalies in Time Series Data Using LSTM and TCN Models](https://arxiv.org/abs/2112.09293)
+  
+  - 17 Dec 2021, Saroj Gopali, et al.
+
 - [TLogic: Temporal Logical Rules for Explainable Link Forecasting on Temporal Knowledge Graphs](https://arxiv.org/abs/2112.08025)
   
   - 15 Dec 2021, Yushan Liu, et al.
