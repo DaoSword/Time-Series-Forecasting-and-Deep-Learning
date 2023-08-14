@@ -1311,6 +1311,10 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   * This is for learning, studying, researching, and analyzing stock in deep learning (DL) and machine learning (ML).
 
+* [Feature Engineering for Time Series Forecasting](https://github.com/trainindata/feature-engineering-for-time-series-forecasting)
+  
+  * Create lag, window and seasonal features, perform imputation, variable encoding, extract features from datetime, remove outliers, and more.
+
 * [Stock-Prediction-Models](https://github.com/huseinzol05/Stock-Prediction-Models)
   
   * Gathers machine learning and deep learning models for Stock forecasting, included trading bots and simulations.
