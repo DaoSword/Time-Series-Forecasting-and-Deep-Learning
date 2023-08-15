@@ -1031,7 +1031,11 @@ List of research papers focus on time series forecasting and deep learning, as w
   * 13 Apr 2017, David Salinas, et al.
   
   * [[Code](https://github.com/jdb78/pytorch-forecasting)]
-- [CS25: Transformers United](https://web.stanford.edu/class/cs25/)
+- [Modeling Long- and Short-Term Temporal Patterns with Deep Neural Networks](https://arxiv.org/abs/1703.07015)
+  
+  - 21 Mar 2017, Guokun Lai, et al.
+  
+  - [[Official Code - LSTNet](https://github.com/laiguokun/LSTNet)]
 
 ## Blogs
 
