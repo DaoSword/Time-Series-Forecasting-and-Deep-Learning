@@ -168,6 +168,10 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   - [[Official Code - google-research - tide](https://github.com/google-research/google-research/tree/master/tide)] [[Unofficial Implementation - TiDE](https://github.com/lich99/TiDE)]
 
+- [Financial Time Series Forecasting using CNN and Transformer](https://arxiv.org/abs/2304.04912)
+  
+  - 11 Apr 2023, Zhen Zeng, et al.
+
 - [The Capacity and Robustness Trade-off: Revisiting the Channel Independent Strategy for Multivariate Time Series Forecasting](https://arxiv.org/abs/2304.05206)
   
   - 11 Apr 2023, Lu Han, et al.
