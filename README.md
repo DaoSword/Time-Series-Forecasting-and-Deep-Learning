@@ -1030,6 +1030,10 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   * [[Code](https://github.com/huggingface/transformers)]
 
+* [Deep Learning for Precipitation Nowcasting: A Benchmark and A New Model](https://arxiv.org/abs/1706.03458)
+  
+  * 12 Jun 2017, Xingjian Shi, et al.
+
 * [DeepAR: Probabilistic Forecasting with Autoregressive Recurrent Networks](https://arxiv.org/abs/1704.04110)
   
   * 13 Apr 2017, David Salinas, et al.
