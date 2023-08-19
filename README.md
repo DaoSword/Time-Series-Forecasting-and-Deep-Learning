@@ -963,6 +963,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   * [[Code](https://github.com/mlpotter/Transformer_Time_Series)] [[Community Code](https://github.com/ghsama/ConvTransformerTimeSeries)]
 
+* [Probabilistic Forecasting with Temporal Convolutional Neural Network](https://arxiv.org/abs/1906.04397)
+  
+  * 11 Jun 2019, Yitian Chen, et al.
+  
+  * [[Official Code - deepTCN](https://github.com/oneday88/deepTCN)]
+
 * [N-BEATS: Neural basis expansion analysis for interpretable time series forecasting](https://arxiv.org/abs/1905.10437)
   
   * 24 May 2019, Boris N. Oreshkin, et al.
