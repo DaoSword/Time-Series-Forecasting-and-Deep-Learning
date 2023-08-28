@@ -24,6 +24,10 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ### 2023
 
+- [SegRNN: Segment Recurrent Neural Network for Long-Term Time Series Forecasting](https://arxiv.org/abs/2308.11200)
+  
+  - 22 Aug 2023, Shengsheng Lin, et al.
+
 - [Unsupervised Representation Learning for Time Series: A Review](https://arxiv.org/abs/2308.01578)
   
   - 03 Aug 2023, Qianwen Meng, et al.
