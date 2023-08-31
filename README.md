@@ -477,6 +477,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   * 19 Jul 2022, Mary Phuong, Marcus Hutter
 
+* [Robust Multivariate Time-Series Forecasting: Adversarial Attacks and Defense Mechanisms](https://arxiv.org/abs/2207.09572)
+  
+  * 19 Jul 2022, Linbo Liu, et al.
+  
+  * [[Official Code - gluonts](https://github.com/awslabs/gluonts)]
+
 * [Learning Deep Time-index Models for Time Series Forecasting](https://arxiv.org/abs/2207.06046)
   
   * 13 Jul 2022, Gerald Woo, et al.
