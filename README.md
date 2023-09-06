@@ -32,6 +32,10 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   - 22 Aug 2023, Shengsheng Lin, et al.
 
+- [LLM4TS: Two-Stage Fine-Tuning for Time-Series Forecasting with Pre-Trained LLMs](https://arxiv.org/abs/2308.08469)
+  
+  - 16 Aug 2023, Ching Chang, et al.
+
 - [Unsupervised Representation Learning for Time Series: A Review](https://arxiv.org/abs/2308.01578)
   
   - 03 Aug 2023, Qianwen Meng, et al.
