@@ -36,6 +36,10 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   - 16 Aug 2023, Ching Chang, et al.
 
+- [Hierarchical Proxy Modeling for Improved HPO in Time Series Forecasting](https://dl.acm.org/doi/abs/10.1145/3580305.3599378)
+  
+  - 04 Aug 2023, Arindam Jati, et al.
+
 - [Unsupervised Representation Learning for Time Series: A Review](https://arxiv.org/abs/2308.01578)
   
   - 03 Aug 2023, Qianwen Meng, et al.
