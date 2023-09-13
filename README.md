@@ -206,6 +206,10 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   - [[Official Code](https://github.com/LceOmlet/UniTS)]
 
+- [Style Miner: Find Significant and Stable Explanatory Factors in Time Series with Constrained Reinforcement Learning](https://arxiv.org/abs/2303.11716)
+  
+  - 21 Mar 2023, Dapeng Li, et al.
+
 - [Late Meta-learning Fusion Using Representation Learning for Time Series Forecasting](https://arxiv.org/abs/2303.11000)
   
   - 20 Mar 2023, Terence L van Zyl.
