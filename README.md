@@ -580,6 +580,10 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   - [[Official Code](https://github.com/sheoyon-jhin/EXIT)]
 
+- [Multi-Granularity Residual Learning with Confidence Estimation for Time Series Prediction](https://dl.acm.org/doi/abs/10.1145/3485447.3512056)
+  
+  - 25 April 2022, Min Hou, et al.
+
 - [RETE: Retrieval-Enhanced Temporal Event Forecasting on Unified Query Product Evolutionary Graph](https://dl.acm.org/doi/abs/10.1145/3485447.3511974)
   
   - 25 April 2022, Ruijie Wang, et al.
