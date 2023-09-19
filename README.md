@@ -935,6 +935,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   * [[Official Code - mSSA](https://github.com/AbdullahO/mSSA)]
 
+* [Connecting the Dots: Multivariate Time Series Forecasting with Graph Neural Networks](https://arxiv.org/abs/2005.11650)
+  
+  * 24 May 2020, Zonghan Wu, et al.
+  
+  * [[Official Code - MTGNN](https://github.com/nnzhan/MTGNN)]
+
 * [Time Series Data Augmentation for Deep Learning: A Survey](https://arxiv.org/abs/2002.12478)
   
   * 27 Feb 2020, Qingsong Wen, et al.
