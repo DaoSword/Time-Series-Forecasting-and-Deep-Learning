@@ -515,6 +515,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   - 28 Jun 2022, Hui He, et al.
 
+- [Learning the Evolutionary and Multi-scale Graph Structure for Multivariate Time Series Forecasting](https://arxiv.org/abs/2206.13816)
+  
+  - 28 Jun 2022, Junchen Ye, et al
+  
+  - [[Official Code - ESG](https://github.com/liuzh-19/esg)]
+
 - [Utilizing Expert Features for Contrastive Learning of Time-Series Representations](https://arxiv.org/abs/2206.11517)
   
   - 23 Jun 2022, Manuel Nonnenmacher, et al.
