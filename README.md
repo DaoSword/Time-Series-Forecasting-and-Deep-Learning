@@ -670,9 +670,15 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 - [Reversible Instance Normalization for Accurate Time-Series Forecasting against Distribution Shift](https://openreview.net/forum?id=cGDAkQo1C0p)
   
-  - 29 Sep 2022, Taesung Kim, et al.
+  - 29 Jan 2022, Taesung Kim, et al.
   
   - [[Official Code](https://github.com/ts-kim/RevIN)]
+ 
+- [Multi-Scale Adaptive Graph Neural Network for Multivariate Time Series Forecasting](https://arxiv.org/abs/2201.04828)
+
+  - 13 Jan 2022, Ling Chen, et al.
+ 
+  - [[Official Code - MAGNN](https://github.com/shangzongjiang/magnn)]
 
 ### 2021
 
