@@ -24,6 +24,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ### 2023
 
+- [PatchMixer: A Patch-Mixing Architecture for Long-Term Time Series Forecasting](https://arxiv.org/abs/2310.00655)
+
+  - 01 Oct 2023, Zeying Gong, et al.
+ 
+  - [[Official Code - PatchMixer](https://github.com/Zeying-Gong/PatchMixer)]
+
 - [Multi-scale Transformer Pyramid Networks for Multivariate Time Series Forecasting](https://arxiv.org/abs/2308.11946)
   
   - 23 Aug 2023, Yifan Zhang, et al.
