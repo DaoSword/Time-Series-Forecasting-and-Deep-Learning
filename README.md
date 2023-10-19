@@ -221,6 +221,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 20 Mar 2023, Terence L van Zyl.
   
   - [[Official Code](https://github.com/Pieter-Cawood/FFORMA-ESRNN)]
+ 
+- [TSMixer: An All-MLP Architecture for Time Series Forecasting](https://arxiv.org/abs/2303.06053)
+
+  - 10 Mar 2023, Si-An Chen, et al.
+ 
+  - [[Official Code - tsmixer](https://github.com/google-research/google-research/tree/master/tsmixer)]
 
 - [Time Series Forecasting with Transformer Models and Application to Asset Management](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4375798)
   
