@@ -758,7 +758,7 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   - [[Code](https://github.com/alipay/Pyraformer)]
  
-- [Long-Range Transformers for Dynamic Spatiotemporal Forecasting](https://arxiv.org/abs/2109.12218
+- [Long-Range Transformers for Dynamic Spatiotemporal Forecasting](https://arxiv.org/abs/2109.12218)
 
   - 24 Sep 2021, Jake Grigsby, et al
  
