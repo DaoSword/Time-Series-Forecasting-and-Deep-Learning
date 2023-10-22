@@ -727,195 +727,202 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 30 Oct 2021, Patrick Schäfer, et al.
   
   - [[Official Code](https://github.com/ermshaua/time-series-segmentation-benchmark)]
-* [HIST: A Graph-based Framework for Stock Trend Forecasting via Mining Concept-Oriented Shared Information](https://arxiv.org/abs/2110.13716)
+ 
+- [HIST: A Graph-based Framework for Stock Trend Forecasting via Mining Concept-Oriented Shared Information](https://arxiv.org/abs/2110.13716)
   
-  * 26 Oct 2021, Wentao Xu, et al.
+  - 26 Oct 2021, Wentao Xu, et al.
   
-  * [[Official Code](https://github.com/wentao-xu/hist)]
+  - [[Official Code](https://github.com/wentao-xu/hist)]
 
-* [Yformer: U-Net Inspired Transformer Architecture for Far Horizon Time Series Forecasting](https://arxiv.org/abs/2110.08255)
+- [Yformer: U-Net Inspired Transformer Architecture for Far Horizon Time Series Forecasting](https://arxiv.org/abs/2110.08255)
   
-  * 13 Oct 2021, Kiran Madhusudhanan, et al.
+  - 13 Oct 2021, Kiran Madhusudhanan, et al.
   
-  * [[Official Code](https://github.com/18kiran12/Yformer-Time-Series-Forecasting)]
+  - [[Official Code](https://github.com/18kiran12/Yformer-Time-Series-Forecasting)]
 
-* [Anomaly Transformer: Time Series Anomaly Detection with Association Discrepancy](https://arxiv.org/abs/2110.02642)
+- [Anomaly Transformer: Time Series Anomaly Detection with Association Discrepancy](https://arxiv.org/abs/2110.02642)
   
-  * 06 Oct 2021, Jiehui Xu, et al.
+  - 06 Oct 2021, Jiehui Xu, et al.
   
-  * [[Official Code - Anomaly-Transformer](https://github.com/thuml/Anomaly-Transformer)]
+  - [[Official Code - Anomaly-Transformer](https://github.com/thuml/Anomaly-Transformer)]
 
-* [CALDA: Improving Multi-Source Time Series Domain Adaptation with Contrastive Adversarial Learning](https://arxiv.org/abs/2109.14778)
+- [CALDA: Improving Multi-Source Time Series Domain Adaptation with Contrastive Adversarial Learning](https://arxiv.org/abs/2109.14778)
   
-  * 30 Sep 2021, Garrett Wilson, et al.
+  - 30 Sep 2021, Garrett Wilson, et al.
   
-  * [[Official Code](https://github.com/floft/calda)]
+  - [[Official Code](https://github.com/floft/calda)]
 
-* [Pyraformer: Low-Complexity Pyramidal Attention for Long-Range Time Series Modeling and Forecasting](https://openreview.net/forum?id=0EXmFzUn5I)
+- [Pyraformer: Low-Complexity Pyramidal Attention for Long-Range Time Series Modeling and Forecasting](https://openreview.net/forum?id=0EXmFzUn5I)
   
-  * 29 Sep 2021, Shizhan Liu, et al.
+  - 29 Sep 2021, Shizhan Liu, et al.
   
-  * [[Code](https://github.com/alipay/Pyraformer)]
+  - [[Code](https://github.com/alipay/Pyraformer)]
+ 
+- [Long-Range Transformers for Dynamic Spatiotemporal Forecasting](https://arxiv.org/abs/2109.12218
 
-* [DeepAID: Interpreting and Improving Deep Learning-based Anomaly Detection in Security Applications](https://arxiv.org/abs/2109.11495)
-  
-  * 23 Sep 2021, Dongqi Han, et al.
-  
-  * [[Official Code](https://github.com/dongtsi/deepaid)]
+  - 24 Sep 2021, Jake Grigsby, et al
+ 
+  - [[Official Code - spacetimeformer](https://github.com/qdata/spacetimeformer)]
 
-* [CAMul: Calibrated and Accurate Multi-view Time-Series Forecasting](https://arxiv.org/abs/2109.07438)
+- [DeepAID: Interpreting and Improving Deep Learning-based Anomaly Detection in Security Applications](https://arxiv.org/abs/2109.11495)
   
-  * 15 Sep 2021, Harshavardhan Kamarthi, et al.
+  - 23 Sep 2021, Dongqi Han, et al.
   
-  * [[Official Code](https://github.com/adityalab/camul)]
+  - [[Official Code](https://github.com/dongtsi/deepaid)]
 
-* [Spatio-Temporal Recurrent Networks for Event-Based Optical Flow Estimation](https://arxiv.org/abs/2109.04871)
+- [CAMul: Calibrated and Accurate Multi-view Time-Series Forecasting](https://arxiv.org/abs/2109.07438)
   
-  * 10 Sep 2021, Ziluo Ding, et al.
+  - 15 Sep 2021, Harshavardhan Kamarthi, et al.
   
-  * [[Official Code](https://github.com/ruizhao26/ste-flownet)]
+  - [[Official Code](https://github.com/adityalab/camul)]
 
-* [TCCT: Tightly-Coupled Convolutional Transformer on Time Series Forecasting](https://arxiv.org/abs/2108.12784)
+- [Spatio-Temporal Recurrent Networks for Event-Based Optical Flow Estimation](https://arxiv.org/abs/2109.04871)
   
-  * 29 Aug 2021, Li Shen, Yangzhu Wang
+  - 10 Sep 2021, Ziluo Ding, et al.
   
-  * [[Official Code](https://github.com/OrigamiSL/TCCT2021-Neurocomputing-)]
+  - [[Official Code](https://github.com/ruizhao26/ste-flownet)]
 
-* [Machine learning in the Chinese stock market](https://www.sciencedirect.com/science/article/pii/S0304405X21003743?via%3Dihu)
+- [TCCT: Tightly-Coupled Convolutional Transformer on Time Series Forecasting](https://arxiv.org/abs/2108.12784)
   
-  * 27 Aug 2021, Markus Leippold, et al.
+  - 29 Aug 2021, Li Shen, Yangzhu Wang
+  
+  - [[Official Code](https://github.com/OrigamiSL/TCCT2021-Neurocomputing-)]
 
-* [Practical Approach to Asynchronous Multivariate Time Series Anomaly Detection and Localization](https://dl.acm.org/doi/10.1145/3447548.3467174)
+- [Machine learning in the Chinese stock market](https://www.sciencedirect.com/science/article/pii/S0304405X21003743?via%3Dihu)
   
-  * 14 Aug 2021, Ahmed Abdulaal, et al.
-  
-  * [[Official Code](https://github.com/eBay/RANSynCoders)]
+  - 27 Aug 2021, Markus Leippold, et al.
 
-* [AdaRNN: Adaptive Learning and Forecasting of Time Series](https://arxiv.org/abs/2108.04443)
+- [Practical Approach to Asynchronous Multivariate Time Series Anomaly Detection and Localization](https://dl.acm.org/doi/10.1145/3447548.3467174)
   
-  * 10 Aug 2021, Yuntao Du, et al.
+  - 14 Aug 2021, Ahmed Abdulaal, et al.
   
-  * [[Official Code](https://github.com/jindongwang/transferlearning)]
+  - [[Official Code](https://github.com/eBay/RANSynCoders)]
 
-* [Time-Series Representation Learning via Temporal and Contextual Contrasting](https://arxiv.org/abs/2106.14112)
+- [AdaRNN: Adaptive Learning and Forecasting of Time Series](https://arxiv.org/abs/2108.04443)
   
-  * 26 Jun 2021, Emadeldeen Eldele, et al.
+  - 10 Aug 2021, Yuntao Du, et al.
   
-  * [[Official Code](https://github.com/emadeldeen24/TS-TCC)]
+  - [[Official Code](https://github.com/jindongwang/transferlearning)]
 
-* [Autoformer: Decomposition Transformers with Auto-Correlation for Long-Term Series Forecasting](https://arxiv.org/abs/2106.13008)
+- [Time-Series Representation Learning via Temporal and Contextual Contrasting](https://arxiv.org/abs/2106.14112)
   
-  * 24 Jun 2021, Haixu Wu, et al.
+  - 26 Jun 2021, Emadeldeen Eldele, et al.
   
-  * [[Code](https://github.com/thuml/Autoformer)]
+  - [[Official Code](https://github.com/emadeldeen24/TS-TCC)]
 
-* [TS2Vec: Towards Universal Representation of Time Series](https://arxiv.org/abs/2106.10466)
+- [Autoformer: Decomposition Transformers with Auto-Correlation for Long-Term Series Forecasting](https://arxiv.org/abs/2106.13008)
   
-  * 19 Jun 2021, Zhihan Yue, et al.
+  - 24 Jun 2021, Haixu Wu, et al.
   
-  * [[Code](https://github.com/yuezhihan/ts2vec)]
+  - [[Code](https://github.com/thuml/Autoformer)]
 
-* [ScoreGrad: Multivariate Probabilistic Time Series Forecasting with Continuous Energy-based Generative Models](https://arxiv.org/abs/2106.10121)
+- [TS2Vec: Towards Universal Representation of Time Series](https://arxiv.org/abs/2106.10466)
   
-  * 18 Jun 2021, Tijin Yan, et al.
+  - 19 Jun 2021, Zhihan Yue, et al.
   
-  * [[Official Code](https://github.com/yantijin/ScoreGradPred)]
+  - [[Code](https://github.com/yuezhihan/ts2vec)]
 
-* [Time Series is a Special Sequence: Forecasting with Sample Convolution and Interaction](https://arxiv.org/abs/2106.09305)
+- [ScoreGrad: Multivariate Probabilistic Time Series Forecasting with Continuous Energy-based Generative Models](https://arxiv.org/abs/2106.10121)
   
-  * 17 Jun 2021, Minhao Liu, et al. 
+  - 18 Jun 2021, Tijin Yan, et al.
   
-  * [[Code](https://github.com/cure-lab/SCINet)]
+  - [[Official Code](https://github.com/yantijin/ScoreGradPred)]
 
-* [Voice2Series: Reprogramming Acoustic Models for Time Series Classification](https://arxiv.org/abs/2106.09296)
+- [Time Series is a Special Sequence: Forecasting with Sample Convolution and Interaction](https://arxiv.org/abs/2106.09305)
   
-  * 17 Jun 2021, Chao-Han Huck Yang, et al.
+  - 17 Jun 2021, Minhao Liu, et al. 
   
-  * [[Official Code](https://github.com/huckiyang/Voice2Series-Reprogramming)]
+  - [[Code](https://github.com/cure-lab/SCINet)]
 
-* [Unsupervised Representation Learning for Time Series with Temporal Neighborhood Coding](https://arxiv.org/abs/2106.00750)
+- [Voice2Series: Reprogramming Acoustic Models for Time Series Classification](https://arxiv.org/abs/2106.09296)
   
-  * 01 Jun 2021, Sana Tonekaboni, et al.
+  - 17 Jun 2021, Chao-Han Huck Yang, et al.
   
-  * [[Official Code](https://github.com/sanatonek/TNC_representation_learning)]
+  - [[Official Code](https://github.com/huckiyang/Voice2Series-Reprogramming)]
 
-* [Z-GCNETs: Time Zigzags at Graph Convolutional Networks for Time Series Forecasting](https://arxiv.org/abs/2105.04100)
+- [Unsupervised Representation Learning for Time Series with Temporal Neighborhood Coding](https://arxiv.org/abs/2106.00750)
   
-  * 10 May 2021, Yuzhou Chen, et al.
+  - 01 Jun 2021, Sana Tonekaboni, et al.
   
-  * [[Official Code](https://github.com/Z-GCNETs/Z-GCNETs)]
+  - [[Official Code](https://github.com/sanatonek/TNC_representation_learning)]
 
-* [Neural basis expansion analysis with exogenous variables: Forecasting electricity prices with NBEATSx](https://arxiv.org/abs/2104.05522)
+- [Z-GCNETs: Time Zigzags at Graph Convolutional Networks for Time Series Forecasting](https://arxiv.org/abs/2105.04100)
   
-  * 12 Apr 2021, Kin G. Olivares, et al.
+  - 10 May 2021, Yuzhou Chen, et al.
   
-  * [[Code](https://github.com/cchallu/nbeatsx)]
+  - [[Official Code](https://github.com/Z-GCNETs/Z-GCNETs)]
 
-* [Spectral Temporal Graph Neural Network for Multivariate Time-series Forecasting](https://arxiv.org/abs/2103.07719)
+- [Neural basis expansion analysis with exogenous variables: Forecasting electricity prices with NBEATSx](https://arxiv.org/abs/2104.05522)
   
-  * 13 Mar 2021, Defu Cao, et al.
+  - 12 Apr 2021, Kin G. Olivares, et al.
   
-  * [[Official Code](https://github.com/microsoft/StemGNN)]
+  - [[Code](https://github.com/cchallu/nbeatsx)]
 
-* [FluxEV: A Fast and Effective Unsupervised Framework for Time-Series Anomaly Detection](https://dl.acm.org/doi/10.1145/3437963.3441823)
+- [Spectral Temporal Graph Neural Network for Multivariate Time-series Forecasting](https://arxiv.org/abs/2103.07719)
   
-  * 08 Mar 2021, Jia Li, et al.
+  - 13 Mar 2021, Defu Cao, et al.
   
-  * [[Official Code](https://github.com/jlidw/FluxEV)]
+  - [[Official Code](https://github.com/microsoft/StemGNN)]
 
-* [Perceiver: General Perception with Iterative Attention](https://arxiv.org/abs/2103.03206)
+- [FluxEV: A Fast and Effective Unsupervised Framework for Time-Series Anomaly Detection](https://dl.acm.org/doi/10.1145/3437963.3441823)
   
-  * 04 Mar 2021, Andrew Jaegle, et al.
+  - 08 Mar 2021, Jia Li, et al.
   
-  * [[Official Code](https://github.com/deepmind/deepmind-research/tree/master/perceiver)] [[Community Code](https://github.com/lucidrains/perceiver-pytorch)]
+  - [[Official Code](https://github.com/jlidw/FluxEV)]
 
-* [Dynamic Gaussian Mixture based Deep Generative Model For Robust Forecasting on Sparse Multivariate Time Series](https://arxiv.org/abs/2103.02164)
+- [Perceiver: General Perception with Iterative Attention](https://arxiv.org/abs/2103.03206)
   
-  * 03 Mar 2021, Yinjun Wu, et al.
+  - 04 Mar 2021, Andrew Jaegle, et al.
   
-  * [[Official Code](https://github.com/thuwuyinjun/DGM2)]
+  - [[Official Code](https://github.com/deepmind/deepmind-research/tree/master/perceiver)] [[Community Code](https://github.com/lucidrains/perceiver-pytorch)]
 
-* [Domain Adaptation for Time Series Forecasting via Attention Sharing](https://arxiv.org/abs/2102.06828)
+- [Dynamic Gaussian Mixture based Deep Generative Model For Robust Forecasting on Sparse Multivariate Time Series](https://arxiv.org/abs/2103.02164)
   
-  * 13 Feb 2021, Xiaoyong Jin, et al.
+  - 03 Mar 2021, Yinjun Wu, et al.
   
-  * [[Official Code](https://github.com/DMIRLAB-Group/SASA)]
+  - [[Official Code](https://github.com/thuwuyinjun/DGM2)]
 
-* [Synergetic Learning of Heterogeneous Temporal Sequences for Multi-Horizon Probabilistic Forecasting](https://arxiv.org/abs/2102.00431)
+- [Domain Adaptation for Time Series Forecasting via Attention Sharing](https://arxiv.org/abs/2102.06828)
   
-  * 31 Jan 2021, Longyuan Li, et al.
+  - 13 Feb 2021, Xiaoyong Jin, et al.
   
-  * [[Official Code](https://github.com/longyuanli/VSMHN)]
+  - [[Official Code](https://github.com/DMIRLAB-Group/SASA)]
 
-* [Adjusting for Autocorrelated Errors in Neural Networks for Time Series](https://arxiv.org/abs/2101.12578)
+- [Synergetic Learning of Heterogeneous Temporal Sequences for Multi-Horizon Probabilistic Forecasting](https://arxiv.org/abs/2102.00431)
   
-  * 28 Jan 2021, Fan-Keng Sun, et al.
+  - 31 Jan 2021, Longyuan Li, et al.
   
-  * [[Official Code](https://github.com/Daikon-Sun/AdjustAutocorrelation)]
+  - [[Official Code](https://github.com/longyuanli/VSMHN)]
 
-* [Autoregressive Denoising Diffusion Models for Multivariate Probabilistic Time Series Forecasting](https://arxiv.org/abs/2101.12072)
+- [Adjusting for Autocorrelated Errors in Neural Networks for Time Series](https://arxiv.org/abs/2101.12578)
   
-  * 28 Jan 2021, Kashif Rasul, et al.
+  - 28 Jan 2021, Fan-Keng Sun, et al.
   
-  * [[Official Code - pytorch-ts](https://github.com/zalandoresearch/pytorch-ts)]
+  - [[Official Code](https://github.com/Daikon-Sun/AdjustAutocorrelation)]
 
-* [Long Horizon Forecasting With Temporal Point Processes](https://arxiv.org/abs/2101.02815)
+- [Autoregressive Denoising Diffusion Models for Multivariate Probabilistic Time Series Forecasting](https://arxiv.org/abs/2101.12072)
   
-  * 08 Jan 2021, Prathamesh Deshpande, et al.
+  - 28 Jan 2021, Kashif Rasul, et al.
   
-  * [[Official Code](https://github.com/pratham16cse/DualTPP)]
+  - [[Official Code - pytorch-ts](https://github.com/zalandoresearch/pytorch-ts)]
 
-* [Do We Really Need Deep Learning Models for Time Series Forecasting?](https://arxiv.org/abs/2101.02118)
+- [Long Horizon Forecasting With Temporal Point Processes](https://arxiv.org/abs/2101.02815)
   
-  * 06 Jan 2021, Shereen Elsayed, et al.
+  - 08 Jan 2021, Prathamesh Deshpande, et al.
   
-  * [[Code](https://github.com/Daniela-Shereen/GBRT-for-TSF)]
+  - [[Official Code](https://github.com/pratham16cse/DualTPP)]
 
-* [Conditional Local Convolution for Spatio-temporal Meteorological Forecasting](https://arxiv.org/abs/2101.01000)
+- [Do We Really Need Deep Learning Models for Time Series Forecasting?](https://arxiv.org/abs/2101.02118)
   
-  * 04 Jan 2021, Haitao Lin, et al.
+  - 06 Jan 2021, Shereen Elsayed, et al.
   
-  * [[Official Code](https://github.com/BIRD-TAO/CLCRN)]
+  - [[Code](https://github.com/Daniela-Shereen/GBRT-for-TSF)]
+
+- [Conditional Local Convolution for Spatio-temporal Meteorological Forecasting](https://arxiv.org/abs/2101.01000)
+  
+  - 04 Jan 2021, Haitao Lin, et al.
+  
+  - [[Official Code](https://github.com/BIRD-TAO/CLCRN)]
 
 ### 2020
 
