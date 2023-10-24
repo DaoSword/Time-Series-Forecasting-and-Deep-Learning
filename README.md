@@ -29,6 +29,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 01 Oct 2023, Zeying Gong, et al.
  
   - [[Official Code - PatchMixer](https://github.com/Zeying-Gong/PatchMixer)]
+ 
+- [PAITS: Pretraining and Augmentation for Irregularly-Sampled Time Series](https://arxiv.org/abs/2308.13703)
+
+  - 25 Aug 2023, Nicasia Beebe-Wang, et al.
+ 
+  - [[Official Code - irregular timeseries pretraining](https://github.com/google-research/google-research/tree/master/irregular_timeseries_pretraining)]
 
 - [Multi-scale Transformer Pyramid Networks for Multivariate Time Series Forecasting](https://arxiv.org/abs/2308.11946)
   
