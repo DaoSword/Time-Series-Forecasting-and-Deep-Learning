@@ -24,6 +24,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ### 2023
 
+- [iTransformer: Inverted Transformers Are Effective for Time Series Forecasting](https://arxiv.org/abs/2310.06625)
+
+  - 10 Oct 2023, Yong Liu, et al.
+ 
+  - [[Official Code - Time Series Library (TSlib)](https://github.com/thuml/Time-Series-Library)]
+
 - [PatchMixer: A Patch-Mixing Architecture for Long-Term Time Series Forecasting](https://arxiv.org/abs/2310.00655)
 
   - 01 Oct 2023, Zeying Gong, et al.
