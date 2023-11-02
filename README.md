@@ -1355,7 +1355,11 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 * [tsfresh](https://github.com/blue-yonder/tsfresh)
   
-  - `tsfresh` provides systematic time-series feature extraction by combining established algorithms from statistics, time-series analysis, signal processing, and nonlinear dynamics with a robust feature selection algorithm.
+  * `tsfresh` provides systematic time-series feature extraction by combining established algorithms from statistics, time-series analysis, signal processing, and nonlinear dynamics with a robust feature selection algorithm.
+ 
+* [tslearn](https://github.com/tslearn-team/tslearn)
+
+  *  `tslearn` is a Python package that provides machine learning tools for the analysis of time series.
 
 * [tspiral](https://github.com/cerlymarco/tspiral)
   
