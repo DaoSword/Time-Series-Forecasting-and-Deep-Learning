@@ -10,6 +10,7 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ## Table of Contents
 
+- [Applications](#Applications)
 - [Papers](#Papers)
 - [Blogs](#Blogs)
 - [Competitions](#Competitions)
@@ -19,6 +20,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 - [Books](#Books)
 - [Repositories](#Repositories)
 - [Tutorials](#Tutorials)
+
+## Applications
+
+- [TimeGPT](https://docs.nixtla.io/)
+
+  - Nixtla’s `TimeGPT` is a generative pre-trained forecasting model for time series data. 
 
 ## Papers
 
