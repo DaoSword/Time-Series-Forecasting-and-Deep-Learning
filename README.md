@@ -1157,6 +1157,8 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ## Courses
 
+- [Learn Time Series | Kaggle](https://www.kaggle.com/learn/time-series)
+
 - [CS25: Transformers United](https://web.stanford.edu/class/cs25/)
 
 ## Libraries
