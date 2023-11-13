@@ -31,6 +31,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ### 2023
 
+- [Large Language Models Are Zero-Shot Time Series Forecasters](https://arxiv.org/abs/2310.07820)
+
+  - 11 Oct 2023, Nate Gruver, et al.
+ 
+  - [[Official Code - llmtime](https://github.com/ngruver/llmtime)]
+
 - [iTransformer: Inverted Transformers Are Effective for Time Series Forecasting](https://arxiv.org/abs/2310.06625)
 
   - 10 Oct 2023, Yong Liu, et al.
