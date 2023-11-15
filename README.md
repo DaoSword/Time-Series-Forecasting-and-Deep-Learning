@@ -34,6 +34,10 @@ List of research papers focus on time series forecasting and deep learning, as w
 - [Multi-resolution Time-Series Transformer for Long-term Forecasting](https://arxiv.org/abs/2311.04147)
 
   - 07 Nov 2023, Yitian Zhang, et al.
+ 
+- [PT-Tuning: Bridging the Gap between Time Series Masked Reconstruction and Forecasting via Prompt Token Tuning](https://arxiv.org/abs/2311.03768)
+
+  - 07 Nov 2023, Hao Liu, et al.
 
 - [Large Language Models Are Zero-Shot Time Series Forecasters](https://arxiv.org/abs/2310.07820)
 
