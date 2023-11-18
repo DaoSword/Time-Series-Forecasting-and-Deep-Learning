@@ -38,6 +38,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 - [PT-Tuning: Bridging the Gap between Time Series Masked Reconstruction and Forecasting via Prompt Token Tuning](https://arxiv.org/abs/2311.03768)
 
   - 07 Nov 2023, Hao Liu, et al.
+ 
+- [A Multi-Scale Decomposition MLP-Mixer for Time Series Analysis](https://arxiv.org/abs/2310.11959)
+
+  - 18 Oct 2023, Shuhan Zhong, et al.
+ 
+  - [[Official Code - MSD-Mixer](https://github.com/zshhans/msd-mixer)]
 
 - [Large Language Models Are Zero-Shot Time Series Forecasters](https://arxiv.org/abs/2310.07820)
 
