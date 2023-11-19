@@ -501,6 +501,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   * 22 Sep 2022, Li Shen, et al.
   
   * [[Official Code](https://github.com/OrigamiSL/FDNet)]
+ 
+* [PromptCast: A New Prompt-based Learning Paradigm for Time Series Forecasting](https://arxiv.org/abs/2210.08964)
+
+  * 20 Sep 2022, Hao Xue, et al.
+ 
+  * [[Official Code - PISA](https://github.com/haounsw/pisa)]
 
 * [Out-of-Distribution Representation Learning for Time Series Classification](https://arxiv.org/abs/2209.07027)
   
