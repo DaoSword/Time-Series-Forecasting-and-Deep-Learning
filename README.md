@@ -39,6 +39,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 
   - 07 Nov 2023, Hao Liu, et al.
  
+- [BasisFormer: Attention-based Time Series Forecasting with Learnable and Interpretable Basis](https://arxiv.org/abs/2310.20496)
+
+  - 31 Oct 2023, Zelin Ni, et al.
+ 
+  - [[Official Code - Basisformer](https://github.com/nzl5116190/basisformer)]
+ 
 - [A Multi-Scale Decomposition MLP-Mixer for Time Series Analysis](https://arxiv.org/abs/2310.11959)
 
   - 18 Oct 2023, Shuhan Zhong, et al.
