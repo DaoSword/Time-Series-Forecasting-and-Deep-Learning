@@ -276,6 +276,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 - [Time Series Forecasting with Transformer Models and Application to Asset Management](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4375798)
   
   - 07 Mar 2023, Edmond Lezmi and Jiali Xu.
+ 
+- [One Fits All:Power General Time Series Analysis by Pretrained LM](https://arxiv.org/abs/2302.11939)
+
+  - 23 Feb 2023, Tian Zhou, et al.
+ 
+  - [[Official Code - NeurIPS2023-One-Fits-All](https://github.com/DAMO-DI-ML/NeurIPS2023-One-Fits-All)]
 
 - [Dish-TS: A General Paradigm for Alleviating Distribution Shift in Time Series Forecasting](https://arxiv.org/abs/2302.14829)
   
