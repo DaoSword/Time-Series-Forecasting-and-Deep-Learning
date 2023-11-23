@@ -50,6 +50,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 18 Oct 2023, Shuhan Zhong, et al.
  
   - [[Official Code - MSD-Mixer](https://github.com/zshhans/msd-mixer)]
+ 
+- [Lag-Llama: Towards Foundation Models for Time Series Forecasting](https://arxiv.org/abs/2310.08278)
+
+  - 12 Oct 2023, Kashif Rasul, et al.
+ 
+  - [[Official Code - lag-llama](https://github.com/kashif/pytorch-transformer-ts/tree/main/lag-llama)]
 
 - [Large Language Models Are Zero-Shot Time Series Forecasters](https://arxiv.org/abs/2310.07820)
 
