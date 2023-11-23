@@ -62,6 +62,10 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 10 Oct 2023, Yong Liu, et al.
  
   - [[Official Code - Time Series Library (TSlib)](https://github.com/thuml/Time-Series-Library)]
+ 
+- [TEMPO: Prompt-based Generative Pre-trained Transformer for Time Series Forecasting](https://arxiv.org/abs/2310.04948)
+
+  - 08 Oct 2023, Defu Cao, et al.
 
 - [PatchMixer: A Patch-Mixing Architecture for Long-Term Time Series Forecasting](https://arxiv.org/abs/2310.00655)
 
