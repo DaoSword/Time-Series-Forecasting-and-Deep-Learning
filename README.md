@@ -79,6 +79,12 @@ List of research papers focus on time series forecasting and deep learning, as w
  
   - [[Official Code - PatchMixer](https://github.com/Zeying-Gong/PatchMixer)]
  
+- [OneNet: Enhancing Time Series Forecasting Models under Concept Drift by Online Ensembling](https://arxiv.org/abs/2309.12659)
+
+  - 22 Sep 2023, Yi-Fan Zhang, et al.
+ 
+  - [[Official Code - OneNet](https://github.com/yfzhang114/onenet)]
+ 
 - [PAITS: Pretraining and Augmentation for Irregularly-Sampled Time Series](https://arxiv.org/abs/2308.13703)
 
   - 25 Aug 2023, Nicasia Beebe-Wang, et al.
