@@ -208,6 +208,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 - [An End-to-End Time Series Model for Simultaneous Imputation and Forecast](https://arxiv.org/abs/2306.00778)
   
   - 01 Jun 2023, Trang H. Tran, et al.
+ 
+- [Koopa: Learning Non-stationary Time Series Dynamics with Koopman Predictors](https://arxiv.org/abs/2305.18803)
+
+  - 30 May 2023, Yong Liu, et al.
+ 
+  - [[Official Code - Koopa](https://github.com/thuml/Koopa)]
 
 - [Learning Perturbations to Explain Time Series Predictions](https://arxiv.org/abs/2305.18840)
   
