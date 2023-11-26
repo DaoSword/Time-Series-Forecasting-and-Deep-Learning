@@ -72,6 +72,10 @@ List of research papers focus on time series forecasting and deep learning, as w
 - [TEMPO: Prompt-based Generative Pre-trained Transformer for Time Series Forecasting](https://arxiv.org/abs/2310.04948)
 
   - 08 Oct 2023, Defu Cao, et al.
+ 
+- [Time-LLM: Time Series Forecasting by Reprogramming Large Language Models](https://arxiv.org/abs/2310.01728)
+
+  - 03 Oct 2023, Ming Jin, et al.
 
 - [PatchMixer: A Patch-Mixing Architecture for Long-Term Time Series Forecasting](https://arxiv.org/abs/2310.00655)
 
