@@ -45,6 +45,10 @@ List of research papers focus on time series forecasting and deep learning, as w
  
   - [[Official Code - Basisformer](https://github.com/nzl5116190/basisformer)]
  
+- [ProNet: Progressive Neural Network for Multi-Horizon Time Series Forecasting](https://arxiv.org/abs/2310.19322)
+
+  - 30 Oct 2023, Yang Lin
+ 
 - [A Multi-Scale Decomposition MLP-Mixer for Time Series Analysis](https://arxiv.org/abs/2310.11959)
 
   - 18 Oct 2023, Shuhan Zhong, et al.
