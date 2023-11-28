@@ -364,6 +364,8 @@ List of research papers focus on time series forecasting and deep learning, as w
 - [SimMTM: A Simple Pre-Training Framework for Masked Time-Series Modeling](https://arxiv.org/abs/2302.00861)
   
   - 02 Feb 2023, Jiaxiang Dong, et al.
+ 
+  - [[Official Code - SimMTM](https://github.com/thuml/simmtm)]
 
 - PrimeNet : Pre-Training for Irregular Multivariate Time Series
   
