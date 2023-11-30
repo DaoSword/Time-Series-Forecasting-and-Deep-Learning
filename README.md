@@ -49,6 +49,10 @@ List of research papers focus on time series forecasting and deep learning, as w
 
   - 30 Oct 2023, Yang Lin
  
+- [Hierarchical Ensemble-Based Feature Selection for Time Series Forecasting](https://arxiv.org/abs/2310.17544)
+
+  - 26 Oct 2023, Ayşın Tümay, et al.
+ 
 - [A Multi-Scale Decomposition MLP-Mixer for Time Series Analysis](https://arxiv.org/abs/2310.11959)
 
   - 18 Oct 2023, Shuhan Zhong, et al.
