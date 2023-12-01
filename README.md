@@ -53,6 +53,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 
   - 26 Oct 2023, Ayşın Tümay, et al.
  
+- [Attention-Based Ensemble Pooling for Time Series Forecasting](https://arxiv.org/abs/2310.16231)
+
+  - 24 Oct 2023, Dhruvit Patel, et al.
+ 
+  - [[Official Code - denpool](https://github.com/awikner/denpool)]
+ 
 - [A Multi-Scale Decomposition MLP-Mixer for Time Series Analysis](https://arxiv.org/abs/2310.11959)
 
   - 18 Oct 2023, Shuhan Zhong, et al.
