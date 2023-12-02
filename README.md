@@ -59,6 +59,12 @@ List of research papers focus on time series forecasting and deep learning, as w
  
   - [[Official Code - denpool](https://github.com/awikner/denpool)]
  
+- [Blending gradient boosted trees and neural networks for point and probabilistic forecasting of hierarchical time series](https://arxiv.org/abs/2310.13029)
+
+  - 19 Oct 2023, Ioannis Nasios, et al.
+ 
+  - [[Official Code - M5_Uncertainty_3rd_place](https://github.com/IoannisNasios/M5_Uncertainty_3rd_place)]
+ 
 - [A Multi-Scale Decomposition MLP-Mixer for Time Series Analysis](https://arxiv.org/abs/2310.11959)
 
   - 18 Oct 2023, Shuhan Zhong, et al.
