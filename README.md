@@ -71,6 +71,10 @@ List of research papers focus on time series forecasting and deep learning, as w
  
   - [[Official Code - MSD-Mixer](https://github.com/zshhans/msd-mixer)]
  
+- [UniTime: A Language-Empowered Unified Model for Cross-Domain Time Series Forecasting](https://arxiv.org/abs/2310.09751)
+
+  - 15 Oct 2023, Xu Liu, et al.
+ 
 - [Lag-Llama: Towards Foundation Models for Time Series Forecasting](https://arxiv.org/abs/2310.08278)
 
   - 12 Oct 2023, Kashif Rasul, et al.
