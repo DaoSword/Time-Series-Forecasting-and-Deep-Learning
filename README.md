@@ -117,6 +117,12 @@ List of research papers focus on time series forecasting and deep learning, as w
  
   - [[Official Code - OneNet](https://github.com/yfzhang114/onenet)]
  
+- [WFTNet: Exploiting Global and Local Periodicity in Long-term Time Series Forecasting](https://arxiv.org/abs/2309.11319)
+
+  - 20 Sep 2023, Peiyuan Liu, et al.
+ 
+  - [[Official Code - WFTNet](https://github.com/Hank0626/WFTNet)]
+ 
 - [PAITS: Pretraining and Augmentation for Irregularly-Sampled Time Series](https://arxiv.org/abs/2308.13703)
 
   - 25 Aug 2023, Nicasia Beebe-Wang, et al.
