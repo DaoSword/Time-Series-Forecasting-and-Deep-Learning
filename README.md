@@ -128,6 +128,10 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 25 Aug 2023, Nicasia Beebe-Wang, et al.
  
   - [[Official Code - irregular timeseries pretraining](https://github.com/google-research/google-research/tree/master/irregular_timeseries_pretraining)]
+ 
+- [TFDNet: Time-Frequency Enhanced Decomposed Network for Long-term Time Series Forecasting](https://arxiv.org/abs/2308.13386)
+
+  - 25 Aug 2023, Yuxiao Luo, et al.
 
 - [Multi-scale Transformer Pyramid Networks for Multivariate Time Series Forecasting](https://arxiv.org/abs/2308.11946)
   
