@@ -132,6 +132,10 @@ List of research papers focus on time series forecasting and deep learning, as w
 - [TFDNet: Time-Frequency Enhanced Decomposed Network for Long-term Time Series Forecasting](https://arxiv.org/abs/2308.13386)
 
   - 25 Aug 2023, Yuxiao Luo, et al.
+ 
+- [Easy attention: A simple self-attention mechanism for transformer-based time-series reconstruction and prediction](https://arxiv.org/abs/2308.12874)
+
+  - 24 Aug 2023, Marcial Sanchis-Agudo, et al.
 
 - [Multi-scale Transformer Pyramid Networks for Multivariate Time Series Forecasting](https://arxiv.org/abs/2308.11946)
   
