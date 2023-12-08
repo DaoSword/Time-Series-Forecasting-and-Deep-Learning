@@ -93,6 +93,12 @@ List of research papers focus on time series forecasting and deep learning, as w
  
   - [[Official Code - Time Series Library (TSlib)](https://github.com/thuml/Time-Series-Library)]
  
+- [Pushing the Limits of Pre-training for Time Series Forecasting in the CloudOps Domain](https://arxiv.org/abs/2310.05063)
+
+  - 08 Oct 2023, Gerald Woo, et al.
+ 
+  - [[Official Code - pretrain-time-series-cloudops](https://github.com/salesforceairesearch/pretrain-time-series-cloudops)]
+ 
 - [TEMPO: Prompt-based Generative Pre-trained Transformer for Time Series Forecasting](https://arxiv.org/abs/2310.04948)
 
   - 08 Oct 2023, Defu Cao, et al.
