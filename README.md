@@ -158,6 +158,10 @@ List of research papers focus on time series forecasting and deep learning, as w
 - [TEST: Text Prototype Aligned Embedding to Activate LLM's Ability for Time Series](https://arxiv.org/abs/2308.08241)
 
   - 16 Aug 2023, Chenxi Sun, et al.
+ 
+- [PETformer: Long-term Time Series Forecasting via Placeholder-enhanced Transformer](https://arxiv.org/abs/2308.04791)
+
+  - 09 Aug 2023, Shengsheng Lin, et al.
 
 - [Hierarchical Proxy Modeling for Improved HPO in Time Series Forecasting](https://dl.acm.org/doi/abs/10.1145/3580305.3599378)
   
