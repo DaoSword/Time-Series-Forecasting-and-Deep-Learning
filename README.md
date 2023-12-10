@@ -162,6 +162,10 @@ List of research papers focus on time series forecasting and deep learning, as w
 - [PETformer: Long-term Time Series Forecasting via Placeholder-enhanced Transformer](https://arxiv.org/abs/2308.04791)
 
   - 09 Aug 2023, Shengsheng Lin, et al.
+ 
+- [DSformer: A Double Sampling Transformer for Multivariate Time Series Long-term Prediction](https://arxiv.org/abs/2308.03274)
+
+  - 07 Aug 2023, Chengqing Yu, et al.
 
 - [Hierarchical Proxy Modeling for Improved HPO in Time Series Forecasting](https://dl.acm.org/doi/abs/10.1145/3580305.3599378)
   
