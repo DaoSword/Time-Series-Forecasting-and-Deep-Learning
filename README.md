@@ -194,6 +194,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 28 Jul 2023, Sotiris Pelekis, et al.
   
   - [[Official Code - DeepTSF](https://github.com/I-NERGY/DeepTSF)]
+ 
+- [TimeGNN: Temporal Dynamic Graph Learning for Time Series Forecasting](https://arxiv.org/abs/2307.14680)
+
+  - 27 Jul 2023, Nancy Xu, et al.
+ 
+  - [[Official Code - Time-GNN](https://github.com/xun468/Time-GNN)]
 
 - [TransFusion: Generating Long, High Fidelity Time Series using Diffusion Models with Transformers](https://arxiv.org/abs/2307.12667)
   
