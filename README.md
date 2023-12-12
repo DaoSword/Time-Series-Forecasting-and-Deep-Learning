@@ -206,6 +206,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 24 Jul 2023, Md Fahim Sikder, et al.
   
   - [[Official Code - TransFusion](https://github.com/fahim-sikder/TransFusion)]
+ 
+- [Predict, Refine, Synthesize: Self-Guiding Diffusion Models for Probabilistic Time Series Forecasting](https://arxiv.org/abs/2307.11494)
+
+  - 21 Jul 2023, Marcel Kollovieh, et al.
+ 
+  - [[Official Code - unconditional-time-series-diffusion](https://github.com/amazon-science/unconditional-time-series-diffusion)]
 
 - [Look Ahead: Improving the Accuracy of Time-Series Forecasting by Previewing Future Time Features](https://dl.acm.org/doi/abs/10.1145/3539618.3592013)
   
