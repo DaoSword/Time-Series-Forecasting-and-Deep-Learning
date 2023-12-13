@@ -212,6 +212,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 21 Jul 2023, Marcel Kollovieh, et al.
  
   - [[Official Code - unconditional-time-series-diffusion](https://github.com/amazon-science/unconditional-time-series-diffusion)]
+ 
+- [TimeTuner: Diagnosing Time Representations for Time-Series Forecasting with Counterfactual Explanations](https://arxiv.org/abs/2307.09916)
+
+  - 19 Jul 2023, Jianing Hao, et al.
+ 
+  - [[Official Code - TimeTuner](https://github.com/catherinehao/timetuner)]
 
 - [Look Ahead: Improving the Accuracy of Time-Series Forecasting by Previewing Future Time Features](https://dl.acm.org/doi/abs/10.1145/3539618.3592013)
   
