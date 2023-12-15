@@ -224,6 +224,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 18 July 2023, Seonmin Kim, et al.
   
   - [[Official Code - Look Ahead](https://github.com/sunsunmin/Look_Ahead)]
+ 
+- [GBT: Two-stage transformer framework for non-stationary time series forecasting](https://arxiv.org/abs/2307.08302)
+
+  - 17 Jul 2023, Li Shen, et al.
+  
+  - [[Official Code - GBT-Neural_Networks_2023](https://github.com/OrigamiSL/GBT-Neural_Networks_2023)]
 
 - [Sequential Monte Carlo Learning for Time Series Structure Discovery](https://arxiv.org/abs/2307.09607)
   
@@ -512,10 +518,6 @@ List of research papers focus on time series forecasting and deep learning, as w
 - Area2Area Forecasting: Looser Constraints, Better Predictions (Manuscript submitted to journal Information Sciences)
   
   - [[Official Code](https://github.com/OrigamiSL/A2A)]
-
-- GBT: Two-stage Transformer Framework for Non-stationary Time Series Forecasting (Manuscript submitted to Information Sciences)
-  
-  - [[Official Code](https://github.com/OrigamiSL/GBT)]
 
 - [Sequential Predictive Conformal Inference for Time Series](https://arxiv.org/abs/2212.03463)
   
