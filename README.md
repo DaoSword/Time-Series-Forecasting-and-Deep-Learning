@@ -242,6 +242,10 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 07 Jul 2023, Ming Jin, et al.
   
   - [[Official Code - Awesome-GNN4TS](https://github.com/kimmeen/awesome-gnn4ts)]
+ 
+- [GEANN: Scalable Graph Augmentations for Multi-Horizon Time Series Forecasting](https://arxiv.org/abs/2307.03595)
+
+  - 07 Jul 2023, Sitan Yang, et al.
 
 - [SageFormer: Series-Aware Graph-Enhanced Transformers for Multivariate Time Series Forecasting](https://arxiv.org/abs/2307.01616)
   
