@@ -282,6 +282,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 17 Jun 2023, Yiyuan Yang, et al.
   
   - [[Official Code - KDD2023-DCdetector](https://github.com/DAMO-DI-ML/KDD2023-DCdetector)]
+ 
+- [MultiWave: Multiresolution Deep Architectures through Wavelet Decomposition for Multivariate Time Series Prediction](https://arxiv.org/abs/2306.10164)
+
+  - 16 Jun 2023, Iman Deznabi, et al.
+ 
+  - [[Official Code - MultiWave](https://github.com/information-fusion-lab-umass/multiwave)]
 
 - [Self-Supervised Learning for Time Series Analysis: Taxonomy, Progress, and Prospects](https://arxiv.org/abs/2306.10125)
   
