@@ -298,6 +298,8 @@ List of research papers focus on time series forecasting and deep learning, as w
 - [TSMixer: Lightweight MLP-Mixer Model for Multivariate Time Series Forecasting](https://arxiv.org/abs/2306.09364)
   
   - 14 Jun 2023, Vijay Ekambaram, et al.
+ 
+  - [[Official Code - tsfm](https://github.com/ibm/tsfm)]
 
 - [Correlated Time Series Self-Supervised Representation Learning via Spatiotemporal Bootstrapping](https://arxiv.org/abs/2306.06994)
   
