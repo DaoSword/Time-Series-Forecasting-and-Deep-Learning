@@ -294,6 +294,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 16 Jun 2023, Kexin Zhang, et al.
   
   - [[Official Code - Awesome-SSL4TS](https://github.com/qingsongedu/Awesome-SSL4TS)]
+ 
+- [GCformer: An Efficient Framework for Accurate and Scalable Long-Term Multivariate Time Series Forecasting](https://arxiv.org/abs/2306.08325)
+
+  - 14 Jun 2023, YanJun Zhao, et al.
+ 
+  - [[Official Code - GCformer](https://github.com/Yanjun-Zhao/GCformer)]
 
 - [TSMixer: Lightweight MLP-Mixer Model for Multivariate Time Series Forecasting](https://arxiv.org/abs/2306.09364)
   
