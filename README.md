@@ -316,6 +316,10 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 09 Jun 2023, Alex Reneau, et al.
   
   - [[Official Code - FeatureProgramming](https://github.com/SirAlex900/FeatureProgramming)]
+ 
+- [Self-Interpretable Time Series Prediction with Counterfactual Explanations](https://arxiv.org/abs/2306.06024)
+
+  - 09 Jun 2023, Jingquan Yan, et al.
 
 - [An End-to-End Time Series Model for Simultaneous Imputation and Forecast](https://arxiv.org/abs/2306.00778)
   
