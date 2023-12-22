@@ -342,6 +342,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 30 May 2023, Joseph Enguehard.
   
   - [[Official Code - time_interpret](https://github.com/josephenguehard/time_interpret)]
+ 
+- [TLNets: Transformation Learning Networks for long-range time-series prediction](https://arxiv.org/abs/2305.15770)
+
+  - 25 May 2023, Wei Wang, et al.
+ 
+  - [[Official Code - TLNets](https://github.com/anonymity111222/tlnets)]
 
 - [Learning Structured Components: Towards Modular and Interpretable Multivariate Time Series Forecasting](https://arxiv.org/abs/2305.13036)
   
