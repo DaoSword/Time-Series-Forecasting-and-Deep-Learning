@@ -354,6 +354,10 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 22 May 2023, Jinliang Deng, et al.
   
   - [[Official Code - SCNN](https://github.com/KDDtest/SCNN)]
+ 
+- [Make Transformer Great Again for Time Series Forecasting: Channel Aligned Robust Dual Transformer](https://arxiv.org/abs/2305.12095)
+
+  - 20 May 2023, Wang Xue, et al.
 
 - [Diffusion Models for Time Series Applications: A Survey](https://arxiv.org/abs/2305.00624)
   
