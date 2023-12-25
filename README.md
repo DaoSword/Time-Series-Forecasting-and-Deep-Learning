@@ -358,6 +358,10 @@ List of research papers focus on time series forecasting and deep learning, as w
 - [Make Transformer Great Again for Time Series Forecasting: Channel Aligned Robust Dual Transformer](https://arxiv.org/abs/2305.12095)
 
   - 20 May 2023, Wang Xue, et al.
+ 
+- [How Expressive are Spectral-Temporal Graph Neural Networks for Time Series Forecasting?](https://arxiv.org/abs/2305.06587)
+
+  - 11 May 2023, Ming Jin, et al.
 
 - [Diffusion Models for Time Series Applications: A Survey](https://arxiv.org/abs/2305.00624)
   
