@@ -363,6 +363,10 @@ List of research papers focus on time series forecasting and deep learning, as w
 
   - 11 May 2023, Ming Jin, et al.
 
+- [Mlinear: Rethink the Linear Model for Time-series Forecasting](https://arxiv.org/abs/2305.04800)
+
+  - 08 May 2023, Wei Li, et al.
+
 - [Diffusion Models for Time Series Applications: A Survey](https://arxiv.org/abs/2305.00624)
   
   - 01 May 2023, Lequan Lin, et al.
