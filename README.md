@@ -410,6 +410,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 04 Apr 2023, Ziyi Liu, et al.
   
   - [[Official Code](https://github.com/Neal-Liu-Ziyi/Concept_Drift_Handling)]
+ 
+- [SimTS: Rethinking Contrastive Representation Learning for Time Series Forecasting](https://arxiv.org/abs/2303.18205)
+
+  - 31 Mar 2023, Xiaochen Zheng, et al.
+ 
+  - [[Official Code - SimTS_Representation_Learning](https://github.com/xingyu617/SimTS_Representation_Learning)]
 
 - [UniTS: A Universal Time Series Analysis Framework with Self-supervised Representation Learning](https://arxiv.org/abs/2303.13804)
   
