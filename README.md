@@ -437,6 +437,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   - [[Official Code](https://github.com/Pieter-Cawood/FFORMA-ESRNN)]
  
+- [Discovering Predictable Latent Factors for Time Series Forecasting](https://arxiv.org/abs/2303.10426)
+
+  - 18 Mar 2023, Jingyi Hou, et al.
+ 
+  - [[Official Code - discover_PLF](https://github.com/houjingyi-ustb/discover_plf)]
+ 
 - [TSMixer: An All-MLP Architecture for Time Series Forecasting](https://arxiv.org/abs/2303.06053)
 
   - 10 Mar 2023, Si-An Chen, et al.
