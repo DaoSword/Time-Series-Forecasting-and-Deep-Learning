@@ -459,6 +459,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 
   - [[Official Code - machine-vision-assisted-deep-time-series-analysis-MV-DTSA-](https://github.com/ikeyang/machine-vision-assisted-deep-time-series-analysis-mv-dtsa-)]
  
+- [LightCTS: A Lightweight Framework for Correlated Time Series Forecasting](https://arxiv.org/abs/2302.11974)
+
+  - 23 Feb 2023, Zhichen Lai, et al.
+ 
+  - [[Official Code - lightcts](https://github.com/ai4cts/lightcts)]
+ 
 - [One Fits All:Power General Time Series Analysis by Pretrained LM](https://arxiv.org/abs/2302.11939)
 
   - 23 Feb 2023, Tian Zhou, et al.
