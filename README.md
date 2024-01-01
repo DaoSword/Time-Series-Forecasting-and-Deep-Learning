@@ -482,6 +482,10 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 20 Feb 2023, Mingyue Cheng, et al.
   
   - [[Official Code](https://github.com/Mingyue-Cheng/FormerTime)]
+ 
+- [FrAug: Frequency Domain Augmentation for Time Series Forecasting](https://arxiv.org/abs/2302.09292)
+
+  - 18 Feb 2023, Muxi Chen, et al.
 
 - [Improved Online Conformal Prediction via Strongly Adaptive Online Learning](https://arxiv.org/abs/2302.07869)
   
