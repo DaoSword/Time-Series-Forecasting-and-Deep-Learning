@@ -501,6 +501,8 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   - 09 Feb 2023, Zhe Li, et al.
 
+  - [[Official Code - MTS-Mixers](https://github.com/plumprc/MTS-Mixers)]
+
 - [Domain Adaptation for Time Series Under Feature and Label Shifts](https://arxiv.org/abs/2302.03133)
   
   - 06 Feb 2023, Huan He, et al.
