@@ -546,6 +546,10 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 26 Jan 2023, Abdul Fatir Ansari, et al.
   
   - [[Official Code - NCDSSM](https://github.com/clear-nus/NCDSSM)]
+ 
+- [Multi-view Kernel PCA for Time series Forecasting](https://arxiv.org/abs/2301.09811)
+
+  - 24 Jan 2023, Arun Pandey, et al.
 
 - [Generative Time Series Forecasting with Diffusion, Denoise, and Disentanglement](https://arxiv.org/abs/2301.03028)
   
