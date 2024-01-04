@@ -31,6 +31,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ### 2023
 
+- [TSPP: A Unified Benchmarking Tool for Time-series Forecasting](https://arxiv.org/abs/2312.17100)
+
+  - 28 Dec 2023, Jan Bączek, et al.
+ 
+  - [[Official Code - TimeSeriesPredictionPlatform](https://github.com/NVIDIA/DeepLearningExamples/tree/master/Tools/PyTorch/TimeSeriesPredictionPlatform)]
+
 - [FourierGNN: Rethinking Multivariate Time Series Forecasting from a Pure Graph Perspective](https://arxiv.org/abs/2311.06190)
 
   - 10 Nov 2023, Kun Yi, et al.
