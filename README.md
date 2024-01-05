@@ -126,6 +126,10 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 01 Oct 2023, Zeying Gong, et al.
  
   - [[Official Code - PatchMixer](https://github.com/Zeying-Gong/PatchMixer)]
+
+- [ModernTCN: A Modern Pure Convolution Structure for General Time Series Analysis](https://openreview.net/forum?id=vpJMJerXHU)
+
+  - 22 Sep 2023, Anonymous authors
  
 - [OneNet: Enhancing Time Series Forecasting Models under Concept Drift by Online Ensembling](https://arxiv.org/abs/2309.12659)
 
