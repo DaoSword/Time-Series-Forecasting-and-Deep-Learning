@@ -573,6 +573,10 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   - [[Official Code](https://github.com/PaddlePaddle/PaddleSpatial/tree/main/research/Conformer)]
 
+- [Infomaxformer: Maximum Entropy Transformer for Long Time-Series Forecasting Problem](https://arxiv.org/abs/2301.01772)
+
+  - 04 Jan 2023, Peiwang Tang, et al.
+  
 - [Neural SDEs for Conditional Time Series Generation and the Signature-Wasserstein-1 metric](https://arxiv.org/abs/2301.01315)
   
   - 03 Jan 2023, Pere Díaz Lozano, et al.
