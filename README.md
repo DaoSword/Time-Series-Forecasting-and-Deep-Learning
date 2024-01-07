@@ -630,41 +630,46 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 07 Dec 2022, Chen Xu, et al.
   
   - [[Official Code - SPCI-code](https://github.com/hamrel-cxu/SPCI-code)]
-* [A K-variate Time Series Is Worth K Words: Evolution of the Vanilla Transformer Architecture for Long-term Multivariate Time Series Forecasting](https://arxiv.org/abs/2212.02789)
-  
-  * 06 Dec 2022, Zanwei Zhou, et al.
-  
-  * [[Official Code](https://github.com/Zanue/MTSF_TVT)]
 
-* [DSTAGNN: Dynamic Spatial-Temporal Aware Graph Neural Network for Traffic Flow Forecasting](https://proceedings.mlr.press/v162/lan22a.html)
+- [A K-variate Time Series Is Worth K Words: Evolution of the Vanilla Transformer Architecture for Long-term Multivariate Time Series Forecasting](https://arxiv.org/abs/2212.02789)
   
-  * 06 Dec 2022, Shiyong Lan, et al.
+  - 06 Dec 2022, Zanwei Zhou, et al.
   
-  * [[Official Code](https://github.com/SYLan2019/DSTAGNN)]
+  - [[Official Code](https://github.com/Zanue/MTSF_TVT)]
 
-* [Learning of Cluster-based Feature Importance for Electronic Health Record Time-series](https://proceedings.mlr.press/v162/aguiar22a.html)
+- [DSTAGNN: Dynamic Spatial-Temporal Aware Graph Neural Network for Traffic Flow Forecasting](https://proceedings.mlr.press/v162/lan22a.html)
   
-  * 06 Dec 2022, Henrique Aguiar, et al.
+  - 06 Dec 2022, Shiyong Lan, et al.
   
-  * [[Official Code](https://github.com/hrna-ox/camelot-icml)]
+  - [[Official Code](https://github.com/SYLan2019/DSTAGNN)]
 
-* [CoTMix: Contrastive Domain Adaptation for Time-Series via Temporal Mixup](https://arxiv.org/abs/2212.01555)
+- [Learning of Cluster-based Feature Importance for Electronic Health Record Time-series](https://proceedings.mlr.press/v162/aguiar22a.html)
   
-  * 03 Dec 2022, Emadeldeen Eldele, et al.
+  - 06 Dec 2022, Henrique Aguiar, et al.
   
-  * [[Official Code - CoTMix](https://github.com/emadeldeen24/cotmix)]
+  - [[Official Code](https://github.com/hrna-ox/camelot-icml)]
 
-* [FECAM: Frequency Enhanced Channel Attention Mechanism for Time Series Forecasting](https://arxiv.org/abs/2212.01209)
+- [CoTMix: Contrastive Domain Adaptation for Time-Series via Temporal Mixup](https://arxiv.org/abs/2212.01555)
   
-  * 02 Dec 2022, Maowei Jiang, et al.
+  - 03 Dec 2022, Emadeldeen Eldele, et al.
   
-  * [[Official Code](https://github.com/zero-coder/fecam)]
+  - [[Official Code - CoTMix](https://github.com/emadeldeen24/cotmix)]
 
-* [MHCCL: Masked Hierarchical Cluster-wise Contrastive Learning for Multivariate Time Series](https://arxiv.org/abs/2212.01209)
+- [FECAM: Frequency Enhanced Channel Attention Mechanism for Time Series Forecasting](https://arxiv.org/abs/2212.01209)
   
-  * 02 Dec 2022, Qianwen Meng, et al.
+  - 02 Dec 2022, Maowei Jiang, et al.
   
-  * [[Official Code](https://github.com/mqwfrog/mhccl)]
+  - [[Official Code](https://github.com/zero-coder/fecam)]
+
+- [MHCCL: Masked Hierarchical Cluster-wise Contrastive Learning for Multivariate Time Series](https://arxiv.org/abs/2212.01209)
+  
+  - 02 Dec 2022, Qianwen Meng, et al.
+  
+  - [[Official Code](https://github.com/mqwfrog/mhccl)]
+ 
+- [CRU: A Novel Neural Architecture for Improving the Predictive Performance of Time-Series Data](https://arxiv.org/abs/2211.16653)
+
+  - 30 Nov 2022, Sunghyun Sim, et al.
 
 * [AirFormer: Predicting Nationwide Air Quality in China with Transformers](https://arxiv.org/abs/2211.15979)
   
