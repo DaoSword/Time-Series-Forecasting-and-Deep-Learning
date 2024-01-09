@@ -998,6 +998,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   - [[Official Code](https://github.com/boschresearch/continuous-recurrent-units)]
 
+- [Transferable Time-Series Forecasting under Causal Conditional Shift](https://arxiv.org/abs/2111.03422)
+
+  - 05 Nov 2021, Zijian Li, et al.
+ 
+  - [[Official Code - GCA](https://github.com/dmirlab-group/gca)]
+
 - [Reconstructing Nonlinear Dynamical Systems from Multi-Modal Time Series](https://arxiv.org/abs/2111.02922)
   
   - 04 Nov 2021, Daniel Kramer, et al.
