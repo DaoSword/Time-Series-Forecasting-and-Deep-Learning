@@ -782,6 +782,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   * 19 Jul 2022, Linbo Liu, et al.
   
   * [[Official Code - gluonts](https://github.com/awslabs/gluonts)]
+ 
+* [Generalizable Memory-driven Transformer for Multivariate Long Sequence Time-series Forecasting](https://arxiv.org/abs/2207.07827)
+
+  * 16 Jul 2022, Xiaoyun Zhao, et al.
+ 
+  * [[Official Code - CLMFormer](https://github.com/mlii0117/CLMFormer)]
 
 * [Learning Deep Time-index Models for Time Series Forecasting](https://arxiv.org/abs/2207.06046)
   
