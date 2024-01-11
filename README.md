@@ -1091,6 +1091,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 10 Aug 2021, Yuntao Du, et al.
   
   - [[Official Code](https://github.com/jindongwang/transferlearning)]
+ 
+- [Spatiotemporal information conversion machine for time-series prediction](https://arxiv.org/abs/2107.01353)
+
+  - 03 Jul 2021, Hao Peng, et al.
+ 
+  - [[Official Code - STICM](https://github.com/mahp-scut/sticm)]
 
 - [Time-Series Representation Learning via Temporal and Contextual Contrasting](https://arxiv.org/abs/2106.14112)
   
