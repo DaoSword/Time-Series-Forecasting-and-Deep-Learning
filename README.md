@@ -44,6 +44,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 - [FourierGNN: Rethinking Multivariate Time Series Forecasting from a Pure Graph Perspective](https://arxiv.org/abs/2311.06190)
 
   - 10 Nov 2023, Kun Yi, et al.
+ 
+- [Frequency-domain MLPs are More Effective Learners in Time Series Forecasting](https://arxiv.org/abs/2311.06184)
+
+  - 10 Nov 2023, Kun Yi, et al.
+ 
+  - [[Official Code - FreTS](https://github.com/aikunyi/frets)]
 
 - [Multi-resolution Time-Series Transformer for Long-term Forecasting](https://arxiv.org/abs/2311.04147)
 
