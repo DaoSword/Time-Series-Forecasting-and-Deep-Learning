@@ -37,6 +37,12 @@ List of research papers focus on time series forecasting and deep learning, as w
  
   - [[Official Code - TimeSeriesPredictionPlatform](https://github.com/NVIDIA/DeepLearningExamples/tree/master/Tools/PyTorch/TimeSeriesPredictionPlatform)]
  
+- [Learning to Embed Time Series Patches Independently](https://arxiv.org/abs/2312.16427)
+
+  - 27 Dec 2023, Seunghan Lee, et al.
+ 
+  - [[Official Code - pits](https://github.com/seunghan96/pits)]
+ 
 - [TimesURL: Self-supervised Contrastive Learning for Universal Time Series Representation Learning](https://arxiv.org/abs/2312.15709)
 
   - 25 Dec 2023, Jiexi Liu, et al.
