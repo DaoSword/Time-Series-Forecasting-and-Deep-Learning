@@ -31,6 +31,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ### 2023
 
+- [MSGNet: Learning Multi-Scale Inter-Series Correlations for Multivariate Time Series Forecasting](https://arxiv.org/abs/2401.00423)
+
+  - 31 Dec 2023, Wanlin Cai, et al.
+ 
+  - [[Official Code - MSGNet](https://github.com/yozhibo/msgnet)]
+
 - [TSPP: A Unified Benchmarking Tool for Time-series Forecasting](https://arxiv.org/abs/2312.17100)
 
   - 28 Dec 2023, Jan Bączek, et al.
