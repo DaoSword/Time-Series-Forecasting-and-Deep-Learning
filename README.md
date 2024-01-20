@@ -52,6 +52,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 - [TimesURL: Self-supervised Contrastive Learning for Universal Time Series Representation Learning](https://arxiv.org/abs/2312.15709)
 
   - 25 Dec 2023, Jiexi Liu, et al.
+ 
+- [Learning from Polar Representation: An Extreme-Adaptive Model for Long-Term Time Series Forecasting](https://arxiv.org/abs/2312.08763)
+
+  - 14 Dec 2023, Yanhong Li, et al.
+ 
+  - [[Official Code - DAN](https://github.com/davidanastasiu/dan)]
 
 - [FourierGNN: Rethinking Multivariate Time Series Forecasting from a Pure Graph Perspective](https://arxiv.org/abs/2311.06190)
 
