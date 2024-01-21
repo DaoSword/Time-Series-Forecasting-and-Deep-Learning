@@ -170,6 +170,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 20 Sep 2023, Peiyuan Liu, et al.
  
   - [[Official Code - WFTNet](https://github.com/Hank0626/WFTNet)]
+
+- [Fully-Connected Spatial-Temporal Graph for Multivariate Time-Series Data](https://arxiv.org/abs/2309.05305)
+
+  - 11 Sep 2023, Yucheng Wang, et al.
+ 
+  - [[Official Code - FCSTGNN](https://github.com/Frank-Wang-oss/FCSTGNN)]
  
 - [PAITS: Pretraining and Augmentation for Irregularly-Sampled Time Series](https://arxiv.org/abs/2308.13703)
 
