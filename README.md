@@ -433,6 +433,10 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   - [[Official Code - SMD-SSL](https://github.com/aniruddhraghu/smd-ssl)]
 
+- [Deep learning models for price forecasting of financial time series: A review of recent advancements: 2020-2022](https://arxiv.org/abs/2305.04811)
+
+  - 21 Apr 2023, Cheng Zhang, et al.
+  
 - [Long-term Forecasting with TiDE: Time-series Dense Encoder](https://arxiv.org/abs/2304.08424)
   
   - 17 Apr 2023, Abhimanyu Das, et al.
