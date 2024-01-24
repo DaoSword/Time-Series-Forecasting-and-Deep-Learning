@@ -1320,6 +1320,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   * [[Code](https://github.com/mattsherar/Temporal_Fusion_Transform)]
 
+* [Towards Better Forecasting by Fusing Near and Distant Future Visions](https://arxiv.org/abs/1912.05122)
+
+  * 11 Dec 2019, Jiezhu Cheng, et al.
+ 
+  * [[Official Code - MLCNN-Multivariate-Time-Series](https://github.com/smallGum/MLCNN-Multivariate-Time-Series)]
+  
 * [DSANet: Dual Self-Attention Network for Multivariate Time Series Forecasting](https://dl.acm.org/doi/10.1145/3357384.3358132)
   
   * 03 Nov 2019, Siteng Huang, et al.
