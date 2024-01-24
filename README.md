@@ -29,6 +29,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ## Papers
 
+### 2024
+
+- [Multi-scale Transformers with Adaptive Pathways for Time Series Forecasting](https://openreview.net/forum?id=lJkOCMP2aW)
+
+  - 16 Jan 2024, Anonymous authors.
+
 ### 2023
 
 - [MSGNet: Learning Multi-Scale Inter-Series Correlations for Multivariate Time Series Forecasting](https://arxiv.org/abs/2401.00423)
