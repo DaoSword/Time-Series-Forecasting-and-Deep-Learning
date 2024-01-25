@@ -1195,6 +1195,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 12 Apr 2021, Kin G. Olivares, et al.
   
   - [[Code](https://github.com/cchallu/nbeatsx)]
+ 
+- [An Experimental Review on Deep Learning Architectures for Time Series Forecasting](https://arxiv.org/abs/2103.12057)
+
+  - 22 Mar 2021, Pedro Lara-Benítez, et al.
+ 
+  - [[Official Code - TimeSeriesForecasting-DeepLearning](https://github.com/pedrolarben/TimeSeriesForecasting-DeepLearning)]
 
 - [Spectral Temporal Graph Neural Network for Multivariate Time-series Forecasting](https://arxiv.org/abs/2103.07719)
   
