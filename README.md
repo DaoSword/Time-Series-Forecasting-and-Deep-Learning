@@ -305,6 +305,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 
   - 07 Jul 2023, Sitan Yang, et al.
 
+- [FITS: Modeling Time Series with 10k Parameters](https://arxiv.org/abs/2307.03756)
+
+  - 06 Jul 2023, Zhijian Xu, et al.
+ 
+  - [[Official Code - FITS](https://github.com/vewoxic/fits)]
+
 - [SageFormer: Series-Aware Graph-Enhanced Transformers for Multivariate Time Series Forecasting](https://arxiv.org/abs/2307.01616)
   
   - 04 Jul 2023, Zhenwei Zhang, et al.
