@@ -31,6 +31,10 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ### 2024
 
+- [Interpretable Sparse System Identification: Beyond Recent Deep Learning Techniques on Time-Series Prediction](https://openreview.net/forum?id=aFWUY3E7ws)
+
+  - 16 Jan 2024, Anonymous authors.
+
 - [Multi-scale Transformers with Adaptive Pathways for Time Series Forecasting](https://openreview.net/forum?id=lJkOCMP2aW)
 
   - 16 Jan 2024, Anonymous authors.
