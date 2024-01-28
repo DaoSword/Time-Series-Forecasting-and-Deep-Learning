@@ -38,6 +38,10 @@ List of research papers focus on time series forecasting and deep learning, as w
 - [Multi-scale Transformers with Adaptive Pathways for Time Series Forecasting](https://openreview.net/forum?id=lJkOCMP2aW)
 
   - 16 Jan 2024, Anonymous authors.
+ 
+- [SocioDojo: Building Lifelong Analytical Agents with Real-world Text and Time Series](https://openreview.net/forum?id=s9z0HzWJJp)
+
+  - 16 Jan 2024, Anonymous authors.
 
 ### 2023
 
