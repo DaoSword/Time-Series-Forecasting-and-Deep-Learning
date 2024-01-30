@@ -384,6 +384,10 @@ List of research papers focus on time series forecasting and deep learning, as w
 - [Self-Interpretable Time Series Prediction with Counterfactual Explanations](https://arxiv.org/abs/2306.06024)
 
   - 09 Jun 2023, Jingquan Yan, et al.
+ 
+- [Time Series Continuous Modeling for Imputation and Forecasting with Implicit Neural Representations](https://arxiv.org/abs/2306.05880)
+
+  - 09 Jun 2023, Etienne Le Naour, et al.
 
 - [An End-to-End Time Series Model for Simultaneous Imputation and Forecast](https://arxiv.org/abs/2306.00778)
   
