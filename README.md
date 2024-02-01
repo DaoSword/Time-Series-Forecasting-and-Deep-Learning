@@ -162,7 +162,9 @@ List of research papers focus on time series forecasting and deep learning, as w
 - [Time-LLM: Time Series Forecasting by Reprogramming Large Language Models](https://arxiv.org/abs/2310.01728)
 
   - 03 Oct 2023, Ming Jin, et al.
- 
+
+  - [[Official Code - Time-LLM](https://github.com/kimmeen/time-llm)]
+  
 - [Modality-aware Transformer for Time series Forecasting](https://arxiv.org/abs/2310.01232)
 
   - 02 Oct 2023, Hajar Emami, et al.
