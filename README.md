@@ -1361,6 +1361,10 @@ List of research papers focus on time series forecasting and deep learning, as w
   * 11 Dec 2019, Jiezhu Cheng, et al.
  
   * [[Official Code - MLCNN-Multivariate-Time-Series](https://github.com/smallGum/MLCNN-Multivariate-Time-Series)]
+
+* [Financial Time Series Forecasting with Deep Learning : A Systematic Literature Review: 2005-2019](https://arxiv.org/abs/1911.13288)
+
+  * 29 Nov 2019, Omer Berat Sezer, et al.
   
 * [DSANet: Dual Self-Attention Network for Multivariate Time Series Forecasting](https://dl.acm.org/doi/10.1145/3357384.3358132)
   
