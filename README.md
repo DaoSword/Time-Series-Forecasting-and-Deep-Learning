@@ -441,6 +441,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 
   - 11 May 2023, Ming Jin, et al.
 
+- [IVP-VAE: Modeling EHR Time Series with Initial Value Problem Solvers](https://arxiv.org/abs/2305.06741)
+
+  - 11 May 2023, Jingge Xiao, et al.
+ 
+  - [[Official Code - ivpvae](https://github.com/jingge326/ivpvae)]
+
 - [Mlinear: Rethink the Linear Model for Time-series Forecasting](https://arxiv.org/abs/2305.04800)
 
   - 08 May 2023, Wei Li, et al.
