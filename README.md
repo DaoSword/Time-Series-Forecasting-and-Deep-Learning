@@ -47,6 +47,10 @@ List of research papers focus on time series forecasting and deep learning, as w
 
   - 16 Jan 2024, Anonymous authors.
 
+- [U-Mixer: An Unet-Mixer Architecture with Stationarity Correction for Time Series Forecasting](https://arxiv.org/abs/2401.02236)
+
+  - 04 Jan 2024, Ling Chen, et al.
+
 ### 2023
 
 - [MSGNet: Learning Multi-Scale Inter-Series Correlations for Multivariate Time Series Forecasting](https://arxiv.org/abs/2401.00423)
