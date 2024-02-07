@@ -35,6 +35,10 @@ List of research papers focus on time series forecasting and deep learning, as w
 
   - 16 Jan 2024, Anonymous authors.
  
+- [Generative Learning for Financial Time Series with Irregular and Scale-Invariant Patterns](https://openreview.net/forum?id=CdjnzWsQax)
+
+  - 16 Jan 2024, Anonymous authors.
+ 
 - [Leveraging Generative Models for Unsupervised Alignment of Neural Time Series Data](https://openreview.net/forum?id=9zhHVyLY4K)
 
   - 16 Jan 2024, Anonymous authors.
