@@ -85,6 +85,12 @@ List of research papers focus on time series forecasting and deep learning, as w
  
   - [[Official Code - DAN](https://github.com/davidanastasiu/dan)]
 
+- [SimPSI: A Simple Strategy to Preserve Spectral Information in Time Series Data Augmentation](https://arxiv.org/abs/2312.05790)
+
+  - 10 Dec 2023, Hyun Ryu, et al.
+ 
+  - [[Official Code - simpsi](https://github.com/hyun-ryu/simpsi)]
+
 - [FourierGNN: Rethinking Multivariate Time Series Forecasting from a Pure Graph Perspective](https://arxiv.org/abs/2311.06190)
 
   - 10 Nov 2023, Kun Yi, et al.
