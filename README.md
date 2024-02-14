@@ -464,6 +464,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 11 May 2023, Jingge Xiao, et al.
  
   - [[Official Code - ivpvae](https://github.com/jingge326/ivpvae)]
+ 
+- [CUTS+: High-dimensional Causal Discovery from Irregular Time-series](https://arxiv.org/abs/2305.05890)
+
+  - 10 May 2023, Yuxiao Cheng, et al.
+
+  - [[Official Code - UNN](https://github.com/jarrycyx/unn)]
 
 - [Mlinear: Rethink the Linear Model for Time-series Forecasting](https://arxiv.org/abs/2305.04800)
 
