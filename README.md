@@ -278,6 +278,10 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 02 Aug 2023, Chunwei Yang, et al.
   
   - [[Official Code - Floss](https://github.com/agustdd/floss)]
+ 
+- [SimpleTS: An Efficient and Universal Model Selection Framework for Time Series Forecasting](https://dl.acm.org/doi/10.14778/3611540.3611561)
+
+  - 01 Aug 2023, Yuanyuan Yao, et al.
 
 - [DeepTSF: Codeless machine learning operations for time series forecasting](https://arxiv.org/abs/2308.00709)
   
