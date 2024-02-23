@@ -428,6 +428,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 - [An End-to-End Time Series Model for Simultaneous Imputation and Forecast](https://arxiv.org/abs/2306.00778)
   
   - 01 Jun 2023, Trang H. Tran, et al.
+ 
+- [Improving day-ahead Solar Irradiance Time Series Forecasting by Leveraging Spatio-Temporal Context](https://arxiv.org/abs/2306.01112)
+
+  - 01 Jun 2023, Oussama Boussif, et al.
+ 
+  - [[Official Code - CrossViVit](https://github.com/gitbooo/CrossViVit)]
 
 - [Client: Cross-variable Linear Integrated Enhanced Transformer for Multivariate Long-Term Time Series Forecasting](https://arxiv.org/abs/2305.18838)
 
