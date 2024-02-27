@@ -31,6 +31,10 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ### 2024
 
+- [Unified Training of Universal Time Series Forecasting Transformers](https://arxiv.org/abs/2402.02592)
+
+  - 04 Feb 2024, Gerald Woo, et al.
+
 - [Interpretable Sparse System Identification: Beyond Recent Deep Learning Techniques on Time-Series Prediction](https://openreview.net/forum?id=aFWUY3E7ws)
 
   - 16 Jan 2024, Anonymous authors.
