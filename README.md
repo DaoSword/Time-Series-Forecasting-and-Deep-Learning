@@ -55,6 +55,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 
   - 16 Jan 2024, Anonymous authors.
 
+- [UnetTSF: A Better Performance Linear Complexity Time Series Prediction Model](https://arxiv.org/abs/2401.03001)
+
+  - 05 Jan 2024, Chu Li, et al.
+ 
+  - [[Official Code - UnetTSF](https://github.com/lichuustc/UnetTSF)]
+
 - [U-Mixer: An Unet-Mixer Architecture with Stationarity Correction for Time Series Forecasting](https://arxiv.org/abs/2401.02236)
 
   - 04 Jan 2024, Ling Chen, et al.
