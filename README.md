@@ -34,6 +34,10 @@ List of research papers focus on time series forecasting and deep learning, as w
 - [Multi-Patch Prediction: Adapting LLMs for Time Series Representation Learning](https://arxiv.org/abs/2402.04852)
 
   - 07 Feb 2024, Yuxuan Bian, et al.
+ 
+- [AutoTimes: Autoregressive Time Series Forecasters via Large Language Models](https://arxiv.org/abs/2402.02370)
+
+  - 04 Feb 2024, Yong Liu, et al.
 
 - [Unified Training of Universal Time Series Forecasting Transformers](https://arxiv.org/abs/2402.02592)
 
