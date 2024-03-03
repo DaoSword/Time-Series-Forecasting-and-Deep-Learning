@@ -35,6 +35,10 @@ List of research papers focus on time series forecasting and deep learning, as w
 
   - 07 Feb 2024, Yuxuan Bian, et al.
  
+- [Position Paper: What Can Large Language Models Tell Us about Time Series Analysis](https://arxiv.org/abs/2402.02713)
+
+  - 05 Feb 2024, Ming Jin, et al.
+ 
 - [AutoTimes: Autoregressive Time Series Forecasters via Large Language Models](https://arxiv.org/abs/2402.02370)
 
   - 04 Feb 2024, Yong Liu, et al.
