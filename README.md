@@ -31,6 +31,10 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ### 2024
 
+- [LSTPrompt: Large Language Models as Zero-Shot Time Series Forecasters by Long-Short-Term Prompting](https://arxiv.org/abs/2402.16132)
+
+  - 25 Feb 2024, Haoxin Liu, et al.
+
 - [Multi-Patch Prediction: Adapting LLMs for Time Series Representation Learning](https://arxiv.org/abs/2402.04852)
 
   - 07 Feb 2024, Yuxuan Bian, et al.
