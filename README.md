@@ -31,6 +31,10 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ### 2024
 
+- [TimeXer: Empowering Transformers for Time Series Forecasting with Exogenous Variables](https://arxiv.org/abs/2402.19072)
+
+  - 29 Feb 2024, Yuxuan Wang, et al.
+
 - [LSTPrompt: Large Language Models as Zero-Shot Time Series Forecasters by Long-Short-Term Prompting](https://arxiv.org/abs/2402.16132)
 
   - 25 Feb 2024, Haoxin Liu, et al.
