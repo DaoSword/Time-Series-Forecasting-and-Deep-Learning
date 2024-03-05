@@ -56,6 +56,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 02 Feb 2024, Xiyuan Zhang, et al.
  
   - [[Official Code - awesome-llm-time-series](https://github.com/xiyuanzh/awesome-llm-time-series)]
+ 
+- [RWKV-TS: Beyond Traditional Recurrent Neural Network for Time Series Tasks](https://arxiv.org/abs/2401.09093)
+
+  - 17 Jan 2024, Haowen Hou, et al.
+  
+  - [[Official Code - RWKV-TS](https://github.com/howard-hou/RWKV-TS)]
 
 - [Interpretable Sparse System Identification: Beyond Recent Deep Learning Techniques on Time-Series Prediction](https://openreview.net/forum?id=aFWUY3E7ws)
 
