@@ -114,6 +114,10 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 28 Dec 2023, Jan Bączek, et al.
  
   - [[Official Code - TimeSeriesPredictionPlatform](https://github.com/NVIDIA/DeepLearningExamples/tree/master/Tools/PyTorch/TimeSeriesPredictionPlatform)]
+
+- [Continuous-time Autoencoders for Regular and Irregular Time Series Imputation](https://arxiv.org/abs/2312.16581)
+
+  - 27 Dec 2023, Hyowon Wi, et al.
  
 - [Learning to Embed Time Series Patches Independently](https://arxiv.org/abs/2312.16427)
 
