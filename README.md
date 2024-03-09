@@ -429,6 +429,10 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   - [[Official Code - Overlap](https://github.com/Minqi824/Overlap)]
 
+- [InParformer: Evolutionary Decomposition Transformers with Interactive Parallel Attention for Long-Term Time Series Forecasting](https://ojs.aaai.org/index.php/AAAI/article/view/25845)
+
+  - 26 Jun 2023, Haizhou Cao, et al.
+  
 - [Temporal Data Meets LLM -- Explainable Financial Time Series Forecasting](https://arxiv.org/abs/2306.11025)
   
   - 19 Jun 2023, Xinli Yu, et al.
