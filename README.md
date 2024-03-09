@@ -54,6 +54,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 - [AutoTimes: Autoregressive Time Series Forecasters via Large Language Models](https://arxiv.org/abs/2402.02370)
 
   - 04 Feb 2024, Yong Liu, et al.
+ 
+- [Pathformer: Multi-scale Transformers with Adaptive Pathways for Time Series Forecasting](https://arxiv.org/abs/2402.05956)
+
+  - 04 Feb 2024, Peng Chen, et al.
+ 
+  - [[Official Code - pathformer](https://github.com/decisionintelligence/pathformer)]
 
 - [Unified Training of Universal Time Series Forecasting Transformers](https://arxiv.org/abs/2402.02592)
 
