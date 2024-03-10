@@ -545,6 +545,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 
   - [[Official Code - UNN](https://github.com/jarrycyx/unn)]
 
+- [Causal Discovery from Subsampled Time Series with Proxy Variables](https://arxiv.org/abs/2305.05276)
+
+  - 09 May 2023, Mingzhou Liu, et al.
+ 
+  - [[Official Code - proxy_causal_discovery](https://github.com/lmz123321/proxy_causal_discovery)]
+  
 - [Mlinear: Rethink the Linear Model for Time-series Forecasting](https://arxiv.org/abs/2305.04800)
 
   - 08 May 2023, Wei Li, et al.
