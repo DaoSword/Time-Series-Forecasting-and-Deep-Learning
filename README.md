@@ -60,6 +60,10 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 04 Feb 2024, Peng Chen, et al.
  
   - [[Official Code - pathformer](https://github.com/decisionintelligence/pathformer)]
+ 
+- [Timer: Transformers for Time Series Analysis at Scale](https://arxiv.org/abs/2402.02368)
+
+  - 04 Feb 2024, Yong Liu, et al.
 
 - [Unified Training of Universal Time Series Forecasting Transformers](https://arxiv.org/abs/2402.02592)
 
