@@ -156,6 +156,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 10 Dec 2023, Hyun Ryu, et al.
  
   - [[Official Code - simpsi](https://github.com/hyun-ryu/simpsi)]
+ 
+- [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2312.00752)
+
+  - 01 Dec 2023, Albert Gu, et al.
+ 
+  - [[Official Code - mamba](https://github.com/state-spaces/mamba)]
 
 - [FourierGNN: Rethinking Multivariate Time Series Forecasting from a Pure Graph Perspective](https://arxiv.org/abs/2311.06190)
 
