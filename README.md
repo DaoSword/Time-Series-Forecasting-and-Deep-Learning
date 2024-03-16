@@ -503,6 +503,10 @@ List of research papers focus on time series forecasting and deep learning, as w
 
   - 09 Jun 2023, Etienne Le Naour, et al.
 
+- [Encoding Time-Series Explanations through Self-Supervised Model Behavior Consistency](https://arxiv.org/abs/2306.02109)
+
+  - 03 Jun 2023, Owen Queen, et al.
+
 - [An End-to-End Time Series Model for Simultaneous Imputation and Forecast](https://arxiv.org/abs/2306.00778)
   
   - 01 Jun 2023, Trang H. Tran, et al.
