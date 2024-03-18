@@ -646,6 +646,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 24 Mar 2023, Zhiyu Liang, et al.
   
   - [[Official Code](https://github.com/LceOmlet/UniTS)]
+ 
+- [Conformal Prediction for Time Series with Modern Hopfield Networks](https://arxiv.org/abs/2303.12783)
+
+  - 22 Mar 2023, Andreas Auer, et al.
+ 
+  - [[Official Code - HopCPT](https://github.com/ml-jku/hopcpt)]
 
 - [Style Miner: Find Significant and Stable Explanatory Factors in Time Series with Constrained Reinforcement Learning](https://arxiv.org/abs/2303.11716)
   
