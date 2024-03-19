@@ -31,6 +31,10 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ### 2024
 
+- [CATS: Enhancing Multivariate Time Series Forecasting by Constructing Auxiliary Time Series as Exogenous Variables](https://arxiv.org/abs/2403.01673)
+
+  - 04 Mar 2024, Jiecheng Lu, et al.
+
 - [TimeXer: Empowering Transformers for Time Series Forecasting with Exogenous Variables](https://arxiv.org/abs/2402.19072)
 
   - 29 Feb 2024, Yuxuan Wang, et al.
