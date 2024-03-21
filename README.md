@@ -87,6 +87,8 @@ List of research papers focus on time series forecasting and deep learning, as w
 
   - 04 Feb 2024, Gerald Woo, et al.
  
+  - [[Official Code - uni2ts](https://github.com/SalesforceAIResearch/uni2ts)]
+ 
 - [Large Language Models for Time Series: A Survey](https://arxiv.org/abs/2402.01801)
 
   - 02 Feb 2024, Xiyuan Zhang, et al.
