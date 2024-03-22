@@ -230,6 +230,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 18 Oct 2023, Shuhan Zhong, et al.
  
   - [[Official Code - MSD-Mixer](https://github.com/zshhans/msd-mixer)]
+
+- [Large Models for Time Series and Spatio-Temporal Data: A Survey and Outlook](https://arxiv.org/abs/2310.10196)
+
+  - 16 Oct 2023, Ming Jin, et al.
+
+  - [[Official Code - awesome-timeseries-spatiotemporal-lm-llm](https://github.com/qingsongedu/awesome-timeseries-spatiotemporal-lm-llm)]
  
 - [UniTime: A Language-Empowered Unified Model for Cross-Domain Time Series Forecasting](https://arxiv.org/abs/2310.09751)
 
