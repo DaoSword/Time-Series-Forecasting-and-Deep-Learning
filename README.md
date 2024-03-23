@@ -1204,6 +1204,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ### 2021
 
+- [AutoCTS: Automated Correlated Time Series Forecasting -- Extended Version](https://arxiv.org/abs/2112.11174)
+
+  - 21 Dec 2021, Xinle Wu, et al.
+ 
+  - [[Official Code - AutoCTS](https://github.com/decisionintelligence/AutoCTS)]
+
 - [A Comparative Study of Detecting Anomalies in Time Series Data Using LSTM and TCN Models](https://arxiv.org/abs/2112.09293)
   
   - 17 Dec 2021, Saroj Gopali, et al.
