@@ -31,6 +31,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ### 2024
 
+- [TimeMachine: A Time Series is Worth 4 Mambas for Long-term Forecasting](https://arxiv.org/abs/2403.09898)
+
+  - 14 Mar 2024, Md Atik Ahamed, et al.
+ 
+  - [[Official Code - TimeMachine](https://github.com/atik-ahamed/timemachine)]
+
 - [CATS: Enhancing Multivariate Time Series Forecasting by Constructing Auxiliary Time Series as Exogenous Variables](https://arxiv.org/abs/2403.01673)
 
   - 04 Mar 2024, Jiecheng Lu, et al.
