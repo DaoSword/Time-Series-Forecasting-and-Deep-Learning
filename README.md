@@ -31,6 +31,10 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ### 2024
 
+- [An Analysis of Linear Time Series Forecasting Models](https://arxiv.org/abs/2403.14587)
+
+  - 21 Mar 2024, William Toner, et al.
+
 - [TimeMachine: A Time Series is Worth 4 Mambas for Long-term Forecasting](https://arxiv.org/abs/2403.09898)
 
   - 14 Mar 2024, Md Atik Ahamed, et al.
