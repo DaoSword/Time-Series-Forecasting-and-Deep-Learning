@@ -35,6 +35,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 
   - 21 Mar 2024, William Toner, et al.
 
+- [Self-Supervised Learning for Time Series: Contrastive or Generative?](https://arxiv.org/abs/2403.09809)
+
+  - 14 Mar 2024, Ziyu Liu, et al.
+ 
+  - [[Official Code - SSL_Comparison](https://github.com/dl4mhealth/ssl_comparison)]
+
 - [TimeMachine: A Time Series is Worth 4 Mambas for Long-term Forecasting](https://arxiv.org/abs/2403.09898)
 
   - 14 Mar 2024, Md Atik Ahamed, et al.
