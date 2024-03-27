@@ -132,6 +132,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 - [Multi-scale Transformers with Adaptive Pathways for Time Series Forecasting](https://openreview.net/forum?id=lJkOCMP2aW)
 
   - 16 Jan 2024, Anonymous authors.
+
+- [Self-Supervised Contrastive Learning for Long-term Forecasting](https://openreview.net/forum?id=nBCuRzjqK7)
+
+  - 16 Jan 2024, Junwoo Park, et al.
+ 
+  - [[Official Code - Self-Supervised-Contrastive-Forecsating](https://github.com/junwoopark92/Self-Supervised-Contrastive-Forecsating)]
  
 - [SocioDojo: Building Lifelong Analytical Agents with Real-world Text and Time Series](https://openreview.net/forum?id=s9z0HzWJJp)
 
