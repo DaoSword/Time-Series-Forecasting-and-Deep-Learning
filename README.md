@@ -295,6 +295,10 @@ List of research papers focus on time series forecasting and deep learning, as w
 
   - 08 Oct 2023, Defu Cao, et al.
  
+- [Generative Modeling of Regular and Irregular Time Series Data via Koopman VAEs](https://arxiv.org/abs/2310.02619)
+
+  - 04 Oct 2023, Ilan Naiman, et al.
+ 
 - [Time-LLM: Time Series Forecasting by Reprogramming Large Language Models](https://arxiv.org/abs/2310.01728)
 
   - 03 Oct 2023, Ming Jin, et al.
