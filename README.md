@@ -46,6 +46,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 14 Mar 2024, Md Atik Ahamed, et al.
  
   - [[Official Code - TimeMachine](https://github.com/atik-ahamed/timemachine)]
+ 
+- [MG-TSD: Multi-Granularity Time Series Diffusion Models with Guided Learning Process](https://arxiv.org/abs/2403.05751)
+
+  - 09 Mar 2024, Xinyao Fan, et al.
+ 
+  - [[Official Code - MG-TSD](https://github.com/hundredl/mg-tsd)]
 
 - [CATS: Enhancing Multivariate Time Series Forecasting by Constructing Auxiliary Time Series as Exogenous Variables](https://arxiv.org/abs/2403.01673)
 
