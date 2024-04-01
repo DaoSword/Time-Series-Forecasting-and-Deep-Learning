@@ -50,6 +50,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 - [CATS: Enhancing Multivariate Time Series Forecasting by Constructing Auxiliary Time Series as Exogenous Variables](https://arxiv.org/abs/2403.01673)
 
   - 04 Mar 2024, Jiecheng Lu, et al.
+ 
+- [Diffusion-TS: Interpretable Diffusion for General Time Series Generation](https://arxiv.org/abs/2403.01742)
+
+  - 04 Mar 2024, Xinyu Yuan, et al.
+ 
+  - [[Official Code - Diffusion-TS](https://github.com/y-debug-sys/diffusion-ts)]
 
 - [TimeXer: Empowering Transformers for Time Series Forecasting with Exogenous Variables](https://arxiv.org/abs/2402.19072)
 
