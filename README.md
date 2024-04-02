@@ -90,6 +90,10 @@ List of research papers focus on time series forecasting and deep learning, as w
 - [Multi-Patch Prediction: Adapting LLMs for Time Series Representation Learning](https://arxiv.org/abs/2402.04852)
 
   - 07 Feb 2024, Yuxuan Bian, et al.
+  
+- [DiffsFormer: A Diffusion Transformer on Stock Factor Augmentation](https://arxiv.org/abs/2402.06656)
+
+  - 05 Feb 2024, Yuan Gao, et al.
  
 - [Position Paper: What Can Large Language Models Tell Us about Time Series Analysis](https://arxiv.org/abs/2402.02713)
 
