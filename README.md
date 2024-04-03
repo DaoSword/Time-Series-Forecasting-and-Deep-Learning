@@ -31,6 +31,22 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ### 2024
 
+- [Is Mamba Effective for Time Series Forecasting?](https://arxiv.org/abs/2403.11144)
+  
+  - 2 April 2024, Zihan Wang, et al.
+   
+  - [[Official Code - S-D-Mamba](https://github.com/wzhwzhwzh0921/S-D-Mamba)]
+
+- [From Similarity to Superiority: Channel Clustering for Time Series Forecasting](https://arxiv.org/abs/2404.01340)
+
+  - 31 Mar 2024, Jialin Chen, et al.
+
+- [TFB: Towards Comprehensive and Fair Benchmarking of Time Series Forecasting Methods](https://arxiv.org/abs/2403.20150)
+
+  - 29 Mar 2024, Xiangfei Qiu, et al.
+
+  - [[Official Code - TFB](https://github.com/decisionintelligence/TFB)]
+
 - [An Analysis of Linear Time Series Forecasting Models](https://arxiv.org/abs/2403.14587)
 
   - 21 Mar 2024, William Toner, et al.
