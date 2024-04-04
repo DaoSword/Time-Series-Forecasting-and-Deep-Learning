@@ -1390,6 +1390,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   - [[Official Code](https://github.com/jindongwang/transferlearning)]
  
+- [CSDI: Conditional Score-based Diffusion Models for Probabilistic Time Series Imputation](https://arxiv.org/abs/2107.03502)
+
+  - 07 Jul 2021, Yusuke Tashiro, et al.
+
+  - [[Official Code - CSDI](https://github.com/ermongroup/csdi)]
+ 
 - [Spatiotemporal information conversion machine for time-series prediction](https://arxiv.org/abs/2107.01353)
 
   - 03 Jul 2021, Hao Peng, et al.
