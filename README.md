@@ -33,7 +33,7 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 - [Is Mamba Effective for Time Series Forecasting?](https://arxiv.org/abs/2403.11144)
   
-  - 2 April 2024, Zihan Wang, et al.
+  - 02 April 2024, Zihan Wang, et al.
    
   - [[Official Code - S-D-Mamba](https://github.com/wzhwzhwzh0921/S-D-Mamba)]
 
@@ -986,6 +986,10 @@ List of research papers focus on time series forecasting and deep learning, as w
   * 05 Nov 2022, Aryan Jadon, et al.
   
   * [[Official Code](https://github.com/aryan-jadon/regression-loss-functions-in-time-series-forecasting-tensorflow)]
+
+* [Modeling Temporal Data as Continuous Functions with Stochastic Process Diffusion](https://arxiv.org/abs/2211.02590)
+
+  * 04 Nov 2022, Marin Biloš, et al.
 
 * [Multivariate Time-Series Forecasting with Temporal Polynomial Graph Neural Networks](https://openreview.net/forum?id=pMumil2EJh)
   
