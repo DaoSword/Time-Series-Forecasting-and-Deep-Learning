@@ -40,6 +40,10 @@ List of research papers focus on time series forecasting and deep learning, as w
 - [From Similarity to Superiority: Channel Clustering for Time Series Forecasting](https://arxiv.org/abs/2404.01340)
 
   - 31 Mar 2024, Jialin Chen, et al.
+ 
+- [MambaMixer: Efficient Selective State Space Models with Dual Token and Channel Selection](https://arxiv.org/abs/2403.19888)
+
+  - 29 Mar 2024, Ali Behrouz, et al.
 
 - [TFB: Towards Comprehensive and Fair Benchmarking of Time Series Forecasting Methods](https://arxiv.org/abs/2403.20150)
 
