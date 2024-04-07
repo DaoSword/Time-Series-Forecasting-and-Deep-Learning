@@ -106,6 +106,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 - [Multi-Patch Prediction: Adapting LLMs for Time Series Representation Learning](https://arxiv.org/abs/2402.04852)
 
   - 07 Feb 2024, Yuxuan Bian, et al.
+ 
+- [MOMENT: A Family of Open Time-series Foundation Models](https://arxiv.org/abs/2402.03885)
+
+  - 06 Feb 2024, Mononito Goswami, et al.
+ 
+  - [[Official Code - MOMENT](https://anonymous.4open.science/r/BETT-773F/README.md)]
   
 - [DiffsFormer: A Diffusion Transformer on Stock Factor Augmentation](https://arxiv.org/abs/2402.06656)
 
