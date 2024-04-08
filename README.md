@@ -50,6 +50,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 29 Mar 2024, Xiangfei Qiu, et al.
 
   - [[Official Code - TFB](https://github.com/decisionintelligence/TFB)]
+ 
+- [SiMBA: Simplified Mamba-Based Architecture for Vision and Multivariate Time series](https://arxiv.org/abs/2403.15360)
+
+  - 22 Mar 2024, Badri N. Patro, et al.
+ 
+  - [[Official Code - simba](https://github.com/badripatro/simba)]
 
 - [An Analysis of Linear Time Series Forecasting Models](https://arxiv.org/abs/2403.14587)
 
