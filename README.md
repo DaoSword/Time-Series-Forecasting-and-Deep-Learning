@@ -99,6 +99,12 @@ List of research papers focus on time series forecasting and deep learning, as w
  
   - [[Official Code - UniTS](https://github.com/mims-harvard/UniTS)]
 
+- [TOTEM: TOkenized Time Series EMbeddings for General Time Series Analysis](https://arxiv.org/abs/2402.16412)
+
+  - 26 Feb 2024, Sabera Talukder, et al.
+ 
+  - [[Official Code - TOTEM](https://github.com/saberatalukder/totem)]
+
 - [LSTPrompt: Large Language Models as Zero-Shot Time Series Forecasters by Long-Short-Term Prompting](https://arxiv.org/abs/2402.16132)
 
   - 25 Feb 2024, Haoxin Liu, et al.
