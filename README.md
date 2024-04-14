@@ -31,6 +31,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ### 2024
 
+- [OneShotSTL: One-Shot Seasonal-Trend Decomposition For Online Time Series Anomaly Detection And Forecasting](https://arxiv.org/abs/2304.01506)
+
+  - 04 Apr 2023, Xiao He, et al.
+ 
+  - [[Official Code - OneShotSTL](https://github.com/xiao-he/oneshotstl)]
+
 - [Is Mamba Effective for Time Series Forecasting?](https://arxiv.org/abs/2403.11144)
   
   - 02 April 2024, Zihan Wang, et al.
