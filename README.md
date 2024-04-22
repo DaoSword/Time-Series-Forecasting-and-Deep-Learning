@@ -323,6 +323,8 @@ List of research papers focus on time series forecasting and deep learning, as w
 
   - 15 Oct 2023, Xu Liu, et al.
  
+  - [[Official Code - UniTime](https://github.com/liuxu77/unitime)]
+ 
 - [A decoder-only foundation model for time-series forecasting](https://arxiv.org/abs/2310.10688)
 
   - 14 Oct 2023, Abhimanyu Das, et al.
