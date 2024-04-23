@@ -66,6 +66,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 - [An Analysis of Linear Time Series Forecasting Models](https://arxiv.org/abs/2403.14587)
 
   - 21 Mar 2024, William Toner, et al.
+ 
+- [Chronos: Learning the Language of Time Series](https://arxiv.org/abs/2403.07815)
+
+  - 12 Mar 2024, Abdul Fatir Ansari, et al.
+ 
+  - [[Official Code - chronos-forecasting](https://github.com/amazon-science/chronos-forecasting)]
 
 - [Self-Supervised Learning for Time Series: Contrastive or Generative?](https://arxiv.org/abs/2403.09809)
 
