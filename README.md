@@ -57,6 +57,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 
   - [[Official Code - TFB](https://github.com/decisionintelligence/TFB)]
  
+- [An End-to-End Structure with Novel Position Mechanism and Improved EMD for Stock Forecasting](https://arxiv.org/abs/2404.07969)
+
+  - 25 Mar 2024, Chufeng Li, et al.
+ 
+  - [[Official Code - ACEFormer](https://github.com/durandallee/aceformer)]
+ 
 - [SiMBA: Simplified Mamba-Based Architecture for Vision and Multivariate Time series](https://arxiv.org/abs/2403.15360)
 
   - 22 Mar 2024, Badri N. Patro, et al.
