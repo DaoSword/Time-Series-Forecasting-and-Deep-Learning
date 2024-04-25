@@ -1815,205 +1815,209 @@ List of research papers focus on time series forecasting and deep learning, as w
 - [AutoTS](https://github.com/winedarksea/AutoTS)
   
   - `AutoTS` is a time series package for Python designed for rapidly deploying high-accuracy forecasts at scale.
-* [BasicTS](https://github.com/zezhishao/BasicTS/tree/master)
+- [BasicTS](https://github.com/zezhishao/BasicTS/tree/master)
   
-  * `BasicTS` (**Basic** **T**ime **S**eries) is a PyTorch-based benchmark and toolbox for **time series forecasting** (TSF).
+  - `BasicTS` (**Basic** **T**ime **S**eries) is a PyTorch-based benchmark and toolbox for **time series forecasting** (TSF).
 
-* [Beibo](https://github.com/ssantoshp/Beibo)
+- [Beibo](https://github.com/ssantoshp/Beibo)
   
   - `Beibo` is a Python library that uses several AI prediction models to predict stocks returns over a defined period of time.
 
-* [Cesium](https://cesium-ml.org/)
+- [Cesium](https://cesium-ml.org/)
   
   - `Cesium` is an end-to-end machine learning platform for time-series, from calculation of features to model-building to predictions.
 
-* [Darts](https://unit8co.github.io/darts/)
+- [Darts](https://unit8co.github.io/darts/)
   
   - `Darts` is a Python library for easy manipulation and forecasting of time series.
 
-* [DeepOD](https://github.com/xuhongzuo/DeepOD)
+- [DeepOD](https://github.com/xuhongzuo/DeepOD)
   
-  * `DeepOD` is an open-source python framework for deep learning-based anomaly detection on multivariate data.
+  - `DeepOD` is an open-source python framework for deep learning-based anomaly detection on multivariate data.
 
-* [Flow Forecast](https://flow-forecast.atlassian.net/wiki/spaces/FF/overview)
+- [Flow Forecast](https://flow-forecast.atlassian.net/wiki/spaces/FF/overview)
   
   - `Flow Forecast` is a deep learning PyTorch library for time series forecasting, classification, and anomaly detection.
+ 
+- [functime](https://github.com/functime-org/functime)
 
-* [GluonTS](https://ts.gluon.ai/stable/)
+  - `functime` is a powerful Python library for production-ready global forecasting and time-series feature extraction on large panel datasets.
+
+- [GluonTS](https://ts.gluon.ai/stable/)
   
   - `GluonTS` is a Python package for probabilistic time series modeling, focusing on deep learning based models.
 
-* [Greykite](https://linkedin.github.io/greykite/)
+- [Greykite](https://linkedin.github.io/greykite/)
   
   - The `Greykite` library provides flexible, intuitive and fast forecasts through its flagship algorithm, Silverkite.
 
-* [HyperTS](https://github.com/DataCanvasIO/HyperTS)
+- [HyperTS](https://github.com/DataCanvasIO/HyperTS)
   
-  * A Full-Pipeline Automated Time Series (AutoTS) Analysis Toolkit.
+  - A Full-Pipeline Automated Time Series (AutoTS) Analysis Toolkit.
 
-* [Kats](https://facebookresearch.github.io/Kats/)
+- [Kats](https://facebookresearch.github.io/Kats/)
   
   - `Kats` is a toolkit to analyze time series data, a lightweight, easy-to-use, and generalizable framework to perform time series analysis.
 
-* [Luminaire](https://github.com/zillow/luminaire)
+- [Luminaire](https://github.com/zillow/luminaire)
   
-  * `Luminaire` is a python package that provides ML-driven solutions for monitoring time series data.
+  - `Luminaire` is a python package that provides ML-driven solutions for monitoring time series data.
 
-* [MAPIE](https://github.com/scikit-learn-contrib/MAPIE)
+- [MAPIE](https://github.com/scikit-learn-contrib/MAPIE)
   
-  * A scikit-learn-compatible module for estimating prediction intervals.
+  - A scikit-learn-compatible module for estimating prediction intervals.
 
-* [Merlion](https://github.com/salesforce/Merlion)
+- [Merlion](https://github.com/salesforce/Merlion)
   
   - `Merlion` is a Python library for time series intelligence. It provides an end-to-end machine learning framework that includes loading and transforming data, building and training models, post-processing model outputs, and evaluating model performance.
 
-* [NeuralForecast](https://nixtla.github.io/neuralforecast/)
+- [NeuralForecast](https://nixtla.github.io/neuralforecast/)
   
   - `NeuralForecast` is a Python library for time series forecasting with deep learning models.
 
-* [NeuralProphet](https://github.com/ourownstory/neural_prophet)
+- [NeuralProphet](https://github.com/ourownstory/neural_prophet)
   
   - `NeuralProphet` is an easy to learn framework for interpretable time series forecasting. NeuralProphet is built on PyTorch and combines Neural Network and traditional time-series algorithms, inspired by [Facebook Prophet](https://github.com/facebook/prophet) and [AR-Net](https://github.com/ourownstory/AR-Net).
 
-* [PaddleTS](https://github.com/PaddlePaddle/PaddleTS)
+- [PaddleTS](https://github.com/PaddlePaddle/PaddleTS)
   
-  * PaddlePaddle-based Time Series Modeling in Python.
+  - PaddlePaddle-based Time Series Modeling in Python.
 
-* [Prophet](https://facebook.github.io/prophet/)
+- [Prophet](https://facebook.github.io/prophet/)
   
   - `Prophet` is a forecasting procedure implemented in R and Python. It is fast and provides completely automated forecasts that can be tuned by hand by data scientists and analysts.
 
-* [Puncc](https://github.com/deel-ai/puncc)
+- [Puncc](https://github.com/deel-ai/puncc)
   
-  * `Puncc` is a python library for predictive uncertainty quantification using conformal prediction.
+  - `Puncc` is a python library for predictive uncertainty quantification using conformal prediction.
 
-* [PyBATS](https://github.com/lavinei/pybats)
+- [PyBATS](https://github.com/lavinei/pybats)
   
-  * `PyBATS` is a package for Bayesian time series modeling and forecasting.
+  - `PyBATS` is a package for Bayesian time series modeling and forecasting.
 
-* [PyDaddy](https://github.com/tee-lab/PyDaddy)
+- [PyDaddy](https://github.com/tee-lab/PyDaddy)
   
-  * A Python package to discover stochastic differential equations from time series data.
+  - A Python package to discover stochastic differential equations from time series data.
 
-* [PyDMD: Python Dynamic Mode Decomposition](https://github.com/mathLab/PyDMD)
+- [PyDMD: Python Dynamic Mode Decomposition](https://github.com/mathLab/PyDMD)
   
   - `PyDMD` is a Python package that uses Dynamic Mode Decomposition for a data-driven model simplification based on spatiotemporal coherent structures.
 
-* [PyPOTS](https://github.com/WenjieDu/PyPOTS)
+- [PyPOTS](https://github.com/WenjieDu/PyPOTS)
   
-  * A Python Toolbox for Data Mining on Partially-Observed Time Series.
+  - A Python Toolbox for Data Mining on Partially-Observed Time Series.
 
-* [Python Outlier Detection (PyOD)](https://github.com/yzhao062/pyod)
+- [Python Outlier Detection (PyOD)](https://github.com/yzhao062/pyod)
   
   - `PyOD` is a comprehensive and scalable Python library for outlier detection (anomaly detection)
 
-* [PyTorch Forecasting](https://pytorch-forecasting.readthedocs.io/en/stable/)
+- [PyTorch Forecasting](https://pytorch-forecasting.readthedocs.io/en/stable/)
   
   - `PyTorch Forecasting` is a PyTorch-based package for forecasting time series with state-of-the-art network architectures.
 
-* [PyTorchTS](https://github.com/zalandoresearch/pytorch-ts)
+- [PyTorchTS](https://github.com/zalandoresearch/pytorch-ts)
   
   - `PyTorchTS` is a [PyTorch](https://github.com/pytorch/pytorch) Probabilistic Time Series forecasting framework which provides state of the art PyTorch time series models by utilizing [GluonTS](https://github.com/awslabs/gluon-ts) as its back-end API and for loading, transforming and back-testing time series data sets.
 
-* [pytrendseries](https://github.com/rafa-rod/pytrendseries)
+- [pytrendseries](https://github.com/rafa-rod/pytrendseries)
   
-  * `pytrendseries` is a Python library for detection of trends in time series like: stock prices, monthly sales, daily temperature of a city and so on.
+  - `pytrendseries` is a Python library for detection of trends in time series like: stock prices, monthly sales, daily temperature of a city and so on.
 
-* [pyts](https://pyts.readthedocs.io/en/stable/)
+- [pyts](https://pyts.readthedocs.io/en/stable/)
   
   - `pyts` is a Python package dedicated to time series classification.
 
-* [Qlib](https://github.com/microsoft/qlib)
+- [Qlib](https://github.com/microsoft/qlib)
   
   - `Qlib` is an AI-oriented quantitative investment platform, which aims to realize the potential, empower the research, and create the value of AI technologies in quantitative investment.
 
-* [RQAlpha](https://github.com/ricequant/rqalpha)
+- [RQAlpha](https://github.com/ricequant/rqalpha)
   
   - A extendable, replaceable Python algorithmic backtest & trading framework supporting multiple securities.
 
-* [Scalecast](https://github.com/mikekeith52/scalecast)
+- [Scalecast](https://github.com/mikekeith52/scalecast)
   
-  * The pratictioner's forecasting library. Including automated model selection, model optimization, pipelines, visualization, and reporting.
+  - The pratictioner's forecasting library. Including automated model selection, model optimization, pipelines, visualization, and reporting.
 
-* [sequitur](https://github.com/shobrook/sequitur)
+- [sequitur](https://github.com/shobrook/sequitur)
   
   - `sequitur` is a library that lets you create and train an autoencoder for sequential data in just two lines of code.
 
-* [skforecast](https://github.com/JoaquinAmatRodrigo/skforecast/)
+- [skforecast](https://github.com/JoaquinAmatRodrigo/skforecast/)
   
-  * `Skforecast` is a Python library that eases using scikit-learn regressors as single and multi-step forecasters. It also works with any regressor compatible with the scikit-learn API (LightGBM, XGBoost, CatBoost, ...).
+  - `Skforecast` is a Python library that eases using scikit-learn regressors as single and multi-step forecasters. It also works with any regressor compatible with the scikit-learn API (LightGBM, XGBoost, CatBoost, ...).
 
-* [sktime](https://www.sktime.org/en/stable/)
+- [sktime](https://www.sktime.org/en/stable/)
   
-  * `sktime` is a library for time series analysis in Python. It provides a unified interface for multiple time series learning tasks.
+  - `sktime` is a library for time series analysis in Python. It provides a unified interface for multiple time series learning tasks.
 
-* [StatsForecast](https://github.com/Nixtla/statsforecast)
+- [StatsForecast](https://github.com/Nixtla/statsforecast)
   
-  * `StatsForecast` offers a collection of popular univariate time series forecasting models optimized for high performance and scalability.
+  - `StatsForecast` offers a collection of popular univariate time series forecasting models optimized for high performance and scalability.
 
-* [TFTS](https://github.com/LongxingTan/Time-series-prediction)
+- [TFTS](https://github.com/LongxingTan/Time-series-prediction)
   
-  * `TFTS` (TensorFlow Time Series) is an easy-to-use python package for time series, supporting the classical and SOTA deep learning methods in TensorFlow or Keras.
+  - `TFTS` (TensorFlow Time Series) is an easy-to-use python package for time series, supporting the classical and SOTA deep learning methods in TensorFlow or Keras.
 
-* [tft-torch](https://github.com/PlaytikaOSS/tft-torch)
+- [tft-torch](https://github.com/PlaytikaOSS/tft-torch)
   
-  * `tft-torch` is a Python library that implements ["Temporal Fusion Transformers for Interpretable Multi-horizon Time Series Forecasting"](https://arxiv.org/abs/1912.09363) using pytorch framework.
+  - `tft-torch` is a Python library that implements ["Temporal Fusion Transformers for Interpretable Multi-horizon Time Series Forecasting"](https://arxiv.org/abs/1912.09363) using pytorch framework.
 
-* [TimeEval](https://github.com/HPI-Information-Systems/TimeEval)
+- [TimeEval](https://github.com/HPI-Information-Systems/TimeEval)
   
-  * `TimeEval` is an evaluation tool for time series anomaly detection algorithms.
+  - `TimeEval` is an evaluation tool for time series anomaly detection algorithms.
 
-* [Time Interpret (tint)](https://github.com/josephenguehard/time_interpret)
+- [Time Interpret (tint)](https://github.com/josephenguehard/time_interpret)
   
-  * This library expands the [Captum library](https://captum.ai/) with a specific focus on time-series.
+  - This library expands the [Captum library](https://captum.ai/) with a specific focus on time-series.
 
-* [Time Series Library (TSlib)](https://github.com/thuml/Time-Series-Library)
+- [Time Series Library (TSlib)](https://github.com/thuml/Time-Series-Library)
   
-  * `TSlib` is an open-source library for deep learning researchers, especially deep time series analysis.
+  - `TSlib` is an open-source library for deep learning researchers, especially deep time series analysis.
 
-* [TODS](https://github.com/datamllab/tods)
+- [TODS](https://github.com/datamllab/tods)
   
-  * `TODS` is a full-stack automated machine learning system for outlier detection on multivariate time-series data.
+  - `TODS` is a full-stack automated machine learning system for outlier detection on multivariate time-series data.
 
-* [transdim](https://github.com/xinychen/transdim)
+- [transdim](https://github.com/xinychen/transdim)
   
-  * Machine learning for transportation data imputation and prediction.
+  - Machine learning for transportation data imputation and prediction.
 
-* [tsai](https://github.com/timeseriesAI/tsai)
+- [tsai](https://github.com/timeseriesAI/tsai)
   
-  * `tsai` is an open-source deep learning package built on top of Pytorch & fastai focused on state-of-the-art techniques for time series tasks like classification, regression, forecasting, imputation...
+  - `tsai` is an open-source deep learning package built on top of Pytorch & fastai focused on state-of-the-art techniques for time series tasks like classification, regression, forecasting, imputation...
 
-* [tsam](https://github.com/FZJ-IEK3-VSA/tsam)
+- [tsam](https://github.com/FZJ-IEK3-VSA/tsam)
   
-  * `tsam` is a python package which uses different machine learning algorithms for the aggregation of time series.
+  - `tsam` is a python package which uses different machine learning algorithms for the aggregation of time series.
 
-* [tsaug](https://github.com/arundo/tsaug)
+- [tsaug](https://github.com/arundo/tsaug)
   
-  * `tsaug` is a Python package for time series augmentation.
+  - `tsaug` is a Python package for time series augmentation.
 
-* [TSDB](https://github.com/WenjieDu/TSDB)
+- [TSDB](https://github.com/WenjieDu/TSDB)
   
-  * A Python Toolbox to Ease Loading Open-Source Time-Series Datasets.
+  - A Python Toolbox to Ease Loading Open-Source Time-Series Datasets.
 
-* [tsfeatures](https://github.com/Nixtla/tsfeatures)
+- [tsfeatures](https://github.com/Nixtla/tsfeatures)
   
-  * Calculates various features from time series data. Python implementation of the R package [*tsfeatures*](https://github.com/robjhyndman/tsfeatures).
+  - Calculates various features from time series data. Python implementation of the R package [*tsfeatures*](https://github.com/robjhyndman/tsfeatures).
 
-* [TSFEL](https://github.com/fraunhoferportugal/tsfel)
+- [TSFEL](https://github.com/fraunhoferportugal/tsfel)
   
-  * Time Series Feature Extraction Library (TSFEL for short) is a Python package for feature extraction on time series data.
+  - Time Series Feature Extraction Library (TSFEL for short) is a Python package for feature extraction on time series data.
 
-* [tsfresh](https://github.com/blue-yonder/tsfresh)
+- [tsfresh](https://github.com/blue-yonder/tsfresh)
   
-  * `tsfresh` provides systematic time-series feature extraction by combining established algorithms from statistics, time-series analysis, signal processing, and nonlinear dynamics with a robust feature selection algorithm.
+  - `tsfresh` provides systematic time-series feature extraction by combining established algorithms from statistics, time-series analysis, signal processing, and nonlinear dynamics with a robust feature selection algorithm.
  
-* [tslearn](https://github.com/tslearn-team/tslearn)
+- [tslearn](https://github.com/tslearn-team/tslearn)
 
-  *  `tslearn` is a Python package that provides machine learning tools for the analysis of time series.
+  -  `tslearn` is a Python package that provides machine learning tools for the analysis of time series.
 
-* [tspiral](https://github.com/cerlymarco/tspiral)
+- [tspiral](https://github.com/cerlymarco/tspiral)
   
-  * A python package for time series forecasting with scikit-learn estimators.
+  - A python package for time series forecasting with scikit-learn estimators.
 
 ## Datasets
 
