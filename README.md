@@ -31,6 +31,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ### 2024
 
+- [ATFNet: Adaptive Time-Frequency Ensembled Network for Long-term Time Series Forecasting](https://arxiv.org/abs/2404.05192)
+
+  - 08 Apr 2024, Hengyu Ye, et al.
+ 
+  - [[Official Code - ATFNet](https://github.com/yhyhyhyhyhy/atfnet)]
+
 - [OneShotSTL: One-Shot Seasonal-Trend Decomposition For Online Time Series Anomaly Detection And Forecasting](https://arxiv.org/abs/2304.01506)
 
   - 04 Apr 2023, Xiao He, et al.
