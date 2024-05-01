@@ -665,6 +665,12 @@ List of research papers focus on time series forecasting and deep learning, as w
  
   - [[Official Code - TLNets](https://github.com/anonymity111222/tlnets)]
 
+- [A Joint Time-frequency Domain Transformer for Multivariate Time Series Forecasting](https://arxiv.org/abs/2305.14649)
+
+  - 24 May 2023, Yushu Chen, et al.
+ 
+  - [[Official Code - JTFT](https://github.com/rationalspark/jtft)]
+
 - [Learning Structured Components: Towards Modular and Interpretable Multivariate Time Series Forecasting](https://arxiv.org/abs/2305.13036)
   
   - 22 May 2023, Jinliang Deng, et al.
