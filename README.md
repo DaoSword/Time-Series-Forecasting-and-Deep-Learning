@@ -670,6 +670,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 24 May 2023, Yushu Chen, et al.
  
   - [[Official Code - JTFT](https://github.com/rationalspark/jtft)]
+ 
+- [Forecasting Irregularly Sampled Time Series using Graphs](https://arxiv.org/abs/2305.12932)
+
+  - 22 May 2023, Vijaya Krishna Yalavarthi, et al.
+ 
+  - [[Official Code - GraFITi](https://github.com/yalavarthivk/GraFITi)]
 
 - [Learning Structured Components: Towards Modular and Interpretable Multivariate Time Series Forecasting](https://arxiv.org/abs/2305.13036)
   
