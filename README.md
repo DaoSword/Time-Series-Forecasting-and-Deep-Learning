@@ -69,6 +69,10 @@ List of research papers focus on time series forecasting and deep learning, as w
  
   - [[Official Code - ACEFormer](https://github.com/durandallee/aceformer)]
  
+- [HDMixer: Hierarchical Dependency with Extendable Patch for Multivariate Time Series Forecasting](https://ojs.aaai.org/index.php/AAAI/article/view/29155)
+
+  - 24 Mar 2024, Qihe Huang, et al.
+ 
 - [SiMBA: Simplified Mamba-Based Architecture for Vision and Multivariate Time series](https://arxiv.org/abs/2403.15360)
 
   - 22 Mar 2024, Badri N. Patro, et al.
