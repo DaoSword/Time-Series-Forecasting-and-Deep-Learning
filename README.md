@@ -1235,6 +1235,10 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 11 May 2022, Difan Deng, et al.
   
   - [[Official Code](https://github.com/automl/Auto-PyTorch)]
+ 
+- [Triformer: Triangular, Variable-Specific Attentions for Long Sequence Multivariate Time Series Forecasting--Full Version](https://arxiv.org/abs/2204.13767) [[An introduction](https://ccloud0525.github.io/en/Triformer/)]
+
+  - 28 Apr 2022, Razvan-Gabriel Cirstea, et al.
 
 - [EXIT: Extrapolation and Interpolation-based Neural Controlled Differential Equations for Time-series Classification and Forecasting](https://dl.acm.org/doi/abs/10.1145/3485447.3512030)
   
