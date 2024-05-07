@@ -817,6 +817,12 @@ List of research papers focus on time series forecasting and deep learning, as w
  
   - [[Official Code - tsmixer](https://github.com/google-research/google-research/tree/master/tsmixer)]
 
+- [PHILNet: A novel efficient approach for time series forecasting using deep learning](https://www.sciencedirect.com/science/article/pii/S0020025523003183)
+
+  - 08 Mar 2023, M.J. Jiménez-Navarro, et al.
+ 
+  - [[Official Code - PHILNet](https://github.com/manjimnav/PHILNet)]
+
 - [Time Series Forecasting with Transformer Models and Application to Asset Management](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4375798)
   
   - 07 Mar 2023, Edmond Lezmi and Jiali Xu.
