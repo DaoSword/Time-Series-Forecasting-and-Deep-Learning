@@ -82,6 +82,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 - [An Analysis of Linear Time Series Forecasting Models](https://arxiv.org/abs/2403.14587)
 
   - 21 Mar 2024, William Toner, et al.
+
+- [TimeDRL: Disentangled Representation Learning for Multivariate Time-Series](https://arxiv.org/abs/2312.04142)
+
+  - 13 Mar 2024, Ching Chang, et al.
+ 
+  - [[Official Code - TimeDRL](https://github.com/blacksnail789521/timedrl)]
  
 - [Chronos: Learning the Language of Time Series](https://arxiv.org/abs/2403.07815)
 
