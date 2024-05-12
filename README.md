@@ -73,6 +73,10 @@ List of research papers focus on time series forecasting and deep learning, as w
 
   - 24 Mar 2024, Qihe Huang, et al.
  
+- [Latent Diffusion Transformer for Probabilistic Time Series Forecasting](https://ojs.aaai.org/index.php/AAAI/article/view/29085)
+
+  - 24 Mar 2024, Shibo Feng, et al.
+ 
 - [SiMBA: Simplified Mamba-Based Architecture for Vision and Multivariate Time series](https://arxiv.org/abs/2403.15360)
 
   - 22 Mar 2024, Badri N. Patro, et al.
