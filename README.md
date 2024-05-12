@@ -86,6 +86,18 @@ List of research papers focus on time series forecasting and deep learning, as w
 - [An Analysis of Linear Time Series Forecasting Models](https://arxiv.org/abs/2403.14587)
 
   - 21 Mar 2024, William Toner, et al.
+ 
+- [Self-Supervised Learning for Time Series: Contrastive or Generative?](https://arxiv.org/abs/2403.09809)
+
+  - 14 Mar 2024, Ziyu Liu, et al.
+ 
+  - [[Official Code - SSL_Comparison](https://github.com/dl4mhealth/ssl_comparison)]
+
+- [TimeMachine: A Time Series is Worth 4 Mambas for Long-term Forecasting](https://arxiv.org/abs/2403.09898)
+
+  - 14 Mar 2024, Md Atik Ahamed, et al.
+ 
+  - [[Official Code - TimeMachine](https://github.com/atik-ahamed/timemachine)]
 
 - [TimeDRL: Disentangled Representation Learning for Multivariate Time-Series](https://arxiv.org/abs/2312.04142)
 
@@ -98,24 +110,18 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 12 Mar 2024, Abdul Fatir Ansari, et al.
  
   - [[Official Code - chronos-forecasting](https://github.com/amazon-science/chronos-forecasting)]
-
-- [Self-Supervised Learning for Time Series: Contrastive or Generative?](https://arxiv.org/abs/2403.09809)
-
-  - 14 Mar 2024, Ziyu Liu, et al.
- 
-  - [[Official Code - SSL_Comparison](https://github.com/dl4mhealth/ssl_comparison)]
-
-- [TimeMachine: A Time Series is Worth 4 Mambas for Long-term Forecasting](https://arxiv.org/abs/2403.09898)
-
-  - 14 Mar 2024, Md Atik Ahamed, et al.
- 
-  - [[Official Code - TimeMachine](https://github.com/atik-ahamed/timemachine)]
  
 - [MG-TSD: Multi-Granularity Time Series Diffusion Models with Guided Learning Process](https://arxiv.org/abs/2403.05751)
 
   - 09 Mar 2024, Xinyao Fan, et al.
  
   - [[Official Code - MG-TSD](https://github.com/hundredl/mg-tsd)]
+ 
+- [Considering Nonstationary within Multivariate Time Series with Variational Hierarchical Transformer for Forecasting](https://arxiv.org/abs/2403.05406)
+
+  - 08 Mar 2024, Muyao Wang, et al.
+ 
+  - [[Official Code - HTV_Trans](https://github.com/flare200020/HTV_Trans)]
 
 - [CATS: Enhancing Multivariate Time Series Forecasting by Constructing Auxiliary Time Series as Exogenous Variables](https://arxiv.org/abs/2403.01673)
 
