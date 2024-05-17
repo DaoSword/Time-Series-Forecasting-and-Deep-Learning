@@ -10,16 +10,26 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ## Table of Contents
 
-- [Applications](#Applications)
-- [Papers](#Papers)
-- [Blogs](#Blogs)
-- [Competitions](#Competitions)
-- [Courses](#Courses)
-- [Libraries](#Libraries)
-- [Datasets](#Datasets)
-- [Books](#Books)
-- [Repositories](#Repositories)
-- [Tutorials](#Tutorials)
+- [Time Series Forecasting and Deep Learning](#time-series-forecasting-and-deep-learning)
+  - [Table of Contents](#table-of-contents)
+  - [Applications](#applications)
+  - [Papers](#papers)
+    - [2024](#2024)
+    - [2023](#2023)
+    - [2022](#2022)
+    - [2021](#2021)
+    - [2020](#2020)
+    - [2019](#2019)
+    - [2018](#2018)
+    - [2017](#2017)
+  - [Blogs](#blogs)
+  - [Competitions](#competitions)
+  - [Courses](#courses)
+  - [Libraries](#libraries)
+  - [Datasets](#datasets)
+  - [Books](#books)
+  - [Repositories](#repositories)
+  - [Tutorials](#tutorials)
 
 ## Applications
 
@@ -30,6 +40,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 ## Papers
 
 ### 2024
+
+- [Time Evidence Fusion Network: Multi-source View in Long-Term Time Series Forecasting](https://arxiv.org/abs/2405.06419)
+
+  - 10 May 2024, Tianxiang Zhan, et al.
+ 
+  - [[Official Code - TEFN](https://github.com/ztxtech/Time-Evidence-Fusion-Network)]
 
 - [ATFNet: Adaptive Time-Frequency Ensembled Network for Long-term Time Series Forecasting](https://arxiv.org/abs/2404.05192)
 
