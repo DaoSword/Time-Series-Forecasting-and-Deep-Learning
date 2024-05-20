@@ -12,6 +12,14 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 - [Applications](#Applications)
 - [Papers](#Papers)
+  - [2024](#2024)
+  - [2023](#2023)
+  - [2022](#2022)
+  - [2021](#2021)
+  - [2020](#2020)
+  - [2019](#2019)
+  - [2018](#2018)
+  - [2017](#2017)
 - [Blogs](#Blogs)
 - [Competitions](#Competitions)
 - [Courses](#Courses)
@@ -30,6 +38,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 ## Papers
 
 ### 2024
+
+- [Time Evidence Fusion Network: Multi-source View in Long-Term Time Series Forecasting](https://arxiv.org/abs/2405.06419)
+
+  - 10 May 2024, Tianxiang Zhan, et al.
+ 
+  - [[Official Code - TEFN](https://github.com/ztxtech/Time-Evidence-Fusion-Network)]
 
 - [ATFNet: Adaptive Time-Frequency Ensembled Network for Long-term Time Series Forecasting](https://arxiv.org/abs/2404.05192)
 
