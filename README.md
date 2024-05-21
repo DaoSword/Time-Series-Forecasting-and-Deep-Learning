@@ -44,6 +44,10 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 10 May 2024, Tianxiang Zhan, et al.
  
   - [[Official Code - TEFN](https://github.com/ztxtech/Time-Evidence-Fusion-Network)]
+ 
+- [Tiny Time Mixers (TTMs): Fast Pre-trained Models for Enhanced Zero/Few-Shot Forecasting of Multivariate Time Series](https://arxiv.org/abs/2401.03955)
+
+  - 09 Apr 2024, Vijay Ekambaram, et al.
 
 - [ATFNet: Adaptive Time-Frequency Ensembled Network for Long-term Time Series Forecasting](https://arxiv.org/abs/2404.05192)
 
