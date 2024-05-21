@@ -150,6 +150,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 04 Mar 2024, Xinyu Yuan, et al.
  
   - [[Official Code - Diffusion-TS](https://github.com/y-debug-sys/diffusion-ts)]
+ 
+- [Learning to Generate Explainable Stock Predictions using Self-Reflective Large Language Models](https://arxiv.org/abs/2402.03659)
+
+  - 29 Feb 2024, Kelvin Koa, et al.
+ 
+  - [[Official Code - SEP](https://github.com/koa-fin/sep)]
 
 - [TimeXer: Empowering Transformers for Time Series Forecasting with Exogenous Variables](https://arxiv.org/abs/2402.19072)
 
