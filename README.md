@@ -39,6 +39,10 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ### 2024
 
+- [Kolmogorov-Arnold Networks (KANs) for Time Series Analysis](https://arxiv.org/abs/2405.08790)
+
+  - 14 May 2024, Cristian J. Vaca-Rubio, et al.
+
 - [Time Evidence Fusion Network: Multi-source View in Long-Term Time Series Forecasting](https://arxiv.org/abs/2405.06419)
 
   - 10 May 2024, Tianxiang Zhan, et al.
