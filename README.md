@@ -42,6 +42,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 - [Kolmogorov-Arnold Networks (KANs) for Time Series Analysis](https://arxiv.org/abs/2405.08790)
 
   - 14 May 2024, Cristian J. Vaca-Rubio, et al.
+ 
+- [TKAN: Temporal Kolmogorov-Arnold Networks](https://arxiv.org/abs/2405.07344)
+
+  - 12 May 2024, Remi Genet, et al.
+ 
+  - [[Official Code - TKAN](https://github.com/remigenet/tkan)]
 
 - [Time Evidence Fusion Network: Multi-source View in Long-Term Time Series Forecasting](https://arxiv.org/abs/2405.06419)
 
