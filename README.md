@@ -55,6 +55,12 @@ List of research papers focus on time series forecasting and deep learning, as w
  
   - [[Official Code - TEFN](https://github.com/ztxtech/Time-Evidence-Fusion-Network)]
  
+- [A decoder-only foundation model for time-series forecasting](https://arxiv.org/abs/2310.10688)
+
+  - 17 Apr 2024, Abhimanyu Das, et al.
+ 
+  - [[Official Code - timesfm](https://github.com/google-research/timesfm)]
+ 
 - [Tiny Time Mixers (TTMs): Fast Pre-trained Models for Enhanced Zero/Few-Shot Forecasting of Multivariate Time Series](https://arxiv.org/abs/2401.03955)
 
   - 09 Apr 2024, Vijay Ekambaram, et al.
@@ -398,10 +404,6 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 15 Oct 2023, Xu Liu, et al.
  
   - [[Official Code - UniTime](https://github.com/liuxu77/unitime)]
- 
-- [A decoder-only foundation model for time-series forecasting](https://arxiv.org/abs/2310.10688)
-
-  - 14 Oct 2023, Abhimanyu Das, et al.
  
 - [Lag-Llama: Towards Foundation Models for Time Series Forecasting](https://arxiv.org/abs/2310.08278)
 
