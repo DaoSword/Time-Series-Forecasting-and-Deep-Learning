@@ -157,6 +157,12 @@ List of research papers focus on time series forecasting and deep learning, as w
  
   - [[Official Code - HTV_Trans](https://github.com/flare200020/HTV_Trans)]
 
+- [Periodicity Decoupling Framework for Long-term Series Forecasting](https://openreview.net/forum?id=dp27P5HBBt)
+
+  - 06 Mar 2024, Tao Dai, et al.
+ 
+  - [[Official Code - PDF](https://github.com/Hank0626/PDF)]
+
 - [CATS: Enhancing Multivariate Time Series Forecasting by Constructing Auxiliary Time Series as Exogenous Variables](https://arxiv.org/abs/2403.01673)
 
   - 04 Mar 2024, Jiecheng Lu, et al.
