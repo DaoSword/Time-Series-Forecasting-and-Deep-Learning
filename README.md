@@ -55,6 +55,12 @@ List of research papers focus on time series forecasting and deep learning, as w
  
   - [[Official Code - TEFN](https://github.com/ztxtech/Time-Evidence-Fusion-Network)]
  
+- [A Survey of Time Series Foundation Models: Generalizing Time Series Representation with Large Language Model](https://arxiv.org/abs/2405.02358)
+
+  - 07 May 2024, Jiexia Ye, et al.
+ 
+  - [[Official Code - Awesome-TimeSeries-LLM-FM](https://github.com/start2020/awesome-timeseries-llm-fm)]
+ 
 - [A decoder-only foundation model for time-series forecasting](https://arxiv.org/abs/2310.10688)
 
   - 17 Apr 2024, Abhimanyu Das, et al.
