@@ -205,6 +205,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 
   - 25 Feb 2024, Haoxin Liu, et al.
  
+- [CARD: Channel Aligned Robust Blend Transformer for Time Series Forecasting](https://arxiv.org/abs/2305.12095)
+
+  - 16 Feb 2024, Wang Xue, et al.
+ 
+  - [[Official Code - CARD](https://github.com/wxie9/card)]
+ 
 - [ContiFormer: Continuous-Time Transformer for Irregular Time Series Modeling](https://arxiv.org/abs/2402.10635)
 
   - 16 Feb 2024, Yuqi Chen, et al.
