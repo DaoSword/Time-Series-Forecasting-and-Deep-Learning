@@ -39,6 +39,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ### 2024
 
+- [TimeMixer: Decomposable Multiscale Mixing for Time Series Forecasting](https://arxiv.org/abs/2405.14616)
+
+  - 23 May 2024, Shiyu Wang, et al.
+ 
+  - [[Official Code - TimeMixer](https://github.com/kwuking/TimeMixer)]
+
 - [Kolmogorov-Arnold Networks (KANs) for Time Series Analysis](https://arxiv.org/abs/2405.08790)
 
   - 14 May 2024, Cristian J. Vaca-Rubio, et al.
@@ -85,7 +91,7 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 - [Is Mamba Effective for Time Series Forecasting?](https://arxiv.org/abs/2403.11144)
   
-  - 02 April 2024, Zihan Wang, et al.
+  - 02 Apr 2024, Zihan Wang, et al.
    
   - [[Official Code - S-D-Mamba](https://github.com/wzhwzhwzh0921/S-D-Mamba)]
 
