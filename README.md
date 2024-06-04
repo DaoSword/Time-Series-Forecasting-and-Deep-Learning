@@ -1438,7 +1438,13 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   - 15 Dec 2021, Yushan Liu, et al.
   
-  - [[Official Code](https://github.com/liu-yushan/tlogic)]
+  - [[Official Code - TLogic](https://github.com/liu-yushan/tlogic)]
+
+- [Parameter Efficient Deep Probabilistic Forecasting](https://arxiv.org/abs/2112.02905)
+
+  - 14 Dec 2021, Olivier Sprangers, et al.
+ 
+  - [[Official Code - PEDPF](https://github.com/elephaint/pedpf)]
 
 - [NeuralProphet: Explainable Forecasting at Scale](https://arxiv.org/abs/2111.15397)
   
@@ -1450,7 +1456,7 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   - 22 Nov 2021, Mona Schirmer, et al.
   
-  - [[Official Code](https://github.com/boschresearch/continuous-recurrent-units)]
+  - [[Official Code - Continuous-Recurrent-Units](https://github.com/boschresearch/continuous-recurrent-units)]
 
 - [Transferable Time-Series Forecasting under Causal Conditional Shift](https://arxiv.org/abs/2111.03422)
 
@@ -1462,7 +1468,7 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   - 04 Nov 2021, Daniel Kramer, et al.
   
-  - [[Official Code](https://github.com/durstewitzlab/mmplrnn)]
+  - [[Official Code - mmPLRNN](https://github.com/durstewitzlab/mmplrnn)]
 
 - [ClaSP - Time Series Segmentation](https://dl.acm.org/doi/abs/10.1145/3459637.3482240)
   
