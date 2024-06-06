@@ -44,6 +44,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 23 May 2024, Shiyu Wang, et al.
  
   - [[Official Code - TimeMixer](https://github.com/kwuking/TimeMixer)]
+ 
+- [GinAR: An End-To-End Multivariate Time Series Forecasting Model Suitable for Variable Missing](https://arxiv.org/abs/2405.11333)
+
+  - 18 May 2024, Chengqing Yu, et al.
+ 
+  - [[Official Code - GinAR](https://github.com/chengqingyu/ginar)]
 
 - [Kolmogorov-Arnold Networks (KANs) for Time Series Analysis](https://arxiv.org/abs/2405.08790)
 
