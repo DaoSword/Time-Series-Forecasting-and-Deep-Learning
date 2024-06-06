@@ -256,6 +256,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 04 Feb 2024, Yong Liu, et al.
  
   - [[Official Code - AutoTimes](https://github.com/thuml/AutoTimes)]
+
+- [FreDF: Learning to Forecast in Frequency Domain](https://arxiv.org/abs/2402.02399)
+
+  - 04 Feb 2024, Hao Wang, et al.
+ 
+  - [[Official Code - FreDF](https://github.com/master-plc/fredf)]
  
 - [Pathformer: Multi-scale Transformers with Adaptive Pathways for Time Series Forecasting](https://arxiv.org/abs/2402.05956)
 
