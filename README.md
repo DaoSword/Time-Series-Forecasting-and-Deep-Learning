@@ -162,6 +162,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 12 Mar 2024, Abdul Fatir Ansari, et al.
  
   - [[Official Code - chronos-forecasting](https://github.com/amazon-science/chronos-forecasting)]
+
+- [Multi-Patch Prediction: Adapting LLMs for Time Series Representation Learning](https://arxiv.org/abs/2402.04852)
+
+  - 10 Mar 2024, Yuxuan Bian, et al.
+ 
+  - [[Official Code - aLLM4TS](https://github.com/yxbian23/aLLM4TS)]
  
 - [MG-TSD: Multi-Granularity Time Series Diffusion Models with Guided Learning Process](https://arxiv.org/abs/2403.05751)
 
@@ -232,10 +238,6 @@ List of research papers focus on time series forecasting and deep learning, as w
 - [Large Language Models for Forecasting and Anomaly Detection: A Systematic Literature Review](https://arxiv.org/abs/2402.10350)
 
   - 15 Feb 2024, Jing Su, et al.
-
-- [Multi-Patch Prediction: Adapting LLMs for Time Series Representation Learning](https://arxiv.org/abs/2402.04852)
-
-  - 07 Feb 2024, Yuxuan Bian, et al.
  
 - [MOMENT: A Family of Open Time-series Foundation Models](https://arxiv.org/abs/2402.03885)
 
