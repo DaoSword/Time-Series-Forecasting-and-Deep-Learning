@@ -334,6 +334,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 31 Dec 2023, Wanlin Cai, et al.
  
   - [[Official Code - MSGNet](https://github.com/yozhibo/msgnet)]
+ 
+- [Learning the Dynamic Correlations and Mitigating Noise by Hierarchical Convolution for Long-term Sequence Forecasting](https://arxiv.org/abs/2312.16790)
+
+  - 28 Dec 2023, Zhihao Yu, et al.
+ 
+  - [[Official Code - HMNet](https://github.com/yzhhoward/hmnet)]
 
 - [TSPP: A Unified Benchmarking Tool for Time-series Forecasting](https://arxiv.org/abs/2312.17100)
 
