@@ -50,6 +50,10 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 18 May 2024, Chengqing Yu, et al.
  
   - [[Official Code - GinAR](https://github.com/chengqingyu/ginar)]
+ 
+- [Bi-Mamba+: Bidirectional Mamba for Time Series Forecasting](https://arxiv.org/abs/2404.15772)
+
+  - 17 May 2024, Aobo Liang, et al.
 
 - [Kolmogorov-Arnold Networks (KANs) for Time Series Analysis](https://arxiv.org/abs/2405.08790)
 
