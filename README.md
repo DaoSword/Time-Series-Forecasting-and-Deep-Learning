@@ -64,6 +64,10 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 12 May 2024, Remi Genet, et al.
  
   - [[Official Code - TKAN](https://github.com/remigenet/tkan)]
+ 
+- [DTMamba : Dual Twin Mamba for Time Series Forecasting](https://arxiv.org/abs/2405.07022)
+
+  - 11 May 2024, Zexue Wu, et al.
 
 - [Time Evidence Fusion Network: Multi-source View in Long-Term Time Series Forecasting](https://arxiv.org/abs/2405.06419)
 
