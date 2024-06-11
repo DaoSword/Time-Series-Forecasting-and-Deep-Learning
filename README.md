@@ -39,6 +39,10 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ### 2024
 
+- [MambaTS: Improved Selective State Space Models for Long-term Time Series Forecasting](https://arxiv.org/abs/2405.16440)
+
+  - 26 May 2024, Xiuding Cai, et al.
+
 - [TimeMixer: Decomposable Multiscale Mixing for Time Series Forecasting](https://arxiv.org/abs/2405.14616)
 
   - 23 May 2024, Shiyu Wang, et al.
