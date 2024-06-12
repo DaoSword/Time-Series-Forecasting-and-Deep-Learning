@@ -85,6 +85,12 @@ List of research papers focus on time series forecasting and deep learning, as w
  
   - [[Official Code - Awesome-TimeSeries-LLM-FM](https://github.com/start2020/awesome-timeseries-llm-fm)]
  
+- [Integrating Mamba and Transformer for Long-Short Range Time Series Forecasting](https://arxiv.org/abs/2404.14757)
+
+  - 23 Apr 2024, Xiongxiao Xu, et al.
+ 
+  - [[Official Code - Mambaformer-in-Time-Series](https://github.com/XiongxiaoXu/Mambaformer-in-Time-Series)]
+ 
 - [A decoder-only foundation model for time-series forecasting](https://arxiv.org/abs/2310.10688)
 
   - 17 Apr 2024, Abhimanyu Das, et al.
