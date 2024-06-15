@@ -39,6 +39,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ### 2024
 
+- [SOFTS: Efficient Multivariate Time Series Forecasting with Series-Core Fusion](https://arxiv.org/abs/2404.14197)
+
+  - 12 Jun 2024, Lu Han, et al.
+ 
+  - [[Official Code - SOFTS](https://github.com/secilia-cxy/softs)]
+
 - [Efficient and Effective Time-Series Forecasting with Spiking Neural Networks](https://arxiv.org/abs/2402.01533)
 
   - 29 May 2024, Changze Lv, et al.
