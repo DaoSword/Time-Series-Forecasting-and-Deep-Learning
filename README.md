@@ -94,6 +94,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 07 May 2024, Jiexia Ye, et al.
  
   - [[Official Code - Awesome-TimeSeries-LLM-FM](https://github.com/start2020/awesome-timeseries-llm-fm)]
+
+- [TSLANet: Rethinking Transformers for Time Series Representation Learning](https://arxiv.org/abs/2404.08472)
+
+  - 06 May 2024, Emadeldeen Eldele, et al.
+ 
+  - [[Official Code - TSLANet](https://github.com/emadeldeen24/tslanet)]
  
 - [Integrating Mamba and Transformer for Long-Short Range Time Series Forecasting](https://arxiv.org/abs/2404.14757)
 
