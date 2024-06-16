@@ -112,6 +112,10 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 17 Apr 2024, Abhimanyu Das, et al.
  
   - [[Official Code - timesfm](https://github.com/google-research/timesfm)]
+
+- [Towards Transparent Time Series Forecasting](https://openreview.net/forum?id=TYXtXLYHpR)
+
+  - 15 Apr 2024, Krzysztof Kacprzyk, et al.
  
 - [Tiny Time Mixers (TTMs): Fast Pre-trained Models for Enhanced Zero/Few-Shot Forecasting of Multivariate Time Series](https://arxiv.org/abs/2401.03955)
 
