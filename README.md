@@ -44,6 +44,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 12 Jun 2024, Lu Han, et al.
  
   - [[Official Code - SOFTS](https://github.com/secilia-cxy/softs)]
+ 
+- [SAMformer: Unlocking the Potential of Transformers in Time Series Forecasting with Sharpness-Aware Minimization and Channel-Wise Attention](https://arxiv.org/abs/2402.10198)
+
+  - 03 Jun 2024, Romain Ilbert, et al.
+ 
+  - [[Official Code - samformer](https://github.com/romilbert/samformer)]
 
 - [Efficient and Effective Time-Series Forecasting with Spiking Neural Networks](https://arxiv.org/abs/2402.01533)
 
