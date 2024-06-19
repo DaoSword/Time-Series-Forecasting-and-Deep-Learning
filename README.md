@@ -117,6 +117,12 @@ List of research papers focus on time series forecasting and deep learning, as w
  
   - [[Official Code - Mambaformer-in-Time-Series](https://github.com/XiongxiaoXu/Mambaformer-in-Time-Series)]
  
+- [Biased Temporal Convolution Graph Network for Time Series Forecasting with Missing Values](https://openreview.net/forum?id=O9nZCwdGcG)
+
+  - 21 Apr 2024, Xiaodan Chen, et al.
+ 
+  - [[Official Code - BiTGraph](https://github.com/chenxiaodanhit/BiTGraph)]
+ 
 - [A decoder-only foundation model for time-series forecasting](https://arxiv.org/abs/2310.10688)
 
   - 17 Apr 2024, Abhimanyu Das, et al.
