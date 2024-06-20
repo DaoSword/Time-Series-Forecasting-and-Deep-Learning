@@ -2002,9 +2002,6 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   - A Julia package for learning the covariance structure of Gaussian process time series models.
 
-- [AutoTS](https://github.com/winedarksea/AutoTS)
-  
-  - `AutoTS` is a time series package for Python designed for rapidly deploying high-accuracy forecasts at scale.
 - [BasicTS](https://github.com/zezhishao/BasicTS/tree/master)
   
   - `BasicTS` (**Basic** **T**ime **S**eries) is a PyTorch-based benchmark and toolbox for **time series forecasting** (TSF).
