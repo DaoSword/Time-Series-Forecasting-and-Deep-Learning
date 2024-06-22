@@ -45,6 +45,12 @@ List of research papers focus on time series forecasting and deep learning, as w
  
   - [[Official Code - SOFTS](https://github.com/secilia-cxy/softs)]
  
+- [A Survey on Diffusion Models for Time Series and Spatio-Temporal Data](https://arxiv.org/abs/2404.18886)
+
+  - 11 Jun 2024, Yiyuan Yang, et al.
+ 
+  - [[Official Code - Awesome-TimeSeries-SpatioTemporal-Diffusion-Model](https://github.com/yyysjz1997/awesome-timeseries-spatiotemporal-diffusion-model)]
+ 
 - [SAMformer: Unlocking the Potential of Transformers in Time Series Forecasting with Sharpness-Aware Minimization and Channel-Wise Attention](https://arxiv.org/abs/2402.10198)
 
   - 03 Jun 2024, Romain Ilbert, et al.
