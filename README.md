@@ -386,6 +386,10 @@ List of research papers focus on time series forecasting and deep learning, as w
 - [SocioDojo: Building Lifelong Analytical Agents with Real-world Text and Time Series](https://openreview.net/forum?id=s9z0HzWJJp)
 
   - 16 Jan 2024, Anonymous authors.
+ 
+- [HiMTM: Hierarchical Multi-Scale Masked Time Series Modeling for Long-Term Forecasting](https://arxiv.org/abs/2401.05012)
+
+  - 10 Jan 2024, Shubao Zhao, et al.
 
 - [UnetTSF: A Better Performance Linear Complexity Time Series Prediction Model](https://arxiv.org/abs/2401.03001)
 
