@@ -355,6 +355,10 @@ List of research papers focus on time series forecasting and deep learning, as w
  
   - [[Official Code - awesome-llm-time-series](https://github.com/xiyuanzh/awesome-llm-time-series)]
  
+- [MSHyper: Multi-Scale Hypergraph Transformer for Long-Range Time Series Forecasting](https://arxiv.org/abs/2401.09261)
+
+  - 17 Jan 2024, Zongjiang Shang, et al.
+ 
 - [RWKV-TS: Beyond Traditional Recurrent Neural Network for Time Series Tasks](https://arxiv.org/abs/2401.09093)
 
   - 17 Jan 2024, Haowen Hou, et al.
