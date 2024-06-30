@@ -254,6 +254,10 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 06 Mar 2024, Tao Dai, et al.
  
   - [[Official Code - PDF](https://github.com/Hank0626/PDF)]
+ 
+- [InjectTST: A Transformer Method of Injecting Global Information into Independent Channels for Long Time Series Forecasting](https://arxiv.org/abs/2403.02814)
+
+  - 05 Mar 2024, Ce Chi, et al.
 
 - [CATS: Enhancing Multivariate Time Series Forecasting by Constructing Auxiliary Time Series as Exogenous Variables](https://arxiv.org/abs/2403.01673)
 
