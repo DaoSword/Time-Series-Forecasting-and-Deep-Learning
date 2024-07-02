@@ -44,6 +44,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 22 Jun 2024, Mingtian Tan, et al.
  
   - [[Official Code - TS_Models](https://github.com/bennytmt/ts_models)]
+ 
+- [DeciMamba: Exploring the Length Extrapolation Potential of Mamba](https://arxiv.org/abs/2406.14528)
+
+  - 20 Jun 2024, Assaf Ben-Kish, et al.
+ 
+  - [[Official Code - DeciMamba](https://github.com/assafbk/decimamba)]
 
 - [SOFTS: Efficient Multivariate Time Series Forecasting with Series-Core Fusion](https://arxiv.org/abs/2404.14197)
 
