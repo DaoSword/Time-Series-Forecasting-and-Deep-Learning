@@ -39,6 +39,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ### 2024
 
+- [Are Language Models Actually Useful for Time Series Forecasting?](https://arxiv.org/abs/2406.16964)
+
+  - 22 Jun 2024, Mingtian Tan, et al.
+ 
+  - [[Official Code - TS_Models](https://github.com/bennytmt/ts_models)]
+
 - [SOFTS: Efficient Multivariate Time Series Forecasting with Series-Core Fusion](https://arxiv.org/abs/2404.14197)
 
   - 12 Jun 2024, Lu Han, et al.
