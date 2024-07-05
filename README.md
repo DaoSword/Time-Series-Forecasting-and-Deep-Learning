@@ -2133,6 +2133,10 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   - `PyDMD` is a Python package that uses Dynamic Mode Decomposition for a data-driven model simplification based on spatiotemporal coherent structures.
 
+- [pyFTS](https://github.com/PYFTS/pyFTS)
+
+  - An open source library for Fuzzy Time Series in Python.
+
 - [PyPOTS](https://github.com/WenjieDu/PyPOTS)
   
   - A Python Toolbox for Data Mining on Partially-Observed Time Series.
