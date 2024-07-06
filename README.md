@@ -68,12 +68,16 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 03 Jun 2024, Romain Ilbert, et al.
  
   - [[Official Code - samformer](https://github.com/romilbert/samformer)]
+ 
+- [SparseTSF: Modeling Long-term Time Series Forecasting with 1k Parameters](https://arxiv.org/abs/2405.00946)
+
+  - 03 Jun 2024, Shengsheng Lin, et al.
+ 
+  - [[Official Code - SparseTSF](https://github.com/lss-1138/SparseTSF)]
 
 - [Efficient and Effective Time-Series Forecasting with Spiking Neural Networks](https://arxiv.org/abs/2402.01533)
 
   - 29 May 2024, Changze Lv, et al.
- 
-  - [[Official Code - SparseTSF](https://github.com/lss-1138/SparseTSF)]
  
 - [ForecastGrapher: Redefining Multivariate Time Series Forecasting with Graph Neural Networks](https://arxiv.org/abs/2405.18036)
 
