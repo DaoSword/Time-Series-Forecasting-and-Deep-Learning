@@ -39,6 +39,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ### 2024
 
+- [Revitalizing Multivariate Time Series Forecasting: Learnable Decomposition with Inter-Series Dependencies and Intra-Series Variations Modeling](https://arxiv.org/abs/2402.12694)
+
+  - 01 Jul 2024, Guoqi Yu, et al.
+ 
+  - [[Official Code - Leddam](https://github.com/Levi-Ackman/Leddam)]
+
 - [Are Language Models Actually Useful for Time Series Forecasting?](https://arxiv.org/abs/2406.16964)
 
   - 22 Jun 2024, Mingtian Tan, et al.
