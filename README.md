@@ -285,6 +285,8 @@ List of research papers focus on time series forecasting and deep learning, as w
 
   - 04 Mar 2024, Jiecheng Lu, et al.
  
+  - [[Official Code - CATS](https://github.com/LJC-FVNR/CATS)]
+ 
 - [Diffusion-TS: Interpretable Diffusion for General Time Series Generation](https://arxiv.org/abs/2403.01742)
 
   - 04 Mar 2024, Xinyu Yuan, et al.
