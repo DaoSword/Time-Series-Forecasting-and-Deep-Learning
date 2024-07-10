@@ -39,6 +39,10 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ### 2024
 
+- [S2IP-LLM: Semantic Space Informed Prompt Learning with LLM for Time Series Forecasting](https://arxiv.org/abs/2403.05798)
+
+  - 07 Jul 2024, Zijie Pan, et al.
+
 - [Revitalizing Multivariate Time Series Forecasting: Learnable Decomposition with Inter-Series Dependencies and Intra-Series Variations Modeling](https://arxiv.org/abs/2402.12694)
 
   - 01 Jul 2024, Guoqi Yu, et al.
