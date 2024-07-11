@@ -42,6 +42,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 - [S2IP-LLM: Semantic Space Informed Prompt Learning with LLM for Time Series Forecasting](https://arxiv.org/abs/2403.05798)
 
   - 07 Jul 2024, Zijie Pan, et al.
+ 
+- [Fredformer: Frequency Debiased Transformer for Time Series Forecasting](https://arxiv.org/abs/2406.09009)
+
+  - 03 Jul 2024, Xihao Piao, et al.
+ 
+  - [[Official Code - Fredformer](https://github.com/chenzrg/fredformer)]
 
 - [Revitalizing Multivariate Time Series Forecasting: Learnable Decomposition with Inter-Series Dependencies and Intra-Series Variations Modeling](https://arxiv.org/abs/2402.12694)
 
