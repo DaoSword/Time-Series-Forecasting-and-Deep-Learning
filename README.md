@@ -66,6 +66,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 20 Jun 2024, Assaf Ben-Kish, et al.
  
   - [[Official Code - DeciMamba](https://github.com/assafbk/decimamba)]
+ 
+- [ProbTS: Benchmarking Point and Distributional Forecasting across Diverse Prediction Horizons](https://arxiv.org/abs/2310.07446)
+
+  - 17 Jun 2024, Jiawen Zhang, et al.
+ 
+  - [[Official Code - ProbTS](https://github.com/microsoft/probts)]
 
 - [SOFTS: Efficient Multivariate Time Series Forecasting with Series-Core Fusion](https://arxiv.org/abs/2404.14197)
 
