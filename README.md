@@ -100,6 +100,8 @@ List of research papers focus on time series forecasting and deep learning, as w
 - [Efficient and Effective Time-Series Forecasting with Spiking Neural Networks](https://arxiv.org/abs/2402.01533)
 
   - 29 May 2024, Changze Lv, et al.
+
+  - [[Official Code - SeqSNN](https://github.com/microsoft/seqsnn)]
  
 - [ForecastGrapher: Redefining Multivariate Time Series Forecasting with Graph Neural Networks](https://arxiv.org/abs/2405.18036)
 
