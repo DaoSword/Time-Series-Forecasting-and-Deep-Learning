@@ -67,6 +67,12 @@ List of research papers focus on time series forecasting and deep learning, as w
  
   - [[Official Code - DeciMamba](https://github.com/assafbk/decimamba)]
  
+- [Understanding Different Design Choices in Training Large Time Series Models](https://arxiv.org/abs/2406.14045)
+
+  - 20 Jun 2024, Yu-Neng Chuang, et al.
+ 
+  - [[Official Code - ltsm](https://github.com/daochenzha/ltsm/)]
+ 
 - [ProbTS: Benchmarking Point and Distributional Forecasting across Diverse Prediction Horizons](https://arxiv.org/abs/2310.07446)
 
   - 17 Jun 2024, Jiawen Zhang, et al.
