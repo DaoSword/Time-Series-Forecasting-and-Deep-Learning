@@ -2070,6 +2070,10 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ## Libraries
 
+- [aeon](https://github.com/aeon-toolkit/aeon)
+
+  - `aeon` is an open-source toolkit for learning from time series.
+
 - [arch](https://github.com/bashtage/arch)
   
   - Autoregressive Conditional Heteroskedasticity (ARCH) and other tools for financial econometrics, written in Python (with Cython and/or Numba used to improve performance)
