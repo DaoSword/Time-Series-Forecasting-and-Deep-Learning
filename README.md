@@ -102,6 +102,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 03 Jun 2024, Shengsheng Lin, et al.
  
   - [[Official Code - SparseTSF](https://github.com/lss-1138/SparseTSF)]
+ 
+- [BayOTIDE: Bayesian Online Multivariate Time series Imputation with functional decomposition](https://arxiv.org/abs/2308.14906)
+
+  - 30 May 2024, Shikai Fang, et al.
+ 
+  - [[Official Code - BayOTIDE](https://github.com/xuangu-fang/bayotide)]
 
 - [Efficient and Effective Time-Series Forecasting with Spiking Neural Networks](https://arxiv.org/abs/2402.01533)
 
