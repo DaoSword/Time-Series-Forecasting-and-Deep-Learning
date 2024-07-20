@@ -2158,6 +2158,10 @@ List of research papers focus on time series forecasting and deep learning, as w
 - [PaddleTS](https://github.com/PaddlePaddle/PaddleTS)
   
   - PaddlePaddle-based Time Series Modeling in Python.
+ 
+- [Pandas TA](https://github.com/twopirllc/pandas-ta)
+
+  - Pandas Technical Analysis (`Pandas TA`) is an easy to use library that leverages the Pandas package with more than 130 Indicators and Utility functions and more than 60 TA Lib Candlestick Patterns.
 
 - [Prophet](https://facebook.github.io/prophet/)
   
