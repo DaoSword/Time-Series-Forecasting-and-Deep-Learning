@@ -459,6 +459,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 
   - 10 Jan 2024, Shubao Zhao, et al.
 
+- [Universal Time-Series Representation Learning: A Survey](https://arxiv.org/abs/2401.03717)
+
+  - 08 Jan 2024, Patara Trirat, et al.
+ 
+  - [[Official Code - awesome-deep-time-series-representations](https://github.com/itouchz/awesome-deep-time-series-representations)]
+
 - [UnetTSF: A Better Performance Linear Complexity Time Series Prediction Model](https://arxiv.org/abs/2401.03001)
 
   - 05 Jan 2024, Chu Li, et al.
