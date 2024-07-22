@@ -249,6 +249,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 
   - 24 Mar 2024, Shibo Feng, et al.
  
+- [StockMixer: A Simple Yet Strong MLP-Based Architecture for Stock Price Forecasting](https://ojs.aaai.org/index.php/AAAI/article/view/28681)
+
+  - 24 Mar 2024, Jinyong Fan, et al.
+ 
+  - [[Official Code - StockMixer](https://github.com/SJTU-Quant/StockMixer)]
+ 
 - [SiMBA: Simplified Mamba-Based Architecture for Vision and Multivariate Time series](https://arxiv.org/abs/2403.15360)
 
   - 22 Mar 2024, Badri N. Patro, et al.
