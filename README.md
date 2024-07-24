@@ -91,6 +91,12 @@ List of research papers focus on time series forecasting and deep learning, as w
  
   - [[Official Code - Awesome-TimeSeries-SpatioTemporal-Diffusion-Model](https://github.com/yyysjz1997/awesome-timeseries-spatiotemporal-diffusion-model)]
  
+- [Timer: Generative Pre-trained Transformers Are Large Time Series Models](https://arxiv.org/abs/2402.02368)
+
+  - 04 Jun 2024, Yong Liu, et al.
+ 
+  - [[Official Code - Large-Time-Series-Model](https://github.com/thuml/Large-Time-Series-Model)]
+ 
 - [SAMformer: Unlocking the Potential of Transformers in Time Series Forecasting with Sharpness-Aware Minimization and Channel-Wise Attention](https://arxiv.org/abs/2402.10198)
 
   - 03 Jun 2024, Romain Ilbert, et al.
@@ -402,10 +408,6 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 04 Feb 2024, Peng Chen, et al.
  
   - [[Official Code - pathformer](https://github.com/decisionintelligence/pathformer)]
- 
-- [Timer: Transformers for Time Series Analysis at Scale](https://arxiv.org/abs/2402.02368)
-
-  - 04 Feb 2024, Yong Liu, et al.
 
 - [Unified Training of Universal Time Series Forecasting Transformers](https://arxiv.org/abs/2402.02592)
 
