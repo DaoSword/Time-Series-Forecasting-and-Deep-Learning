@@ -261,6 +261,12 @@ List of research papers focus on time series forecasting and deep learning, as w
  
   - [[Official Code - StockMixer](https://github.com/SJTU-Quant/StockMixer)]
  
+- [ModernTCN: A Modern Pure Convolution Structure for General Time Series Analysis](https://openreview.net/forum?id=vpJMJerXHU)
+
+  - 22 Mar 2024, Donghao Luo, et al.
+ 
+  - [[Official Code - ModernTCN](https://github.com/luodhhh/ModernTCN)]
+ 
 - [SiMBA: Simplified Mamba-Based Architecture for Vision and Multivariate Time series](https://arxiv.org/abs/2403.15360)
 
   - 22 Mar 2024, Badri N. Patro, et al.
@@ -648,10 +654,6 @@ List of research papers focus on time series forecasting and deep learning, as w
 - [Adaptive Normalization for Non-stationary Time Series Forecasting: A Temporal Slice Perspective](https://openreview.net/forum?id=5BqDSw8r5j)
 
   - 22 Sep 2023, Zhiding Liu, et al.
-
-- [ModernTCN: A Modern Pure Convolution Structure for General Time Series Analysis](https://openreview.net/forum?id=vpJMJerXHU)
-
-  - 22 Sep 2023, Anonymous authors
  
 - [OneNet: Enhancing Time Series Forecasting Models under Concept Drift by Online Ensembling](https://arxiv.org/abs/2309.12659)
 
