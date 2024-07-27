@@ -39,6 +39,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ### 2024
 
+- [ViTime: A Visual Intelligence-Based Foundation Model for Time Series Forecasting](https://arxiv.org/abs/2407.07311)
+
+  - 10 Jul 2024, Luoxiao Yang, et al.
+ 
+  - [[Official Code - ViTime](https://github.com/IkeYang/ViTime)]
+
 - [S2IP-LLM: Semantic Space Informed Prompt Learning with LLM for Time Series Forecasting](https://arxiv.org/abs/2403.05798)
 
   - 07 Jul 2024, Zijie Pan, et al.
