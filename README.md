@@ -1502,19 +1502,23 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 - [EXIT: Extrapolation and Interpolation-based Neural Controlled Differential Equations for Time-series Classification and Forecasting](https://dl.acm.org/doi/abs/10.1145/3485447.3512030)
   
-  - 25 April 2022, Sheo Yon Jhin, et al.
+  - 25 Apr 2022, Sheo Yon Jhin, et al.
   
   - [[Official Code](https://github.com/sheoyon-jhin/EXIT)]
 
 - [Multi-Granularity Residual Learning with Confidence Estimation for Time Series Prediction](https://dl.acm.org/doi/abs/10.1145/3485447.3512056)
   
-  - 25 April 2022, Min Hou, et al.
+  - 25 Apr 2022, Min Hou, et al.
 
 - [RETE: Retrieval-Enhanced Temporal Event Forecasting on Unified Query Product Evolutionary Graph](https://dl.acm.org/doi/abs/10.1145/3485447.3511974)
   
-  - 25 April 2022, Ruijie Wang, et al.
+  - 25 Apr 2022, Ruijie Wang, et al.
   
   - [[Official Code](https://github.com/DiMarzioBian/RETE_TheWebConf)]
+
+- [A data filling methodology for time series based on CNN and (Bi)LSTM neural networks](https://arxiv.org/abs/2204.09994)
+
+  - 21 Apr 2022, Kostas Tzoumpas, et al.
 
 - [ADATIME: A Benchmarking Suite for Domain Adaptation on Time Series Data](https://arxiv.org/abs/2203.08321)
   
