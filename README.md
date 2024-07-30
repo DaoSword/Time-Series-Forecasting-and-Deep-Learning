@@ -39,6 +39,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ### 2024
 
+- [Deep Time Series Models: A Comprehensive Survey and Benchmark](https://arxiv.org/abs/2407.13278)
+
+  - 18 Jul 2024, Yuxuan Wang, et al.
+ 
+  - [[Official Code - Time-Series-Library](https://github.com/thuml/Time-Series-Library)]
+
 - [ViTime: A Visual Intelligence-Based Foundation Model for Time Series Forecasting](https://arxiv.org/abs/2407.07311)
 
   - 10 Jul 2024, Luoxiao Yang, et al.
