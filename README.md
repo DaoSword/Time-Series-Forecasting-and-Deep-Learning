@@ -559,6 +559,8 @@ List of research papers focus on time series forecasting and deep learning, as w
 
   - 10 Nov 2023, Kun Yi, et al.
  
+  - [[Official Code - FourierGNN](https://github.com/aikunyi/fouriergnn)]
+ 
 - [Frequency-domain MLPs are More Effective Learners in Time Series Forecasting](https://arxiv.org/abs/2311.06184)
 
   - 10 Nov 2023, Kun Yi, et al.
