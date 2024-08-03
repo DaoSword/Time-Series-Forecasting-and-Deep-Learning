@@ -452,6 +452,10 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 17 Jan 2024, Haowen Hou, et al.
   
   - [[Official Code - RWKV-TS](https://github.com/howard-hou/RWKV-TS)]
+ 
+- [CNN Kernels Can Be the Best Shapelets](https://openreview.net/forum?id=O8ouVV8PjF)
+
+  - 16 Jan 2024, Eric Qu, et al.
 
 - [Interpretable Sparse System Identification: Beyond Recent Deep Learning Techniques on Time-Series Prediction](https://openreview.net/forum?id=aFWUY3E7ws)
 
