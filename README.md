@@ -2094,6 +2094,8 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ## Blogs
 
+- [Kolmogorov-Arnold Networks (KANs) for Time Series Forecasting](https://www.datasciencewithmarco.com/blog/kolmogorov-arnold-networks-kans-for-time-series-forecasting)
+
 - [The Annotated Transformer](http://nlp.seas.harvard.edu/annotated-transformer/)
 
 - [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
