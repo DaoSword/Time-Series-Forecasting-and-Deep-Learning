@@ -66,6 +66,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 01 Jul 2024, Guoqi Yu, et al.
  
   - [[Official Code - Leddam](https://github.com/Levi-Ackman/Leddam)]
+ 
+- [SigKAN: Signature-Weighted Kolmogorov-Arnold Networks for Time Series](https://arxiv.org/abs/2406.17890)
+
+  - 25 Jun 2024, Hugo Inzirillo, et al.
+ 
+  - [[Official Code - SigKAN](https://github.com/remigenet/SigKAN)]
 
 - [Are Language Models Actually Useful for Time Series Forecasting?](https://arxiv.org/abs/2406.16964)
 
