@@ -39,6 +39,10 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ### 2024
 
+- [A Survey of Explainable Artificial Intelligence (XAI) in Financial Time Series Forecasting](https://arxiv.org/abs/2407.15909)
+
+  - 22 Jul 2024, Pierre-Daniel Arsenault, et al.
+
 - [Deep Time Series Models: A Comprehensive Survey and Benchmark](https://arxiv.org/abs/2407.13278)
 
   - 18 Jul 2024, Yuxuan Wang, et al.
