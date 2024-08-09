@@ -95,6 +95,10 @@ List of research papers focus on time series forecasting and deep learning, as w
  
   - [[Official Code - ltsm](https://github.com/daochenzha/ltsm/)]
  
+- [Foundation Models for Time Series Analysis: A Tutorial and Survey](https://arxiv.org/abs/2403.14735)
+
+  - 18 Jun 2024, Yuxuan Liang, et al.
+ 
 - [ProbTS: Benchmarking Point and Distributional Forecasting across Diverse Prediction Horizons](https://arxiv.org/abs/2310.07446)
 
   - 17 Jun 2024, Jiawen Zhang, et al.
