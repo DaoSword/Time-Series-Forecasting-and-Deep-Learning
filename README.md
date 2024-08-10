@@ -59,6 +59,8 @@ List of research papers focus on time series forecasting and deep learning, as w
 
   - 07 Jul 2024, Zijie Pan, et al.
  
+  - [[Official Code - S2IP-LLM](https://github.com/panzijie825/s2ip-llm)]
+ 
 - [Fredformer: Frequency Debiased Transformer for Time Series Forecasting](https://arxiv.org/abs/2406.09009)
 
   - 03 Jul 2024, Xihao Piao, et al.
