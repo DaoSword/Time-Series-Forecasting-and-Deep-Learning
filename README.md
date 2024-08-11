@@ -258,6 +258,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 02 Apr 2024, Zihan Wang, et al.
    
   - [[Official Code - S-D-Mamba](https://github.com/wzhwzhwzh0921/S-D-Mamba)]
+ 
+- [TEMPO: Prompt-based Generative Pre-trained Transformer for Time Series Forecasting](https://arxiv.org/abs/2310.04948)
+
+  - 02 Apr 2024, Defu Cao, et al.
+ 
+  - [[Official Code - TEMPO](https://github.com/dc-research/tempo)]
 
 - [From Similarity to Superiority: Channel Clustering for Time Series Forecasting](https://arxiv.org/abs/2404.01340)
 
@@ -668,10 +674,6 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 08 Oct 2023, Gerald Woo, et al.
  
   - [[Official Code - pretrain-time-series-cloudops](https://github.com/salesforceairesearch/pretrain-time-series-cloudops)]
- 
-- [TEMPO: Prompt-based Generative Pre-trained Transformer for Time Series Forecasting](https://arxiv.org/abs/2310.04948)
-
-  - 08 Oct 2023, Defu Cao, et al.
  
 - [Generative Modeling of Regular and Irregular Time Series Data via Koopman VAEs](https://arxiv.org/abs/2310.02619)
 
