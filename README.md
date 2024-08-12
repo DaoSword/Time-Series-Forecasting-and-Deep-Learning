@@ -468,6 +468,10 @@ List of research papers focus on time series forecasting and deep learning, as w
 - [A Survey of Deep Learning and Foundation Models for Time Series Forecasting](https://arxiv.org/abs/2401.13912)
 
   - 25 Jan 2024, John A. Miller, et al.
+ 
+- [LLM4TS: Aligning Pre-Trained LLMs as Data-Efficient Time-Series Forecasters](https://arxiv.org/abs/2308.08469)
+
+  - 18 Jan 2024, Ching Chang, et al.
 
 - [MSHyper: Multi-Scale Hypergraph Transformer for Long-Range Time Series Forecasting](https://arxiv.org/abs/2401.09261)
 
