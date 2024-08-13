@@ -405,6 +405,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 
   - 25 Feb 2024, Haoxin Liu, et al.
  
+- [TEST: Text Prototype Aligned Embedding to Activate LLM's Ability for Time Series](https://arxiv.org/abs/2308.08241)
+
+  - 22 Feb 2024, Chenxi Sun, et al.
+ 
+  - [[Official Code - TEST](https://github.com/scxsunchenxi/test)]
+ 
 - [CARD: Channel Aligned Robust Blend Transformer for Time Series Forecasting](https://arxiv.org/abs/2305.12095)
 
   - 16 Feb 2024, Wang Xue, et al.
@@ -748,10 +754,6 @@ List of research papers focus on time series forecasting and deep learning, as w
 - [LLM4TS: Two-Stage Fine-Tuning for Time-Series Forecasting with Pre-Trained LLMs](https://arxiv.org/abs/2308.08469)
   
   - 16 Aug 2023, Ching Chang, et al.
- 
-- [TEST: Text Prototype Aligned Embedding to Activate LLM's Ability for Time Series](https://arxiv.org/abs/2308.08241)
-
-  - 16 Aug 2023, Chenxi Sun, et al.
  
 - [PETformer: Long-term Time Series Forecasting via Placeholder-enhanced Transformer](https://arxiv.org/abs/2308.04791)
 
