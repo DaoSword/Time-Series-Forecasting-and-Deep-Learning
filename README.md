@@ -426,6 +426,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 - [Large Language Models for Forecasting and Anomaly Detection: A Systematic Literature Review](https://arxiv.org/abs/2402.10350)
 
   - 15 Feb 2024, Jing Su, et al.
+
+- [Lag-Llama: Towards Foundation Models for Probabilistic Time Series Forecasting](https://arxiv.org/abs/2310.08278)
+
+  - 08 Feb 2024, Kashif Rasul, et al.
+ 
+  - [[Official Code - lag-llama](https://github.com/time-series-foundation-models/lag-llama)]
  
 - [MOMENT: A Family of Open Time-series Foundation Models](https://arxiv.org/abs/2402.03885)
 
