@@ -39,6 +39,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ### 2024
 
+- [Bidirectional Generative Pre-training for Improving Time Series Representation Learning](https://arxiv.org/abs/2402.09558)
+
+  - 11 Aug 2024, Ziyang Song, et al.
+ 
+  - [[Official Code - BiTimelyGPT](https://github.com/li-lab-mcgill/bitimelygpt)]
+
 - [A Survey of Explainable Artificial Intelligence (XAI) in Financial Time Series Forecasting](https://arxiv.org/abs/2407.15909)
 
   - 22 Jul 2024, Pierre-Daniel Arsenault, et al.
