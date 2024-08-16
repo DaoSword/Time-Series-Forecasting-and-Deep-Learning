@@ -439,6 +439,10 @@ List of research papers focus on time series forecasting and deep learning, as w
  
   - [[Official Code - lag-llama](https://github.com/time-series-foundation-models/lag-llama)]
  
+- [MultiResFormer: Transformer with Adaptive Multi-Resolution Modeling for General Time Series Forecasting](https://arxiv.org/abs/2311.18780)
+
+  - 08 Feb 2024, Linfeng Du, et al.
+ 
 - [MOMENT: A Family of Open Time-series Foundation Models](https://arxiv.org/abs/2402.03885)
 
   - 06 Feb 2024, Mononito Goswami, et al.
