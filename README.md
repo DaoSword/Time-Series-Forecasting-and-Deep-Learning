@@ -125,6 +125,10 @@ List of research papers focus on time series forecasting and deep learning, as w
  
   - [[Official Code - Awesome-TimeSeries-SpatioTemporal-Diffusion-Model](https://github.com/yyysjz1997/awesome-timeseries-spatiotemporal-diffusion-model)]
  
+- [Kolmogorov-Arnold Networks for Time Series: Bridging Predictive Power and Interpretability](https://arxiv.org/abs/2406.02496)
+
+  - 04 Jun 2024, Kunpeng Xu, et al.
+ 
 - [Timer: Generative Pre-trained Transformers Are Large Time Series Models](https://arxiv.org/abs/2402.02368)
 
   - 04 Jun 2024, Yong Liu, et al.
