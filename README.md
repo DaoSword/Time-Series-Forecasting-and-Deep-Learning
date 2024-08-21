@@ -44,6 +44,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 11 Aug 2024, Ziyang Song, et al.
  
   - [[Official Code - BiTimelyGPT](https://github.com/li-lab-mcgill/bitimelygpt)]
+ 
+- [Scalable Transformer for High Dimensional Multivariate Time Series Forecasting](https://arxiv.org/abs/2408.04245)
+
+  - 08 Aug 2024, Xin Zhou, et al.
+ 
+  - [[Official Code - ScalableTransformer4HighDimensionMTSF](https://github.com/xinzzzhou/scalabletransformer4highdimensionmtsf)]
 
 - [A Survey of Explainable Artificial Intelligence (XAI) in Financial Time Series Forecasting](https://arxiv.org/abs/2407.15909)
 
