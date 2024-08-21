@@ -515,7 +515,7 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 - [Interpretable Sparse System Identification: Beyond Recent Deep Learning Techniques on Time-Series Prediction](https://openreview.net/forum?id=aFWUY3E7ws)
 
-  - 16 Jan 2024, Anonymous authors.
+  - 16 Jan 2024, Xiaoyi Liu, et al.
  
 - [Generative Learning for Financial Time Series with Irregular and Scale-Invariant Patterns](https://openreview.net/forum?id=CdjnzWsQax)
 
