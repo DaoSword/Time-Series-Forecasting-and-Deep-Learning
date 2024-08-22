@@ -39,6 +39,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ### 2024
 
+- [Rethinking Channel Dependence for Multivariate Time Series Forecasting: Learning from Leading Indicators](https://arxiv.org/abs/2401.17548)
+
+  - 13 Aug 2024, Lifan Zhao, et al.
+ 
+  - [[Official Code - LIFT](https://github.com/sjtu-dmtai/lift)]
+
 - [Bidirectional Generative Pre-training for Improving Time Series Representation Learning](https://arxiv.org/abs/2402.09558)
 
   - 11 Aug 2024, Ziyang Song, et al.
