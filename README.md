@@ -178,6 +178,8 @@ List of research papers focus on time series forecasting and deep learning, as w
 - [MambaTS: Improved Selective State Space Models for Long-term Time Series Forecasting](https://arxiv.org/abs/2405.16440)
 
   - 26 May 2024, Xiuding Cai, et al.
+
+  - [[Official Code - MambaTS-pytorch](https://github.com/XiudingCai/MambaTS-pytorch)]
  
 - [CALF: Aligning LLMs for Time Series Forecasting via Cross-modal Fine-Tuning](https://arxiv.org/abs/2403.07300)
 
