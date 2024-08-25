@@ -125,6 +125,10 @@ List of research papers focus on time series forecasting and deep learning, as w
  
   - [[Official Code - ProbTS](https://github.com/microsoft/probts)]
 
+- [LLMFactor: Extracting Profitable Factors through Prompts for Explainable Stock Movement Prediction](https://arxiv.org/abs/2406.10811)
+
+  - 16 Jun 2024, Meiyun Wang, et al.
+
 - [SOFTS: Efficient Multivariate Time Series Forecasting with Series-Core Fusion](https://arxiv.org/abs/2404.14197)
 
   - 12 Jun 2024, Lu Han, et al.
