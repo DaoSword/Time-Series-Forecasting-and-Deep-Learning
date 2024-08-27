@@ -91,6 +91,12 @@ List of research papers focus on time series forecasting and deep learning, as w
  
   - [[Official Code - Leddam](https://github.com/Levi-Ackman/Leddam)]
  
+- [Addressing Prediction Delays in Time Series Forecasting: A Continuous GRU Approach with Derivative Regularization](https://arxiv.org/abs/2407.01622)
+
+  - 29 Jun 2024, SheoYon Jhin, et al.
+ 
+  - [[Official Code - CONTIME](https://github.com/sheoyon-jhin/contime)]
+ 
 - [SigKAN: Signature-Weighted Kolmogorov-Arnold Networks for Time Series](https://arxiv.org/abs/2406.17890)
 
   - 25 Jun 2024, Hugo Inzirillo, et al.
