@@ -153,6 +153,12 @@ List of research papers focus on time series forecasting and deep learning, as w
  
   - [[Official Code - Awesome-TimeSeries-SpatioTemporal-Diffusion-Model](https://github.com/yyysjz1997/awesome-timeseries-spatiotemporal-diffusion-model)]
  
+- [Calibration of Time-Series Forecasting: Detecting and Adapting Context-Driven Distribution Shift](https://arxiv.org/abs/2310.14838)
+
+  - 11 Jun 2024, Mouxiang Chen, et al.
+ 
+  - [[Official Code - Calibration-CDS](https://github.com/half111/calibration_cds)]
+ 
 - [Kolmogorov-Arnold Networks for Time Series: Bridging Predictive Power and Interpretability](https://arxiv.org/abs/2406.02496)
 
   - 04 Jun 2024, Kunpeng Xu, et al.
