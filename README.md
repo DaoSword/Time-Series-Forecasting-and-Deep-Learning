@@ -261,6 +261,10 @@ List of research papers focus on time series forecasting and deep learning, as w
  
   - [[Official Code - TSLANet](https://github.com/emadeldeen24/tslanet)]
  
+- [Irregular Multivariate Time Series Forecasting: A Transformable Patching Graph Neural Networks Approach](https://openreview.net/forum?id=UZlMXUGI6e)
+
+  - 02 May 2024, Weijia Zhang, et al.
+ 
 - [Integrating Mamba and Transformer for Long-Short Range Time Series Forecasting](https://arxiv.org/abs/2404.14757)
 
   - 23 Apr 2024, Xiongxiao Xu, et al.
