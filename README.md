@@ -912,6 +912,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 06 Jul 2023, Zhijian Xu, et al.
  
   - [[Official Code - FITS](https://github.com/vewoxic/fits)]
+ 
+- [SAITS: Self-Attention-based Imputation for Time Series](https://arxiv.org/abs/2202.08516)
+  
+  - 05 Jul 2023, Wenjie Du, et al.
+  
+  - [[Official Code - SAITS](https://github.com/WenjieDu/SAITS)] 
 
 - [SageFormer: Series-Aware Graph-Enhanced Transformers for Multivariate Time Series Forecasting](https://arxiv.org/abs/2307.01616)
   
@@ -1641,12 +1647,6 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 23 Feb 2022, Dazhao Du, et al.
   
   - [[Code](https://github.com/ddz16/Preformer)]
-
-- [SAITS: Self-Attention-based Imputation for Time Series](https://arxiv.org/abs/2202.08516)
-  
-  - 17 Feb 2022, Wenjie Du, et al.
-  
-  - [[Official Code](https://github.com/WenjieDu/SAITS)]
 
 - [Adaptive Conformal Predictions for Time Series](https://arxiv.org/abs/2202.07282)
   
