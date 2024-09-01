@@ -406,6 +406,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 08 Mar 2024, Muyao Wang, et al.
  
   - [[Official Code - HTV_Trans](https://github.com/flare200020/HTV_Trans)]
+ 
+- [Pathformer: Multi-scale Transformers with Adaptive Pathways for Time Series Forecasting](https://arxiv.org/abs/2402.05956)
+
+  - 07 Mar 2024, Peng Chen, et al.
+ 
+  - [[Official Code - pathformer](https://github.com/decisionintelligence/pathformer)]
 
 - [Periodicity Decoupling Framework for Long-term Series Forecasting](https://openreview.net/forum?id=dp27P5HBBt)
 
@@ -512,12 +518,6 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 04 Feb 2024, Hao Wang, et al.
  
   - [[Official Code - FreDF](https://github.com/master-plc/fredf)]
- 
-- [Pathformer: Multi-scale Transformers with Adaptive Pathways for Time Series Forecasting](https://arxiv.org/abs/2402.05956)
-
-  - 04 Feb 2024, Peng Chen, et al.
- 
-  - [[Official Code - pathformer](https://github.com/decisionintelligence/pathformer)]
 
 - [Unified Training of Universal Time Series Forecasting Transformers](https://arxiv.org/abs/2402.02592)
 
@@ -562,10 +562,6 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 16 Jan 2024, Hongbin Huang, et al.
  
 - [Leveraging Generative Models for Unsupervised Alignment of Neural Time Series Data](https://openreview.net/forum?id=9zhHVyLY4K)
-
-  - 16 Jan 2024, Anonymous authors.
-
-- [Multi-scale Transformers with Adaptive Pathways for Time Series Forecasting](https://openreview.net/forum?id=lJkOCMP2aW)
 
   - 16 Jan 2024, Anonymous authors.
 
