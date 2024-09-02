@@ -629,6 +629,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 
   - 25 Dec 2023, Jiexi Liu, et al.
 
+- [AutoXPCR: Automated Multi-Objective Model Selection for Time Series Forecasting](https://arxiv.org/abs/2312.13038)
+
+  - 20 Dec 2023, Raphael Fischer, et al.
+ 
+  - [[Official Code - xpcr](https://github.com/raphischer/xpcr)]
+
 - [CGS-Mask: Making Time Series Predictions Intuitive for All](https://arxiv.org/abs/2312.09513)
 
   - 15 Dec 2023, Feng Lu, et al.
