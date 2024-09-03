@@ -57,6 +57,10 @@ List of research papers focus on time series forecasting and deep learning, as w
  
   - [[Official Code - ScalableTransformer4HighDimensionMTSF](https://github.com/xinzzzhou/scalabletransformer4highdimensionmtsf)]
  
+- [RHiOTS: A Framework for Evaluating Hierarchical Time Series Forecasting Algorithms](https://www.arxiv.org/abs/2408.03399)
+
+  - 06 Aug 2024, Luis Roque, et al.
+ 
 - [DAM: Towards A Foundation Model for Time Series Forecasting](https://arxiv.org/abs/2407.17880)
 
   - 25 Jul 2024, Luke Darlow, et al.
