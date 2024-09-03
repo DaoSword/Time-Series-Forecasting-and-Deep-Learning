@@ -56,6 +56,10 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 08 Aug 2024, Xin Zhou, et al.
  
   - [[Official Code - ScalableTransformer4HighDimensionMTSF](https://github.com/xinzzzhou/scalabletransformer4highdimensionmtsf)]
+ 
+- [DAM: Towards A Foundation Model for Time Series Forecasting](https://arxiv.org/abs/2407.17880)
+
+  - 25 Jul 2024, Luke Darlow, et al.
 
 - [A Survey of Explainable Artificial Intelligence (XAI) in Financial Time Series Forecasting](https://arxiv.org/abs/2407.15909)
 
