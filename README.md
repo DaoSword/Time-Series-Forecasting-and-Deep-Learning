@@ -1453,6 +1453,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 25 Oct 2022, Youngin Cho, et al.
   
   - [[Official Code](https://github.com/choyi0521/WaveBound)]
+ 
+- [SCINet: Time Series Modeling and Forecasting with Sample Convolution and Interaction](https://arxiv.org/abs/2106.09305)
+
+  - 13 Oct 2022, Minhao Liu, et al
+ 
+  - [[Official Code - SCINet](https://github.com/cure-lab/SCINet)]
 
 - [Koopman Neural Forecaster for Time Series with Temporal Distribution Shifts](https://arxiv.org/abs/2210.03675)
   
