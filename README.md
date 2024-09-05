@@ -2163,33 +2163,41 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 27 May 2018, Wei Cao, et al.
   
   - [[Official Code](https://github.com/caow13/BRITS)]
-* [Universal features of price formation in financial markets: perspectives from Deep Learning](https://arxiv.org/abs/1803.06917)
+ 
+- [An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling](https://arxiv.org/abs/1803.01271)
+
+  - 19 Apr 2018, Shaojie Bai, et al.
+ 
+  - [[Official Code - TCN](https://github.com/locuslab/TCN)]
+
+- [Universal features of price formation in financial markets: perspectives from Deep Learning](https://arxiv.org/abs/1803.06917)
   
-  * 19 Mar 2018, Justin Sirignano, Rama Cont
+  - 19 Mar 2018, Justin Sirignano, et al.
 
 ### 2017
 
-* [Graph Attention Networks](https://arxiv.org/abs/1710.10903)
+- [Graph Attention Networks](https://arxiv.org/abs/1710.10903)
   
-  * 30 Oct 2017, Petar Veličković, et al.
+  - 30 Oct 2017, Petar Veličković, et al.
   
-  * [[Code](https://github.com/PetarV-/GAT)]
+  - [[Code](https://github.com/PetarV-/GAT)]
 
-* [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+- [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
   
-  * 12 Jun 2017, Ashish Vaswani, et al.
+  - 12 Jun 2017, Ashish Vaswani, et al.
   
-  * [[Code](https://github.com/huggingface/transformers)]
+  - [[Code](https://github.com/huggingface/transformers)]
 
-* [Deep Learning for Precipitation Nowcasting: A Benchmark and A New Model](https://arxiv.org/abs/1706.03458)
+- [Deep Learning for Precipitation Nowcasting: A Benchmark and A New Model](https://arxiv.org/abs/1706.03458)
   
-  * 12 Jun 2017, Xingjian Shi, et al.
+  - 12 Jun 2017, Xingjian Shi, et al.
 
-* [DeepAR: Probabilistic Forecasting with Autoregressive Recurrent Networks](https://arxiv.org/abs/1704.04110)
+- [DeepAR: Probabilistic Forecasting with Autoregressive Recurrent Networks](https://arxiv.org/abs/1704.04110)
   
-  * 13 Apr 2017, David Salinas, et al.
+  - 13 Apr 2017, David Salinas, et al.
   
-  * [[Code](https://github.com/jdb78/pytorch-forecasting)]
+  - [[Code](https://github.com/jdb78/pytorch-forecasting)]
+
 - [Modeling Long- and Short-Term Temporal Patterns with Deep Neural Networks](https://arxiv.org/abs/1703.07015)
   
   - 21 Mar 2017, Guokun Lai, et al.
