@@ -571,7 +571,7 @@ List of research papers focus on time series forecasting and deep learning, as w
  
 - [Leveraging Generative Models for Unsupervised Alignment of Neural Time Series Data](https://openreview.net/forum?id=9zhHVyLY4K)
 
-  - 16 Jan 2024, Anonymous authors.
+  - 16 Jan 2024, Ayesha Vermani, et al.
 
 - [Self-Supervised Contrastive Learning for Long-term Forecasting](https://openreview.net/forum?id=nBCuRzjqK7)
 
