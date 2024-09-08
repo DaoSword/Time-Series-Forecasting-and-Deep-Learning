@@ -469,6 +469,8 @@ List of research papers focus on time series forecasting and deep learning, as w
 
   - 25 Feb 2024, Haoxin Liu, et al.
  
+  - [[Official Code - lstprompt](https://github.com/AdityaLab/lstprompt)]
+ 
 - [TEST: Text Prototype Aligned Embedding to Activate LLM's Ability for Time Series](https://arxiv.org/abs/2308.08241)
 
   - 22 Feb 2024, Chenxi Sun, et al.
