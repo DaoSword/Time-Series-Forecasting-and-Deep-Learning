@@ -666,6 +666,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 01 Dec 2023, Albert Gu, et al.
  
   - [[Official Code - mamba](https://github.com/state-spaces/mamba)]
+ 
+- [Non-stationary Transformers: Exploring the Stationarity in Time Series Forecasting](https://arxiv.org/abs/2205.14415)
+  
+  - 24 Nov 2023, Yong Liu, et al.
+  
+  - [[Official Code - Nonstationary_Transformers](https://github.com/thuml/Nonstationary_Transformers)]
 
 - [FourierGNN: Rethinking Multivariate Time Series Forecasting from a Pure Graph Perspective](https://arxiv.org/abs/2311.06190)
 
@@ -1550,8 +1556,8 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 13 Jul 2022, Gregory Benton, et al.
   
   - [[Official Code](https://github.com/g-benton/Volt)]
-- [Less Is More: Fast Multivariate Time Series Forecasting with
-  Light Sampling-oriented MLP Structures](https://arxiv.org/abs/2207.01186)
+
+- [Less Is More: Fast Multivariate Time Series Forecasting with Light Sampling-oriented MLP Structures](https://arxiv.org/abs/2207.01186)
   
   - 04 Jul 2022, Tianping Zhang, et al.
 
@@ -1600,11 +1606,6 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 31 May 2022, Iris A.M. Huijben, et al.
   
   - [[Official Code - SOM-CPC](https://github.com/iamhuijben/som-cpc)]
-
-- [Non-stationary Transformers: Exploring the Stationarity in Time Series Forecasting](https://arxiv.org/abs/2205.14415)
-  
-  - 28 May 2022, Yong Liu, et al.
-  * [[Official Code](https://github.com/thuml/Nonstationary_Transformers)]
 
 - [Are Transformers Effective for Time Series Forecasting?](https://arxiv.org/abs/2205.13504)
   
