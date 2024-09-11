@@ -741,6 +741,12 @@ List of research papers focus on time series forecasting and deep learning, as w
  
   - [[Official Code - UniTime](https://github.com/liuxu77/unitime)]
  
+- [Counterfactual Explanations for Time Series Forecasting](https://arxiv.org/abs/2310.08137)
+
+  - 12 Oct 2023, Zhendong Wang, et al.
+ 
+  - [[Official Code - counterfactual-explanations-for-forecasting](https://github.com/zhendong3wang/counterfactual-explanations-for-forecasting)]
+ 
 - [Lag-Llama: Towards Foundation Models for Time Series Forecasting](https://arxiv.org/abs/2310.08278)
 
   - 12 Oct 2023, Kashif Rasul, et al.
