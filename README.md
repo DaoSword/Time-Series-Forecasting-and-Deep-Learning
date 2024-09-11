@@ -603,7 +603,9 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 - [U-Mixer: An Unet-Mixer Architecture with Stationarity Correction for Time Series Forecasting](https://arxiv.org/abs/2401.02236)
 
-  - 04 Jan 2024, Ling Chen, et al.
+  - 04 Jan 2024, Xiang Ma, et al.
+ 
+  - [[Official Code - U-Mixer](https://github.com/XiangMa-Shaun/U-Mixer)]
 
 ### 2023
 
