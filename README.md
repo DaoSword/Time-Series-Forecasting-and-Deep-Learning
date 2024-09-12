@@ -61,6 +61,8 @@ List of research papers focus on time series forecasting and deep learning, as w
 
   - 06 Aug 2024, Luis Roque, et al.
  
+  - [[Official Code - robustness_hierarchical_time_series_forecasting_algorithms](https://github.com/luisroque/robustness_hierarchical_time_series_forecasting_algorithms)]
+ 
 - [DAM: Towards A Foundation Model for Time Series Forecasting](https://arxiv.org/abs/2407.17880)
 
   - 25 Jul 2024, Luke Darlow, et al.
