@@ -825,6 +825,8 @@ List of research papers focus on time series forecasting and deep learning, as w
 
   - 25 Aug 2023, Yuxiao Luo, et al.
  
+  - [[Official Code - TFDNet](https://github.com/YuxiaoLuo0013/TFDNet)]
+ 
 - [Easy attention: A simple self-attention mechanism for transformer-based time-series reconstruction and prediction](https://arxiv.org/abs/2308.12874)
 
   - 24 Aug 2023, Marcial Sanchis-Agudo, et al.
