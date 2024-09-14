@@ -1114,6 +1114,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 09 May 2023, Mingzhou Liu, et al.
  
   - [[Official Code - proxy_causal_discovery](https://github.com/lmz123321/proxy_causal_discovery)]
+ 
+- [Temporal and Heterogeneous Graph Neural Network for Financial Time Series Prediction](https://arxiv.org/abs/2305.08740)
+
+  - 09 May 2023, Sheng Xiang, et al.
+ 
+  - [[Official Code - THGNN](https://github.com/TongjiFinLab/THGNN)]
   
 - [Mlinear: Rethink the Linear Model for Time-series Forecasting](https://arxiv.org/abs/2305.04800)
 
