@@ -570,6 +570,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 - [CNN Kernels Can Be the Best Shapelets](https://openreview.net/forum?id=O8ouVV8PjF)
 
   - 16 Jan 2024, Eric Qu, et al.
+ 
+- [GAFormer: Enhancing Timeseries Transformers Through Group-Aware Embeddings](https://openreview.net/forum?id=c56TWtYp0W)
+
+  - 16 Jan 2024, Jingyun Xiao, et al.
+ 
+  - [[Official Code - GAFormer](https://github.com/nerdslab/GAFormer)]
 
 - [Interpretable Sparse System Identification: Beyond Recent Deep Learning Techniques on Time-Series Prediction](https://openreview.net/forum?id=aFWUY3E7ws)
 
