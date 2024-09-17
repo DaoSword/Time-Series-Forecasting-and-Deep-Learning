@@ -265,6 +265,12 @@ List of research papers focus on time series forecasting and deep learning, as w
  
   - [[Official Code - TEFN](https://github.com/ztxtech/Time-Evidence-Fusion-Network)]
  
+- [T-Rep: Representation Learning for Time Series using Time-Embeddings](https://arxiv.org/abs/2310.04486)
+
+  - 09 May 2024, Archibald Fraikin, et al.
+ 
+  - [[Official Code - T-Rep](https://github.com/let-it-care/t-rep)]
+ 
 - [A Survey of Time Series Foundation Models: Generalizing Time Series Representation with Large Language Model](https://arxiv.org/abs/2405.02358)
 
   - 07 May 2024, Jiexia Ye, et al.
