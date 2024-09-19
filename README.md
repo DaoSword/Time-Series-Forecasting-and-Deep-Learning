@@ -39,6 +39,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ### 2024
 
+- [VisionTS: Visual Masked Autoencoders Are Free-Lunch Zero-Shot Time Series Forecasters](https://arxiv.org/abs/2408.17253)
+
+  - 30 Aug 2024, Mouxiang Chen, et al.
+ 
+  - [[Official Code - VisionTS](https://github.com/keytoyze/visionts)]
+
 - [Rethinking Channel Dependence for Multivariate Time Series Forecasting: Learning from Leading Indicators](https://arxiv.org/abs/2401.17548)
 
   - 13 Aug 2024, Lifan Zhao, et al.
