@@ -393,6 +393,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 
   - 21 Mar 2024, William Toner, et al.
  
+- [iTransformer: Inverted Transformers Are Effective for Time Series Forecasting](https://arxiv.org/abs/2310.06625)
+
+  - 14 Mar 2024, Yong Liu, et al.
+ 
+  - [[Official Code - iTransformer](https://github.com/thuml/iTransformer)]
+ 
 - [Self-Supervised Learning for Time Series: Contrastive or Generative?](https://arxiv.org/abs/2403.09809)
 
   - 14 Mar 2024, Ziyu Liu, et al.
@@ -784,12 +790,6 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 11 Oct 2023, Nate Gruver, et al.
  
   - [[Official Code - llmtime](https://github.com/ngruver/llmtime)]
-
-- [iTransformer: Inverted Transformers Are Effective for Time Series Forecasting](https://arxiv.org/abs/2310.06625)
-
-  - 10 Oct 2023, Yong Liu, et al.
- 
-  - [[Official Code - Time Series Library (TSlib)](https://github.com/thuml/Time-Series-Library)]
  
 - [Pushing the Limits of Pre-training for Time Series Forecasting in the CloudOps Domain](https://arxiv.org/abs/2310.05063)
 
