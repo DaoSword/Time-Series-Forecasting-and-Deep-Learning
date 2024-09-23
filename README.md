@@ -359,6 +359,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 
   - [[Official Code - TFB](https://github.com/decisionintelligence/TFB)]
  
+- [An Analysis of Linear Time Series Forecasting Models](https://arxiv.org/abs/2403.14587)
+
+  - 25 Mar 2024, William Toner, et al.
+ 
+  - [[Official Code - linear-forecasting](https://github.com/sir-lab/linear-forecasting)]
+ 
 - [An End-to-End Structure with Novel Position Mechanism and Improved EMD for Stock Forecasting](https://arxiv.org/abs/2404.07969)
 
   - 25 Mar 2024, Chufeng Li, et al.
@@ -390,10 +396,6 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 22 Mar 2024, Badri N. Patro, et al.
  
   - [[Official Code - simba](https://github.com/badripatro/simba)]
-
-- [An Analysis of Linear Time Series Forecasting Models](https://arxiv.org/abs/2403.14587)
-
-  - 21 Mar 2024, William Toner, et al.
  
 - [iTransformer: Inverted Transformers Are Effective for Time Series Forecasting](https://arxiv.org/abs/2310.06625)
 
