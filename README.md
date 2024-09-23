@@ -318,6 +318,8 @@ List of research papers focus on time series forecasting and deep learning, as w
 - [Tiny Time Mixers (TTMs): Fast Pre-trained Models for Enhanced Zero/Few-Shot Forecasting of Multivariate Time Series](https://arxiv.org/abs/2401.03955)
 
   - 09 Apr 2024, Vijay Ekambaram, et al.
+ 
+  - [[Official Code - granite-tsfm](https://github.com/ibm-granite/granite-tsfm)]
 
 - [ATFNet: Adaptive Time-Frequency Ensembled Network for Long-term Time Series Forecasting](https://arxiv.org/abs/2404.05192)
 
@@ -1731,37 +1733,37 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   - 7 Feb 2022, Alexandre Drouin, et al.
   
-  - [[Official Code](https://github.com/ServiceNow/tactis)]
+  - [[Official Code - TACTiS](https://github.com/ServiceNow/tactis)]
 
 - [CoST: Contrastive Learning of Disentangled Seasonal-Trend Representations for Time Series Forecasting](https://arxiv.org/abs/2202.01575)
   
   - 03 Feb 2022, Gerald Woo, et al.
   
-  - [[Official Code](https://github.com/salesforce/CoST)]
+  - [[Official Code - CoST](https://github.com/salesforce/CoST)]
 
 - [ETSformer: Exponential Smoothing Transformers for Time-series Forecasting](https://arxiv.org/abs/2202.01381)
   
   - 03 Feb 2022, Gerald Woo, et al.
   
-  - [[Official Code](https://github.com/salesforce/ETSformer)]
+  - [[Official Code - ETSformer](https://github.com/salesforce/ETSformer)]
 
 - [FEDformer: Frequency Enhanced Decomposed Transformer for Long-term Series Forecasting](https://arxiv.org/abs/2201.12740)
   
   - 30 Jan 2022, Tian Zhou, et al.
   
-  - [[Official Code](https://github.com/MAZiqing/FEDformer)]
+  - [[Official Code - FEDformer](https://github.com/MAZiqing/FEDformer)]
 
 - [N-HiTS: Neural Hierarchical Interpolation for Time Series Forecasting](https://arxiv.org/abs/2201.12886)
   
   - 30 Jan 2022, Cristian Challu, et al.
   
-  - [[Official Code](https://github.com/cchallu/n-hits)]
+  - [[Official Code - n-hits](https://github.com/cchallu/n-hits)]
 
 - [Reversible Instance Normalization for Accurate Time-Series Forecasting against Distribution Shift](https://openreview.net/forum?id=cGDAkQo1C0p)
   
   - 29 Jan 2022, Taesung Kim, et al.
   
-  - [[Official Code](https://github.com/ts-kim/RevIN)]
+  - [[Official Code - RevIN](https://github.com/ts-kim/RevIN)]
  
 - [Multi-Scale Adaptive Graph Neural Network for Multivariate Time Series Forecasting](https://arxiv.org/abs/2201.04828)
 
