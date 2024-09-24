@@ -44,6 +44,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 30 Aug 2024, Mouxiang Chen, et al.
  
   - [[Official Code - VisionTS](https://github.com/keytoyze/visionts)]
+ 
+- [Mamba or Transformer for Time Series Forecasting? Mixture of Universals (MoU) Is All You Need](https://www.arxiv.org/abs/2408.15997)
+
+  - 28 Aug 2024, Sijia Peng, et al.
+ 
+  - [[Official Code - mou](https://github.com/lunaaa95/mou)]
 
 - [Rethinking Channel Dependence for Multivariate Time Series Forecasting: Learning from Leading Indicators](https://arxiv.org/abs/2401.17548)
 
