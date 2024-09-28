@@ -39,6 +39,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ### 2024
 
+- [Time-MoE: Billion-Scale Time Series Foundation Models with Mixture of Experts](https://arxiv.org/abs/2409.16040)
+
+  - 24 Sep 2024, Xiaoming Shi, et al.
+ 
+  - [[Official Code - Time-MoE](https://github.com/time-moe/time-moe)]
+
 - [VisionTS: Visual Masked Autoencoders Are Free-Lunch Zero-Shot Time Series Forecasters](https://arxiv.org/abs/2408.17253)
 
   - 30 Aug 2024, Mouxiang Chen, et al.
