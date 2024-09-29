@@ -39,6 +39,10 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ### 2024
 
+- [Double-Path Adaptive-correlation Spatial-Temporal Inverted Transformer for Stock Time Series Forecasting](https://arxiv.org/abs/2409.15662)
+
+  - 24 Sep 2024, Wenbo Yan, et al.
+
 - [Time-MoE: Billion-Scale Time Series Foundation Models with Mixture of Experts](https://arxiv.org/abs/2409.16040)
 
   - 24 Sep 2024, Xiaoming Shi, et al.
