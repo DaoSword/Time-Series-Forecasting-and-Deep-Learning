@@ -60,6 +60,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 28 Aug 2024, Sijia Peng, et al.
  
   - [[Official Code - mou](https://github.com/lunaaa95/mou)]
+ 
+- [PRformer: Pyramidal Recurrent Transformer for Multivariate Time Series Forecasting](https://arxiv.org/abs/2408.10483)
+
+  - 20 Aug 2024, Yongbo Yu, et al.
+ 
+  - [[Official Code - PRformer](https://github.com/usualheart/prformer)]
 
 - [Rethinking Channel Dependence for Multivariate Time Series Forecasting: Learning from Leading Indicators](https://arxiv.org/abs/2401.17548)
 
