@@ -39,6 +39,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ### 2024
 
+- [Evolving Multi-Scale Normalization for Time Series Forecasting under Distribution Shifts](https://arxiv.org/abs/2409.19718)
+
+  - 29 Sep 2024, Dalin Qin, et al.
+ 
+  - [[Official Code - EvoMSN](https://github.com/qindalin/evomsn)]
+
 - [CycleNet: Enhancing Time Series Forecasting through Modeling Periodic Patterns](https://arxiv.org/abs/2409.18479)
 
   - 27 Sep 2024, Shengsheng Lin, et al.
