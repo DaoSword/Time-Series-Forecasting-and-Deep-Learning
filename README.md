@@ -39,6 +39,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ### 2024
 
+- [Autoregressive Moving-average Attention Mechanism for Time Series Forecasting](https://arxiv.org/abs/2410.03159)
+
+  - 04 Oct 2024, Jiecheng Lu, et al.
+ 
+  - [[Official Code - ARMA-Attention](https://github.com/ljc-fvnr/arma-attention)]
+
 - [Evolving Multi-Scale Normalization for Time Series Forecasting under Distribution Shifts](https://arxiv.org/abs/2409.19718)
 
   - 29 Sep 2024, Dalin Qin, et al.
