@@ -39,6 +39,10 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ### 2024
 
+- [Timer-XL: Long-Context Transformers for Unified Time Series Forecasting](https://arxiv.org/abs/2410.04803)
+
+  - 07 Oct 2024, Yong Liu, et al.
+
 - [Autoregressive Moving-average Attention Mechanism for Time Series Forecasting](https://arxiv.org/abs/2410.03159)
 
   - 04 Oct 2024, Jiecheng Lu, et al.
