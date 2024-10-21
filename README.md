@@ -48,6 +48,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 04 Oct 2024, Jiecheng Lu, et al.
  
   - [[Official Code - ARMA-Attention](https://github.com/ljc-fvnr/arma-attention)]
+ 
+- [Frequency Adaptive Normalization For Non-stationary Time Series Forecasting](https://arxiv.org/abs/2409.20371)
+
+  - 30 Sep 2024, Weiwei Ye, et al.
+ 
+  - [[Official Code - FAN](https://github.com/wayne155/FAN)]
 
 - [Evolving Multi-Scale Normalization for Time Series Forecasting under Distribution Shifts](https://arxiv.org/abs/2409.19718)
 
