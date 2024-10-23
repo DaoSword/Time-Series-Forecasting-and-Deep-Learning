@@ -223,6 +223,12 @@ List of research papers focus on time series forecasting and deep learning, as w
  
   - [[Official Code - SOFTS](https://github.com/secilia-cxy/softs)]
  
+- [Time-MMD: A New Multi-Domain Multimodal Dataset for Time Series Analysis](https://arxiv.org/abs/2406.08627)
+
+  - 12 Jun 2024, Haoxin Liu, et al.
+ 
+  - [[Official Code - Time-MMD](https://github.com/adityalab/time-mmd)]
+ 
 - [A Survey on Diffusion Models for Time Series and Spatio-Temporal Data](https://arxiv.org/abs/2404.18886)
 
   - 11 Jun 2024, Yiyuan Yang, et al.
