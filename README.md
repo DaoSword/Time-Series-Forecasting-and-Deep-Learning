@@ -2412,6 +2412,10 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   - `Merlion` is a Python library for time series intelligence. It provides an end-to-end machine learning framework that includes loading and transforming data, building and training models, post-processing model outputs, and evaluating model performance.
 
+- [MM-TSFlib](https://github.com/AdityaLab/MM-TSFlib)
+
+  - `MM-TSFlib` is an open-source library for multimodal time-series forecasting based on [Time-MMD](https://github.com/AdityaLab/Time-MMD/) dataset.
+
 - [NeuralForecast](https://nixtla.github.io/neuralforecast/)
   
   - `NeuralForecast` is a Python library for time series forecasting with deep learning models.
