@@ -279,6 +279,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 
   - [[Official Code - SeqSNN](https://github.com/microsoft/seqsnn)]
  
+- [UNITS: A Unified Multi-Task Time Series Model](https://arxiv.org/abs/2403.00131)
+
+  - 29 May 2024, Shanghua Gao, et al.
+ 
+  - [[Official Code - UniTS](https://github.com/mims-harvard/UniTS)]
+ 
 - [ForecastGrapher: Redefining Multivariate Time Series Forecasting with Graph Neural Networks](https://arxiv.org/abs/2405.18036)
 
   - 28 May 2024, Wanlin Cai, et al.
