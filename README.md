@@ -553,6 +553,8 @@ List of research papers focus on time series forecasting and deep learning, as w
 
   - 29 Feb 2024, Yuxuan Wang, et al.
  
+  - [[Official Code - TimeXer](https://github.com/thuml/timexer)]
+ 
 - [UniTS: Building a Unified Time Series Model](https://arxiv.org/abs/2403.00131)
 
   - 29 Feb 2024, Shanghua Gao, et al.
