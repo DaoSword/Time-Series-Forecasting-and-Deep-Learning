@@ -42,6 +42,10 @@ List of research papers focus on time series forecasting and deep learning, as w
 - [Parsimony or Capability? Decomposition Delivers Both in Long-term Time Series Forecasting](https://arxiv.org/abs/2401.11929)
 
   - 16 Oct 2024, Jinliang Deng, et al.
+ 
+- [Towards Neural Scaling Laws for Time Series Foundation Models](https://arxiv.org/abs/2410.12360)
+
+  - 16 Oct 2024, Qingren Yao, et al.
 
 - [FoundTS: Comprehensive and Unified Benchmarking of Foundation Models for Time Series Forecasting](https://arxiv.org/abs/2410.11802)
 
