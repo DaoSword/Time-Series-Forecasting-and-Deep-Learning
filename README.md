@@ -50,6 +50,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 - [FoundTS: Comprehensive and Unified Benchmarking of Foundation Models for Time Series Forecasting](https://arxiv.org/abs/2410.11802)
 
   - 15 Oct 2024, Zhe Li, et al.
+ 
+- [LLM-Mixer: Multiscale Mixing in LLMs for Time Series Forecasting](https://arxiv.org/abs/2410.11674)
+
+  - 15 Oct 2024, Md Kowsher, et al.
+ 
+  - [[Official Code - LLMMixer](https://github.com/Kowsher/LLMMixer)]
 
 - [Timer-XL: Long-Context Transformers for Unified Time Series Forecasting](https://arxiv.org/abs/2410.04803)
 
