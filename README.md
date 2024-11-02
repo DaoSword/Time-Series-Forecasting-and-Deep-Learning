@@ -56,6 +56,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 15 Oct 2024, Md Kowsher, et al.
  
   - [[Official Code - LLMMixer](https://github.com/Kowsher/LLMMixer)]
+ 
+- [Moirai-MoE: Empowering Time Series Foundation Models with Sparse Mixture of Experts](https://arxiv.org/abs/2410.10469)
+
+  - 14 Oct 2024, Xu Liu, et al.
+ 
+  - [[Official Code - moirai-moe-1](https://github.com/SalesforceAIResearch/uni2ts/tree/main/project/moirai-moe-1)]
 
 - [Timer-XL: Long-Context Transformers for Unified Time Series Forecasting](https://arxiv.org/abs/2410.04803)
 
