@@ -39,6 +39,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ### 2024
 
+- [From News to Forecast: Integrating Event Analysis in LLM-Based Time Series Forecasting with Reflection](https://arxiv.org/abs/2409.17515)
+
+  - 30 Oct 2024, Xinlei Wang, et al.
+ 
+  - [[Official Code - From_News_to_Forecast](https://github.com/ameliawong1996/From_News_to_Forecast)]
+
 - [Parsimony or Capability? Decomposition Delivers Both in Long-term Time Series Forecasting](https://arxiv.org/abs/2401.11929)
 
   - 16 Oct 2024, Jinliang Deng, et al.
