@@ -68,6 +68,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 14 Oct 2024, Xu Liu, et al.
  
   - [[Official Code - moirai-moe-1](https://github.com/SalesforceAIResearch/uni2ts/tree/main/project/moirai-moe-1)]
+ 
+- [TimeBridge: Non-Stationarity Matters for Long-term Time Series Forecasting](https://arxiv.org/abs/2410.04442)
+
+  - 12 Oct 2024, Peiyuan Liu, et al.
+ 
+  - [[Official Code - TimeBridge](https://github.com/hank0626/timebridge)]
 
 - [Timer-XL: Long-Context Transformers for Unified Time Series Forecasting](https://arxiv.org/abs/2410.04803)
 
