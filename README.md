@@ -39,6 +39,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ### 2024
 
+- [FilterNet: Harnessing Frequency Filters for Time Series Forecasting](https://arxiv.org/abs/2411.01623)
+
+  - 03 Nov 2024, Kun Yi, et al.
+ 
+  - [[Official Code - FilterNet](https://github.com/aikunyi/filternet)]
+
 - [From News to Forecast: Integrating Event Analysis in LLM-Based Time Series Forecasting with Reflection](https://arxiv.org/abs/2409.17515)
 
   - 30 Oct 2024, Xinlei Wang, et al.
