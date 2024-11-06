@@ -80,6 +80,10 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 12 Oct 2024, Peiyuan Liu, et al.
  
   - [[Official Code - TimeBridge](https://github.com/hank0626/timebridge)]
+ 
+- [Time-FFM: Towards LM-Empowered Federated Foundation Model for Time Series Forecasting](https://arxiv.org/abs/2405.14252)
+
+  - 08 Oct 2024, Qingxiang Liu, et al.
 
 - [Timer-XL: Long-Context Transformers for Unified Time Series Forecasting](https://arxiv.org/abs/2410.04803)
 
