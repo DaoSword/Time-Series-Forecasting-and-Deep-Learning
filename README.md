@@ -178,6 +178,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 - [A Survey of Explainable Artificial Intelligence (XAI) in Financial Time Series Forecasting](https://arxiv.org/abs/2407.15909)
 
   - 22 Jul 2024, Pierre-Daniel Arsenault, et al.
+ 
+- [Deep Functional Factor Models: Forecasting High-Dimensional Functional Time Series via Bayesian Nonparametric Factorization](https://arxiv.org/abs/2305.14543)
+
+  - 18 Jul 2024, Yirui Liu, et al.
+ 
+  - [[Official Code - df2m](https://github.com/yiruiliu110/df2m)]
 
 - [Deep Time Series Models: A Comprehensive Survey and Benchmark](https://arxiv.org/abs/2407.13278)
 
