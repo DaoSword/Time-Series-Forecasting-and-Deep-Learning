@@ -194,6 +194,10 @@ List of research papers focus on time series forecasting and deep learning, as w
 - [Large Pre-trained time series models for cross-domain Time series analysis tasks](https://arxiv.org/abs/2311.11413)
 
   - 11 Jul 2024, Harshavardhan Kamarthi, et al.
+ 
+- [Loss Shaping Constraints for Long-Term Time Series Forecasting](https://arxiv.org/abs/2402.09373)
+
+  - 11 Jul 2024, Ignacio Hounie, et al.
 
 - [ViTime: A Visual Intelligence-Based Foundation Model for Time Series Forecasting](https://arxiv.org/abs/2407.07311)
 
