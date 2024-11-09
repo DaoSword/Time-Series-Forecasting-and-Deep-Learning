@@ -11,6 +11,7 @@ List of research papers focus on time series forecasting and deep learning, as w
 ## Table of Contents
 
 - [Applications](#Applications)
+- [Benchmarks](#Benchmarks)
 - [Papers](#Papers)
   - [2024](#2024)
   - [2023](#2023)
@@ -34,6 +35,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 - [TimeGPT](https://docs.nixtla.io/)
 
   - Nixtla’s `TimeGPT` is a generative pre-trained forecasting model for time series data. 
+
+## Benchmarks
+
+- [GIFT-Eval Time Series Forecasting Leaderboard](https://huggingface.co/spaces/Salesforce/GIFT-Eval)
+
+  -  `GIFT-Eval` is a pioneering benchmark aimed at promoting evaluation across diverse datasets.
 
 ## Papers
 
