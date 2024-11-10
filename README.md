@@ -51,6 +51,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 03 Nov 2024, Kun Yi, et al.
  
   - [[Official Code - FilterNet](https://github.com/aikunyi/filternet)]
+ 
+- [FlexTSF: A Universal Forecasting Model for Time Series with Variable Regularities](https://arxiv.org/abs/2410.23160)
+
+  - 30 Oct 2024, Jingge Xiao, et al.
+ 
+  - [[Official Code - FlexTSF](https://github.com/jingge326/flextsf)]
 
 - [From News to Forecast: Integrating Event Analysis in LLM-Based Time Series Forecasting with Reflection](https://arxiv.org/abs/2409.17515)
 
