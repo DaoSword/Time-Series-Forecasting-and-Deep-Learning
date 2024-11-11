@@ -46,6 +46,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ### 2024
 
+- [From Similarity to Superiority: Channel Clustering for Time Series Forecasting](https://arxiv.org/abs/2404.01340)
+
+  - 06 Nov 2024, Jialin Chen, et al.
+ 
+  - [[Official Code - TimeSeriesCCM](https://github.com/graph-and-geometric-learning/timeseriesccm)]
+
 - [FilterNet: Harnessing Frequency Filters for Time Series Forecasting](https://arxiv.org/abs/2411.01623)
 
   - 03 Nov 2024, Kun Yi, et al.
@@ -479,10 +485,6 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 02 Apr 2024, Defu Cao, et al.
  
   - [[Official Code - TEMPO](https://github.com/dc-research/tempo)]
-
-- [From Similarity to Superiority: Channel Clustering for Time Series Forecasting](https://arxiv.org/abs/2404.01340)
-
-  - 31 Mar 2024, Jialin Chen, et al.
  
 - [MambaMixer: Efficient Selective State Space Models with Dual Token and Channel Selection](https://arxiv.org/abs/2403.19888)
 
