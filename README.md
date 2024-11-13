@@ -94,6 +94,12 @@ List of research papers focus on time series forecasting and deep learning, as w
  
   - [[Official Code - moirai-moe-1](https://github.com/SalesforceAIResearch/uni2ts/tree/main/project/moirai-moe-1)]
  
+- [Are Self-Attentions Effective for Time Series Forecasting?](https://arxiv.org/abs/2405.16877)
+
+  - 12 Oct 2024, Dongbin Kim, et al.
+ 
+  - [[Official Code - CATS](https://github.com/dongbeank/cats)]
+
 - [TimeBridge: Non-Stationarity Matters for Long-term Time Series Forecasting](https://arxiv.org/abs/2410.04442)
 
   - 12 Oct 2024, Peiyuan Liu, et al.
