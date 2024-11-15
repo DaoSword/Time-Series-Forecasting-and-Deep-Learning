@@ -46,6 +46,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ### 2024
 
+- [Rethinking the Power of Timestamps for Robust Time Series Forecasting: A Global-Local Fusion Perspective](https://arxiv.org/abs/2409.18696)
+
+  - 13 Nov 2024, Chengsen Wang, et al.
+ 
+  - [[Official Code - GLAFF](https://github.com/ForestsKing/GLAFF)]
+
 - [From Similarity to Superiority: Channel Clustering for Time Series Forecasting](https://arxiv.org/abs/2404.01340)
 
   - 06 Nov 2024, Jialin Chen, et al.
