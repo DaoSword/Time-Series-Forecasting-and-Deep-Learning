@@ -58,6 +58,12 @@ List of research papers focus on time series forecasting and deep learning, as w
  
   - [[Official Code - TimeSeriesCCM](https://github.com/graph-and-geometric-learning/timeseriesccm)]
 
+- [ElasTST: Towards Robust Varied-Horizon Forecasting with Elastic Time-Series Transformer](https://arxiv.org/abs/2411.01842)
+
+  - 04 Nov 2024, Jiawen Zhang, et al.
+ 
+  - [[Official Code - ElasTST](https://github.com/microsoft/ProbTS/tree/elastst)]
+
 - [FilterNet: Harnessing Frequency Filters for Time Series Forecasting](https://arxiv.org/abs/2411.01623)
 
   - 03 Nov 2024, Kun Yi, et al.
