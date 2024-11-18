@@ -51,6 +51,10 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 13 Nov 2024, Chengsen Wang, et al.
  
   - [[Official Code - GLAFF](https://github.com/ForestsKing/GLAFF)]
+ 
+- [EffiCANet: Efficient Time Series Forecasting with Convolutional Attention](https://arxiv.org/abs/2411.04669)
+
+  - 07 Nov 2024, Xinxing Zhou, et al.
 
 - [From Similarity to Superiority: Channel Clustering for Time Series Forecasting](https://arxiv.org/abs/2404.01340)
 
