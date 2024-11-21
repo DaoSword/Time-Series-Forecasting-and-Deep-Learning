@@ -61,6 +61,10 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 06 Nov 2024, Jialin Chen, et al.
  
   - [[Official Code - TimeSeriesCCM](https://github.com/graph-and-geometric-learning/timeseriesccm)]
+ 
+- [A Mamba Foundation Model for Time Series Forecasting](https://arxiv.org/abs/2411.02941)
+
+  - 05 Nov 2024, Haoyu Ma, et al.
 
 - [ElasTST: Towards Robust Varied-Horizon Forecasting with Elastic Time-Series Transformer](https://arxiv.org/abs/2411.01842)
 
