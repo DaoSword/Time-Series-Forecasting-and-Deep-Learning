@@ -2723,6 +2723,10 @@ List of research papers focus on time series forecasting and deep learning, as w
 - [pytorch-transformer-ts](https://github.com/kashif/pytorch-transformer-ts)
   
   - Repository of Transformer based PyTorch Time Series Models.
+ 
+- [Transfer learning for Time Series Forecasting](https://github.com/Nixtla/transfer-learning-time-series)
+
+  - Transfer Learning for Time Series Forecasting.
 
 - [Transformers for Time Series](https://github.com/maxjcohen/transformer)
   
