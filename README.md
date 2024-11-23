@@ -78,6 +78,12 @@ List of research papers focus on time series forecasting and deep learning, as w
  
   - [[Official Code - FilterNet](https://github.com/aikunyi/filternet)]
  
+- [Ada-MSHyper: Adaptive Multi-Scale Hypergraph Transformer for Time Series Forecasting](https://arxiv.org/abs/2410.23992)
+
+  - 31 Oct 2024, Zongjiang Shang, et al.
+ 
+  - [[Official Code - Ada-MSHyper](https://github.com/shangzongjiang/Ada-MSHyper)]
+ 
 - [FlexTSF: A Universal Forecasting Model for Time Series with Variable Regularities](https://arxiv.org/abs/2410.23160)
 
   - 30 Oct 2024, Jingge Xiao, et al.
