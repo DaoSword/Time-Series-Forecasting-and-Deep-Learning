@@ -2624,6 +2624,10 @@ List of research papers focus on time series forecasting and deep learning, as w
 - [StatsForecast](https://github.com/Nixtla/statsforecast)
   
   - `StatsForecast` offers a collection of popular univariate time series forecasting models optimized for high performance and scalability.
+ 
+- [stumpy](https://github.com/TDAmeritrade/stumpy)
+
+  - `STUMPY` is a powerful and scalable Python library for modern time series analysis.
 
 - [TFTS](https://github.com/LongxingTan/Time-series-prediction)
   
