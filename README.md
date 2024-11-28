@@ -2548,6 +2548,10 @@ List of research papers focus on time series forecasting and deep learning, as w
 - [Pandas TA](https://github.com/twopirllc/pandas-ta)
 
   - Pandas Technical Analysis (`Pandas TA`) is an easy to use library that leverages the Pandas package with more than 130 Indicators and Utility functions and more than 60 TA Lib Candlestick Patterns.
+ 
+- [pmdarima](https://github.com/alkaline-ml/pmdarima)
+
+  - A statistical library designed to fill the void in Python's time series analysis capabilities, including the equivalent of R's auto.arima function.
 
 - [Prophet](https://facebook.github.io/prophet/)
   
