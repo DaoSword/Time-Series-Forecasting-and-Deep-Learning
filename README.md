@@ -55,6 +55,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 - [EffiCANet: Efficient Time Series Forecasting with Convolutional Attention](https://arxiv.org/abs/2411.04669)
 
   - 07 Nov 2024, Xinxing Zhou, et al.
+ 
+- [Peri-midFormer: Periodic Pyramid Transformer for Time Series Analysis](https://arxiv.org/abs/2411.04554)
+
+  - 07 Nov 2024, Qiang Wu, et al.
+ 
+  - [[Official Code - Peri-midFormer](https://github.com/WuQiangXDU/Peri-midFormer)]
 
 - [From Similarity to Superiority: Channel Clustering for Time Series Forecasting](https://arxiv.org/abs/2404.01340)
 
