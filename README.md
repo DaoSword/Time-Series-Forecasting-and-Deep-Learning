@@ -46,6 +46,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ### 2024
 
+- [Mamba4Cast: Efficient Zero-Shot Time Series Forecasting with State Space Models](https://arxiv.org/abs/2410.09385)
+
+  - 12 Oct 2024, Sathya Kamesh Bhethanabhotla, et al.
+ 
+  - [[Official Code - Mamba4Cast](https://github.com/automl/mamba4cast)]
+
 - [Rethinking the Power of Timestamps for Robust Time Series Forecasting: A Global-Local Fusion Perspective](https://arxiv.org/abs/2409.18696)
 
   - 13 Nov 2024, Chengsen Wang, et al.
