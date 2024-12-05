@@ -781,14 +781,14 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 16 Jan 2024, Jingyun Xiao, et al.
  
   - [[Official Code - GAFormer](https://github.com/nerdslab/GAFormer)]
-
-- [Interpretable Sparse System Identification: Beyond Recent Deep Learning Techniques on Time-Series Prediction](https://openreview.net/forum?id=aFWUY3E7ws)
-
-  - 16 Jan 2024, Xiaoyi Liu, et al.
  
 - [Generative Learning for Financial Time Series with Irregular and Scale-Invariant Patterns](https://openreview.net/forum?id=CdjnzWsQax)
 
   - 16 Jan 2024, Hongbin Huang, et al.
+ 
+- [Interpretable Sparse System Identification: Beyond Recent Deep Learning Techniques on Time-Series Prediction](https://openreview.net/forum?id=aFWUY3E7ws)
+
+  - 16 Jan 2024, Xiaoyi Liu, et al.
  
 - [Leveraging Generative Models for Unsupervised Alignment of Neural Time Series Data](https://openreview.net/forum?id=9zhHVyLY4K)
 
@@ -803,6 +803,10 @@ List of research papers focus on time series forecasting and deep learning, as w
 - [SocioDojo: Building Lifelong Analytical Agents with Real-world Text and Time Series](https://openreview.net/forum?id=s9z0HzWJJp)
 
   - 16 Jan 2024, Junyan Cheng, et al.
+ 
+- [Transformer-Modulated Diffusion Models for Probabilistic Multivariate Time Series Forecasting](https://openreview.net/forum?id=qae04YACHs)
+
+  - 16 Jan 2024, Yuxin Li, et al.
  
 - [HiMTM: Hierarchical Multi-Scale Masked Time Series Modeling for Long-Term Forecasting](https://arxiv.org/abs/2401.05012)
 
