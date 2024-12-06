@@ -51,6 +51,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 12 Oct 2024, Sathya Kamesh Bhethanabhotla, et al.
  
   - [[Official Code - Mamba4Cast](https://github.com/automl/mamba4cast)]
+ 
+- [Disentangled Interpretable Representation for Efficient Long-term Time Series Forecasting](https://arxiv.org/abs/2411.17257)
+
+  - 26 Nov 2024, Yuang Zhao, et al.
+ 
+  - [[Official Code - DiPE-Linear](https://github.com/wintertee/dipe-linear)]
 
 - [Rethinking the Power of Timestamps for Robust Time Series Forecasting: A Global-Local Fusion Perspective](https://arxiv.org/abs/2409.18696)
 
