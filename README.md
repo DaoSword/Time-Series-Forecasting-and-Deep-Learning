@@ -45,12 +45,6 @@ List of research papers focus on time series forecasting and deep learning, as w
 ## Papers
 
 ### 2024
-
-- [Mamba4Cast: Efficient Zero-Shot Time Series Forecasting with State Space Models](https://arxiv.org/abs/2410.09385)
-
-  - 12 Oct 2024, Sathya Kamesh Bhethanabhotla, et al.
- 
-  - [[Official Code - Mamba4Cast](https://github.com/automl/mamba4cast)]
  
 - [Disentangled Interpretable Representation for Efficient Long-term Time Series Forecasting](https://arxiv.org/abs/2411.17257)
 
@@ -144,6 +138,12 @@ List of research papers focus on time series forecasting and deep learning, as w
  
   - [[Official Code - CATS](https://github.com/dongbeank/cats)]
 
+- [Mamba4Cast: Efficient Zero-Shot Time Series Forecasting with State Space Models](https://arxiv.org/abs/2410.09385)
+
+  - 12 Oct 2024, Sathya Kamesh Bhethanabhotla, et al.
+ 
+  - [[Official Code - Mamba4Cast](https://github.com/automl/mamba4cast)]
+
 - [TimeBridge: Non-Stationarity Matters for Long-term Time Series Forecasting](https://arxiv.org/abs/2410.04442)
 
   - 12 Oct 2024, Peiyuan Liu, et al.
@@ -163,6 +163,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 04 Oct 2024, Jiecheng Lu, et al.
  
   - [[Official Code - ARMA-Attention](https://github.com/ljc-fvnr/arma-attention)]
+ 
+- [NuwaTS: a Foundation Model Mending Every Incomplete Time Series](https://arxiv.org/abs/2405.15317)
+
+  - 02 Oct 2024, Jinguo Cheng, et al.
+ 
+  - [[Official Code - NuwaTS](https://github.com/chengyui/nuwats)]
  
 - [Frequency Adaptive Normalization For Non-stationary Time Series Forecasting](https://arxiv.org/abs/2409.20371)
 
