@@ -760,6 +760,12 @@ List of research papers focus on time series forecasting and deep learning, as w
  
   - [[Official Code - uni2ts](https://github.com/SalesforceAIResearch/uni2ts)]
  
+- [RobustTSF: Towards Theory and Design of Robust Time Series Forecasting with Anomalies](https://arxiv.org/abs/2402.02032)
+
+  - 03 Feb 2024, Hao Cheng, et al.
+ 
+  - [[Official Code - RobustTSF](https://github.com/haochenglouis/robusttsf)]
+ 
 - [Large Language Models for Time Series: A Survey](https://arxiv.org/abs/2402.01801)
 
   - 02 Feb 2024, Xiyuan Zhang, et al.
