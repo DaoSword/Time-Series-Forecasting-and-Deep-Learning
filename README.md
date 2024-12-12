@@ -77,6 +77,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 - [A Mamba Foundation Model for Time Series Forecasting](https://arxiv.org/abs/2411.02941)
 
   - 05 Nov 2024, Haoyu Ma, et al.
+ 
+- [Cross-Domain Pre-training with Language Models for Transferable Time Series Representations](https://arxiv.org/abs/2403.12372)
+
+  - 05 Nov 2024, Mingyue Cheng, et al.
+ 
+  - [[Official Code - CrossTimeNet](https://github.com/mingyue-cheng/crosstimenet)]
 
 - [ElasTST: Towards Robust Varied-Horizon Forecasting with Elastic Time-Series Transformer](https://arxiv.org/abs/2411.01842)
 
