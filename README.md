@@ -46,6 +46,10 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ### 2024
  
+- [Rethinking Time Series Forecasting with LLMs via Nearest Neighbor Contrastive Learning](https://arxiv.org/abs/2412.04806)
+
+  - 06 Dec 2024, Jayanie Bogahawatte, et al.
+
 - [Disentangled Interpretable Representation for Efficient Long-term Time Series Forecasting](https://arxiv.org/abs/2411.17257)
 
   - 26 Nov 2024, Yuang Zhao, et al.
