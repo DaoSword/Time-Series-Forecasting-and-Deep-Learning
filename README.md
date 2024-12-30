@@ -46,6 +46,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ### 2024
  
+- [Cherry-Picking in Time Series Forecasting: How to Select Datasets to Make Your Model Shine](https://arxiv.org/abs/2412.14435)
+
+  - 19 Dec 2024, Luis Roque, et al.
+ 
+  - [[Official Code - bench](https://github.com/luisroque/bench)]
+
 - [Rethinking Time Series Forecasting with LLMs via Nearest Neighbor Contrastive Learning](https://arxiv.org/abs/2412.04806)
 
   - 06 Dec 2024, Jayanie Bogahawatte, et al.
