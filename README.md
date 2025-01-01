@@ -51,6 +51,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 19 Dec 2024, Luis Roque, et al.
  
   - [[Official Code - bench](https://github.com/luisroque/bench)]
+ 
+- [Auto-Regressive Moving Diffusion Models for Time Series Forecasting](https://arxiv.org/abs/2412.09328)
+
+  - 12 Dec 2024, Jiaxin Gao, et al.
+ 
+  - [[Official Code - ARMD](https://github.com/daxin007/ARMD)]
 
 - [Rethinking Time Series Forecasting with LLMs via Nearest Neighbor Contrastive Learning](https://arxiv.org/abs/2412.04806)
 
