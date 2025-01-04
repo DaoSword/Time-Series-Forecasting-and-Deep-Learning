@@ -74,6 +74,12 @@ List of research papers focus on time series forecasting and deep learning, as w
  
   - [[Official Code - GLAFF](https://github.com/ForestsKing/GLAFF)]
  
+- [Scaling Law for Time Series Forecasting](https://arxiv.org/abs/2405.15124)
+
+  - 09 Nov 2024, Jingzhe Shi, et al.
+ 
+  - [[Official Code - ScalingLawForTimeSeriesForecasting](https://github.com/jingzheshi/scalinglawfortimeseriesforecasting)]
+ 
 - [EffiCANet: Efficient Time Series Forecasting with Convolutional Attention](https://arxiv.org/abs/2411.04669)
 
   - 07 Nov 2024, Xinxing Zhou, et al.
