@@ -46,6 +46,10 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ### 2024
  
+- [TimeRAG: BOOSTING LLM Time Series Forecasting via Retrieval-Augmented Generation](https://arxiv.org/abs/2412.16643)
+
+  - 21 Dec 2024, Silin Yang, et al.
+
 - [Cherry-Picking in Time Series Forecasting: How to Select Datasets to Make Your Model Shine](https://arxiv.org/abs/2412.14435)
 
   - 19 Dec 2024, Luis Roque, et al.
