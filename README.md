@@ -56,6 +56,12 @@ List of research papers focus on time series forecasting and deep learning, as w
  
   - [[Official Code - bench](https://github.com/luisroque/bench)]
  
+- [ChatTime: A Unified Multimodal Time Series Foundation Model Bridging Numerical and Textual Data](https://arxiv.org/abs/2412.11376)
+
+  - 16 Dec 2024, Chengsen Wang, et al.
+ 
+  - [[Official Code - ChatTime](https://github.com/forestsking/chattime)]
+ 
 - [Auto-Regressive Moving Diffusion Models for Time Series Forecasting](https://arxiv.org/abs/2412.09328)
 
   - 12 Dec 2024, Jiaxin Gao, et al.
