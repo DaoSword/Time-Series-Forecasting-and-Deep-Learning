@@ -45,6 +45,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 ## Papers
 
 ### 2024
+
+- [DUET: Dual Clustering Enhanced Multivariate Time Series Forecasting](https://arxiv.org/abs/2412.10859)
+
+  - 23 Dec 2024, Xiangfei Qiu, et al.
+ 
+  - [[Official Code - DUET](https://github.com/decisionintelligence/duet)]
  
 - [TimeRAG: BOOSTING LLM Time Series Forecasting via Retrieval-Augmented Generation](https://arxiv.org/abs/2412.16643)
 
