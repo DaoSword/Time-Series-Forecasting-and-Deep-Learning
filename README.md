@@ -46,6 +46,10 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ### 2024
 
+- [TimeRAF: Retrieval-Augmented Foundation model for Zero-shot Time Series Forecasting](https://arxiv.org/abs/2412.20810)
+
+  - 30 Dec 2024, Huanyu Zhang, et al.
+
 - [DUET: Dual Clustering Enhanced Multivariate Time Series Forecasting](https://arxiv.org/abs/2412.10859)
 
   - 23 Dec 2024, Xiangfei Qiu, et al.
