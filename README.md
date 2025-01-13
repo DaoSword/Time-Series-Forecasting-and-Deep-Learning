@@ -245,6 +245,10 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 24 Sep 2024, Xiaoming Shi, et al.
  
   - [[Official Code - Time-MoE](https://github.com/time-moe/time-moe)]
+ 
+- [TimeDiT: General-purpose Diffusion Transformers for Time Series Foundation Model](https://arxiv.org/abs/2409.02322)
+
+  - 03 Sep 2024, Defu Cao, et al.
 
 - [VisionTS: Visual Masked Autoencoders Are Free-Lunch Zero-Shot Time Series Forecasters](https://arxiv.org/abs/2408.17253)
 
