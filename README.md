@@ -212,6 +212,10 @@ List of research papers focus on time series forecasting and deep learning, as w
  
   - [[Official Code - ARMA-Attention](https://github.com/ljc-fvnr/arma-attention)]
  
+- [MMFNet: Multi-Scale Frequency Masking Neural Network for Multivariate Time Series Forecasting](https://arxiv.org/abs/2410.02070)
+
+  - 02 Oct 2024, Aitian Ma, et al.
+ 
 - [NuwaTS: a Foundation Model Mending Every Incomplete Time Series](https://arxiv.org/abs/2405.15317)
 
   - 02 Oct 2024, Jinguo Cheng, et al.
