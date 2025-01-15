@@ -240,6 +240,12 @@ List of research papers focus on time series forecasting and deep learning, as w
  
   - [[Official Code - CycleNet](https://github.com/ACAT-SCUT/CycleNet)]
 
+- [CMamba: Channel Correlation Enhanced State Space Models for Multivariate Time Series Forecasting](https://arxiv.org/abs/2406.05316)
+
+  - 26 Sep 2024, Chaolv Zeng, et al.
+ 
+  - [[Official Code - CMamba](https://github.com/zclzcl0223/CMamba)]
+
 - [Double-Path Adaptive-correlation Spatial-Temporal Inverted Transformer for Stock Time Series Forecasting](https://arxiv.org/abs/2409.15662)
 
   - 24 Sep 2024, Wenbo Yan, et al.
