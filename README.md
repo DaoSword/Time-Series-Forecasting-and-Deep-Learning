@@ -44,6 +44,14 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ## Papers
 
+### 2025
+
+- [Battling the Non-stationarity in Time Series Forecasting via Test-time Adaptation](https://arxiv.org/abs/2501.04970)
+
+  - 09 Jan 2025, HyunGi Kim, et al.
+ 
+  - [[Official Code - TAFAS](https://github.com/kimanki/TAFAS)]
+
 ### 2024
 
 - [TimeRAF: Retrieval-Augmented Foundation model for Zero-shot Time Series Forecasting](https://arxiv.org/abs/2412.20810)
