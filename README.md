@@ -442,6 +442,12 @@ List of research papers focus on time series forecasting and deep learning, as w
  
   - [[Official Code - Calibration-CDS](https://github.com/half111/calibration_cds)]
  
+- [Adaptive Multi-Scale Decomposition Framework for Time Series Forecasting](https://arxiv.org/abs/2406.03751)
+
+  - 06 Jun 2024, Yifan Hu, et al.
+ 
+  - [[Official Code - AMD](https://github.com/troubadour000/amd)]
+ 
 - [Kolmogorov-Arnold Networks for Time Series: Bridging Predictive Power and Interpretability](https://arxiv.org/abs/2406.02496)
 
   - 04 Jun 2024, Kunpeng Xu, et al.
