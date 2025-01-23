@@ -527,6 +527,10 @@ List of research papers focus on time series forecasting and deep learning, as w
 - [DGCformer: Deep Graph Clustering Transformer for Multivariate Time Series Forecasting](https://arxiv.org/abs/2405.08440)
 
   - 14 May 2024, Qinshuo Liu, et al.
+ 
+- [Multi-Scale Dilated Convolution Network for Long-Term Time Series Forecasting](https://arxiv.org/abs/2405.05499)
+
+  - 14 May 2024, Feifei Li, et al
 
 - [Kolmogorov-Arnold Networks (KANs) for Time Series Analysis](https://arxiv.org/abs/2405.08790)
 
