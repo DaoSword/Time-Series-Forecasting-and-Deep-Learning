@@ -13,6 +13,7 @@ List of research papers focus on time series forecasting and deep learning, as w
 - [Applications](#Applications)
 - [Benchmarks](#Benchmarks)
 - [Papers](#Papers)
+  - [2025](#2025)
   - [2024](#2024)
   - [2023](#2023)
   - [2022](#2022)
@@ -79,6 +80,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 16 Dec 2024, Chengsen Wang, et al.
  
   - [[Official Code - ChatTime](https://github.com/forestsking/chattime)]
+ 
+- [ConvTimeNet: A Deep Hierarchical Fully Convolutional Model for Multivariate Time Series Analysis](https://arxiv.org/abs/2403.01493)
+
+  - 14 Dec 2024, Mingyue Cheng, et al.
+ 
+  - [[Official Code - ConvTimeNet](https://github.com/Mingyue-Cheng/ConvTimeNet)]
  
 - [Auto-Regressive Moving Diffusion Models for Time Series Forecasting](https://arxiv.org/abs/2412.09328)
 
