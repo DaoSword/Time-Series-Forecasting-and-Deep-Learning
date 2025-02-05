@@ -177,6 +177,12 @@ List of research papers focus on time series forecasting and deep learning, as w
  
   - [[Official Code - From_News_to_Forecast](https://github.com/ameliawong1996/From_News_to_Forecast)]
 
+- [TimeMixer++: A General Time Series Pattern Machine for Universal Predictive Analysis](https://arxiv.org/abs/2410.16032)
+
+  - 21 Oct 2024, Shiyu Wang, et al.
+ 
+  - [[Official Code - TimeMixer](https://github.com/kwuking/TimeMixer)]
+
 - [Parsimony or Capability? Decomposition Delivers Both in Long-term Time Series Forecasting](https://arxiv.org/abs/2401.11929)
 
   - 16 Oct 2024, Jinliang Deng, et al.
