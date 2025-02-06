@@ -47,6 +47,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ### 2025
 
+- [TimeFilter: Patch-Specific Spatial-Temporal Graph Filtration for Time Series Forecasting](https://arxiv.org/abs/2501.13041)
+
+  - 22 Jan 2025, Yifan Hu, et al.
+ 
+  - [[Official Code - TimeFilter](https://github.com/troubadour000/timefilter)]
+
 - [Battling the Non-stationarity in Time Series Forecasting via Test-time Adaptation](https://arxiv.org/abs/2501.04970)
 
   - 09 Jan 2025, HyunGi Kim, et al.
