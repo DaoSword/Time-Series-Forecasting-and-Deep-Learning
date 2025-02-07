@@ -310,6 +310,10 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 20 Aug 2024, Yongbo Yu, et al.
  
   - [[Official Code - PRformer](https://github.com/usualheart/prformer)]
+ 
+- [Unlocking the Power of LSTM for Long Term Time Series Forecasting](https://arxiv.org/abs/2408.10006)
+
+  - 19 Aug 2024, Yaxuan Kong, et al.
 
 - [Rethinking Channel Dependence for Multivariate Time Series Forecasting: Learning from Leading Indicators](https://arxiv.org/abs/2401.17548)
 
