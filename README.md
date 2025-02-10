@@ -480,6 +480,10 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 11 Jun 2024, Mouxiang Chen, et al.
  
   - [[Official Code - Calibration-CDS](https://github.com/half111/calibration_cds)]
+
+- [When and How: Learning Identifiable Latent States for Nonstationary Time Series Forecasting](https://arxiv.org/abs/2402.12767)
+
+  - 07 Jun 2024, Zijian Li, et al.
  
 - [Adaptive Multi-Scale Decomposition Framework for Time Series Forecasting](https://arxiv.org/abs/2406.03751)
 
