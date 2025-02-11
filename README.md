@@ -64,6 +64,10 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 09 Jan 2025, Shi Bin Hoo, et al.
  
   - [[Official Code - tabpfn-time-series](https://github.com/liam-sbhoo/tabpfn-time-series)]
+ 
+- [Context-Alignment: Activating and Enhancing LLM Capabilities in Time Series](https://arxiv.org/abs/2501.03747)
+
+  - 07 Jan 2025, Yuxiao Hu, et al.
 
 ### 2024
 
