@@ -75,6 +75,10 @@ List of research papers focus on time series forecasting and deep learning, as w
 
   - 30 Dec 2024, Huanyu Zhang, et al.
  
+- [Unlocking the Power of Patch: Patch-Based MLP for Long-Term Time Series Forecasting](https://arxiv.org/abs/2405.13575)
+
+  - 25 Dec 2024, Peiwang Tang, et al.
+ 
 - [Hierarchical Classification Auxiliary Network for Time Series Forecasting](https://arxiv.org/abs/2405.18975)
 
   - 24 Dec 2024, Yanru Sun, et al.
