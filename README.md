@@ -47,6 +47,10 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ### 2025
 
+- [TVNet: A Novel Time Series Analysis Method Based on Dynamic Convolution and 3D-Variation](https://openreview.net/forum?id=MZDdTzN6Cy)
+
+  - 23 Jan 2025, Chenghan Li, et al.
+
 - [TimeFilter: Patch-Specific Spatial-Temporal Graph Filtration for Time Series Forecasting](https://arxiv.org/abs/2501.13041)
 
   - 22 Jan 2025, Yifan Hu, et al.
