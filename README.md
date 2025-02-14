@@ -75,6 +75,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ### 2024
 
+- [AverageLinear: Enhance Long-Term Time series forcasting with simple averaging](https://arxiv.org/abs/2412.20727)
+
+  - 30 Dec 2024, Gaoxiang Zhao, et al.
+ 
+  - [[Official Code - AverageLinear](https://github.com/UniqueoneZ/AverageLinear)]
+
 - [TimeRAF: Retrieval-Augmented Foundation model for Zero-shot Time Series Forecasting](https://arxiv.org/abs/2412.20810)
 
   - 30 Dec 2024, Huanyu Zhang, et al.
