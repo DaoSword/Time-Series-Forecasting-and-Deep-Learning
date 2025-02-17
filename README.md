@@ -101,6 +101,12 @@ List of research papers focus on time series forecasting and deep learning, as w
  
   - [[Official Code - DUET](https://github.com/decisionintelligence/duet)]
  
+- [WPMixer: Efficient Multi-Resolution Mixing for Long-Term Time Series Forecasting](https://arxiv.org/abs/2412.17176)
+
+  - 22 Dec 2024, Md Mahmuddun Nabi Murad, et al.
+ 
+  - [[Official Code - WPMixer](https://github.com/Secure-and-Intelligent-Systems-Lab/WPMixer)]
+ 
 - [TimeRAG: BOOSTING LLM Time Series Forecasting via Retrieval-Augmented Generation](https://arxiv.org/abs/2412.16643)
 
   - 21 Dec 2024, Silin Yang, et al.
