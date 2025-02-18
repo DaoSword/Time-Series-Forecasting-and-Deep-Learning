@@ -72,6 +72,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 - [Context-Alignment: Activating and Enhancing LLM Capabilities in Time Series](https://arxiv.org/abs/2501.03747)
 
   - 07 Jan 2025, Yuxiao Hu, et al.
+ 
+- [LMS-AutoTSF: Learnable Multi-Scale Decomposition and Integrated Autocorrelation for Time Series Forecasting](https://arxiv.org/abs/2412.06866)
+
+  - 07 Jan 2025, Ibrahim Delibasoglu, et al.
+ 
+  - [[Official Code - LMS-TSF](https://github.com/mribrahim/LMS-TSF)]
 
 ### 2024
 
