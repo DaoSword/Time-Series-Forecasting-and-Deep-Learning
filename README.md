@@ -122,6 +122,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 19 Dec 2024, Luis Roque, et al.
  
   - [[Official Code - bench](https://github.com/luisroque/bench)]
+  
+- [LiNo: Advancing Recursive Residual Decomposition of Linear and Nonlinear Patterns for Robust Time Series Forecasting](https://arxiv.org/abs/2410.17159)
+
+  - 17 Dec 2024, Guoqi Yu, et al.
+ 
+  - [[Official Code - LiNo](https://github.com/levi-ackman/lino)]
  
 - [ChatTime: A Unified Multimodal Time Series Foundation Model Bridging Numerical and Textual Data](https://arxiv.org/abs/2412.11376)
 
