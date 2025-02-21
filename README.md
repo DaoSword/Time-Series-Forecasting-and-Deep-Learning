@@ -224,6 +224,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 30 Oct 2024, Xinlei Wang, et al.
  
   - [[Official Code - From_News_to_Forecast](https://github.com/ameliawong1996/From_News_to_Forecast)]
+ 
+- [LTBoost: Boosted Hybrids of Ensemble Linear and Gradient Algorithms for the Long-term Time Series Forecasting](https://dl.acm.org/doi/10.1145/3627673.3679527)
+
+  - 21 Oct 2024, Hubert Truchan, et al.
+ 
+  - [[Official Code - LTBoost](https://github.com/hubtru/LTBoost)]
 
 - [TimeMixer++: A General Time Series Pattern Machine for Universal Predictive Analysis](https://arxiv.org/abs/2410.16032)
 
