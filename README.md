@@ -47,6 +47,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ### 2025
 
+- [TimeDART: A Diffusion Autoregressive Transformer for Self-Supervised Time Series Representation](https://arxiv.org/abs/2410.05711)
+
+  - 21 Feb 2025, Daoyu Wang, et al.
+ 
+  - [[Official Code - TimeDART](https://github.com/Melmaphother/TimeDART)]
+
 - [TVNet: A Novel Time Series Analysis Method Based on Dynamic Convolution and 3D-Variation](https://openreview.net/forum?id=MZDdTzN6Cy)
 
   - 23 Jan 2025, Chenghan Li, et al.
