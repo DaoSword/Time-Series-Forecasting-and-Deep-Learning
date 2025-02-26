@@ -267,6 +267,12 @@ List of research papers focus on time series forecasting and deep learning, as w
  
   - [[Official Code - moirai-moe-1](https://github.com/SalesforceAIResearch/uni2ts/tree/main/project/moirai-moe-1)]
  
+- [Learning Pattern-Specific Experts for Time Series Forecasting Under Patch-level Distribution Shift](https://arxiv.org/abs/2410.09836)
+
+  - 13 Oct 2024, Yanru Sun, et al.
+ 
+  - [[Official Code - TFPS](https://github.com/syrGitHub/TFPS)]
+ 
 - [Are Self-Attentions Effective for Time Series Forecasting?](https://arxiv.org/abs/2405.16877)
 
   - 12 Oct 2024, Dongbin Kim, et al.
