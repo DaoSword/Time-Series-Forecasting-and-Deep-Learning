@@ -243,6 +243,10 @@ List of research papers focus on time series forecasting and deep learning, as w
  
   - [[Official Code - TimeMixer](https://github.com/kwuking/TimeMixer)]
 
+- [HiPPO-KAN: Efficient KAN Model for Time Series Analysis](https://arxiv.org/abs/2410.14939)
+
+  - 19 Oct 2024, SangJong Lee, et al.
+
 - [Parsimony or Capability? Decomposition Delivers Both in Long-term Time Series Forecasting](https://arxiv.org/abs/2401.11929)
 
   - 16 Oct 2024, Jinliang Deng, et al.
