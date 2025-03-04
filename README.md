@@ -52,6 +52,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 21 Feb 2025, Daoyu Wang, et al.
  
   - [[Official Code - TimeDART](https://github.com/Melmaphother/TimeDART)]
+ 
+- [Harnessing Vision Models for Time Series Analysis: A Survey](https://arxiv.org/abs/2502.08869)
+
+  - 13 Feb 2025, Jingchao Ni, et al.
+
+  - [[Official Code - awesome-vision-time-series](https://github.com/D2I-Group/awesome-vision-time-series)]
 
 - [TVNet: A Novel Time Series Analysis Method Based on Dynamic Convolution and 3D-Variation](https://openreview.net/forum?id=MZDdTzN6Cy)
 
