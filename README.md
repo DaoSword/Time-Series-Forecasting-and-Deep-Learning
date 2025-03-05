@@ -47,6 +47,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ### 2025
 
+- [TimeKAN: KAN-based Frequency Decomposition Learning Architecture for Long-term Time Series Forecasting](https://arxiv.org/abs/2502.06910)
+
+  - 26 Feb 2025, Songtao Huang, et al.
+ 
+  - [[Official Code - TimeKAN](https://github.com/huangst21/TimeKAN)]
+
 - [TimeDART: A Diffusion Autoregressive Transformer for Self-Supervised Time Series Representation](https://arxiv.org/abs/2410.05711)
 
   - 21 Feb 2025, Daoyu Wang, et al.
