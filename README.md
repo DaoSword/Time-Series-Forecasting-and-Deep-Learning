@@ -355,6 +355,12 @@ List of research papers focus on time series forecasting and deep learning, as w
  
   - [[Official Code - CMamba](https://github.com/zclzcl0223/CMamba)]
 
+- [PGN: The RNN's New Successor is Effective for Long-Range Time Series Forecasting](https://arxiv.org/abs/2409.17703)
+
+  - 26 Sep 2024, Yuxin Jia, et al.
+ 
+  - [[Official Code - TPGN](https://github.com/Water2sea/TPGN)]
+
 - [Double-Path Adaptive-correlation Spatial-Temporal Inverted Transformer for Stock Time Series Forecasting](https://arxiv.org/abs/2409.15662)
 
   - 24 Sep 2024, Wenbo Yan, et al.
