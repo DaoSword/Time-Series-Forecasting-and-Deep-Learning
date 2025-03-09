@@ -213,6 +213,12 @@ List of research papers focus on time series forecasting and deep learning, as w
  
   - [[Official Code - CrossTimeNet](https://github.com/mingyue-cheng/crosstimenet)]
 
+- [Not All Frequencies Are Created Equal:Towards a Dynamic Fusion of Frequencies in Time-Series Forecasting](https://arxiv.org/abs/2407.12415)
+
+  - 05 Nov 2024, Xingyu Zhang, et al.
+ 
+  - [[Offcial Code - FreDF](https://github.com/Zh-XY22/FreDF)]
+
 - [ElasTST: Towards Robust Varied-Horizon Forecasting with Elastic Time-Series Transformer](https://arxiv.org/abs/2411.01842)
 
   - 04 Nov 2024, Jiawen Zhang, et al.
