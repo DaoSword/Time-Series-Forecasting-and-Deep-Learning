@@ -518,6 +518,10 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 20 Jun 2024, Yu-Neng Chuang, et al.
  
   - [[Official Code - ltsm](https://github.com/daochenzha/ltsm/)]
+
+- [Omni-Dimensional Frequency Learner for General Time Series Analysis](https://arxiv.org/abs/2407.10419)
+
+  - 19 Jul 2024, Xianing Chen, et al.
  
 - [Foundation Models for Time Series Analysis: A Tutorial and Survey](https://arxiv.org/abs/2403.14735)
 
