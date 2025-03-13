@@ -39,6 +39,10 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ## Benchmarks
 
+- [FinTSB: A Comprehensive and Practical Benchmark for Financial Time Series Forecasting](https://github.com/TongjiFinLab/FinTSB)
+
+  - `FinTSB` is a comprehensive and practical financial time series benchmark.
+
 - [GIFT-Eval Time Series Forecasting Leaderboard](https://huggingface.co/spaces/Salesforce/GIFT-Eval)
 
   -  `GIFT-Eval` is a pioneering benchmark aimed at promoting evaluation across diverse datasets.
