@@ -2727,6 +2727,10 @@ List of research papers focus on time series forecasting and deep learning, as w
 - [Beibo](https://github.com/ssantoshp/Beibo)
   
   - `Beibo` is a Python library that uses several AI prediction models to predict stocks returns over a defined period of time.
+ 
+- [catch22](https://github.com/DynamicsAndNeuralSystems/catch22)
+
+  - `catch22` is a collection of 22 time-series features coded in C that can be run from Python, R, Matlab, and Julia, licensed under the GNU GPL v3 license (or later). The catch22 features are a high-performing subset of the over 7000 features in hctsa.
 
 - [Cesium](https://cesium-ml.org/)
   
