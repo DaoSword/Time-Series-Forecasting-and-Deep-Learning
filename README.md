@@ -2796,6 +2796,10 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   - `NeuralProphet` is an easy to learn framework for interpretable time series forecasting. NeuralProphet is built on PyTorch and combines Neural Network and traditional time-series algorithms, inspired by [Facebook Prophet](https://github.com/facebook/prophet) and [AR-Net](https://github.com/ourownstory/AR-Net).
  
+- [Nolds](https://pypi.org/project/nolds/)
+
+  - `Nolds` is a small numpy-based library that provides an implementation and a learning resource for nonlinear measures for dynamical systems based on one-dimensional time series.
+ 
 - [Orbit](https://github.com/uber/orbit)
 
   - `Orbit` is a Python package for Bayesian time series forecasting and inference.
