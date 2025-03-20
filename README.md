@@ -2743,6 +2743,10 @@ List of research papers focus on time series forecasting and deep learning, as w
 - [DeepOD](https://github.com/xuhongzuo/DeepOD)
   
   - `DeepOD` is an open-source python framework for deep learning-based anomaly detection on multivariate data.
+ 
+- [Featuretools](https://featuretools.alteryx.com/en/stable/index.html)
+
+  - `Featuretools` is a framework to perform automated feature engineering. It excels at transforming temporal and relational datasets into feature matrices for machine learning.
 
 - [Flow Forecast](https://flow-forecast.atlassian.net/wiki/spaces/FF/overview)
   
