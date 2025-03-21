@@ -2743,6 +2743,10 @@ List of research papers focus on time series forecasting and deep learning, as w
 - [DeepOD](https://github.com/xuhongzuo/DeepOD)
   
   - `DeepOD` is an open-source python framework for deep learning-based anomaly detection on multivariate data.
+
+- [FATS](https://isadoranun.github.io/tsfeat/)
+
+  - `FATS` (Feature Analysis for Time Series) is a Python library for feature extraction from time series data.
  
 - [Featuretools](https://featuretools.alteryx.com/en/stable/index.html)
 
