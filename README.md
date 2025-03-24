@@ -498,6 +498,10 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 29 Jun 2024, SheoYon Jhin, et al.
  
   - [[Official Code - CONTIME](https://github.com/sheoyon-jhin/contime)]
+
+- [Deep Frequency Derivative Learning for Non-stationary Time Series Forecasting](https://arxiv.org/abs/2407.00502)
+
+  - 29 Jun 2024, Wei Fan, et al.
  
 - [SigKAN: Signature-Weighted Kolmogorov-Arnold Networks for Time Series](https://arxiv.org/abs/2406.17890)
 
