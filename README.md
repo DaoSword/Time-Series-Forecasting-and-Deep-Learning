@@ -550,6 +550,10 @@ List of research papers focus on time series forecasting and deep learning, as w
 - [LLMFactor: Extracting Profitable Factors through Prompts for Explainable Stock Movement Prediction](https://arxiv.org/abs/2406.10811)
 
   - 16 Jun 2024, Meiyun Wang, et al.
+ 
+- [RPMixer: Shaking Up Time Series Forecasting with Random Projections for Large Spatial-Temporal Data](https://arxiv.org/abs/2402.10487)
+
+  - 12 Jun 2024, Chin-Chia Michael Yeh, et al.
 
 - [SOFTS: Efficient Multivariate Time Series Forecasting with Series-Core Fusion](https://arxiv.org/abs/2404.14197)
 
