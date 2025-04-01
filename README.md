@@ -51,6 +51,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ### 2025
 
+- [ChronosX: Adapting Pretrained Time Series Models with Exogenous Variables](https://arxiv.org/abs/2503.12107)
+
+  - 15 Mar 2025, Sebastian Pineda Arango, et al.
+ 
+  - [[Official Code - chronosx](https://github.com/amazon-science/chronos-forecasting/tree/chronosx)]
+
 - [TimeKAN: KAN-based Frequency Decomposition Learning Architecture for Long-term Time Series Forecasting](https://arxiv.org/abs/2502.06910)
 
   - 26 Feb 2025, Songtao Huang, et al.
