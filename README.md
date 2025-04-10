@@ -2917,6 +2917,10 @@ List of research papers focus on time series forecasting and deep learning, as w
 - [stumpy](https://github.com/TDAmeritrade/stumpy)
 
   - `STUMPY` is a powerful and scalable Python library for modern time series analysis.
+ 
+- [tempdisagg](https://pypi.org/project/tempdisagg/)
+
+  - `tempdisagg` is a production-ready Python library for temporal disaggregation of time series — transforming low-frequency data into high-frequency estimates while preserving consistency.
 
 - [TFTS](https://github.com/LongxingTan/Time-series-prediction)
   
