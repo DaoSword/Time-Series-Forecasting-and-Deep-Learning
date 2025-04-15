@@ -467,6 +467,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 
   - 18 Jul 2024, Chao Ma, et al.
  
+- [Revisiting Attention for Multivariate Time Series Forecasting](https://arxiv.org/abs/2407.13806)
+
+  - 18 Jul 2024, Haixiang Wu, et al.
+ 
+  - [[Official Code - FSatten-SOatten](https://github.com/Joeland4/FSatten-SOatten)]
+ 
 - [Large Pre-trained time series models for cross-domain Time series analysis tasks](https://arxiv.org/abs/2311.11413)
 
   - 11 Jul 2024, Harshavardhan Kamarthi, et al.
