@@ -75,6 +75,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 
   - [[Official Code - awesome-vision-time-series](https://github.com/D2I-Group/awesome-vision-time-series)]
 
+- [Error-quantified Conformal Inference for Time Series](https://arxiv.org/abs/2502.00818)
+
+  - 02 Feb 2025, Junxi Wu, et al.
+ 
+  - [[Official Code - Error-quantified-Conformal-Inference](https://github.com/creator-xi/Error-quantified-Conformal-Inference)]
+
 - [TVNet: A Novel Time Series Analysis Method Based on Dynamic Convolution and 3D-Variation](https://openreview.net/forum?id=MZDdTzN6Cy)
 
   - 23 Jan 2025, Chenghan Li, et al.
