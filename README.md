@@ -56,6 +56,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 15 Mar 2025, Sebastian Pineda Arango, et al.
  
   - [[Official Code - chronosx](https://github.com/amazon-science/chronos-forecasting/tree/chronosx)]
+ 
+- [Minimal Time Series Transformer](https://arxiv.org/abs/2503.09791)
+
+  - 12 Mar 2025, Joni-Kristian Kämäräinen
+ 
+  - [[Official Code - minimal_time_series_transformer](https://github.com/kamarain/minimal_time_series_transformer)]
 
 - [TimeKAN: KAN-based Frequency Decomposition Learning Architecture for Long-term Time Series Forecasting](https://arxiv.org/abs/2502.06910)
 
