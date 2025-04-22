@@ -62,6 +62,10 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 12 Mar 2025, Joni-Kristian Kämäräinen
  
   - [[Official Code - minimal_time_series_transformer](https://github.com/kamarain/minimal_time_series_transformer)]
+ 
+- [TimesBERT: A BERT-Style Foundation Model for Time Series Understanding](https://arxiv.org/abs/2502.21245)
+
+  - 28 Feb 2025, Haoran Zhang, et al
 
 - [TimeKAN: KAN-based Frequency Decomposition Learning Architecture for Long-term Time Series Forecasting](https://arxiv.org/abs/2502.06910)
 
