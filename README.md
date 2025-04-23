@@ -51,6 +51,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ### 2025
 
+- [TimeCMA: Towards LLM-Empowered Multivariate Time Series Forecasting via Cross-Modality Alignment](https://arxiv.org/abs/2406.01638)
+
+  - 29 Mar 2025, Chenxi Liu, et al.
+ 
+  - [[Official Code - TimeCMA](https://github.com/ChenxiLiu-HNU/TimeCMA)]
+
 - [ChronosX: Adapting Pretrained Time Series Models with Exogenous Variables](https://arxiv.org/abs/2503.12107)
 
   - 15 Mar 2025, Sebastian Pineda Arango, et al.
