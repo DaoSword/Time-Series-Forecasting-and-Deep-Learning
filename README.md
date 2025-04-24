@@ -69,6 +69,10 @@ List of research papers focus on time series forecasting and deep learning, as w
  
   - [[Official Code - minimal_time_series_transformer](https://github.com/kamarain/minimal_time_series_transformer)]
  
+- [TimeCAP: Learning to Contextualize, Augment, and Predict Time Series Events with Large Language Model Agents](https://arxiv.org/abs/2502.11418)
+
+  - 10 Mar 2025, Geon Lee, et al.
+ 
 - [TimesBERT: A BERT-Style Foundation Model for Time Series Understanding](https://arxiv.org/abs/2502.21245)
 
   - 28 Feb 2025, Haoran Zhang, et al
