@@ -83,6 +83,12 @@ List of research papers focus on time series forecasting and deep learning, as w
  
   - [[Official Code - TimeKAN](https://github.com/huangst21/TimeKAN)]
 
+- [Amplifier: Bringing Attention to Neglected Low-Energy Components in Time Series Forecasting](https://arxiv.org/abs/2501.17216)
+
+  - 22 Feb 2025, Jingru Fei, et al.
+ 
+  - [[Official Code - Amplifier](https://github.com/aikunyi/Amplifier)]
+
 - [TimeDART: A Diffusion Autoregressive Transformer for Self-Supervised Time Series Representation](https://arxiv.org/abs/2410.05711)
 
   - 21 Feb 2025, Daoyu Wang, et al.
