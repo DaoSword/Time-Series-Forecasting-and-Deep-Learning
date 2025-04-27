@@ -88,6 +88,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 22 Feb 2025, Jingru Fei, et al.
  
   - [[Official Code - Amplifier](https://github.com/aikunyi/Amplifier)]
+ 
+- [TimePFN: Effective Multivariate Time Series Forecasting with Synthetic Data](https://arxiv.org/abs/2502.16294)
+
+  - 22 Feb 2025, Ege Onur Taga, et al.
+ 
+  - [[Official Code - TimePFN](https://github.com/egetaga/TimePFN)]
 
 - [TimeDART: A Diffusion Autoregressive Transformer for Self-Supervised Time Series Representation](https://arxiv.org/abs/2410.05711)
 
