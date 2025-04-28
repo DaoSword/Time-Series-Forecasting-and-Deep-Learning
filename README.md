@@ -189,6 +189,10 @@ List of research papers focus on time series forecasting and deep learning, as w
  
   - [[Official Code - bench](https://github.com/luisroque/bench)]
   
+- [CSformer: Combining Channel Independence and Mixing for Robust Multivariate Time Series Forecasting](https://arxiv.org/abs/2312.06220)
+
+  - 17 Dec 2024, Haoxin Wang, et al.
+
 - [LiNo: Advancing Recursive Residual Decomposition of Linear and Nonlinear Patterns for Robust Time Series Forecasting](https://arxiv.org/abs/2410.17159)
 
   - 17 Dec 2024, Guoqi Yu, et al.
