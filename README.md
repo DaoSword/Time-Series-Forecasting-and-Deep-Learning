@@ -199,6 +199,12 @@ List of research papers focus on time series forecasting and deep learning, as w
  
   - [[Official Code - LiNo](https://github.com/levi-ackman/lino)]
  
+- [TimeCHEAT: A Channel Harmony Strategy for Irregularly Sampled Multivariate Time Series Analysis](https://arxiv.org/abs/2412.12886)
+
+  - 17 Dec 2024, Jiexi Liu, et al.
+ 
+  - [[Official Code - TimeCHEAT](https://github.com/Alrash/TimeCHEAT)]
+ 
 - [ChatTime: A Unified Multimodal Time Series Foundation Model Bridging Numerical and Textual Data](https://arxiv.org/abs/2412.11376)
 
   - 16 Dec 2024, Chengsen Wang, et al.
