@@ -51,6 +51,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ### 2025
 
+- [Retrieval Augmented Time Series Forecasting](https://arxiv.org/abs/2505.04163)
+
+  - 07 May 2025, Sungwon Han, et al.
+ 
+  - [[Official Code - RAFT](https://github.com/archon159/RAFT)]
+
 - [FreDF: Learning to Forecast in the Frequency Domain](https://arxiv.org/abs/2402.02399)
 
   - 06 May 2025, Hao Wang, et al.
