@@ -88,6 +88,10 @@ List of research papers focus on time series forecasting and deep learning, as w
 - [TimesBERT: A BERT-Style Foundation Model for Time Series Understanding](https://arxiv.org/abs/2502.21245)
 
   - 28 Feb 2025, Haoran Zhang, et al
+ 
+- [Efficient Time Series Forecasting via Hyper-Complex Models and Frequency Aggregation](https://arxiv.org/abs/2502.19983)
+
+  - 27 Feb 2025, Eyal Yakir, et al.
 
 - [TimeKAN: KAN-based Frequency Decomposition Learning Architecture for Long-term Time Series Forecasting](https://arxiv.org/abs/2502.06910)
 
