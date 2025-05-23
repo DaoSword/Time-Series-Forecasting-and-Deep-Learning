@@ -51,6 +51,10 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ### 2025
 
+- [TSKANMixer: Kolmogorov-Arnold Networks with MLP-Mixer Model for Time Series Forecasting](https://arxiv.org/abs/2502.18410)
+
+  - 27 Mar 2025, Young-Chae Hong, et al.
+
 - [Retrieval Augmented Time Series Forecasting](https://arxiv.org/abs/2505.04163)
 
   - 07 May 2025, Sungwon Han, et al.
