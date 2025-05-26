@@ -72,6 +72,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 29 Mar 2025, Chenxi Liu, et al.
  
   - [[Official Code - TimeCMA](https://github.com/ChenxiLiu-HNU/TimeCMA)]
+ 
+- [Towards Neural Scaling Laws for Time Series Foundation Models](https://arxiv.org/abs/2410.12360)
+
+  - 18 Mar 2025, Qingren Yao, et al.
+ 
+  - [[Official Code - TSFM-ScalingLaws](https://github.com/Qingrenn/TSFM-ScalingLaws)]
 
 - [ChronosX: Adapting Pretrained Time Series Models with Exogenous Variables](https://arxiv.org/abs/2503.12107)
 
@@ -346,10 +352,6 @@ List of research papers focus on time series forecasting and deep learning, as w
 - [Parsimony or Capability? Decomposition Delivers Both in Long-term Time Series Forecasting](https://arxiv.org/abs/2401.11929)
 
   - 16 Oct 2024, Jinliang Deng, et al.
- 
-- [Towards Neural Scaling Laws for Time Series Foundation Models](https://arxiv.org/abs/2410.12360)
-
-  - 16 Oct 2024, Qingren Yao, et al.
 
 - [FoundTS: Comprehensive and Unified Benchmarking of Foundation Models for Time Series Forecasting](https://arxiv.org/abs/2410.11802)
 
