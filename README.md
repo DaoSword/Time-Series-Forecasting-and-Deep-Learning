@@ -2861,6 +2861,10 @@ List of research papers focus on time series forecasting and deep learning, as w
 - [HyperTS](https://github.com/DataCanvasIO/HyperTS)
   
   - A Full-Pipeline Automated Time Series (AutoTS) Analysis Toolkit.
+ 
+- [ImputeGAP](https://github.com/eXascaleInfolab/ImputeGAP)
+
+  - `ImputeGAP` is a comprehensive Python library for imputation of missing values in time series data.
 
 - [Kats](https://facebookresearch.github.io/Kats/)
   
