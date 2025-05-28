@@ -2829,6 +2829,10 @@ List of research papers focus on time series forecasting and deep learning, as w
 - [Darts](https://unit8co.github.io/darts/)
   
   - `Darts` is a Python library for easy manipulation and forecasting of time series.
+ 
+- [DeepEcho](https://github.com/sdv-dev/DeepEcho)
+
+  - `DeepEcho` is a Synthetic Data Generation Python library for mixed-type, multivariate time series.
 
 - [DeepOD](https://github.com/xuhongzuo/DeepOD)
   
