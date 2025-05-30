@@ -170,6 +170,10 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 07 Jan 2025, Ibrahim Delibasoglu, et al.
  
   - [[Official Code - LMS-TSF](https://github.com/mribrahim/LMS-TSF)]
+ 
+- [Sequence Complementor: Complementing Transformers For Time Series Forecasting with Learnable Sequences](https://arxiv.org/abs/2501.02735)
+
+  - 06 Jan 2025, Xiwen Chen, et al.
 
 ### 2024
 
