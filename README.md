@@ -54,6 +54,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 - [TSKANMixer: Kolmogorov-Arnold Networks with MLP-Mixer Model for Time Series Forecasting](https://arxiv.org/abs/2502.18410)
 
   - 27 Mar 2025, Young-Chae Hong, et al.
+ 
+- [Intervention-Aware Forecasting: Breaking Historical Limits from a System Perspective](https://arxiv.org/abs/2405.13522)
+
+  - 16 May 2025, Zhijian Xu, et al.
+ 
+  - [[Official Code - TGTSF](https://github.com/VEWOXIC/TGTSF)]
 
 - [Retrieval Augmented Time Series Forecasting](https://arxiv.org/abs/2505.04163)
 
