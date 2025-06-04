@@ -50,10 +50,6 @@ List of research papers focus on time series forecasting and deep learning, as w
 ## Papers
 
 ### 2025
-
-- [TSKANMixer: Kolmogorov-Arnold Networks with MLP-Mixer Model for Time Series Forecasting](https://arxiv.org/abs/2502.18410)
-
-  - 27 Mar 2025, Young-Chae Hong, et al.
  
 - [Intervention-Aware Forecasting: Breaking Historical Limits from a System Perspective](https://arxiv.org/abs/2405.13522)
 
@@ -79,11 +75,21 @@ List of research papers focus on time series forecasting and deep learning, as w
  
   - [[Official Code - TimeCMA](https://github.com/ChenxiLiu-HNU/TimeCMA)]
  
+- [TSKANMixer: Kolmogorov-Arnold Networks with MLP-Mixer Model for Time Series Forecasting](https://arxiv.org/abs/2502.18410)
+
+  - 27 Mar 2025, Young-Chae Hong, et al.
+ 
 - [Towards Neural Scaling Laws for Time Series Foundation Models](https://arxiv.org/abs/2410.12360)
 
   - 18 Mar 2025, Qingren Yao, et al.
  
   - [[Official Code - TSFM-ScalingLaws](https://github.com/Qingrenn/TSFM-ScalingLaws)]
+ 
+- [FreqMoE: Enhancing Time Series Forecasting through Frequency Decomposition Mixture of Experts](https://arxiv.org/abs/2501.15125)
+
+  - 16 Mar 2025, Ziqi Liu.
+ 
+  - [[Official Code - FreqMoE-main](https://github.com/sunbus100/FreqMoE-main)]
 
 - [ChronosX: Adapting Pretrained Time Series Models with Exogenous Variables](https://arxiv.org/abs/2503.12107)
 
