@@ -68,6 +68,10 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 06 May 2025, Hao Wang, et al.
  
   - [[Official Code - FreDF](https://github.com/Master-PLC/FreDF)]
+ 
+- [ms-Mamba: Multi-scale Mamba for Time-Series Forecasting](https://arxiv.org/abs/2504.07654)
+
+  - 10 Apr 2025, Yusuf Meric Karadag, et al.
 
 - [TimeCMA: Towards LLM-Empowered Multivariate Time Series Forecasting via Cross-Modality Alignment](https://arxiv.org/abs/2406.01638)
 
