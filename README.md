@@ -50,6 +50,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 ## Papers
 
 ### 2025
+
+- [TimePro: Efficient Multivariate Long-term Time Series Forecasting with Variable- and Time-Aware Hyper-state](https://arxiv.org/abs/2505.20774)
+
+  - 27 May 2025, Xiaowen Ma, et al.
+ 
+  - [[Official Code - TimePro](https://github.com/xwmaxwma/TimePro)]
  
 - [Intervention-Aware Forecasting: Breaking Historical Limits from a System Perspective](https://arxiv.org/abs/2405.13522)
 
