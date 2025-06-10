@@ -51,6 +51,10 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ### 2025
 
+- [Less is More: Unlocking Specialization of Time Series Foundation Models via Structured Pruning](https://arxiv.org/abs/2505.23195)
+
+  - 29 May 2025, Lifan Zhao, et al.
+
 - [TimePro: Efficient Multivariate Long-term Time Series Forecasting with Variable- and Time-Aware Hyper-state](https://arxiv.org/abs/2505.20774)
 
   - 27 May 2025, Xiaowen Ma, et al.
