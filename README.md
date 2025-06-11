@@ -66,6 +66,10 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 16 May 2025, Zhijian Xu, et al.
  
   - [[Official Code - TGTSF](https://github.com/VEWOXIC/TGTSF)]
+ 
+- [DELPHYNE: A Pre-Trained Model for General and Financial Time Series](https://arxiv.org/abs/2506.06288)
+
+  - 12 May 2025, Xueying Ding, et al.
 
 - [Retrieval Augmented Time Series Forecasting](https://arxiv.org/abs/2505.04163)
 
