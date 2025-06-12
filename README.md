@@ -83,6 +83,12 @@ List of research papers focus on time series forecasting and deep learning, as w
  
   - [[Official Code - FreDF](https://github.com/Master-PLC/FreDF)]
  
+- [A Comprehensive Survey of Time Series Forecasting: Concepts, Challenges, and Future Directions](https://www.techrxiv.org/users/909144/articles/1283131-a-comprehensive-survey-of-time-series-forecasting-concepts-challenges-and-future-directions)
+
+  - 10 Apr 2025, Mingyue Cheng, et al.
+ 
+  - [[Official Code - Awesome-Papers-Time-Series-Forecasting](https://github.com/USTCAGI/Awesome-Papers-Time-Series-Forecasting)]
+ 
 - [ms-Mamba: Multi-scale Mamba for Time-Series Forecasting](https://arxiv.org/abs/2504.07654)
 
   - 10 Apr 2025, Yusuf Meric Karadag, et al.
