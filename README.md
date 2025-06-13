@@ -83,6 +83,12 @@ List of research papers focus on time series forecasting and deep learning, as w
  
   - [[Official Code - FreDF](https://github.com/Master-PLC/FreDF)]
  
+- [ChatTS: Aligning Time Series with LLMs via Synthetic Data for Enhanced Understanding and Reasoning](https://arxiv.org/abs/2412.03104)
+
+  - 16 Apr 2025, Zhe Xie, et al.
+ 
+  - [[Official Code - ChatTS](https://github.com/NetManAIOps/ChatTS)]
+ 
 - [A Comprehensive Survey of Time Series Forecasting: Concepts, Challenges, and Future Directions](https://www.techrxiv.org/users/909144/articles/1283131-a-comprehensive-survey-of-time-series-forecasting-concepts-challenges-and-future-directions)
 
   - 10 Apr 2025, Mingyue Cheng, et al.
