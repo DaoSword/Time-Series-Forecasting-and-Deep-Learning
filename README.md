@@ -67,6 +67,12 @@ List of research papers focus on time series forecasting and deep learning, as w
  
   - [[Official Code - TGTSF](https://github.com/VEWOXIC/TGTSF)]
  
+- [OLinear: A Linear Model for Time Series Forecasting in Orthogonally Transformed Domain](https://arxiv.org/abs/2505.08550)
+
+  - 14 May 2025, Wenzhen Yue, et al.
+ 
+  - [[Official Code - OLinear](https://github.com/jackyue1994/OLinear)]
+ 
 - [DELPHYNE: A Pre-Trained Model for General and Financial Time Series](https://arxiv.org/abs/2506.06288)
 
   - 12 May 2025, Xueying Ding, et al.
