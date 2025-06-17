@@ -105,6 +105,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 
   - 10 Apr 2025, Yusuf Meric Karadag, et al.
 
+- [Integrating Quantum-Classical Attention in Patch Transformers for Enhanced Time Series Forecasting](https://arxiv.org/abs/2504.00068)
+
+  - 31 Mar 2025, Sanjay Chakraborty, et al.
+ 
+  - [[Official Code - QCAAPatchTF](https://github.com/sanjaylopa22/QCAAPatchTF)]
+  
 - [TimeCMA: Towards LLM-Empowered Multivariate Time Series Forecasting via Cross-Modality Alignment](https://arxiv.org/abs/2406.01638)
 
   - 29 Mar 2025, Chenxi Liu, et al.
