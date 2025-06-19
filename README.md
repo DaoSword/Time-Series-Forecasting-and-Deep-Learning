@@ -139,6 +139,12 @@ List of research papers focus on time series forecasting and deep learning, as w
  
   - [[Official Code - chronosx](https://github.com/amazon-science/chronos-forecasting/tree/chronosx)]
  
+- [Adversarial Vulnerabilities in Large Language Models for Time Series Forecasting](https://arxiv.org/abs/2412.08099)
+
+  - 12 Mar 2025, Fuqiang Liu, et al.
+ 
+  - [[Official Code - AdvAttack_LLM4TS](https://github.com/JohnsonJiang1996/AdvAttack_LLM4TS)]
+ 
 - [Minimal Time Series Transformer](https://arxiv.org/abs/2503.09791)
 
   - 12 Mar 2025, Joni-Kristian Kämäräinen
