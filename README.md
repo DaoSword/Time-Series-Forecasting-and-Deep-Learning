@@ -61,6 +61,12 @@ List of research papers focus on time series forecasting and deep learning, as w
  
   - [[Official Code - TimePro](https://github.com/xwmaxwma/TimePro)]
  
+- [Temporal Query Network for Efficient Multivariate Time Series Forecasting](https://arxiv.org/abs/2505.12917)
+
+  - 19 May 2025, Shengsheng Lin, et al.
+ 
+  - [[Official Code - TQNet](https://github.com/ACAT-SCUT/TQNet)]
+ 
 - [Intervention-Aware Forecasting: Breaking Historical Limits from a System Perspective](https://arxiv.org/abs/2405.13522)
 
   - 16 May 2025, Zhijian Xu, et al.
