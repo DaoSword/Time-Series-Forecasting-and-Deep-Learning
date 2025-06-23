@@ -51,6 +51,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ### 2025
 
+- [Explore the Time Series Forecasting Potential of TabPFN Leveraging the Intrinsic Periodicity of Data](https://openreview.net/forum?id=7JGD1kNlzU)
+
+  - 10 Jun 2025, Sibo Cai, et al.
+ 
+  - [[Official Code - TabPFN-TSP](https://github.com/sibo-cai/TabPFN-TSP)]
+
 - [Less is More: Unlocking Specialization of Time Series Foundation Models via Structured Pruning](https://arxiv.org/abs/2505.23195)
 
   - 29 May 2025, Lifan Zhao, et al.
