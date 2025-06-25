@@ -1074,6 +1074,10 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 25 Feb 2024, Haoxin Liu, et al.
  
   - [[Official Code - lstprompt](https://github.com/AdityaLab/lstprompt)]
+
+- [Deep Coupling Network For Multivariate Time Series Forecasting](https://arxiv.org/abs/2402.15134)
+
+  - 23 Feb 2024, Kun Yi, et al.
  
 - [TEST: Text Prototype Aligned Embedding to Activate LLM's Ability for Time Series](https://arxiv.org/abs/2308.08241)
 
