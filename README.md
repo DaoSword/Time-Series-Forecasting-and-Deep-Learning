@@ -51,6 +51,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ### 2025
 
+- [Time Series Forecasting as Reasoning: A Slow-Thinking Approach with Reinforced LLMs](https://arxiv.org/abs/2506.10630)
+
+  - 12 Jun 2025, Yucong Luo, et al.
+ 
+  - [[Official Code - Time-R1](https://github.com/lqzxt/Time-R1)]
+
 - [Explore the Time Series Forecasting Potential of TabPFN Leveraging the Intrinsic Periodicity of Data](https://openreview.net/forum?id=7JGD1kNlzU)
 
   - 10 Jun 2025, Sibo Cai, et al.
