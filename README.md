@@ -595,6 +595,10 @@ List of research papers focus on time series forecasting and deep learning, as w
  
   - [[Official Code - fieldy](https://github.com/raphaaal/fieldy)]
  
+- [HiMTM: Hierarchical Multi-Scale Masked Time Series Modeling with Self-Distillation for Long-Term Forecasting](https://arxiv.org/abs/2401.05012)
+
+  - 01 Aug 2024, Shubao Zhao, et al.
+ 
 - [DAM: Towards A Foundation Model for Time Series Forecasting](https://arxiv.org/abs/2407.17880)
 
   - 25 Jul 2024, Luke Darlow, et al.
