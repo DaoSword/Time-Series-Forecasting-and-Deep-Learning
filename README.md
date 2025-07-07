@@ -173,6 +173,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 
   - 10 Mar 2025, Geon Lee, et al.
  
+- [Patch-wise Structural Loss for Time Series Forecasting](https://arxiv.org/abs/2503.00877)
+
+  - 02 Mar 2025, Dilfira Kudrat, et al.
+ 
+  - [[Official Code - PS_Loss](https://github.com/Dilfiraa/PS_Loss)]
+ 
 - [TimesBERT: A BERT-Style Foundation Model for Time Series Understanding](https://arxiv.org/abs/2502.21245)
 
   - 28 Feb 2025, Haoran Zhang, et al
