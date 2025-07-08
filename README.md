@@ -232,6 +232,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 22 Jan 2025, Yifan Hu, et al.
  
   - [[Official Code - TimeFilter](https://github.com/troubadour000/timefilter)]
+ 
+- [xPatch: Dual-Stream Time Series Forecasting with Exponential Seasonal-Trend Decomposition](https://arxiv.org/abs/2412.17323)
+
+  - 11 Feb 2025, Artyom Stitsyuk, et al.
+ 
+  - [[Official Code - xPatch](https://github.com/stitsyuk/xPatch)]
 
 - [Battling the Non-stationarity in Time Series Forecasting via Test-time Adaptation](https://arxiv.org/abs/2501.04970)
 
