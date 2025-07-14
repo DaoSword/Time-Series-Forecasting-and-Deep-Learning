@@ -62,6 +62,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 10 Jun 2025, Sibo Cai, et al.
  
   - [[Official Code - TabPFN-TSP](https://github.com/sibo-cai/TabPFN-TSP)]
+ 
+- [Timing is Important: Risk-aware Fund Allocation based on Time-Series Forecasting](https://arxiv.org/abs/2505.24835)
+
+  - 05 Jun 2025, Fuyuan Lyu, et al.
+ 
+  - [[Official Code - RTS-PnO](https://github.com/fuyuanlyu/RTS-PnO)]
 
 - [Less is More: Unlocking Specialization of Time Series Foundation Models via Structured Pruning](https://arxiv.org/abs/2505.23195)
 
