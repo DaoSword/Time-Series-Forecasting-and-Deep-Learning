@@ -222,6 +222,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 13 Feb 2025, Jingchao Ni, et al.
 
   - [[Official Code - awesome-vision-time-series](https://github.com/D2I-Group/awesome-vision-time-series)]
+ 
+- [xPatch: Dual-Stream Time Series Forecasting with Exponential Seasonal-Trend Decomposition](https://arxiv.org/abs/2412.17323)
+
+  - 11 Feb 2025, Artyom Stitsyuk, et al.
+ 
+  - [[Official Code - xPatch](https://github.com/stitsyuk/xPatch)]
 
 - [Error-quantified Conformal Inference for Time Series](https://arxiv.org/abs/2502.00818)
 
@@ -239,11 +245,9 @@ List of research papers focus on time series forecasting and deep learning, as w
  
   - [[Official Code - TimeFilter](https://github.com/troubadour000/timefilter)]
  
-- [xPatch: Dual-Stream Time Series Forecasting with Exponential Seasonal-Trend Decomposition](https://arxiv.org/abs/2412.17323)
+- [Towards Lightweight Time Series Forecasting: a Patch-wise Transformer with Weak Data Enriching](https://arxiv.org/abs/2501.10448)
 
-  - 11 Feb 2025, Artyom Stitsyuk, et al.
- 
-  - [[Official Code - xPatch](https://github.com/stitsyuk/xPatch)]
+  - 14 Jan 2025, Meng Wang, et al.
 
 - [Battling the Non-stationarity in Time Series Forecasting via Test-time Adaptation](https://arxiv.org/abs/2501.04970)
 
