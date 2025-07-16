@@ -79,6 +79,12 @@ List of research papers focus on time series forecasting and deep learning, as w
  
   - [[Official Code - TimePro](https://github.com/xwmaxwma/TimePro)]
  
+- [CMoS: Rethinking Time Series Prediction Through the Lens of Chunk-wise Spatial Correlations](https://arxiv.org/abs/2505.19090)
+
+  - 25 May 2025, Haotian Si, et al.
+ 
+  - [[Official Code - CMoS](https://github.com/CSTCloudOps/CMoS)]
+ 
 - [Temporal Query Network for Efficient Multivariate Time Series Forecasting](https://arxiv.org/abs/2505.12917)
 
   - 19 May 2025, Shengsheng Lin, et al.
