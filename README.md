@@ -85,6 +85,12 @@ List of research papers focus on time series forecasting and deep learning, as w
  
   - [[Official Code - CMoS](https://github.com/CSTCloudOps/CMoS)]
  
+- [Output Scaling: YingLong-Delayed Chain of Thought in a Large Pretrained Time Series Forecasting Model](https://arxiv.org/abs/2506.11029)
+
+  - 20 May 2025, Xue Wang, et al.
+ 
+  - [[Official Code - YingLong](https://github.com/wxie9/YingLong)]
+ 
 - [Temporal Query Network for Efficient Multivariate Time Series Forecasting](https://arxiv.org/abs/2505.12917)
 
   - 19 May 2025, Shengsheng Lin, et al.
