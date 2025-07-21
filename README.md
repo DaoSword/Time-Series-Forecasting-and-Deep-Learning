@@ -51,6 +51,10 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ### 2025
 
+- [The language of time: a language model perspective on time-series foundation models](https://arxiv.org/abs/2507.00078)
+
+  - 29 Jun 2025, Yi Xie, et al.
+
 - [Time Series Forecasting as Reasoning: A Slow-Thinking Approach with Reinforced LLMs](https://arxiv.org/abs/2506.10630)
 
   - 12 Jun 2025, Yucong Luo, et al.
