@@ -71,6 +71,12 @@ List of research papers focus on time series forecasting and deep learning, as w
  
   - [[Official Code - TabPFN-TSP](https://github.com/sibo-cai/TabPFN-TSP)]
  
+- [LightGTS: A Lightweight General Time Series Forecasting Model](https://arxiv.org/abs/2506.06005)
+
+  - 06 Jun 2025, Yihang Wang, et al.
+ 
+  - [[Official Code - LightGTS](https://github.com/decisionintelligence/LightGTS)]
+ 
 - [Timing is Important: Risk-aware Fund Allocation based on Time-Series Forecasting](https://arxiv.org/abs/2505.24835)
 
   - 05 Jun 2025, Fuyuan Lyu, et al.
