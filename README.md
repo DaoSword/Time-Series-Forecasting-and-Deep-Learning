@@ -82,6 +82,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 05 Jun 2025, Fuyuan Lyu, et al.
  
   - [[Official Code - RTS-PnO](https://github.com/fuyuanlyu/RTS-PnO)]
+ 
+- [K2 VAE: A Koopman-Kalman Enhanced Variational AutoEncoder for Probabilistic Time Series Forecasting](https://arxiv.org/abs/2505.23017)
+
+  - 30 May 2025, Xingjian Wu, et al.
+ 
+  - [[Official Code - K2VAE](https://github.com/decisionintelligence/K2VAE)]
 
 - [Less is More: Unlocking Specialization of Time Series Foundation Models via Structured Pruning](https://arxiv.org/abs/2505.23195)
 
