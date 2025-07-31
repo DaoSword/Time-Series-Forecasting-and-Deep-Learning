@@ -100,6 +100,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 30 May 2025, Xingjian Wu, et al.
  
   - [[Official Code - K2VAE](https://github.com/decisionintelligence/K2VAE)]
+ 
+- [Sundial: A Family of Highly Capable Time Series Foundation Models](https://arxiv.org/abs/2502.00816)
+
+  - 30 May 2025, Yong Liu, et al.
+ 
+  - [[Official Code - Sundial](https://github.com/thuml/Sundial)]
 
 - [Less is More: Unlocking Specialization of Time Series Foundation Models via Structured Pruning](https://arxiv.org/abs/2505.23195)
 
