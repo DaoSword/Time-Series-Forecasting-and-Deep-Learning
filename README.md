@@ -163,6 +163,10 @@ List of research papers focus on time series forecasting and deep learning, as w
  
   - [[Official Code - FreDF](https://github.com/Master-PLC/FreDF)]
  
+- [A Closer Look at Transformers for Time Series Forecasting: Understanding Why They Work and Where They Struggle](https://openreview.net/forum?id=kHEVCfES4Q)
+
+  - 01 May 2025, Yu Chen, et al
+ 
 - [ChatTS: Aligning Time Series with LLMs via Synthetic Data for Enhanced Understanding and Reasoning](https://arxiv.org/abs/2412.03104)
 
   - 16 Apr 2025, Zhe Xie, et al.
