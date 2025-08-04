@@ -165,7 +165,13 @@ List of research papers focus on time series forecasting and deep learning, as w
  
 - [A Closer Look at Transformers for Time Series Forecasting: Understanding Why They Work and Where They Struggle](https://openreview.net/forum?id=kHEVCfES4Q)
 
-  - 01 May 2025, Yu Chen, et al
+  - 01 May 2025, Yu Chen, et al.
+ 
+- [Hi-Patch: Hierarchical Patch GNN for Irregular Multivariate Time Series](https://openreview.net/forum?id=nBgQ66iEUu)
+
+  - 01 May 2025, Yicheng Luo, et al.
+ 
+  - [[Official Code - Hi-Patch](https://github.com/easonLuo2001/Hi-Patch)]
  
 - [ChatTS: Aligning Time Series with LLMs via Synthetic Data for Enhanced Understanding and Reasoning](https://arxiv.org/abs/2412.03104)
 
