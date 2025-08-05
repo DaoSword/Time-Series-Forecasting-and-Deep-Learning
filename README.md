@@ -60,6 +60,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 13 Jul 2025, Runze Yang, et al.
  
   - [[Official Code - FBM-S](https://github.com/runze1223/FBM-S)]
+ 
+- [MoFE-Time: Mixture of Frequency Domain Experts for Time-Series Forecasting Models](https://arxiv.org/abs/2507.06502)
+
+  - 9 Jul 2025, Yiwen Liu, et al.
+ 
+  - [[Official Code - mofe-time](https://github.com/alg-znsy-li/mofe-time)]
 
 - [The language of time: a language model perspective on time-series foundation models](https://arxiv.org/abs/2507.00078)
 
