@@ -51,6 +51,10 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ### 2025
 
+- [Enhancer: A Distribution-Aware Framework with Temporal-Relational Meta-Learning for Stock Prediction](https://dl.acm.org/doi/10.1145/3711896.3736934)
+
+  - 03 Aug 2025, Weijun Chen, et al.
+
 - [FLDmamba: Integrating Fourier and Laplace Transform Decomposition with Mamba for Enhanced Time Series Prediction](https://arxiv.org/abs/2507.12803)
 
   - 17 Jul 2025, Qianru Zhang, et al.
