@@ -216,6 +216,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 29 Mar 2025, Chenxi Liu, et al.
  
   - [[Official Code - TimeCMA](https://github.com/ChenxiLiu-HNU/TimeCMA)]
+
+- [BLAST: Balanced Sampling Time Series Corpus for Universal Forecasting Models](https://arxiv.org/abs/2505.17871)
+
+  - 27 May 2025, Zezhi Shao, et al.
+ 
+  - [[Official Code - BLAST](https://github.com/GestaltCogTeam/BLAST)]
  
 - [TSKANMixer: Kolmogorov-Arnold Networks with MLP-Mixer Model for Time Series Forecasting](https://arxiv.org/abs/2502.18410)
 
