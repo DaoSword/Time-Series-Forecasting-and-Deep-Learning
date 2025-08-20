@@ -51,6 +51,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ### 2025
 
+- [CMA: A Unified Contextual Meta-Adaptation Methodology for Time-Series Denoising and Prediction](https://dl.acm.org/doi/10.1145/3711896.3736881)
+
+  - 03 Aug 2025, Haiqi Jiang, et al.
+ 
+  - [[Official Code - CMA_KDD_2025](https://github.com/FancyAI-SCNU/CMA_KDD_2025)]
+
 - [Enhancer: A Distribution-Aware Framework with Temporal-Relational Meta-Learning for Stock Prediction](https://dl.acm.org/doi/10.1145/3711896.3736934)
 
   - 03 Aug 2025, Weijun Chen, et al.
