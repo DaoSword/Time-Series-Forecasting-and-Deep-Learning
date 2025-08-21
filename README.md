@@ -51,6 +51,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ### 2025
 
+- [From Values to Tokens: An LLM-Driven Framework for Context-aware Time Series Forecasting via Symbolic Discretization](https://arxiv.org/abs/2508.09191)
+
+  - 08 Aug 2025, Xiaoyu Tao, et al.
+ 
+  - [[Official Code - TokenCast](https://github.com/Xiaoyu-Tao/TokenCast)]
+
 - [CMA: A Unified Contextual Meta-Adaptation Methodology for Time-Series Denoising and Prediction](https://dl.acm.org/doi/10.1145/3711896.3736881)
 
   - 03 Aug 2025, Haiqi Jiang, et al.
