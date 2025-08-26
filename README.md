@@ -203,6 +203,10 @@ List of research papers focus on time series forecasting and deep learning, as w
  
   - [[Official Code - FreDF](https://github.com/Master-PLC/FreDF)]
  
+- [CASA: CNN Autoencoder-based Score Attention for Efficient Multivariate Long-term Time-series Forecasting](https://arxiv.org/abs/2505.02011)
+
+  - 04 May 2025, Minhyuk Lee, et al.
+ 
 - [A Closer Look at Transformers for Time Series Forecasting: Understanding Why They Work and Where They Struggle](https://openreview.net/forum?id=kHEVCfES4Q)
 
   - 01 May 2025, Yu Chen, et al.
