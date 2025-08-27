@@ -190,6 +190,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 - [DELPHYNE: A Pre-Trained Model for General and Financial Time Series](https://arxiv.org/abs/2506.06288)
 
   - 12 May 2025, Xueying Ding, et al.
+ 
+- [FilterTS: Comprehensive Frequency Filtering for Multivariate Time Series Forecasting](https://arxiv.org/abs/2505.04158)
+
+  - 07 May 2025, Yulong Wang, et al.
+
+  - [[Official Code - FilterTS](https://github.com/wyl010607/FilterTS)]
 
 - [Retrieval Augmented Time Series Forecasting](https://arxiv.org/abs/2505.04163)
 
