@@ -93,6 +93,12 @@ List of research papers focus on time series forecasting and deep learning, as w
  
   - [[Official Code - mofe-time](https://github.com/alg-znsy-li/mofe-time)]
  
+- [Non-collective Calibrating Strategy for Time Series Forecasting](https://www.arxiv.org/abs/2506.03176)
+
+  - 2 Jul 2025, Bin Wang, et al.
+ 
+  - [[Official Code - SoP](https://github.com/hanyuki23/SoP)]
+ 
 - [LangTime: A Language-Guided Unified Model for Time Series Forecasting with Proximal Policy Optimization](https://arxiv.org/abs/2503.08271)
 
   - 01 Jul 2025, Wenzhe Niu, et al.
