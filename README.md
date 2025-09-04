@@ -366,6 +366,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 02 Feb 2025, Junxi Wu, et al.
  
   - [[Official Code - Error-quantified-Conformal-Inference](https://github.com/creator-xi/Error-quantified-Conformal-Inference)]
+ 
+- [FreEformer: Frequency Enhanced Transformer for Multivariate Time Series Forecasting](https://arxiv.org/abs/2501.13989)
+
+  - 23 Jan 2025, Wenzhen Yue, et al.
+ 
+  - [[Official Code - FreEformer](https://github.com/jackyue1994/FreEformer)]
 
 - [TVNet: A Novel Time Series Analysis Method Based on Dynamic Convolution and 3D-Variation](https://openreview.net/forum?id=MZDdTzN6Cy)
 
