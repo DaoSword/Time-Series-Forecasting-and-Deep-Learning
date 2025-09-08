@@ -80,6 +80,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 - [FLDmamba: Integrating Fourier and Laplace Transform Decomposition with Mamba for Enhanced Time Series Prediction](https://arxiv.org/abs/2507.12803)
 
   - 17 Jul 2025, Qianru Zhang, et al.
+
+- [The Power of Architecture: Deep Dive into Transformer Architectures for Long-Term Time Series Forecasting](https://arxiv.org/abs/2507.13043)
+
+  - 17 Jul 2025, Lefei Shen, et al.
+ 
+  - [[Official Code - TSF_architecture](https://github.com/HALF111/TSF_architecture)]
  
 - [Fourier Basis Mapping: A Time-Frequency Learning Framework for Time Series Forecasting](https://arxiv.org/abs/2507.09445)
 
