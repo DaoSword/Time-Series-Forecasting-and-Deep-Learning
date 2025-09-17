@@ -366,6 +366,10 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 11 Feb 2025, Artyom Stitsyuk, et al.
  
   - [[Official Code - xPatch](https://github.com/stitsyuk/xPatch)]
+ 
+- [IN-Flow: Instance Normalization Flow for Non-stationary Time Series Forecasting](https://arxiv.org/abs/2401.16777)
+
+  - 06 Feb 2025, Wei Fan, et al.
 
 - [Error-quantified Conformal Inference for Time Series](https://arxiv.org/abs/2502.00818)
 
