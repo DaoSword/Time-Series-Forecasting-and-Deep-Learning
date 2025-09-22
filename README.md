@@ -51,6 +51,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ### 2025
 
+- [Super-Linear: A Lightweight Pretrained Mixture of Linear Experts for Time Series Forecasting](https://arxiv.org/abs/2509.15105)
+
+  - 18 Sep 2025, Liran Nochumsohn, et al.
+ 
+  - [[Official Code - SuperLinear](https://github.com/azencot-group/SuperLinear)]
+
 - [FinCast: A Foundation Model for Financial Time-Series Forecasting](https://arxiv.org/abs/2508.19609)
 
   - 27 Aug 2025, Zhuohang Zhu, et al.
