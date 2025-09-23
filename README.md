@@ -355,6 +355,10 @@ List of research papers focus on time series forecasting and deep learning, as w
  
   - [[Official Code - TimeDART](https://github.com/Melmaphother/TimeDART)]
  
+- [Adapting Large Language Models for Time Series Modeling via a Novel Parameter-efficient Adaptation Method](https://arxiv.org/abs/2502.13725)
+
+  - 19 Feb 2025, Juyuan Zhang, et al.
+ 
 - [Harnessing Vision Models for Time Series Analysis: A Survey](https://arxiv.org/abs/2502.08869)
 
   - 13 Feb 2025, Jingchao Ni, et al.
