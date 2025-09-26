@@ -184,6 +184,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 25 May 2025, Haotian Si, et al.
  
   - [[Official Code - CMoS](https://github.com/CSTCloudOps/CMoS)]
+
+- [HyperIMTS: Hypergraph Neural Network for Irregular Multivariate Time Series Forecasting](https://arxiv.org/abs/2505.17431)
+
+  - 23 May 2025, Boyuan Li, et al.
+ 
+  - [[Official Code - PyOmniTS](https://github.com/Ladbaby/PyOmniTS)]
  
 - [Output Scaling: YingLong-Delayed Chain of Thought in a Large Pretrained Time Series Forecasting Model](https://arxiv.org/abs/2506.11029)
 
