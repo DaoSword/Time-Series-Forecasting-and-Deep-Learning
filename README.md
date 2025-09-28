@@ -51,6 +51,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ### 2025
 
+- [DAG: A Dual Causal Network for Time Series Forecasting with Exogenous Variables](https://arxiv.org/abs/2509.14933)
+
+  - 18 Sep 2025, Xiangfei Qiu, et al.
+ 
+  - [[Official Code - DAG](https://github.com/decisionintelligence/DAG)]
+
 - [Super-Linear: A Lightweight Pretrained Mixture of Linear Experts for Time Series Forecasting](https://arxiv.org/abs/2509.15105)
 
   - 18 Sep 2025, Liran Nochumsohn, et al.
