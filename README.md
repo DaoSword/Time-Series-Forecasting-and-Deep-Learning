@@ -51,6 +51,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ### 2025
 
+- [DPANet: Dual Pyramid Attention Network for Multivariate Time Series Forecasting](https://arxiv.org/abs/2509.14868)
+
+  - 19 Sep 2025, Qianyang Li, et al.
+ 
+  - [[Official Code - DPANet](https://github.com/hit636/DPANet)]
+
 - [DAG: A Dual Causal Network for Time Series Forecasting with Exogenous Variables](https://arxiv.org/abs/2509.14933)
 
   - 18 Sep 2025, Xiangfei Qiu, et al.
