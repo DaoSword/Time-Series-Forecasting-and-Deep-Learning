@@ -72,6 +72,10 @@ List of research papers focus on time series forecasting and deep learning, as w
 - [FinCast: A Foundation Model for Financial Time-Series Forecasting](https://arxiv.org/abs/2508.19609)
 
   - 27 Aug 2025, Zhuohang Zhu, et al.
+ 
+- [Interpreting Time Series Forecasts with LIME and SHAP: A Case Study on the Air Passengers Dataset](https://arxiv.org/abs/2508.12253)
+
+  - 17 Aug 2025, Manish Shukla, et al.
 
 - [From Values to Tokens: An LLM-Driven Framework for Context-aware Time Series Forecasting via Symbolic Discretization](https://arxiv.org/abs/2508.09191)
 
