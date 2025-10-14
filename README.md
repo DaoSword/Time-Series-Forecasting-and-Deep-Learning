@@ -51,6 +51,10 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ### 2025
 
+- [Benchmarking M-LTSF: Frequency and Noise-Based Evaluation of Multivariate Long Time Series Forecasting Models](https://arxiv.org/abs/2510.04900)
+
+  - 06 Oct 2025, Nick Janßen, et al.
+
 - [DPANet: Dual Pyramid Attention Network for Multivariate Time Series Forecasting](https://arxiv.org/abs/2509.14868)
 
   - 19 Sep 2025, Qianyang Li, et al.
