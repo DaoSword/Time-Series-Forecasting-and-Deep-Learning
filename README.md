@@ -51,6 +51,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ### 2025
 
+- [Multi-Scale Finetuning for Encoder-based Time Series Foundation Models](https://arxiv.org/abs/2506.14087)
+
+  - 10 Oct 2025, Zhongzheng Qiao, et al.
+ 
+  - [[Official Code - MSFT](https://github.com/zqiao11/MSFT)]
+
 - [Benchmarking M-LTSF: Frequency and Noise-Based Evaluation of Multivariate Long Time Series Forecasting Models](https://arxiv.org/abs/2510.04900)
 
   - 06 Oct 2025, Nick Janßen, et al.
