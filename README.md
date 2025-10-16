@@ -349,6 +349,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 
   - 10 Mar 2025, Geon Lee, et al.
  
+- [TS-LIF: A Temporal Segment Spiking Neuron Network for Time Series Forecasting](https://arxiv.org/abs/2503.05108)
+
+  - 7 Mar 2025, Shibo Feng, et al.
+ 
+  - [[Official Code - TS-LIF](https://github.com/kkking-kk/TS-LIF)]
+ 
 - [Patch-wise Structural Loss for Time Series Forecasting](https://arxiv.org/abs/2503.00877)
 
   - 02 Mar 2025, Dilfira Kudrat, et al.
