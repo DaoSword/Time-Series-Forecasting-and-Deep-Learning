@@ -51,6 +51,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ### 2025
 
+- [Enhancing Time Series Forecasting through Selective Representation Spaces: A Patch Perspective](https://arxiv.org/abs/2510.14510)
+
+  - 20 Oct 2025, Xingjian Wu, et al.
+ 
+  - [[Official Code - SRSNet](https://github.com/decisionintelligence/SRSNet)]
+
 - [Tackling Time-Series Forecasting Generalization via Mitigating Concept Drift](https://arxiv.org/abs/2510.14814)
 
   - 16 Oct 2025, Zhiyuan Zhao, et al.
