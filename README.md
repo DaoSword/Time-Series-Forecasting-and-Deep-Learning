@@ -243,6 +243,12 @@ List of research papers focus on time series forecasting and deep learning, as w
  
   - [[Official Code - YingLong](https://github.com/wxie9/YingLong)]
  
+- [Non-stationary Diffusion For Probabilistic Time Series Forecasting](https://arxiv.org/abs/2505.04278)
+
+  - 19 May 2025, Weiwei Ye, et al.
+ 
+  - [[Official Code - NsDiff](https://github.com/wwy155/NsDiff)]
+ 
 - [Temporal Query Network for Efficient Multivariate Time Series Forecasting](https://arxiv.org/abs/2505.12917)
 
   - 19 May 2025, Shengsheng Lin, et al.
