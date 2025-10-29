@@ -168,6 +168,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 12 Jun 2025, Yucong Luo, et al.
  
   - [[Official Code - Time-R1](https://github.com/lqzxt/Time-R1)]
+
+- [TSFM-Bench: A Comprehensive and Unified Benchmark of Foundation Models for Time Series Forecasting](https://arxiv.org/abs/2410.11802)
+
+  - 12 Jun 2025, Zhe Li, et al.
+ 
+  - [[Official Code - TSFM-Bench](https://github.com/decisionintelligence/TSFM-Bench)]
  
 - [Can Slow-thinking LLMs Reason Over Time? Empirical Studies in Time Series Forecasting](https://arxiv.org/abs/2505.24511)
 
