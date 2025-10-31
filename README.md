@@ -51,6 +51,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ### 2025
 
+- [Abstain Mask Retain Core: Time Series Prediction by Adaptive Masking Loss with Representation Consistency](https://arxiv.org/abs/2510.19980)
+
+  - 22 Oct 2025, Renzhao Liang, et al.
+ 
+  - [[Official Code - AMRC](https://github.com/MazelTovy/AMRC)]
+
 - [Enhancing Time Series Forecasting through Selective Representation Spaces: A Patch Perspective](https://arxiv.org/abs/2510.14510)
 
   - 20 Oct 2025, Xingjian Wu, et al.
