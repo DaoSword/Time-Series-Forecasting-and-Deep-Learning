@@ -51,6 +51,10 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ### 2025
 
+- [TempoPFN: Synthetic Pre-training of Linear RNNs for Zero-shot Time Series Forecasting](https://arxiv.org/abs/2510.25502)
+
+  - 31 Oct 2025, Vladyslav Moroshan, et al.
+
 - [Abstain Mask Retain Core: Time Series Prediction by Adaptive Masking Loss with Representation Consistency](https://arxiv.org/abs/2510.19980)
 
   - 22 Oct 2025, Renzhao Liang, et al.
