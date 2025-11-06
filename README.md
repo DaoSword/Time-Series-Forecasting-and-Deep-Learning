@@ -66,6 +66,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 22 Oct 2025, Renzhao Liang, et al.
  
   - [[Official Code - AMRC](https://github.com/MazelTovy/AMRC)]
+ 
+- [SEMPO: Lightweight Foundation Models for Time Series Forecasting](https://arxiv.org/abs/2510.19710)
+
+  - 22 Oct 2025, Hui He, et al.
+ 
+  - [[Official Code - SEMPO](https://github.com/mala-lab/SEMPO)]
 
 - [Enhancing Time Series Forecasting through Selective Representation Spaces: A Patch Perspective](https://arxiv.org/abs/2510.14510)
 
