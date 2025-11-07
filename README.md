@@ -238,6 +238,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 30 May 2025, Yong Liu, et al.
  
   - [[Official Code - Sundial](https://github.com/thuml/Sundial)]
+ 
+- [Improving Time Series Forecasting via Instance-aware Post-hoc Revision](https://arxiv.org/abs/2505.23583)
+
+  - 29 May 2025, Zhiding Liu, et al.
+
+  - [[Official Code - PIR](https://github.com/icantnamemyself/PIR)]
 
 - [Less is More: Unlocking Specialization of Time Series Foundation Models via Structured Pruning](https://arxiv.org/abs/2505.23195)
 
