@@ -93,6 +93,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 
   - 06 Oct 2025, Nick Janßen, et al.
  
+- [U-Cast: Learning Hierarchical Structures for High-Dimensional Time Series Forecasting](https://arxiv.org/abs/2507.15119)
+
+  - 29 Sep 2025, Juntong Ni, et al.
+ 
+  - [[Official Code - Time-HD-Lib](https://github.com/UnifiedTSAI/Time-HD-Lib)]
+ 
 - [Why Attention Fails: The Degeneration of Transformers into MLPs in Time Series Forecasting](https://arxiv.org/abs/2509.20942)
 
   - 25 Sep 2025, Zida Liang, et al.
