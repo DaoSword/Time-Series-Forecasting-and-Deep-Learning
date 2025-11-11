@@ -51,6 +51,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ### 2025
 
+- [LEAF: Large Language Diffusion Model for Time Series Forecasting](https://aclanthology.org/2025.findings-emnlp.58/)
+
+  - 09 Nov 2025, Yuhang Pei, et al.
+ 
+  - [[Official Code - LEAF](https://github.com/YushengZhao/LEAF)]
+
 - [TempoPFN: Synthetic Pre-training of Linear RNNs for Zero-shot Time Series Forecasting](https://arxiv.org/abs/2510.25502)
 
   - 31 Oct 2025, Vladyslav Moroshan, et al.
