@@ -139,6 +139,10 @@ List of research papers focus on time series forecasting and deep learning, as w
 
   - 27 Aug 2025, Zhuohang Zhu, et al.
  
+- [FLAIRR-TS -- Forecasting LLM-Agents with Iterative Refinement and Retrieval for Time Series](https://arxiv.org/abs/2508.19279)
+
+  - 24 Aug 2025, Gunjan Jalori, et al.
+ 
 - [Interpreting Time Series Forecasts with LIME and SHAP: A Case Study on the Air Passengers Dataset](https://arxiv.org/abs/2508.12253)
 
   - 17 Aug 2025, Manish Shukla, et al.
