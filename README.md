@@ -70,6 +70,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 29 Oct 2025, Yisong Fu, et al.
  
   - [[Official Code - selective-learning](https://github.com/GestaltCogTeam/selective-learning)]
+ 
+- [Not All Data are Good Labels: On the Self-supervised Labeling for Time Series Forecasting](https://arxiv.org/abs/2502.14704)
+
+  - 27 Oct 2025, Yuxuan Yang, et al.
+ 
+  - [[Official Code - SCAM](https://github.com/Dutch-voyage/SCAM)]
 
 - [Abstain Mask Retain Core: Time Series Prediction by Adaptive Masking Loss with Representation Consistency](https://arxiv.org/abs/2510.19980)
 
