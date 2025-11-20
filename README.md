@@ -54,6 +54,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 - [Beyond MSE: Ordinal Cross-Entropy for Probabilistic Time Series Forecasting](https://arxiv.org/abs/2511.10200)
 
   - 13 Nov 2025, Jieting Wang, et al.
+ 
+- [EMAformer: Enhancing Transformer through Embedding Armor for Time Series Forecasting](https://arxiv.org/abs/2511.08396)
+
+  - 11 Nov 2025, Zhiwei Zhang, et al.
+ 
+  - [[Official Code - EMAformer](https://github.com/PlanckChang/EMAformer)]
 
 - [LEAF: Large Language Diffusion Model for Time Series Forecasting](https://aclanthology.org/2025.findings-emnlp.58/)
 
