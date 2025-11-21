@@ -66,6 +66,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 09 Nov 2025, Yuhang Pei, et al.
  
   - [[Official Code - LEAF](https://github.com/YushengZhao/LEAF)]
+ 
+- [This Time is Different: An Observability Perspective on Time Series Foundation Models](https://arxiv.org/abs/2505.14766)
+
+  - 04 Nov 2025, Ben Cohen, et al.
+ 
+  - [[Official Code - toto](https://github.com/DataDog/toto)]
 
 - [TempoPFN: Synthetic Pre-training of Linear RNNs for Zero-shot Time Series Forecasting](https://arxiv.org/abs/2510.25502)
 
