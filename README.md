@@ -72,6 +72,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 04 Nov 2025, Ben Cohen, et al.
  
   - [[Official Code - toto](https://github.com/DataDog/toto)]
+ 
+- [Multi-Modal View Enhanced Large Vision Models for Long-Term Time Series Forecasting](https://arxiv.org/abs/2505.24003)
+
+  - 31 Oct 2025, ChengAo Shen, et al.
+ 
+  - [[Official Code - dmmv](https://github.com/D2I-Group/dmmv)]
 
 - [TempoPFN: Synthetic Pre-training of Linear RNNs for Zero-shot Time Series Forecasting](https://arxiv.org/abs/2510.25502)
 
