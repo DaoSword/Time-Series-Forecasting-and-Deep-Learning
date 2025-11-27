@@ -120,6 +120,10 @@ List of research papers focus on time series forecasting and deep learning, as w
 - [Tackling Time-Series Forecasting Generalization via Mitigating Concept Drift](https://arxiv.org/abs/2510.14814)
 
   - 16 Oct 2025, Zhiyuan Zhao, et al.
+ 
+- [Time Series Foundation Models: Benchmarking Challenges and Requirements](https://arxiv.org/abs/2510.13654)
+
+  - 15 Oct 2025, Marcel Meyer, et al.
 
 - [Multi-Scale Finetuning for Encoder-based Time Series Foundation Models](https://arxiv.org/abs/2506.14087)
 
