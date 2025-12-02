@@ -51,6 +51,10 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ### 2025
 
+- [SimDiff: Simpler Yet Better Diffusion Model for Time Series Point Forecasting](https://arxiv.org/abs/2511.19256)
+
+  - 24 Nov 2025, Hang Ding, et al.
+
 - [Adapformer: Adaptive Channel Management for Multivariate Time Series Forecasting](https://arxiv.org/abs/2511.14632)
 
   - 18 Nov 2025, Yuchen Luo, et al.
