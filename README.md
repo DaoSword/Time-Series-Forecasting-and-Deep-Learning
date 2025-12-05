@@ -67,6 +67,10 @@ List of research papers focus on time series forecasting and deep learning, as w
 
   - 13 Nov 2025, Jieting Wang, et al.
  
+- [MDMLP-EIA: Multi-domain Dynamic MLPs with Energy Invariant Attention for Time Series Forecasting](https://arxiv.org/abs/2511.09924)
+
+  - 13 Nov 2025, Hu Zhang, et al.
+ 
 - [EMAformer: Enhancing Transformer through Embedding Armor for Time Series Forecasting](https://arxiv.org/abs/2511.08396)
 
   - 11 Nov 2025, Zhiwei Zhang, et al.
