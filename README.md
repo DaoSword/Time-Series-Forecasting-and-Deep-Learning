@@ -71,6 +71,10 @@ List of research papers focus on time series forecasting and deep learning, as w
 
   - 13 Nov 2025, Hu Zhang, et al.
  
+- [CaReTS: A Multi-Task Framework Unifying Classification and Regression for Time Series Forecasting](https://arxiv.org/abs/2511.09789)
+
+  - 12 Nov 2025, Fulong Yao, et al.
+ 
 - [EMAformer: Enhancing Transformer through Embedding Armor for Time Series Forecasting](https://arxiv.org/abs/2511.08396)
 
   - 11 Nov 2025, Zhiwei Zhang, et al.
