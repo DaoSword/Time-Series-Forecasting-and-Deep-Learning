@@ -204,6 +204,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 08 Aug 2025, Xiaoyu Tao, et al.
  
   - [[Official Code - TokenCast](https://github.com/Xiaoyu-Tao/TokenCast)]
+ 
+- [T3Time: Tri-Modal Time Series Forecasting via Adaptive Multi-Head Alignment and Residual Fusion](https://arxiv.org/abs/2508.04251)
+
+  - 06 Aug 2025, Abdul Monaf Chowdhury, et al.
+ 
+  - [[Official Code - T3Time](https://github.com/monaf-chowdhury/T3Time)]
 
 - [CMA: A Unified Contextual Meta-Adaptation Methodology for Time-Series Denoising and Prediction](https://dl.acm.org/doi/10.1145/3711896.3736881)
 
