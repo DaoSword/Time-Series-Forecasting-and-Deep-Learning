@@ -114,6 +114,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 27 Oct 2025, Yuxuan Yang, et al.
  
   - [[Official Code - SCAM](https://github.com/Dutch-voyage/SCAM)]
+ 
+- [DMSC: Dynamic Multi-Scale Coordination Framework for Time Series Forecasting](https://arxiv.org/abs/2508.02753)
+
+  - 23 Oct 2025, Haonan Yang, et al.
+ 
+  - [[Official Code - DMSC](https://github.com/1327679995/DMSC)]
 
 - [Abstain Mask Retain Core: Time Series Prediction by Adaptive Masking Loss with Representation Consistency](https://arxiv.org/abs/2510.19980)
 
