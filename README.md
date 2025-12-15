@@ -62,6 +62,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 - [Adapformer: Adaptive Channel Management for Multivariate Time Series Forecasting](https://arxiv.org/abs/2511.14632)
 
   - 18 Nov 2025, Yuchen Luo, et al.
+ 
+- [Rethinking Irregular Time Series Forecasting: A Simple yet Effective Baseline](https://arxiv.org/abs/2505.11250)
+
+  - 17 Nov 2025, Xvyuan Liu, et al.
+ 
+  - [[Official Code - APN](https://github.com/decisionintelligence/APN)]
 
 - [Beyond MSE: Ordinal Cross-Entropy for Probabilistic Time Series Forecasting](https://arxiv.org/abs/2511.10200)
 
