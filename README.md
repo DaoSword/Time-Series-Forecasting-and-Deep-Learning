@@ -54,6 +54,8 @@ List of research papers focus on time series forecasting and deep learning, as w
 - [RI-Loss: A Learnable Residual-Informed Loss for Time Series Forecasting](https://arxiv.org/abs/2511.10130)
 
   - 27 Nov 2025, Jieting Wang, et al.
+ 
+  - [[Official Code - RI-Loss](https://github.com/shang-xl/RI-Loss)]
 
 - [SimDiff: Simpler Yet Better Diffusion Model for Time Series Point Forecasting](https://arxiv.org/abs/2511.19256)
 
