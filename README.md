@@ -364,6 +364,10 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 23 May 2025, Boyuan Li, et al.
  
   - [[Official Code - PyOmniTS](https://github.com/Ladbaby/PyOmniTS)]
+
+- [ReAugment: Model Zoo-Guided RL for Few-Shot Time Series Augmentation and Forecasting](https://arxiv.org/abs/2409.06282)
+
+  - 22 May 2025, Haochen Yuan, et al.
  
 - [Output Scaling: YingLong-Delayed Chain of Thought in a Large Pretrained Time Series Forecasting Model](https://arxiv.org/abs/2506.11029)
 
