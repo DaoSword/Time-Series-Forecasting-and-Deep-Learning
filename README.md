@@ -123,6 +123,10 @@ List of research papers focus on time series forecasting and deep learning, as w
  
   - [[Official Code - SCAM](https://github.com/Dutch-voyage/SCAM)]
  
+- [SwiftTS: A Swift Selection Framework for Time Series Pre-trained Models via Multi-task Meta-Learning](https://arxiv.org/abs/2510.23051)
+
+  - 27 Oct 2025, Tengxue Zhang, et al.
+ 
 - [DMSC: Dynamic Multi-Scale Coordination Framework for Time Series Forecasting](https://arxiv.org/abs/2508.02753)
 
   - 23 Oct 2025, Haonan Yang, et al.
