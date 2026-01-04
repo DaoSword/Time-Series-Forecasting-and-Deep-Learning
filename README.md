@@ -239,6 +239,10 @@ List of research papers focus on time series forecasting and deep learning, as w
 
   - 03 Aug 2025, Weijun Chen, et al.
  
+- [Tailored Forecasting from Short Time Series via Meta-learning](https://arxiv.org/abs/2501.16325)
+
+  - 31 Jul 2025, Declan A. Norton, et al.
+ 
 - [Multi-period Learning for Financial Time Series Forecasting](https://dl.acm.org/doi/10.1145/3690624.3709422)
 
   - 20 Jul 2025, Xu Zhang, et al.
