@@ -928,7 +928,13 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 24 Sep 2024, Xiaoming Shi, et al.
  
   - [[Official Code - Time-MoE](https://github.com/time-moe/time-moe)]
+
+- [D2Vformer: A Flexible Time Series Prediction Model Based on Time Position Embedding](https://arxiv.org/abs/2409.11024)
+
+  - 17 Sep 2024, Xiaobao Song, et al.
  
+  - [[Official Code - D2Vformer](https://github.com/TeamofHaoWang/D2Vformer)]
+  
 - [TimeDiT: General-purpose Diffusion Transformers for Time Series Foundation Model](https://arxiv.org/abs/2409.02322)
 
   - 03 Sep 2024, Defu Cao, et al.
