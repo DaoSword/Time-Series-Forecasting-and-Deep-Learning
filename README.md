@@ -51,6 +51,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ### 2025
 
+- [TwinFormer: A Dual-Level Transformer for Long-Sequence Time-Series Forecasting](https://arxiv.org/abs/2512.12301)
+
+  - 13 Dec 2025, Mahima Kumavat, et al.
+ 
+  - [[Official Code - TwinFormer](https://github.com/Mahimakumavat1205/TwinFormer)]
+
 - [RI-Loss: A Learnable Residual-Informed Loss for Time Series Forecasting](https://arxiv.org/abs/2511.10130)
 
   - 27 Nov 2025, Jieting Wang, et al.
