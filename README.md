@@ -85,6 +85,8 @@ List of research papers focus on time series forecasting and deep learning, as w
 
   - 13 Nov 2025, Hu Zhang, et al.
  
+  - [[Official Code - MDMLP-EIA](https://github.com/zh1985csuccsu/MDMLP-EIA)]
+ 
 - [CaReTS: A Multi-Task Framework Unifying Classification and Regression for Time Series Forecasting](https://arxiv.org/abs/2511.09789)
 
   - 12 Nov 2025, Fulong Yao, et al.
