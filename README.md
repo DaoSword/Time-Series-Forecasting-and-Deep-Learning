@@ -813,6 +813,10 @@ List of research papers focus on time series forecasting and deep learning, as w
  
   - [[Official Code - From_News_to_Forecast](https://github.com/ameliawong1996/From_News_to_Forecast)]
  
+- [Sequential Order-Robust Mamba for Time Series Forecasting](https://arxiv.org/abs/2410.23356)
+
+  - 30 Oct 2024, Seunghan Lee, et al.
+ 
 - [LTBoost: Boosted Hybrids of Ensemble Linear and Gradient Algorithms for the Long-term Time Series Forecasting](https://dl.acm.org/doi/10.1145/3627673.3679527)
 
   - 21 Oct 2024, Hubert Truchan, et al.
