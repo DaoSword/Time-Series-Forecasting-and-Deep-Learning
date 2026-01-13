@@ -577,6 +577,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 
   - 19 Feb 2025, Juyuan Zhang, et al.
  
+- [AdaPTS: Adapting Univariate Foundation Models to Probabilistic Multivariate Time Series Forecasting](https://arxiv.org/abs/2502.10235)
+
+  - 14 Feb 2025, Abdelhakim Benechehab, et al.
+ 
+  - [[Official Code - AdaPTS](https://github.com/abenechehab/AdaPTS)]
+ 
 - [Harnessing Vision Models for Time Series Analysis: A Survey](https://arxiv.org/abs/2502.08869)
 
   - 13 Feb 2025, Jingchao Ni, et al.
