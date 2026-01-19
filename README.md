@@ -13,6 +13,7 @@ List of research papers focus on time series forecasting and deep learning, as w
 - [Applications](#Applications)
 - [Benchmarks](#Benchmarks)
 - [Papers](#Papers)
+  - [2026](#2026)
   - [2025](#2025)
   - [2024](#2024)
   - [2023](#2023)
@@ -48,6 +49,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   -  `GIFT-Eval` is a pioneering benchmark aimed at promoting evaluation across diverse datasets.
 
 ## Papers
+
+### 2026
+
+- [ReCast: Reliability-aware Codebook Assisted Lightweight Time Series Forecasting](https://arxiv.org/abs/2511.11991)
+
+  - 09 Jan 2026, Xiang Ma, et al.
 
 ### 2025
 
