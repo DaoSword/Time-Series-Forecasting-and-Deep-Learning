@@ -63,6 +63,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 13 Dec 2025, Mahima Kumavat, et al.
  
   - [[Official Code - TwinFormer](https://github.com/Mahimakumavat1205/TwinFormer)]
+ 
+- [Time Series Forecasting via Direct Per-Step Probability Distribution Modeling](https://arxiv.org/abs/2511.23260)
+
+  - 28 Nov 2025, Linghao Kong, et al.
+ 
+  - [[Official Code - interPDN](https://github.com/leonardokong486/interPDN)]
 
 - [RI-Loss: A Learnable Residual-Informed Loss for Time Series Forecasting](https://arxiv.org/abs/2511.10130)
 
