@@ -64,6 +64,12 @@ List of research papers focus on time series forecasting and deep learning, as w
  
   - [[Official Code - TwinFormer](https://github.com/Mahimakumavat1205/TwinFormer)]
  
+- [Sonnet: Spectral Operator Neural Network for Multivariable Time Series Forecasting](https://arxiv.org/abs/2505.15312)
+
+  - 09 Dec 2025, Yuxuan Shu, et al.
+ 
+  - [[Official Code - Sonnet](https://github.com/ClaudiaShu/Sonnet)]
+ 
 - [Time Series Forecasting via Direct Per-Step Probability Distribution Modeling](https://arxiv.org/abs/2511.23260)
 
   - 28 Nov 2025, Linghao Kong, et al.
