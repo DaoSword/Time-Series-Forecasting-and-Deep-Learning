@@ -358,6 +358,12 @@ List of research papers focus on time series forecasting and deep learning, as w
  
   - [[Official Code - timeMCL](https://github.com/Victorletzelter/timeMCL)]
  
+- [Language in the Flow of Time: Time-Series-Paired Texts Weaved into a Unified Temporal Narrative](https://arxiv.org/abs/2502.08942)
+
+  - 01 Jun 2025, Zihao Li, et al.
+ 
+  - [[Official Code - TaTS](https://github.com/iDEA-iSAIL-Lab-UIUC/TaTS)]
+ 
 - [K2 VAE: A Koopman-Kalman Enhanced Variational AutoEncoder for Probabilistic Time Series Forecasting](https://arxiv.org/abs/2505.23017)
 
   - 30 May 2025, Xingjian Wu, et al.
