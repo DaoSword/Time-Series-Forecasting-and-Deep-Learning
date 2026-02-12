@@ -52,6 +52,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ### 2026
 
+- [A Comprehensive Survey of Deep Learning for Multivariate Time Series Forecasting: A Channel Strategy Perspective](https://arxiv.org/abs/2502.10721)
+
+  - 27 Jan 2026, Xiangfei Qiu, et al.
+
+  - [[Official Code - CS4TS](https://github.com/decisionintelligence/CS4TS)]
+
 - [ReCast: Reliability-aware Codebook Assisted Lightweight Time Series Forecasting](https://arxiv.org/abs/2511.11991)
 
   - 09 Jan 2026, Xiang Ma, et al.
