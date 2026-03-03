@@ -52,6 +52,10 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ### 2026
 
+- [SciTS: Scientific Time Series Understanding and Generation with LLMs](https://arxiv.org/abs/2510.03255)
+
+  - 25 Feb 2026, Wen Wu, et al.
+
 - [StretchTime: Adaptive Time Series Forecasting via Symplectic Attention](https://arxiv.org/abs/2602.08983)
 
   - 09 Feb 2026, Yubin Kim, et al.
