@@ -52,6 +52,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ### 2026
 
+- [CPiRi: Channel Permutation-Invariant Relational Interaction for Multivariate Time Series Forecasting](https://arxiv.org/abs/2601.20318)
+
+  - 27 Feb 2026, Jiyuan Xu, et al.
+ 
+  - [[Official Code - CPiRi](https://github.com/JasonStraka/CPiRi)]
+
 - [SciTS: Scientific Time Series Understanding and Generation with LLMs](https://arxiv.org/abs/2510.03255)
 
   - 25 Feb 2026, Wen Wu, et al.
