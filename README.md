@@ -75,6 +75,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 27 Jan 2026, Xiangfei Qiu, et al.
 
   - [[Official Code - CS4TS](https://github.com/decisionintelligence/CS4TS)]
+ 
+- [Time series forecasting with Hahn Kolmogorov-Arnold networks](https://arxiv.org/abs/2601.18837)
+
+  - 25 Jan 2026, Md Zahidul Hasan, et al.
+ 
+  - [[Official Code - HaKAN](https://github.com/zadidhasan/HaKAN)]
 
 - [ReCast: Reliability-aware Codebook Assisted Lightweight Time Series Forecasting](https://arxiv.org/abs/2511.11991)
 
