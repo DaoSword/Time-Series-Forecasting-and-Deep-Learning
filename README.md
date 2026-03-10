@@ -65,6 +65,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 - [SciTS: Scientific Time Series Understanding and Generation with LLMs](https://arxiv.org/abs/2510.03255)
 
   - 25 Feb 2026, Wen Wu, et al.
+ 
+- [SEMixer: Semantics Enhanced MLP-Mixer for Multiscale Mixing and Long-term Time Series Forecasting](https://arxiv.org/abs/2602.16220)
+
+  - 18 Feb 2026, Xu Zhang, et al.
+ 
+  - [[Official Code - SEMixer](https://github.com/Meteor-Stars/SEMixer)]
 
 - [StretchTime: Adaptive Time Series Forecasting via Symplectic Attention](https://arxiv.org/abs/2602.08983)
 
