@@ -98,6 +98,10 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ### 2025
 
+- [Dynamic Sector Fusion Transformer for Stock Index Prediction](https://dl.acm.org/doi/10.1145/3772726.3772794)
+
+  - 16 Dec 2025, Xu Wang, et al.
+
 - [TwinFormer: A Dual-Level Transformer for Long-Sequence Time-Series Forecasting](https://arxiv.org/abs/2512.12301)
 
   - 13 Dec 2025, Mahima Kumavat, et al.
