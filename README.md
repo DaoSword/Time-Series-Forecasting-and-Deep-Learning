@@ -227,6 +227,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 20 Oct 2025, Xingjian Wu, et al.
  
   - [[Official Code - SRSNet](https://github.com/decisionintelligence/SRSNet)]
+ 
+- [Chronos-2: From Univariate to Universal Forecasting](https://arxiv.org/abs/2510.15821)
+
+  - 17 Oct 2025, Abdul Fatir Ansari, et al.
+ 
+  - [[Official Code - chronos-2](https://huggingface.co/amazon/chronos-2)]
 
 - [Tackling Time-Series Forecasting Generalization via Mitigating Concept Drift](https://arxiv.org/abs/2510.14814)
 
