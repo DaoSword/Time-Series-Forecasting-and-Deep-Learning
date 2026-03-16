@@ -47,6 +47,10 @@ List of research papers focus on time series forecasting and deep learning, as w
 - [GIFT-Eval Time Series Forecasting Leaderboard](https://huggingface.co/spaces/Salesforce/GIFT-Eval)
 
   -  `GIFT-Eval` is a pioneering benchmark aimed at promoting evaluation across diverse datasets.
+ 
+- [It's TIME: Towards the Next Generation of Time Series Forecasting Benchmarks](https://github.com/zqiao11/TIME)
+
+  - `TIME` is a task-centric time series forecasting benchmark comprising various fresh datasets, tailored for zero-shot TSFM evaluation.
 
 ## Papers
 
