@@ -147,6 +147,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 17 Nov 2025, Xvyuan Liu, et al.
  
   - [[Official Code - APN](https://github.com/decisionintelligence/APN)]
+ 
+- [OccamVTS: Distilling Vision Models to 1% Parameters for Time Series Forecasting](https://arxiv.org/abs/2508.01727)
+
+  - 14 Nov 2025, Sisuo Lyu, et al.
+ 
+  - [[Official Code - OccamVTS](https://github.com/sisuolv/OccamVTS)]
 
 - [Beyond MSE: Ordinal Cross-Entropy for Probabilistic Time Series Forecasting](https://arxiv.org/abs/2511.10200)
 
