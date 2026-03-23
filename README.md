@@ -690,6 +690,12 @@ List of research papers focus on time series forecasting and deep learning, as w
  
   - [[Official Code - HDT](https://github.com/hdtkk/HDT)]
  
+- [Are KANs Effective for Multivariate Time Series Forecasting?](https://arxiv.org/abs/2408.11306)
+
+  - 11 Feb 2025, Xiao Han, et al.
+ 
+  - [[Official Code - EasyTSF](https://github.com/smilehanCN/EasyTSF)]
+ 
 - [xPatch: Dual-Stream Time Series Forecasting with Exponential Seasonal-Trend Decomposition](https://arxiv.org/abs/2412.17323)
 
   - 11 Feb 2025, Artyom Stitsyuk, et al.
