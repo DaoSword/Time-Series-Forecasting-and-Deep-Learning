@@ -74,6 +74,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 
   - 25 Feb 2026, Wen Wu, et al.
  
+- [TimeOmni-1: Incentivizing Complex Reasoning with Time Series in Large Language Models](https://arxiv.org/abs/2509.24803)
+
+  - 24 Feb 2026, Tong Guan, et al.
+ 
+  - [[Official Code - TimeOmni-1](https://github.com/AntonGuan/TimeOmni-1)]
+ 
 - [SEMixer: Semantics Enhanced MLP-Mixer for Multiscale Mixing and Long-term Time Series Forecasting](https://arxiv.org/abs/2602.16220)
 
   - 18 Feb 2026, Xu Zhang, et al.
