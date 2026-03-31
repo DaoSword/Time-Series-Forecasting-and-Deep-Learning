@@ -398,6 +398,12 @@ List of research papers focus on time series forecasting and deep learning, as w
  
   - [[Official Code - TSFM-Bench](https://github.com/decisionintelligence/TSFM-Bench)]
  
+- [Mamba time series forecasting with uncertainty quantification](https://arxiv.org/abs/2503.10873)
+
+  - 11 Jun 2025, Pedro Pessoa, et al.
+ 
+  - [[Official Code - Mamba-ProbTSF](https://github.com/PessoaP/Mamba-ProbTSF)]
+ 
 - [Can Slow-thinking LLMs Reason Over Time? Empirical Studies in Time Series Forecasting](https://arxiv.org/abs/2505.24511)
 
   - 10 Jun 2025, Jiahao Wang, et al.
