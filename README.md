@@ -416,6 +416,12 @@ List of research papers focus on time series forecasting and deep learning, as w
  
   - [[Official Code - TabPFN-TSP](https://github.com/sibo-cai/TabPFN-TSP)]
  
+- [KARMA: A Multilevel Decomposition Hybrid Mamba Framework for Multivariate Long-Term Time Series Forecasting](https://arxiv.org/abs/2506.08939)
+
+  - 10 Jun 2025, Hang Ye, et al.
+ 
+  - [[Official Code - KARMA](https://github.com/yedadasd/KARMA)]
+ 
 - [LightGTS: A Lightweight General Time Series Forecasting Model](https://arxiv.org/abs/2506.06005)
 
   - 06 Jun 2025, Yihang Wang, et al.
