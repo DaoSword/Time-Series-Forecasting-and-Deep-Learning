@@ -194,6 +194,12 @@ List of research papers focus on time series forecasting and deep learning, as w
  
   - [[Official Code - toto](https://github.com/DataDog/toto)]
  
+- [SST: Multi-Scale Hybrid Mamba-Transformer Experts for Time Series Forecasting](https://arxiv.org/abs/2404.14757)
+
+  - 02 Nov 2025, Xiongxiao Xu, et al.
+ 
+  - [[Official Code - SST](https://github.com/XiongxiaoXu/SST)]
+ 
 - [Multi-Modal View Enhanced Large Vision Models for Long-Term Time Series Forecasting](https://arxiv.org/abs/2505.24003)
 
   - 31 Oct 2025, ChengAo Shen, et al.
