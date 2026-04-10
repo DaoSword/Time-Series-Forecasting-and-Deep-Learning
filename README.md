@@ -56,6 +56,10 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ### 2026
 
+- [Time Tracker: Mixture-of-Experts-Enhanced Foundation Time Series Forecasting Model with Decoupled Training Pipelines](https://arxiv.org/abs/2505.15151)
+
+  - 18 Mar 2026, Aobo Liang, et al.
+
 - [From Tokenizer Bias to Backbone Capability: A Controlled Study of LLMs for Time Series Forecasting](https://arxiv.org/abs/2504.08818)
 
   - 06 Mar 2026, Xinyu Zhang, et al.
