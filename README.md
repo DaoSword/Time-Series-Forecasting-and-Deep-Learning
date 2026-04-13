@@ -264,6 +264,8 @@ List of research papers focus on time series forecasting and deep learning, as w
 
   - 16 Oct 2025, Zhiyuan Zhao, et al.
  
+  - [[Official Code - ShifTS](https://github.com/AdityaLab/ShifTS)]
+ 
 - [Time Series Foundation Models: Benchmarking Challenges and Requirements](https://arxiv.org/abs/2510.13654)
 
   - 15 Oct 2025, Marcel Meyer, et al.
