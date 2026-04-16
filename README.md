@@ -599,6 +599,10 @@ List of research papers focus on time series forecasting and deep learning, as w
 - [ms-Mamba: Multi-scale Mamba for Time-Series Forecasting](https://arxiv.org/abs/2504.07654)
 
   - 10 Apr 2025, Yusuf Meric Karadag, et al.
+ 
+- [Foundation Models for Time Series: A Survey](https://arxiv.org/abs/2504.04011)
+
+  - 05 Apr 2025, Siva Rama Krishna Kottapalli, et al.
 
 - [Integrating Quantum-Classical Attention in Patch Transformers for Enhanced Time Series Forecasting](https://arxiv.org/abs/2504.00068)
 
