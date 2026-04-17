@@ -79,6 +79,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 27 Feb 2026, Jiyuan Xu, et al.
  
   - [[Official Code - CPiRi](https://github.com/JasonStraka/CPiRi)]
+ 
+- [Learning Recursive Multi-Scale Representations for Irregular Multivariate Time Series Forecasting](https://arxiv.org/abs/2602.21498)
+
+  - 25 Feb 2026, Boyuan Li, et al.
+ 
+  - [[Official Code - PyOmniTS](https://github.com/Ladbaby/PyOmniTS)]
 
 - [SciTS: Scientific Time Series Understanding and Generation with LLMs](https://arxiv.org/abs/2510.03255)
 
