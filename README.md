@@ -106,6 +106,10 @@ List of research papers focus on time series forecasting and deep learning, as w
 
   - 09 Feb 2026, Yubin Kim, et al.
  
+- [Position: The Inevitable End of One-Architecture-Fits-All-Domains in Time Series Forecasting](https://arxiv.org/abs/2602.01736)
+
+  - 02 Feb 2026, Qinwei Ma, et al.
+ 
 - [Conformal Prediction Algorithms for Time Series Forecasting: Methods and Benchmarking](https://arxiv.org/abs/2601.18509)
 
   - 30 Jan 2026, Andro Sabashvili, et al.
