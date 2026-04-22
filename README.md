@@ -480,6 +480,12 @@ List of research papers focus on time series forecasting and deep learning, as w
  
   - [[Official Code - TaTS](https://github.com/iDEA-iSAIL-Lab-UIUC/TaTS)]
  
+- [IMTS is Worth Time × Channel Patches: Visual Masked Autoencoders for Irregular Multivariate Time Series Prediction](https://arxiv.org/abs/2505.22815)
+
+  - 30 May 2025, Zhangyi Hu, et al.
+ 
+  - [[Official Code - VIMTS](https://github.com/WHU-HZY/VIMTS)]
+ 
 - [K2 VAE: A Koopman-Kalman Enhanced Variational AutoEncoder for Probabilistic Time Series Forecasting](https://arxiv.org/abs/2505.23017)
 
   - 30 May 2025, Xingjian Wu, et al.
