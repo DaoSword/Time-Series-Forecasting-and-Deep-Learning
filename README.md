@@ -61,6 +61,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 10 Apr 2026, Xiaohan Zhang, et al.
  
   - [[Official Code - AlphaCast](https://github.com/echo01-ai/AlphaCast)]
+ 
+- [TimeRecipe: A Time-Series Forecasting Recipe via Benchmarking Module Level Effectiveness](https://arxiv.org/abs/2506.06482)
+
+  - 25 Mar 2026, Zhiyuan Zhao, et al.
+ 
+  - [[Official Code - TimeRecipe](https://github.com/AdityaLab/TimeRecipe)]
 
 - [Time Tracker: Mixture-of-Experts-Enhanced Foundation Time Series Forecasting Model with Decoupled Training Pipelines](https://arxiv.org/abs/2505.15151)
 
