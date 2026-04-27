@@ -51,6 +51,10 @@ List of research papers focus on time series forecasting and deep learning, as w
 - [It's TIME: Towards the Next Generation of Time Series Forecasting Benchmarks](https://github.com/zqiao11/TIME)
 
   - `TIME` is a task-centric time series forecasting benchmark comprising various fresh datasets, tailored for zero-shot TSFM evaluation.
+ 
+- [QuitoBench — A High-Quality Open Time Series Forecasting Benchmark](https://hq-bench.github.io/quito/)
+
+  - `QuitoBench` is an evaluation benchmark with balanced coverage across eight trend×seasonality×forecastability (TSF) regimes—a difficulty-centric design that captures forecasting-relevant properties rather than application-defined domain labels.
 
 ## Papers
 
