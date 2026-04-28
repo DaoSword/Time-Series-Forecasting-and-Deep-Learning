@@ -145,6 +145,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 - [ReCast: Reliability-aware Codebook Assisted Lightweight Time Series Forecasting](https://arxiv.org/abs/2511.11991)
 
   - 09 Jan 2026, Xiang Ma, et al.
+ 
+- [TimeDistill: Efficient Long-Term Time Series Forecasting with MLP via Cross-Architecture Distillation](https://arxiv.org/abs/2502.15016)
+
+  - 07 Jan 2026, Juntong Ni, et al.
+ 
+  - [[Official Code - TimeDistill](https://github.com/LingFengGold/TimeDistill)]
 
 ### 2025
 
