@@ -369,6 +369,10 @@ List of research papers focus on time series forecasting and deep learning, as w
 - [Interpreting Time Series Forecasts with LIME and SHAP: A Case Study on the Air Passengers Dataset](https://arxiv.org/abs/2508.12253)
 
   - 17 Aug 2025, Manish Shukla, et al.
+ 
+- [Wavelet Mixture of Experts for Time Series Forecasting](https://arxiv.org/abs/2508.08825)
+
+  - 12 Aug 2025, Zheng Zhou, et al.
 
 - [From Values to Tokens: An LLM-Driven Framework for Context-aware Time Series Forecasting via Symbolic Discretization](https://arxiv.org/abs/2508.09191)
 
