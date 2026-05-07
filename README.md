@@ -117,6 +117,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 18 Feb 2026, Xu Zhang, et al.
  
   - [[Official Code - SEMixer](https://github.com/Meteor-Stars/SEMixer)]
+ 
+- [MixLinear: Extreme Low Resource Multivariate Time Series Forecasting with 0.1K Parameters](https://arxiv.org/abs/2410.02081)
+
+  - 16 Feb 2026, Aitian Ma, et al.
+ 
+  - [[Official Code - MixLinear](https://github.com/aitianma/MixLinear)]
 
 - [StretchTime: Adaptive Time Series Forecasting via Symplectic Attention](https://arxiv.org/abs/2602.08983)
 
