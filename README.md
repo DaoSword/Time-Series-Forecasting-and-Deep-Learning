@@ -615,6 +615,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 07 May 2025, Sungwon Han, et al.
  
   - [[Official Code - RAFT](https://github.com/archon159/RAFT)]
+ 
+- [Efficient Multivariate Time Series Forecasting via Calibrated Language Models with Privileged Knowledge Distillation](https://arxiv.org/abs/2505.02138)
+
+  - 06 May 2025, Chenxi Liu, et al.
+ 
+  - [[Official Code - TimeKD](https://github.com/ChenxiLiu-HNU/TimeKD)]
 
 - [FreDF: Learning to Forecast in the Frequency Domain](https://arxiv.org/abs/2402.02399)
 
