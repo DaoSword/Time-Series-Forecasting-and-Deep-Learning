@@ -163,6 +163,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 - [Dynamic Sector Fusion Transformer for Stock Index Prediction](https://dl.acm.org/doi/10.1145/3772726.3772794)
 
   - 16 Dec 2025, Xu Wang, et al.
+ 
+- [FusAD: Time-Frequency Fusion with Adaptive Denoising for General Time Series Analysis](https://arxiv.org/abs/2512.14078)
+
+  - 16 Dec 2025, Da Zhang, et al.
+ 
+  - [[Official Code - FusAD](https://github.com/zhangda1018/FusAD)]
 
 - [TwinFormer: A Dual-Level Transformer for Long-Sequence Time-Series Forecasting](https://arxiv.org/abs/2512.12301)
 
