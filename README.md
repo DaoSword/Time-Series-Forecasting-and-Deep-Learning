@@ -330,6 +330,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 
   - 06 Oct 2025, Nick Janßen, et al.
  
+- [PhaseFormer: From Patches to Phases for Efficient and Effective Time Series Forecasting](https://arxiv.org/abs/2510.04134)
+
+  - 05 Oct 2025, Yiming Niu, et al.
+ 
+  - [[Official Code - PhaseFormer_TSL](https://github.com/neumyor/PhaseFormer_TSL)]
+ 
 - [Understanding Transformers for Time Series: Rank Structure, Flow-of-ranks, and Compressibility](https://arxiv.org/abs/2510.03358)
 
   - 02 Oct 2025, Annan Yu, et al.
