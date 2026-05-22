@@ -60,6 +60,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ### 2026
 
+- [EventTSF: Event-Aware Non-Stationary Time Series Forecasting](https://arxiv.org/abs/2508.13434)
+
+  - 10 May 2026, Yunfeng Ge, et al.
+ 
+  - [[Official Code - EventTSF](https://github.com/WinfredGe/EventTSF)]
+
 - [AlphaCast: A Human Wisdom-LLM Intelligence Co-Reasoning Framework for Interactive Time Series Forecasting](https://arxiv.org/abs/2511.08947)
 
   - 10 Apr 2026, Xiaohan Zhang, et al.
