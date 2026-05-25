@@ -77,6 +77,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 25 Mar 2026, Zhiyuan Zhao, et al.
  
   - [[Official Code - TimeRecipe](https://github.com/AdityaLab/TimeRecipe)]
+ 
+- [CoRA: Boosting Time Series Foundation Models for Multivariate Forecasting through Correlation-aware Adapter](https://arxiv.org/abs/2603.21828)
+
+  - 23 Mar 2026, Hanyin Cheng, et al.
+ 
+  - [[Official Code - CoRA](https://github.com/decisionintelligence/CoRA)]
 
 - [Time Tracker: Mixture-of-Experts-Enhanced Foundation Time Series Forecasting Model with Decoupled Training Pipelines](https://arxiv.org/abs/2505.15151)
 
