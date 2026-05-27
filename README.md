@@ -101,6 +101,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 - [Position: Beyond Model-Centric Prediction -- Agentic Time Series Forecasting](https://arxiv.org/abs/2602.01776)
 
   - 05 Mar 2026, Mingyue Cheng, et al.
+ 
+- [Adapt Data to Model: Adaptive Transformation Optimization for Domain-shared Time Series Foundation Models](https://arxiv.org/abs/2603.00629)
+
+  - 28 Feb 2026, Yunzhong Qiu, et al.
+
+  - [[Official Code - TATO](https://github.com/thulab/TATO)]
 
 - [CPiRi: Channel Permutation-Invariant Relational Interaction for Multivariate Time Series Forecasting](https://arxiv.org/abs/2601.20318)
 
