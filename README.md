@@ -141,6 +141,10 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 16 Feb 2026, Aitian Ma, et al.
  
   - [[Official Code - MixLinear](https://github.com/aitianma/MixLinear)]
+ 
+- [Test-Time Efficient Pretrained Model Portfolios for Time Series Forecasting](https://arxiv.org/abs/2510.06419)
+
+  - 11 Feb 2026, Mert Kayaalp, et al.
 
 - [StretchTime: Adaptive Time Series Forecasting via Symplectic Attention](https://arxiv.org/abs/2602.08983)
 
