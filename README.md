@@ -319,6 +319,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 22 Oct 2025, Hui He, et al.
  
   - [[Official Code - SEMPO](https://github.com/mala-lab/SEMPO)]
+ 
+- [Understanding the Implicit Biases of Design Choices for Time Series Foundation Models](https://arxiv.org/abs/2510.19236)
+
+  - 22 Oct 2025, Annan Yu, et al.
+ 
+  - [[Official Code - TSFM-Biases](https://github.com/amazon-science/TSFM-Biases)]
 
 - [Enhancing Time Series Forecasting through Selective Representation Spaces: A Patch Perspective](https://arxiv.org/abs/2510.14510)
 
