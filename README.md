@@ -164,6 +164,10 @@ List of research papers focus on time series forecasting and deep learning, as w
 
   - [[Official Code - CS4TS](https://github.com/decisionintelligence/CS4TS)]
  
+- [Beyond Accuracy: Are Time Series Foundation Models Well-Calibrated?](https://openreview.net/forum?id=nGBN7UjHcy)
+
+  - 26 Jan 2026, Coen Adler, et al.
+ 
 - [Time series forecasting with Hahn Kolmogorov-Arnold networks](https://arxiv.org/abs/2601.18837)
 
   - 25 Jan 2026, Md Zahidul Hasan, et al.
