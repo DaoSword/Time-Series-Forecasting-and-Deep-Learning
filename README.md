@@ -60,6 +60,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ### 2026
 
+- [Beyond Holistic Models: Systematic Component-level Benchmarking of Deep Multivariate Time-Series Forecasting](https://arxiv.org/abs/2605.26562)
+
+  - 26 May 2026, Shuang Liang, et al.
+ 
+  - [[Official Code - TSCOMP](https://github.com/SUFE-AILAB/TSCOMP)]
+
 - [EventTSF: Event-Aware Non-Stationary Time Series Forecasting](https://arxiv.org/abs/2508.13434)
 
   - 10 May 2026, Yunfeng Ge, et al.
