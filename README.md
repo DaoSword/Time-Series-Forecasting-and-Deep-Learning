@@ -65,6 +65,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 26 May 2026, Shuang Liang, et al.
  
   - [[Official Code - TSCOMP](https://github.com/SUFE-AILAB/TSCOMP)]
+ 
+- [SeesawNet: Towards Non-stationary Time Series Forecasting with Balanced Modeling of Common and Specific Dependencies](https://arxiv.org/abs/2605.14551)
+
+  - 14 May 2026, Hao Li, et al.
+ 
+  - [[Official Code - SeesawNet](https://github.com/dreamone-Lee/SeesawNet)]
 
 - [EventTSF: Event-Aware Non-Stationary Time Series Forecasting](https://arxiv.org/abs/2508.13434)
 
