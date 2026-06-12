@@ -308,6 +308,12 @@ List of research papers focus on time series forecasting and deep learning, as w
  
   - [[Official Code - selective-learning](https://github.com/GestaltCogTeam/selective-learning)]
  
+- [Quadratic Direct Forecast for Training Multi-Step Time-Series Forecast Models](https://arxiv.org/abs/2511.00053)
+
+  - 28 Oct 2025, Hao Wang, et al.
+ 
+  - [[Official Code - QDF](https://github.com/Master-PLC/QDF)]
+ 
 - [Not All Data are Good Labels: On the Self-supervised Labeling for Time Series Forecasting](https://arxiv.org/abs/2502.14704)
 
   - 27 Oct 2025, Yuxuan Yang, et al.
