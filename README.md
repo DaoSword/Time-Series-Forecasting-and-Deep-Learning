@@ -60,6 +60,12 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ### 2026
 
+- [Falcon-X: A Time Series Foundation Model for Heterogeneous Multivariate Modeling](https://arxiv.org/abs/2605.27286)
+
+  - 09 Jun 2026, Yiding Liu, et al.
+ 
+  - [[Official Code - Falcon-TST](https://github.com/ant-intl/Falcon-TST)]
+
 - [Beyond Holistic Models: Systematic Component-level Benchmarking of Deep Multivariate Time-Series Forecasting](https://arxiv.org/abs/2605.26562)
 
   - 26 May 2026, Shuang Liang, et al.
