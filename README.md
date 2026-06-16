@@ -77,6 +77,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 14 May 2026, Hao Li, et al.
  
   - [[Official Code - SeesawNet](https://github.com/dreamone-Lee/SeesawNet)]
+ 
+- [Characteristic Root Analysis and Regularization for Linear Time Series Forecasting](https://arxiv.org/abs/2509.23597)
+
+  - 13 May 2026, Zheng Wang, et al.
+
+  - [[Official Code - RootPurge](https://github.com/Wangzzzzzzzz/RootPurge)]
 
 - [EventTSF: Event-Aware Non-Stationary Time Series Forecasting](https://arxiv.org/abs/2508.13434)
 
