@@ -3916,10 +3916,10 @@ List of research papers focus on time series forecasting and deep learning, as w
 
 ## ⭐ Star History
 
-<a href="https://star-history.com/#DaoSword/Time-Series-Forecasting-and-Deep-Learning&Date">
+<a href="https://star-history.dera.page/#DaoSword/Time-Series-Forecasting-and-Deep-Learning&Date">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=DaoSword/Time-Series-Forecasting-and-Deep-Learning&type=Date&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=DaoSword/Time-Series-Forecasting-and-Deep-Learning&type=Date" />
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=DaoSword/Time-Series-Forecasting-and-Deep-Learning&type=Date" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://star-history.dera.page/svg?repos=DaoSword/Time-Series-Forecasting-and-Deep-Learning&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://star-history.dera.page/svg?repos=DaoSword/Time-Series-Forecasting-and-Deep-Learning&type=Date" />
+    <img alt="Star History Chart" src="https://star-history.dera.page/svg?repos=DaoSword/Time-Series-Forecasting-and-Deep-Learning&type=Date" />
   </picture>
 </a>
