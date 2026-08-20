@@ -1,0 +1,33 @@
+name: Paper statistics
+
+on:
+  pull_request:
+    paths:
+      - README.md
+      - scripts/update_paper_stats.py
+      - tests/test_update_paper_stats.py
+      - .github/workflows/paper-stats.yml
+  push:
+    branches:
+      - main
+    paths:
+      - README.md
+      - scripts/update_paper_stats.py
+      - tests/test_update_paper_stats.py
+      - .github/workflows/paper-stats.yml
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v7
+
+      - name: Verify generated paper statistics
+        run: python3 scripts/update_paper_stats.py --check
+
+      - name: Run paper statistics tests
+        run: python3 -m unittest discover -s tests -v
