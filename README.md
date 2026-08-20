@@ -2340,9 +2340,19 @@ List of research papers focus on time series forecasting and deep learning, as w
 
   - 09 Jun 2023, Etienne Le Naour, et al.
 
+- [Non-autoregressive Conditional Diffusion Models for Time Series Prediction](https://arxiv.org/abs/2306.05043)
+
+  - 08 Jun 2023, Lifeng Shen, et al.
+
 - [Encoding Time-Series Explanations through Self-Supervised Model Behavior Consistency](https://arxiv.org/abs/2306.02109)
 
   - 03 Jun 2023, Owen Queen, et al.
+
+- [DYffusion: A Dynamics-informed Diffusion Model for Spatiotemporal Forecasting](https://arxiv.org/abs/2306.01984)
+
+  - 03 Jun 2023, Salva Rühling Cachay, et al.
+
+  - [[Official Code - DYffusion](https://github.com/Rose-STL-Lab/dyffusion)]
 
 - [An End-to-End Time Series Model for Simultaneous Imputation and Forecast](https://arxiv.org/abs/2306.00778)
   
@@ -2848,6 +2858,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   
   * [[Official Code](https://github.com/radiantresearch/tsat)]
 
+* [Diffusion-based Time Series Imputation and Forecasting with Structured State Space Models](https://arxiv.org/abs/2208.09399)
+
+  * 19 Aug 2022, Juan Miguel Lopez Alcaraz, et al.
+
+  * [[Official Code - SSSD](https://github.com/AI4HealthUOL/SSSD)]
+
 * [Pre-training Enhanced Spatial-temporal Graph Neural Network for Multivariate Time Series Forecasting](https://dl.acm.org/doi/10.1145/3534678.3539396)
   
   * 14 Aug 2022, Zezhi Shao, et al.
@@ -3003,6 +3019,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   - 23 Feb 2022, Dazhao Du, et al.
   
   - [[Code](https://github.com/ddz16/Preformer)]
+
+- [FourCastNet: A Global Data-driven High-resolution Weather Model using Adaptive Fourier Neural Operators](https://arxiv.org/abs/2202.11214)
+
+  - 22 Feb 2022, Jaideep Pathak, et al.
+
+  - [[Official Code - FourCastNet](https://github.com/NVlabs/FourCastNet)]
 
 - [Adaptive Conformal Predictions for Time Series](https://arxiv.org/abs/2202.07282)
   
@@ -3441,6 +3463,12 @@ List of research papers focus on time series forecasting and deep learning, as w
   * 11 Jul 2019, Seyed Mehran Kazemi, et al.
   
   * [[Code](https://github.com/ojus1/Time2Vec-PyTorch)]
+
+* [Latent ODEs for Irregularly-Sampled Time Series](https://arxiv.org/abs/1907.03907)
+
+  * 08 Jul 2019, Yulia Rubanova, et al.
+
+  * [[Official Code - latent_ode](https://github.com/YuliaRubanova/latent_ode)]
 
 * [Enhancing the Locality and Breaking the Memory Bottleneck of Transformer on Time Series Forecasting](https://arxiv.org/abs/1907.00235)
   
