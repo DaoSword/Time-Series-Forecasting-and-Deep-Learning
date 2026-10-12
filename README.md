@@ -231,6 +231,8 @@ This collection primarily focuses on time series forecasting. It also covers adj
 - [Beyond Accuracy: Are Time Series Foundation Models Well-Calibrated?](https://openreview.net/forum?id=nGBN7UjHcy)
 
   - 26 Jan 2026, Coen Adler, et al.
+
+  - [[Official Code - Beyond-Accuracy-TSFM-Calibration](https://github.com/Coaster41/Beyond-Accuracy-TSFM-Calibration)]
  
 - [Time series forecasting with Hahn Kolmogorov-Arnold networks](https://arxiv.org/abs/2601.18837)
 
