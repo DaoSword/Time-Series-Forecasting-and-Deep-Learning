@@ -88,6 +88,8 @@ This collection primarily focuses on time series forecasting. It also covers adj
 
   - 06 Jul 2026, Dongyuan Li, et al.
 
+  - [[Official Code - ChaTSFM](https://github.com/Clearloveyuan/ChaTSFM)]
+
 - [Falcon-X: A Time Series Foundation Model for Heterogeneous Multivariate Modeling](https://arxiv.org/abs/2605.27286)
 
   - 09 Jun 2026, Yiding Liu, et al.
